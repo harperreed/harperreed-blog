@@ -1,0 +1,96 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" /
+    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
+    <meta name="keywords" content="{% if page.keywords %}{{ page.keywords }}{% else %}{{ site.keywords }}{% endif %}" />
+    <meta name="robots" content="noodp,noydir" />
+    <title>{% if page.title %} {{ page.title }} | {% endif %} {{ site.title }}</title> 
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.7.0/jquery-ui.min.js"></script>
+
+    <link href="{{ site.url }}/atom.xml" rel="alternate" title="{{ site.title }}" type="application/atom+xml" />
+    <link rel="stylesheet" href="/css/style.css" type="text/css">
+
+    <META name="verify-v1" content="bxsrf6C7p0+qY6MxNCbSNSGdkeDA8dQSxjTsNJu4Sa0=" />
+
+    <link rel="openid.server" href="http://www.myopenid.com/server" />
+    <meta name="myid" content="0eda4814-55e0-4756-bf30-0f1bf5a4b469" />
+    <link rel="openid.delegate" href="http://harper.myopenid.com/" />
+
+    <link rel="shorcut icon" type="image/x-ico" href="/favicon.ico" />
+
+</head> 
+<body>
+
+<!-- bgcontain START -->
+<div id="bgcontain">
+
+    <!-- header START -->
+    <div class="HeaderBG">
+        <div class="Header">
+            {% include header.html %}
+        </div> 
+    </div> 
+    <!-- header END -->
+
+    <!-- containerBG START -->
+    <div class="ContainerBG">
+        <!-- container START -->
+        <div class="Container"> 
+            <!-- Side Central START -->
+            <div class="SC">
+            {{ content }}
+            </div>
+            <!--  Side Central END -->
+
+            <!-- Side Right - START -->
+            <div class="SR">
+             {% include sidebar.html %}
+            </div>
+            <!-- Side Right - END  -->
+        </div> 
+        <!-- container END -->
+    </div> 
+    <!-- containerBG END -->
+
+
+    <!-- ExtraBG Start -->
+    <div class="ExtraBG">
+        <!-- Extra Start -->
+        <div class="Extra">
+            <!-- RecentPosts Start -->
+            <div class="RecentPosts">
+                <h3>Recent Entries</h3>
+            </div>
+            <!-- RecentPosts END -->
+
+            <!-- LastComments Start -->
+            <div class="LastComments">
+                <h3>Recent Comments</h3>
+            </div>
+            <!-- LastComments END -->
+
+            <!-- MostCommented Start -->
+            <div class="MostCommented">
+                <h3>Most Commented</h3>
+            </div>
+            <!-- MostCommented END -->
+        </div>
+        <!-- Extra END -->
+    </div>
+    <!-- ExtraBG END -->
+
+    <div class="FooterBG">
+        <div class="Footer">
+        {% include footer.html %}
+        </div>
+    </div>
+
+</div>
+<!-- bgcontain END-->
+
+{% include javascript.html %}
+</body>
+</html>

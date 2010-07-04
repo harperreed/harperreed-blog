@@ -1,0 +1,26 @@
+---
+layout: default
+---
+ 
+    {% for post in site.posts %}
+
+        <div class="Post" style="padding-bottom: 50px;">
+        <div class="PostHead">
+            <h1 class="title"><a title="Permanent Link to {{ post.title }}." href="{{post.url}}" rel="bookmark">{{ post.title }}</a></h1>
+            <p class="PostDate">
+                <strong class="day">{{post.date | date: "%d"}}</strong>
+                <strong class="month">{{post.date | date: "%b"}}</strong>
+            </p>
+             {% if page.author %}
+                <p class="PostInfo">Posted by {{page.author}} at {{page.date | date: "%I:%M %p"}}</p>
+            {%else %}
+                <br />
+            {% endif %}
+        </div>
+        <div class="PostContent">
+        {{ post.content }}
+         </div>
+        </div>
+    {% endfor %}
+
+

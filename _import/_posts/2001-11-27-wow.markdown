@@ -1,0 +1,8 @@
+--- 
+wordpress_id: 136
+layout: post
+title: wow
+excerpt: I slept a lot. It was nice. Very very nice
+wordpress_url: http://new.nata2.org/?p=136
+---
+I slept a lot. It was nice. Very very nice
