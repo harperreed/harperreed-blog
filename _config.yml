@@ -2,9 +2,9 @@
 # Jekyll configuration
 #
 #destination: ./_site
-auto:        true
-lsi:         true # better related posts
-server_port: 4000
+auto:        false 
+lsi:         false # better related posts
+#server_port: 4000
 pygments:    false
 markdown:    maruku
 permalink:   pretty
