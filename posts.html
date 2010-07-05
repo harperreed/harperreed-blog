@@ -1,21 +1,31 @@
 ---
 layout: default
-keywords: jekyll, posts
-description: All posts
 ---
  
-  <div class="span-16">
     {% for post in site.posts %}
-    <div class="post">
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      <div>
-      {{ post.date | date_to_string }}
-      </div>
-      <div>
-      {{ post.content | truncatewords  }}
-      </div>
-    </div>
-    {% endfor %}
-  </div>
 
- {% include sidebar %}
+        <div class="Post" style="padding-bottom: 50px;">
+            <div class="PostHead">
+                <h1 class="title"><a title="Permanent Link to {{ post.title }}." href="{{post.url}}" rel="bookmark">{{ post.title }}</a></h1>
+                <p class="PostDate">
+                    <strong class="day">{{post.date | date: "%d"}}</strong>
+                    <strong class="month">{{post.date | date: "%b"}}</strong>
+                </p>
+                 {% if page.author %}
+                    <p class="PostInfo">Posted by {{page.author}} at {{page.date | date: "%I:%M %p"}}</p>
+                {%else %}
+                    <br />
+                {% endif %}
+            </div>
+            <div class="PostContent">
+                {{ post.content }}
+
+
+                <ul class="PostDetails"> 
+                    <li class="PostCom"><a href="{{post.url}}#comments" title="Comment on {{ post.title }}">View Comments</a></li> 
+                </ul> 
+             </div>
+        </div>
+    {% endfor %}
+
+
