@@ -7,7 +7,7 @@ lsi:         true # better related posts
 server_port: 4000
 pygments:    false
 markdown:    maruku
-#permalink:   none
+permalink:   pretty
 maruku:
   use_tex:    false
   use_divs:   true
@@ -17,10 +17,9 @@ maruku:
 #
 # Site configuration
 #
-url:          http://localhost:4000
+url:          http://www.nata2.org
 title:        "Harper Reed: Tech, Mobile, Yo-yoing and Death Metal"
 description:  Software, PHP, MySQL, XMPP, Hacking, Baphomet
-keywords:     jekyll, template, blog
 author:       Harper Reed # atom.xml: Name of website's author
 email:        harper@nata2.org # atom.xml: Author email
 analytics_id: UA-70650-9 # Google Analytics ID: UA-xxx-xxx
