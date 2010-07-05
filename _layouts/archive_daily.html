@@ -1,0 +1,11 @@
+---
+layout: default
+---
+ 
+<h1>Archives</h1>
+<h2>{{ page.month | to_month }} {{ page.day }}, {{ page.year }}</h2>
+<ul>
+  {% for p in site.collated_posts[page.year][page.month][page.day] reversed %}
+    <li><a href='{{ p.url }}'>{{ p.title }}</a></li>
+  {% endfor %}
+</ul>

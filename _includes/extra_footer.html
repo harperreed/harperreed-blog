@@ -1,0 +1,27 @@
+ <!-- RecentPosts Start -->
+            <div class="RecentPosts">
+                <h3>Recent Entries</h3>
+                <div id="recententries" class="dsq-widget">
+                <ul>
+                  {% for post in site.posts limit:10 %}
+                    <li>
+                      {{ post.date | date: "%b %d, %Y"  }} &mdash; <a href="{{ post.url }}">{{ post.title }}</a>
+                    </li>
+                  {% endfor %}
+                  </ul>
+              </div>
+                
+            </div>
+            <!-- RecentPosts END -->
+
+            <!-- LastComments Start -->
+            <div class="LastComments">
+                <div id="recentcomments" class="dsq-widget"><h3 class="dsq-widget-title">Recent Comments</h3><script type="text/javascript" src="http://disqus.com/forums/nata2/recent_comments_widget.js?num_items=5&hide_avatars=1&avatar_size=32&excerpt_length=100"></script></div>
+            </div>
+            <!-- LastComments END -->
+
+            <!-- MostCommented Start -->
+            <div class="MostCommented">
+                <div id="popularthreads" class="dsq-widget"><h3 class="dsq-widget-title">Popular Threads</h3><script type="text/javascript" src="http://disqus.com/forums/nata2/popular_threads_widget.js?num_items=5"></script></div>
+            </div>
+            <!-- MostCommented END -->

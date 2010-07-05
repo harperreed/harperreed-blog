@@ -1,0 +1,27 @@
+---
+layout: default
+---
+ 
+<h1>Archives</h1>
+
+{% for y in (2009..2080) reversed %}
+  {% if site.collated_posts[y] %}
+    <h2> {{ y }} </h2>
+  {% endif %}
+  {% for m in (1..12) reversed %}
+    {% if site.collated_posts[y][m] %}
+      <h3>{{ m | to_month }}</h3>
+      <ul>
+      {% for d in (1..31) reversed %}
+        {% if site.collated_posts[y][m][d] %}
+          {% for p in site.collated_posts[y][m][d] reversed %}
+            <li><a href='{{ p.url }}'>{{ p.title }}</a></li>
+          {% endfor %}
+        {% endif %}
+      {% endfor %}
+      </ul>
+    {% endif %}
+  {% endfor %}
+{% endfor %} 
+
+
