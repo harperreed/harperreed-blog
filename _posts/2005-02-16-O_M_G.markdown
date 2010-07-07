@@ -1,0 +1,8 @@
+--- 
+wordpress_id: 995
+layout: post
+title: O M G
+excerpt: this is absolutely incredible
+wordpress_url: http://new.nata2.org/?p=995
+---
+<a href="http://www.ip-relay.com/myiprelay.htm">this</a> is absolutely incredible

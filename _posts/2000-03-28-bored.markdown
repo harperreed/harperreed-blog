@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 35
+layout: post
+title: bored
+excerpt: |
+  Today i sat in class. I noticed that my prof has a lot of energy.  
+  
+  
+
+wordpress_url: http://new.nata2.org/?p=35
+---
+Today i sat in class. I noticed that my prof has a lot of energy.  
+
+

@@ -1,0 +1,8 @@
+--- 
+wordpress_id: 116
+layout: post
+title: Grammar
+excerpt: So my mom yelled at me about the grammar on this site. I guess I don't check my spelling and I don't capitalize my eyes. so I added some features to do that automagically for me. Hope it works. :)
+wordpress_url: http://new.nata2.org/?p=116
+---
+So my mom yelled at me about the grammar on this site. I guess I don't check my spelling and I don't capitalize my eyes. so I added some features to do that automagically for me. Hope it works. :)
