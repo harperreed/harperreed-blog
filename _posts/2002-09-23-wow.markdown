@@ -1,0 +1,8 @@
+--- 
+wordpress_id: 363
+layout: post
+title: wow
+excerpt: check this out...
+wordpress_url: http://new.nata2.org/?p=363
+---
+check <a href="http://www.lemonbovril.co.uk/bushspeech/">this</a> out...
