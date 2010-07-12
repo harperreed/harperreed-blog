@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 360
+layout: post
+title: Hitler
+excerpt: This is a good cartoon
+tags: war
+wordpress_url: http://new.nata2.org/?p=360
+---
+<a href="http://www.wardsutton.com/toons/schlock1.jpg">This is a good cartoon</a>

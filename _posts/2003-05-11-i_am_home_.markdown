@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 509
+layout: post
+title: i am home.
+excerpt: |
+  Happy mother's day mom. thanks parents.
+  they are good parents. always looking after their kids.. 
+  nice.. 
+
+tags: mom
+wordpress_url: http://new.nata2.org/?p=509
+---
+Happy mother's day mom. thanks parents.
+<br/><br/>they are good parents. always looking after their kids.. <br/>
+nice.. 

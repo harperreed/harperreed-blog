@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 160
+layout: post
+title: sunshine
+excerpt: |
+  things are looking up... it is still really hard.. little things, they are the hardest. I imagine.. I will get a new hobby.. heh...
+
+wordpress_url: http://new.nata2.org/?p=160
+---
+things are looking up... it is still really hard.. little things, they are the hardest. I imagine.. I will get a new hobby.. heh...

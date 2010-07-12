@@ -1,0 +1,8 @@
+--- 
+wordpress_id: 125
+layout: post
+title: hehe
+excerpt: This is very very funny.
+wordpress_url: http://new.nata2.org/?p=125
+---
+<a href="http://www.orosian.demon.co.uk/Weeee.swf">This</a> is very very funny.
