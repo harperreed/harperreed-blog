@@ -1,9 +1,0 @@
---- 
-wordpress_id: 163
-layout: post
-title: Stunts.
-excerpt: Remember the video game stunts? It ruled. Today I pulled off a great stunt. I configured a apache and jserv in a chrooted environment. HeHe. it was way fun and quite tough. chrooting rules. there is nothing quite like it. I keep looking around my systems for something else to chroot. Ha. a new hobby..
-tags: apache, video
-wordpress_url: http://new.nata2.org/?p=163
----
-Remember the video game stunts? It ruled. Today I pulled off a great stunt. I configured a apache and jserv in a chrooted environment. HeHe. it was way fun and quite tough. chrooting rules. there is nothing quite like it. I keep looking around my systems for something else to chroot. Ha. a new hobby..

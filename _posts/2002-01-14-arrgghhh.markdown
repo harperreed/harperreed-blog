@@ -1,8 +1,0 @@
---- 
-wordpress_id: 179
-layout: post
-title: arrgghhh
-excerpt: "I am frustrated... arggh.. "
-wordpress_url: http://new.nata2.org/?p=179
----
-I am frustrated... arggh.. 
