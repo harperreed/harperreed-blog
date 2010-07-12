@@ -1,0 +1,20 @@
+--- 
+wordpress_id: 1004
+layout: post
+title: long ago
+excerpt: |-
+  i had these pictures forever - but I was unable to put them up. first I
+  thought I lost my camera battery. then I found it. then I was dumb.
+  then dumber. then I figured it all out. for the record. iphoto is not
+  better than picasa. picasa is real real nice. the absolute integration
+  of iphoto is dope. but picasa is better. a lot better. heh. so ehre are
+  some pictures from awhile ago:
+tags: general
+wordpress_url: http://new.nata2.org/?p=1004
+---
+<p>i had these pictures forever - but I was unable to put them up. first I thought I lost my camera battery. then I found it. then I was dumb. then dumber. then I figured it all out. for the record. iphoto is not better than picasa. picasa is real real nice. the absolute integration of iphoto is dope. but picasa is better. a lot better. heh.</p><p> so here are some pictures from awhile ago:</p><p>
+<a href="http://nata2.info/?path=pictures%2Fevents%2F2005%3A02%3A25_Crobar_felix">Felix at crobar</a> and
+
+<a href="http://nata2.info/?path=pictures%2Fevents%2F2005%3A02%3A24_Soundbar_ThrillKillKult">thrillkill kult at soundbar</a>
+
+</p><p>fun fun. </p><p>I have to change browsers now. stupid safari. </p>
