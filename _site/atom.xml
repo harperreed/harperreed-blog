@@ -4,7 +4,7 @@
  <title>Harper Reed: Tech, Mobile, Yo-yoing and Death Metal</title>
  <link href="http://www.nata2.org/atom.xml" rel="self"/>
  <link href="http://www.nata2.org"/>
- <updated>2010-07-12T16:59:45-05:00</updated>
+ <updated>2010-07-12T17:16:49-05:00</updated>
  <id>http://www.nata2.org</id>
 
  
@@ -14,6 +14,275 @@
  </author>
  
  
+ 
+ <entry>
+   <title>Smitten by the iPad: thoughts and complaints. </title>
+   <link href="http://www.nata2.org/2010/04/05/smitten-by-the-ipad-thoughts-and-complaints/"/>
+   <updated>2010-04-05T00:00:00-05:00</updated>
+   <id>http://www.nata2.org/2010/04/05/smitten-by-the-ipad-thoughts-and-complaints</id>
+   <content type="html">&lt;p&gt;&lt;a title=&quot;The ipad is awesome by nata2, on Flickr&quot; href=&quot;http://www.flickr.com/photos/natatwo/4488064118/&quot;&gt;&lt;img src=&quot;http://farm5.static.flickr.com/4052/4488064118_ea9d770433_m.jpg&quot; alt=&quot;The ipad is awesome&quot; width=&quot;240&quot; height=&quot;180&quot; align=&quot;right&quot; /&gt;&lt;/a&gt;I was tricked by the gravitational forces that an apple product announcement causes into visiting the apple store. Five hundred bucks later I walked out of the apple store with a fancy new iPad. Excited and Doh!&lt;/p&gt;
+
+&lt;p&gt;The iPad is a new and very exciting paradigm for computing. I played with it afternoon and it felt very minority report. It felt like the future. no physical keyboard. I was controlling things with my finger/mind. it was awesome. I am smitten.&lt;/p&gt;
+
+&lt;p&gt;Besides the irrational distortion field emitted by this shiny device, I have some general thoughts/complaints on the iPad.&lt;/p&gt;
+
+&lt;ol&gt;
+    &lt;li&gt;&lt;strong&gt;The lack of camera is irrational.&lt;/strong&gt; I have no idea why apple didn't include two cameras on the iPad. It would be an amazing device for parents, students, people, etc. Chatting is annoying on non-multitasking devices, however it might be nice to Skype with a slate like device. It will obviously be added to the next iteration of this device.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;The iWork cloud platform is annoying.&lt;/strong&gt; Importing and exporting documents is very hard. It is obviously not meant to be used by people who have documents already. The only way to get shit on the device is to download it. Why wouldn't Apple integrate iWork with MobileMe? silly. Google will have to change their Docs platform to allow easy downloading from the mobile google docs page.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;The lack of any clock or alarm app very strange.&lt;/strong&gt; I use the clock app on the iphone for a lot of stuff. not having that is a bummer. but in the grand scheme of bummers its about a 0.00001/5.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;There is no usb host mode&lt;/strong&gt; (that i know of). I would love to charge my phone, etc via USB with this device. it would minimize the number of cables and what not i would bring. It would also be awesome to plugin external disks or keyboards to it.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Google Reader blows on the iPad.&lt;/strong&gt; This is a real bummer since that is pretty much the one thing i want to have all the time. You can't scroll with the desktop version and the mobile version seems silly on the iPad. I can't wait for Google to &quot;fix&quot; all of their webapps for the iPad.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Using an iPhone after spending a lot of time on the iPad makes the iPhone seem like a midget&lt;/strong&gt;. It makes the nexus one seems like it is made out of paper.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;The iPad is probably one of the coolest ways to show presentations to someone while sitting at a bar.&lt;/strong&gt; I have been pitching some ideas to people and having the iPad with my deck is pretty awesome. A great way to go over your presentation with one or two people. Way better than a laptop.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;The Kindle app is awesome&lt;/strong&gt;. I like it a lot. I want to try reading a book on the iPad, but i really like the kindle's screen.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Most of the apps are boring.&lt;/strong&gt; Seriously. The apps that are impressive are: Kayak, Maps, Photos, Kindle, Twitterrific, instapaper, Netflix and Square&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://squareup.com/&quot;&gt;Square&lt;/a&gt; is one of the coolest apps I have seen.&lt;/strong&gt; It should blow peoples minds. I imagine that it will be a game changer for friends who do retail. I can't wait for my square card reader to show up. I will be charging my friends for everything.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;This is an amazing device for casual internet use.&lt;/strong&gt; I imagine that Hiromi, my parents, my brother and anyone else who isn't attached to a computer all day long would love these devices.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;Overall the iPad is amazing. I can't wait to see how developers iterate on the platform and create really nifty applications. It will also be fun to see what features Apple magically unlocks on the iPad.&lt;/p&gt;
+
+&lt;p&gt;I am going to try and build some applications now. If you have ideas - let me know.&lt;/p&gt;
+</content>
+
+
+
+ </entry>
+ 
+ <entry>
+   <title>Musings about femtocells: the futures!</title>
+   <link href="http://www.nata2.org/2010/02/11/musings-about-femtocells-the-futures/"/>
+   <updated>2010-02-11T00:00:00-06:00</updated>
+   <id>http://www.nata2.org/2010/02/11/musings-about-femtocells-the-futures</id>
+   <content type="html">&lt;blockquote&gt;I wrote most of this entry the day before the earthquake in Haiti. It was motivated by the magicJack announcement and my interest in mobile devices within developing nations.  However, the thoughts in this post suddenly seemed more real after I started hearing reports of communication breakdown after the earthquake.&lt;/blockquote&gt;
+
+
+&lt;p&gt;&lt;strong&gt;The femtocell&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;At the recent CES, the &lt;a href=&quot;http://en.wikipedia.org/wiki/MagicJack&quot;&gt;magicJack company&lt;/a&gt; announced that they wanted to release a consumer grade FemtoCell device as an upgrade to their USB FXO/Softphone device.  Note: magicJack is an insane company. You probably have seen them on television commercials while watching USA 'Up All Night'.  While these commercials almost seem scam-like, they have apparently sold 5 million USB magicJacks.  That's a lot of phone calls!&lt;/p&gt;
+
+&lt;p&gt;A femtocell device is basically a mini GSM/CDMA tower. Think of it as a wi-fi AP but instead of wi-fi - it is GSM. You could drop it into your house, plug it into the Internet, and suddenly get 5 bars of connectivity on your mobile handset - instead of the standard AT&amp;amp;T 1 bar. magicJack is offering the same service the USB dongle provides (unlimited calling and what not), but for mobile phones.  As a consumer, you would need to configure your handset to use the magicJack femtocell to receive/send calls.  When you are in range of the device (w/ signal strength enough to cover ~3000 sq. ft. house), you would bypass your carrier and use the magicJack for all incoming and outgoing calls. AWESOME.  Especially with the likes of Google Voice.&lt;/p&gt;
+
+&lt;p&gt;There are questions on the legality of such a device - but it is apparently legal to use inside your residence.&lt;/p&gt;
+
+&lt;p&gt;Side note: &lt;a href=&quot;http://www.google.com/search?q=magicjack+sip&quot;&gt;Magicjack is SIP&lt;/a&gt;. And &lt;a href=&quot;http://magicjackhacks.com/&quot;&gt;hackable&lt;/a&gt;. There is a cat and mouse game being played out trying to unlock it.  You can even use it with &lt;a href=&quot;http://en.wikipedia.org/wiki/Asterisk_(PBX)&quot;&gt;Asterisk&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The thoughts&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;So I began to think.  Femtocells could be used to open up mobile VOIP.  One scenario is that you could jump on a 3rd party carrier for a limited time to make a p2p VOIP call using your current GSM/WCDMA mobile device.  That is really awesome.  More importantly, what's REALLY awesome is the pirate (3rd party) carriers.&lt;/p&gt;
+
+&lt;p&gt;Imagine purchasing 100 &lt;a href=&quot;http://www.nata2.org/2010/01/17/i-love-phones-designed-for-developing-countries/&quot;&gt;Motorola F3&lt;/a&gt;'s, a &lt;a href=&quot;http://en.wikipedia.org/wiki/Gnu_radio&quot;&gt;GNU Radio USRP2&lt;/a&gt; (~$1400) running the &lt;a href=&quot;http://en.wikipedia.org/wiki/OpenBTS&quot;&gt;OpenBTS stack&lt;/a&gt; and a super huge antenna - and suddenly becoming a rural/developing country mobile provider. Or - if you're more interested in being a pirate carrier - you could run this setup in a city and be a carrier for the dark side (drugs, gangs, nerds...). This inexpensive setup is available (and achievable) today!  In case of the apocalypse/disaster/camping/nerdcamp - I think it would be nice to have a set up to deploy to organize/help people.&lt;/p&gt;
+
+&lt;p&gt;My mind started to work into overtime.  I began thinking about the ramifications of hacking the magicJack. Wouldn't it be neat to use femtocell technology to distribute ad hoc mobile carriers around a neighborhood/disaster area/rural/developing country?  You could hook the magicJack femtocell up to a &lt;a href=&quot;http://en.wikipedia.org/wiki/FON#Fonera_2.0n&quot;&gt;Fon2 device (usb/linux/broadband)&lt;/a&gt; and distribute them around in places with connectivity. All you would need is a better antenna and some software to manage the provisioning and device identification. BAM! Instant pirate P2P GSM carrier.&lt;/p&gt;
+
+&lt;p&gt;I am hoping that this type of convergence will lead us &lt;a href=&quot;http://www.imdb.com/title/tt0088763/&quot;&gt;to the future&lt;/a&gt;.&lt;/p&gt;
+</content>
+
+
+
+ </entry>
+ 
+ <entry>
+   <title>I love phones designed for developing countries. </title>
+   <link href="http://www.nata2.org/2010/01/17/i-love-phones-designed-for-developing-countries/"/>
+   <updated>2010-01-17T00:00:00-06:00</updated>
+   <id>http://www.nata2.org/2010/01/17/i-love-phones-designed-for-developing-countries</id>
+   <content type="html">&lt;p&gt;&lt;a title=&quot;Nokia 1100 and Motorola F3 by nata2, on Flickr&quot; href=&quot;http://www.flickr.com/photos/natatwo/4283555038/&quot;&gt;&lt;img src=&quot;http://farm5.static.flickr.com/4039/4283555038_a798542c5f_m.jpg&quot; alt=&quot;Nokia 1100 and Motorola F3&quot; width=&quot;240&quot; height=&quot;218&quot; align=&quot;right&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I love mobile phones. I don't know why - but mobile devices represent so much of what I love about technology. The ubiquity, the fascination, all the new technology that pops up and all the different way people use their devices. I also feel like mobile devices will be the future of whatever the internet turns out to be. They will power the internet. With all this in mind - I have started to become interested in the devices that fill the opposite niche. The devices that are SO simple that their are almost NO features.&lt;/p&gt;
+
+&lt;p&gt;These are not Razrs, or other shitty mobile devices which act like they have all sorts of amazing features.  These specific phones are single feature, cheap devices and are often deployed in developing countries.&lt;/p&gt;
+
+&lt;p&gt;There are two that I really enjoy and I suggest checking out.&lt;/p&gt;
+
+&lt;p&gt;The first is the &lt;a href=&quot;http://en.wikipedia.org/wiki/Nokia_1100&quot;&gt;Nokia 1100&lt;/a&gt;. Also known as my favorite phone in the world. I first saw this phone while working for &lt;a href=&quot;http://www.flickr.com/photos/natatwo/sets/72057594078282161/&quot;&gt;a minute in Bangalore&lt;/a&gt;. It was advertised as a phone &quot;&lt;a href=&quot;http://knowledge.wharton.upenn.edu/india/article.cfm?articleid=4358&quot;&gt;made for india&lt;/a&gt;&quot; and apparently was hardy enough to be used by the working class there. I was drawn to the device. I neeeeeded it. It's weird, because at the time I was running a symbian device that supported about every possible feature available in mobile - so thinking about jumping to a mobile device that was pretty much featureless was crazy. But - I was compelled.&lt;/p&gt;
+
+&lt;p&gt;The phone isn't that fancy. It has very few features. It is super tiny and is super cheap. It is just a basic, simple phone that does nothing more than look &quot;Nokia&quot; and probably makes calls. The features it has are incredibly handy: flashlight, alarm clock and sms messaging.&lt;/p&gt;
+
+&lt;p&gt;I didn't realize it then, but the Nokia 1100 is possibly the most popular electronic device in the world. According to the infallible wikipedia: Nokia has sold ~200 million of the Nokia 1100s since it's launch in 2003. To put it in perspective - there have been ~30MM iPhones sold and ~50MM Razrs sold.&lt;/p&gt;
+
+&lt;p&gt;I eventually got a couple of these and used them as lenders, experiments and generaly fucking around phones. I even sent one to my brother for him to use - which he eventually washed in a washing machine - it still boots. They are HARDY. and 20 bucks.&lt;/p&gt;
+
+&lt;p&gt;The second phone that I am interested in is a bit newer and is  a bit more tech. The &lt;a href=&quot;http://en.wikipedia.org/wiki/Motorola_FONE_F3&quot;&gt;Motorola F3&lt;/a&gt;. My buddy &lt;a href=&quot;http://thinkmoreinc.wordpress.com/2009/03/19/50-2/&quot;&gt;Hemmant showed it to me&lt;/a&gt;, told me a bit about the history and I couldn't stop thinking about it. Anecdotally, this phone was made by a Motorola team in india - again for use in the developing countries market. It is simple, has no features (even less than the 1100) and is JUST a phone. There is one major differentiator. The Motorola f3 is one of the only phones to have an e-ink display. This means that it uses very little power in standby (standby time of ~17 days), can be used in low light/no light situations and is rather resilient. The phone didn't sell as many as the Nokia 1100 - in fact it was a veritable failure.&lt;/p&gt;
+
+&lt;p&gt;The F3 has no features. It barely send txt messages. It has voice prompts for all menus. It is just a phone. A user serviceable, easy to charge, thin, e-ink phone. It works well making calls and receiving txt messages. The F3 would be an amazing phone for a child, elderly person or someone who doesn't want to deal with learning pesky features. I got one for my &quot;go bag&quot; as an emergency phone (I am not a survivalist, I just crush a lot).&lt;/p&gt;
+
+&lt;p&gt;You can find an unlocked &lt;a href=&quot;http://www.amazon.com/gp/product/B0013A7KMW?ie=UTF8&amp;amp;tag=nata2productions&amp;amp;linkCode=as2&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B0013A7KMW&quot;&gt;Motorola f3 for about 30 bucks on amazon&lt;/a&gt;. I suggest you get one.&lt;/p&gt;
+</content>
+
+
+
+ </entry>
+ 
+ <entry>
+   <title>2009 Hosting Summary (or where does Harper host in 2009/2010)</title>
+   <link href="http://www.nata2.org/2009/12/09/2009-hosting-summary-or-where-does-harper-host-in-20092010/"/>
+   <updated>2009-12-09T00:00:00-06:00</updated>
+   <id>http://www.nata2.org/2009/12/09/2009-hosting-summary-or-where-does-harper-host-in-20092010</id>
+   <content type="html">&lt;p&gt;&lt;a title=&quot;this is mount fuji by nata2, on Flickr&quot; href=&quot;http://www.flickr.com/photos/natatwo/2581673203/&quot;&gt;&lt;img src=&quot;http://farm4.static.flickr.com/3192/2581673203_d18270a494_m.jpg&quot; alt=&quot;this is mount fuji&quot; width=&quot;240&quot; height=&quot;180&quot; align=&quot;right&quot; /&gt;&lt;/a&gt;2009 was an awesome year. A lot of amazing things happened in the world of hosting (and &lt;a href=&quot;http://www.nata2.org/2009/10/07/leaving-threadless/&quot;&gt;a lot happened&lt;/a&gt; in the world of Harper too). Being a crazy hosting aficionado, I will summarize my thoughts on hosting in 2009 (I will leave the predictions for 2010).&lt;/p&gt;
+
+&lt;blockquote&gt;&lt;strong&gt;&lt;em&gt;Disclaimer&lt;/em&gt;&lt;/strong&gt;&lt;em&gt;: I am paid money by Rackspace to think about these things. However, I am an equal opportunity hosting consumer. I will try and be as open as possible (but probably a bit biased as well). This is on my personal blog and does not represent Rackspace in the least. These opinions are mine and do not represent Rackspace in anyway.&lt;/em&gt;&lt;/blockquote&gt;
+
+
+&lt;p&gt;I guess I will go ahead and jump in. This is based on what I use and would most likely suggest if we were drinking beers and talking about hosting. Your mileage may vary. I am sorry if I end up causing a nuclear war based on these recommendations.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&quot;Platforms&quot;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Two platforms are really getting me going these days. Google's App Engine and Heroku.&lt;/p&gt;
+
+&lt;p&gt;App Engine is known by my close friends as my true love (haha. second only to &lt;a href=&quot;http://hiromiusagi.com&quot;&gt;my lovely wife&lt;/a&gt;). I spend almost 90% of my development time hacking on App Engine apps (&lt;a href=&quot;http://Excla.im&quot;&gt;Excla.im&lt;/a&gt;, &lt;a href=&quot;http://CityPayments.org&quot;&gt;CityPayments&lt;/a&gt;, &lt;a href=&quot;http://ChicagoAlerts.org&quot;&gt;ChicagoAlerts&lt;/a&gt;, &lt;a href=&quot;http://chicagowiki.transitapi.com/&quot;&gt;Transitapi&lt;/a&gt;, &lt;a href=&quot;http://AwesomeUpdater.com&quot;&gt;AwesomeUpdater&lt;/a&gt;, and &lt;a href=&quot;http://harpersfriends.com&quot;&gt;Harper's Friends&lt;/a&gt;). App Engine does a few things very well and allows the developer to do the rest. Quite a few of the lessons I learned while scaling out Threadless are baked into the app by default. You don't have to scale all the pieces independently and you can really take care of things all at once. I recommend it and use it for prototyping and building new apps.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://Heroku.com&quot;&gt;Heroku&lt;/a&gt;! I go to &lt;a href=&quot;http://Heroku.com&quot;&gt;Heroku.com&lt;/a&gt; I spend about 10 minutes &lt;a href=&quot;http://heroku.com/pricing&quot;&gt;playing with sliders, clicking on features&lt;/a&gt; and acting like I am going to deploy an app to their infrastructure. It's awesome. Heroku makes me want to learn ruby frameworks well and build applications fast. It seems that it might be expensive though. I would love to know if people have actually used it in paid production environments (i have only done hackings).&lt;/p&gt;
+
+&lt;p&gt;If you are interested in &lt;a href=&quot;http://www.djangoproject.com&quot;&gt;Django&lt;/a&gt;, Ruby/Rails or JVM languages (I am looking at you &lt;a href=&quot;http://www.scala-lang.org/node/1831&quot;&gt;Scala&lt;/a&gt;!) - I highly recommend App Engine or Heroku.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&quot;Cloud&quot; Server Providers&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Cloud Servers are amazing things. Usually they are &lt;a href=&quot;http://xen.org/&quot;&gt;XEN&lt;/a&gt; hosted and wrapped by an API or a nice pretty interface. I &amp;lt;3 them. If I would have had these server options in 2001 I would have been able to make the server kingdom I dreamt about. It would be awesome. Luckily, now in 2009/2010 I can build my server kingdom in the &lt;a href=&quot;http://www.nepholologist.com/&quot;&gt;CLOUDS&lt;/a&gt;. Anyway....&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.slicehost.com/&quot;&gt;Slicehost&lt;/a&gt; is my favorite. I really enjoy the user interface. I prefer websites with less buttons. Slicehost delivers. However, it doesn't explicitly have usage based billing (pay per hour) - which is why i am also excited about &lt;a href=&quot;http://www.rackspacecloud.com/cloud_hosting_products/servers&quot;&gt;Rackspace Cloud Servers&lt;/a&gt;. Rackspace Cloud is everything you need to have fun with servers and host enterprise apps. My most recent Cloud server was used to pop up a &lt;a href=&quot;http://www.ubuntugeek.com/howto-configure-pptp-vpn-in-ubuntu-intrepid-and-jaunty.html&quot;&gt;VPN&lt;/a&gt; in Ubuntu so I could use public wifi without being frightened. It took about 10 minutes from deciding to do it, to connecting with my macbook pro. awesome.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://aws.amazon.com/ec2/&quot;&gt;EC2&lt;/a&gt; is pretty sweet as well. It is the heavy duty infrastructure that powers so many awesome sites. I really like watching what Amazon is doing. Amazing stuff. I am super excited about booting from the &lt;a href=&quot;http://aws.amazon.com/ebs/&quot;&gt;EBS&lt;/a&gt;. However, I don't like the complexity that comes with EC2 by default. Which is why I only use EC2 if I need AWS specific utilities.&lt;/p&gt;
+
+&lt;p&gt;Sidenote: &lt;a href=&quot;http://www.linode.com/?r=1762fce92f905a07a8623481199299b3ab8a90b9&quot;&gt;Linode&lt;/a&gt; is getting a lot of buzz based on their &lt;a href=&quot;http://blog.linode.com/2009/12/04/linode-stomps-competition-in-performance-benchmark/&quot;&gt;performance/cost ratio&lt;/a&gt;. I recommend you &lt;a href=&quot;http://www.linode.com/?r=1762fce92f905a07a8623481199299b3ab8a90b9&quot;&gt;take a look&lt;/a&gt; at them and see if they will work for you.&lt;/p&gt;
+
+&lt;p&gt;If you do find yourself in the dark world of cloud servers, you should check out my favorite utility for managing all things servers: &lt;a href=&quot;https://www.cloudkick.com/&quot;&gt;CloudKick&lt;/a&gt;. CloudKick is a pretty solid app that allows you manage your all your Rackspace and Amazon servers. You can do it very easily and with very few buttons (I love a small amount of buttons).&lt;/p&gt;
+
+&lt;p&gt;If you are looking for awesome easy servers - use Rackspace Cloud Servers. If you are looking for a full stack (load balancer, block storage and what not) - use Amazon. I use Rackspace Cloud Servers.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;File Hosting and Serving.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;File hosting is simple stuff. I follow this simple guideline:&lt;/p&gt;
+
+&lt;p&gt;If you want to host a file for everyone (i.e. a popular image, a iso, download etc) where performance is important - use &lt;a href=&quot;http://www.rackspacecloud.com/cloud_hosting_products/files&quot;&gt;Rackspace Cloud Files&lt;/a&gt; with limelight integration. This is the closest you will come to paying for enterprise CDN capabilities for a tiny amount of money. You can't beat the level of performance that &lt;a href=&quot;http://www.limelightnetworks.com/&quot;&gt;limelight&lt;/a&gt; offers (unless you want to pay for &lt;a href=&quot;http://www.akamai.com&quot;&gt;Akamai&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;If you need to put a BUNDLE of files somewhere that needs to be public or private - use Cloud Files or &lt;a href=&quot;http://aws.amazon.com/s3/&quot;&gt;S3&lt;/a&gt;. Depending entirely on what vendor you like or what API you are most familiar with. I use both for backing up various data from my servers and home (I recommend &lt;a href=&quot;http://www.s3rsync.com/&quot;&gt;s3sync&lt;/a&gt;, &lt;a href=&quot;http://code.google.com/p/s3fs/&quot;&gt;s3fs&lt;/a&gt; for S3 or &lt;a href=&quot;http://westhoffswelt.de/projects/mossofs.html&quot;&gt;MossoFS&lt;/a&gt;, &lt;a href=&quot;http://blog.chmouel.com/2009/09/02/rsync-like-backup-to-rackspace-cloud-file-with-duplicity/&quot;&gt;CloudFiles/Duplicity&lt;/a&gt; for Cloud Files).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Multi Tenant/Shared Hosting.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Shared hosting is such a pain in the ass. ;) I really don't like it. However, I use it because of the price and because of how easy it is to host stuff for friends and others.&lt;/p&gt;
+
+&lt;p&gt;I use two providers regularly for shared hosting:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.webfaction.com/?affiliate=harper&quot;&gt;Webfaction&lt;/a&gt; is by far my favorite multi tenant hosting company. It is SUPER NERD. They have this unique approach to hosting based on proxying a bunch of servers through apache. This allows you to easily host a django app that has a rails component and a wordpress blog all at the same domain root. You can even compile your own build of whatever flavor of server you like best. Its a great place for prototyping servers and generally having a great time inlinux. Webfaction also has a &lt;a href=&quot;http://forum.webfaction.com/&quot;&gt;developer community&lt;/a&gt; that offers great support. I host most of my personal stuff onWebfaction (this blog, &lt;a href=&quot;http://harperreed.org&quot;&gt;harperreed.org&lt;/a&gt;, etc).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.rackspacecloud.com/cloud_hosting_products/sites&quot;&gt;Rackspace Cloud Sites&lt;/a&gt; is a great multi tenant platform. I use it hosting various apps for your friends and family. It is a no brainer to light up a domain for my brother or friend and have them host it. The only problem I have with Cloud Sites is that sometimes you have to compromise your code to fit in their super scalable infrastructure. You will NEVER go down - but you might have to tweak your drupal or wordpress code to make it easy.&lt;/p&gt;
+
+&lt;p&gt;If file storage is just what you need - then check out &lt;a href=&quot;http://www.dreamhost.com/r.cgi?159982&quot;&gt;Dreamhost&lt;/a&gt;. For the love of god they have cheap prices. I looked today and they were offering unlimited everything (that doesn't make sense). The only problem is that they don't allow you to use it as a backup service (y&lt;a href=&quot;http://www.labnol.org/internet/backup-files-on-dreamhost-web-hosting-servers/4538/&quot;&gt;ou have to use the space in a very specific way&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Enterprise/Physical Servers.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Enterprise servers are easy. You use &lt;a href=&quot;http://www.rackspace.com/&quot;&gt;Rackspace&lt;/a&gt;. ;) Seriously though - while at &lt;a href=&quot;http://threadless.com/&quot;&gt;Threadless&lt;/a&gt;, Rackspace saved our asses more than once. Using Rackspace allowed us to concentrate on our application rather than concentrate on our servers. Although they can be expensive - they offer so much that it is often worth it.&lt;/p&gt;
+
+&lt;p&gt;If you are looking for something a bit cheaper or a bit more hands on, I suggest my favorite chicago hosting company: &lt;a href=&quot;http://fdcservers.net/&quot;&gt;FDCServers.net&lt;/a&gt;. They offer great support and cheap servers. You are not going to get near the support that Rackspace offers, but you are going to pay a LOT less. I host a couple big apps at FDC and have had no problems at all.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Conclusion.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;This wraps up my hosting review. I recommend App Engine, Cloud Servers, Cloudfiles/S3 and Rackspace Managed hosting. heh. See - super easy. All your hosting questions are answered.&lt;/p&gt;
+
+&lt;p&gt;2010 is going to be an exciting year. I imagine that Rackspace and Amazon will continue to fight head to head. Which will only make us consumers have better options. I also am very excited to see what Google does with App Engine (I imagine that they will NOT be adding &lt;a href=&quot;http://code.google.com/p/googleappengine/issues/detail?id=13&quot;&gt;PHP support&lt;/a&gt;). I hope that 2010 is as productive as 2009 was for hosting, if so - then it will be an exciting, innovative time.&lt;/p&gt;
+
+&lt;p&gt;Leave your questions in the comments - I will attempt to answer them the best i can.&lt;/p&gt;
+</content>
+
+
+
+ </entry>
+ 
+ <entry>
+   <title>Leaving Threadless</title>
+   <link href="http://www.nata2.org/2009/10/07/leaving-threadless/"/>
+   <updated>2009-10-07T00:00:00-05:00</updated>
+   <id>http://www.nata2.org/2009/10/07/leaving-threadless</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/techcocktail/2316615921/&quot;&gt;&lt;img align=&quot;right&quot; src=&quot;http://farm3.static.flickr.com/2411/2316615921_b2cee81590_m.jpg&quot;/&gt;&lt;/a&gt;I am leaving Threadless after 4 awesome years.&lt;/p&gt;
+
+&lt;p&gt;It was super hard to leave a job that taught me so much, helped me grow and was staffed by all of my friends, but I needed to make that leap towards the future. (&lt;a id=&quot;c8k2&quot; title=&quot;here is a nice interview&quot; href=&quot;http://siliconangle.net/ver2/2009/09/29/exclusive-interview-threadless-cto-harper-reed-heads-to-rackspace-whats-a-nepholologist/&quot;&gt;Here is a nice interview&lt;/a&gt; covering all sorts of aspects of my leaving.)&lt;/p&gt;
+
+&lt;p&gt;I did it, and the future is looking bright.&lt;/p&gt;
+
+&lt;p&gt;In the next few months, I am going to be &lt;a id=&quot;vnml&quot; title=&quot;helping Rackspace in their cloud computing division&quot; href=&quot;http://www.rackspacecloud.com/blog/2009/09/30/the-rackspace-cloud-welcomes-harper-reed-nephologist/&quot;&gt;helping Rackspace in their cloud computing division&lt;/a&gt;. My official title is &lt;a href=&quot;http://nepholologist.com/&quot;&gt;Nepholologist&lt;/a&gt;; a person who studies clouds. I will also be working hard to launch a startup (secrets secrets).  This is extremely exciting.  I'll be spending half my day working with amazing technologists at Rackspace and the other half pursuing my own thing.   Rackspace has been amazing.  They've accommodated my want for freedom and the ability to concentrate on my own stuff while helping them out.  It will definitely be the best part-time job I've ever had.&lt;/p&gt;
+
+&lt;p&gt;I plan on detoxing.  I'll be cleansing my brain of all the assumptions that I formed while at Threadless and ready myself for the startup life.  I want to be more scrappy and lean in my thinking.  Part of the plan is to complete all the various projects that I've worked on throughout the years like &lt;a href=&quot;http://citypayments.org/&quot;&gt;citypayments.org&lt;/a&gt;, &lt;a href=&quot;http://excla.im/&quot;&gt;excla.im&lt;/a&gt;, &lt;a href=&quot;http://www.techcrunch.com/2009/09/12/exclaim-track-track-twitter-search-terms-over-im-in-near-real-time/&quot;&gt;exclaim tracking&lt;/a&gt;, and &lt;a href=&quot;http://harpersfriends.com/&quot;&gt;harpersfriends&lt;/a&gt;.  I've done a lot of fun hacks in the last few years, and I want to work on making them much more robust.  This will allow me closure on one chapter of my life - while some doors close, new ones are opening.&lt;/p&gt;
+
+&lt;p&gt;Thanks to everyone who was supportive of me in this time. I could never have made this decision without the support of my family and friends.  To my lovely wife Hiromi, who was constantly telling me to pull the trigger.  My friends and coworkers who knew something was up - but dealt with me until the end - even when I was flighty.  My parents who helped me think rationally.  Most importantly, the entire Threadless family.  Without Threadless and the knowledge I've gained from my experiences there, I would not have the opportunities I have today.  The last four years have been utterly amazing (and awesome).&lt;/p&gt;
+
+&lt;p&gt;I have a couple of posts lined up for later this week.  One about my history at Threadless and another about the hijinks that have existed over the last few years.&lt;/p&gt;
+
+&lt;p&gt;Stay tuned.  It's only just beginning.&lt;/p&gt;
+</content>
+
+
+
+ </entry>
+ 
+ <entry>
+   <title>My thoughts on the kindle: 1 vs 2 and the iphone app</title>
+   <link href="http://www.nata2.org/2009/03/08/my-thoughts-on-the-kindle/"/>
+   <updated>2009-03-08T00:00:00-06:00</updated>
+   <id>http://www.nata2.org/2009/03/08/my-thoughts-on-the-kindle</id>
+   <content type="html">&lt;p&gt;&lt;a title=&quot;Kindle2 vs Kindle1 front powered on by nata2, on Flickr&quot; href=&quot;http://www.flickr.com/photos/natatwo/3307240832/&quot;&gt;&lt;img align=&quot;right&quot; class=&quot;alignright&quot; src=&quot;http://farm4.static.flickr.com/3429/3307240832_8913af9d4f_m.jpg&quot; alt=&quot;Kindle2 vs Kindle1 front powered on&quot; width=&quot;240&quot; height=&quot;180&quot; /&gt;&lt;/a&gt;First things first&lt;strong&gt;: The &lt;a href=&quot;http://www.amazon.com/gp/product/B00154JDAI?ie=UTF8&amp;amp;tag=nata2productions&amp;amp;linkCode=as2&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B00154JDAI&quot;&gt;Kindle&lt;/a&gt; is awesome&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I read a lot. I am not like those crazy people who read a book a day or anything, but i have been reading up to about 2 books a week for the past few years. They are not crazy books, mostly science fiction and fantasy, but they are not small books. I read to chill out. My day pattern is to go to work, work, get home, nap, hang out with hiromi, play computer and then read until i fall alseep. The reading part is VERY important to get my mind and body to a place where I can actually sleep. Needless to say, I take my reading seriously.&lt;/p&gt;
+
+&lt;p&gt;I ordered an original Kindle way back when they first came out. I was back-ordered for quite awhile. It was enough time for me to question whether or not I would like the device. Luckily, my friend &lt;a href=&quot;http://edithfrost.com/&quot;&gt;edith&lt;/a&gt; was also in the same place - she and i chatted incessantly about what the future would be like with the Kindle. It was a bright future.&lt;/p&gt;
+
+&lt;p&gt;I ended up getting it around mid january 08. The first book I read was &lt;a href=&quot;http://www.amazon.com/gp/product/B000PAAH3A?ie=UTF8&amp;amp;tag=nata2productions&amp;amp;linkCode=as2&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B000PAAH3A&quot;&gt;Terror by Dan Simmons&lt;/a&gt;. That is a serious business book. I had started the hardcover of the book earlier in the month and finished it on the kindle. That was my test. It was successful. Although i hated the fact that kindle pages and paper pages don't really line up - the experience was the same. I was able to read fast and was able to forget about the buttons and terrible design of the kindle (like &lt;a href=&quot;http://twitter.com/zachklein/status/1192280043&quot;&gt;Zach Klein said&lt;/a&gt; - it looked like the consumer electronics version of the Pontiac Aztec).&lt;/p&gt;
+
+&lt;p&gt;After Terror, I read the appropriate &lt;a href=&quot;http://www.amazon.com/gp/product/B000FBJCKI?ie=UTF8&amp;amp;tag=nata2productions&amp;amp;linkCode=as2&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B000FBJCKI&quot;&gt;Diamond Age by Neal Stephenon&lt;/a&gt;. I felt that I was closer to the &quot;Young Lady's Illustrated Primer&quot; than I had been before. I was reading books on an electronic device that was hardy, easy to use and quick. I was able to give it a seemingly unlimited amount of content and could use it for quite some time without a battery change. Like I said above - it is awesome.&lt;/p&gt;
+
+&lt;p&gt;Around this time I discovered the dark and scary underworld that is ebooks on the internet. There is an &lt;a href=&quot;http://wiki.mobileread.com/wiki/Main_Page&quot;&gt;awesome community of people surrounding ebooks&lt;/a&gt;. They are involved with liberating DRM'd ebooks, converting from one format to another, uploading mass libraries of free ebooks, cataloging ebooks, etc etc. It is awesome. If you are interested in free content - there is an almost unlimited amount of &lt;a href=&quot;http://feedbooks.com/&quot;&gt;free&lt;/a&gt; &lt;a href=&quot;http://www.gutenberg.org/wiki/Main_Page&quot;&gt;content&lt;/a&gt; that is compatible with the Kindle available online. There is also an unlimited amount of pirated books too. They are harder to find and I feel terrible when I find them (I apparently would rather pay authors than musicians. hah). One thing i noticed while I was experimenting with ebooks - technical manuals and what not don't render as well as non-technical books. I think it has to do with the number of diagrams and tables. They don't render terribly - but often are not nearly accurate to what i imagine the author intended.&lt;/p&gt;
+
+&lt;p&gt;How you get the ebooks to the kindle is part of the magic. The kindle has what Amazon like to call the whispernet. It is, as far as i can tell, a sprint EVDO modem built into the device. Amazon uses this to wirelessly deliver content to your kindle that you buy from amazon.com. Once again - it is awesome. You click on a book in amazon and BAM - its on your kindle. You are not limited to using this JUST for amazon's content. You can do it with your own ebooks as well. All you need to do is register your email address with amazon and then send books to the yourname@kindle.com email address. The books will appear on your kindle for a small cost ($0.10 i think). If you don't want ot pay for it, you can send the content to yourname@free.kindle.com and it will return the book in the kindle format. You can do this .txt, .pdf and .doc files easily.&lt;/p&gt;
+
+&lt;p&gt;The kindle file format is just the .&lt;a href=&quot;http://wiki.mobileread.com/wiki/MOBI&quot;&gt;MOBI ebook format&lt;/a&gt;. Which in turn similar to the .PRC ebook format. The Mobi file is a remnant from the Palm days. it is basically the &lt;a href=&quot;http://wiki.mobileread.com/wiki/PDB&quot;&gt;Palm Database format &lt;/a&gt;that was used for various applications on the original palm platform. What this means is that all the ebooks that end in .mobi and .prc are natively compatible with the kindle. If you had purchased books for use with the mobipocket reader (an awesome ebook reader for windows), there is a good chance that they were .mobi files. You can copy those to the documents folder of your kindle (when you plug it in to your computer via USB) and they will show up in the book list without any work. This really opens up your options for cheap or free ebooks.&lt;/p&gt;
+
+&lt;p&gt;The trick then is to figure out how to convert pdf files and what not to well formed, well meta data'd .mobi files. This makes your kindle happy and allows you to continue to sort by author without having your email address be listed as the author.&lt;/p&gt;
+
+&lt;p&gt;I went a year reading just the Kindle. I read two paper books that were not available in a digital format during this time. It was interesting. I felt as though I needed to work out to lift the heavy hardcover books. The kindle makes you forget how heavy books can be. My arms are now wusses.&lt;/p&gt;
+
+&lt;p&gt;When the Kindle 2 was announced, i ordered two of them. One for me and one for Hiromi.&lt;/p&gt;
+
+&lt;p&gt;The kindle 2 is a huge improvement on the Kindle 1. It is thinner, better performing and a bit easier to use. It is not as easy to turn a page - but it is also not as easy to accidentally turn a page either. I like the new design. The optional leather case is amazing. It works VERY well. i was having to remove the leather case from the original when I would read it - i don't have that problem with the new one.&lt;/p&gt;
+
+&lt;p&gt;There are a lot of small software tweaks that have trickled their way to the Kindle 1 as well. They are separating out your uploaded content from the content that came from directly Amazon. I am also having a hard time finding things that are lost on the kindle. I suppose i could search - but i never think of that when I am looking for content. The interface on the Kindle 2 is much faster. The pages turn faster and the books load faster. The screen is amazing. I really like it. I don't like the fact that I can't easily turn off the wireless with a hardware switch. I liked being able to not interrupt my reading to turn wireless on or off.&lt;/p&gt;
+
+&lt;p&gt;All in all - the Kindle 2 is a huge improvment over the Kindle 1. If you are able to upgrade, do it. And then give your original kindle to someone close to you who wants one. That is the best plan.&lt;/p&gt;
+
+&lt;p&gt;Hiromi loves hers. I was worried that she wouldn't like it - but it turns out that it works very well for her. She likes the size and the ease of use. She took to it very quickly.&lt;/p&gt;
+
+&lt;p&gt;When I got my kindle 2 I was showing a couple of my coworkers some of the data about it. Specifically the &lt;a href=&quot;http://www.macworld.com/article/138728/2009/02/whispersync.html&quot;&gt;whispersync&lt;/a&gt; stuff. I told them that I wouldn't be surprised if they released an iPhone app that allowed ebook reading on the Kindle. I based this on the success of the Stanza app. I stated to my buddies that I was only confused as to the strategy to release such an app, especially on how it could accidently stifle the Kindle 2 sales.&lt;/p&gt;
+
+&lt;p&gt;Then a couple days later the Kindle app was released. Like the Kindle - it is awesome. hah. With the Kindle app for the iphone and the Kindle, you are able to sync your placemarks on the books you are reading. You could read to a certain point in a novel while on your commute - then go to a meeting and pick up your iphone and continue reading from where you left off on your kindle. Then you coudl pick up the kindle and it would sync to where you left off on the iphone. That is cool. I tried it and it works. It is a bit wonky - but for the most part it works great. The only issue i have with the app is that it doesn't have ANY of the content that you upload via email. It is only amazon purchased content. Lame. I read a lot of &quot;found&quot; books and a lot of purchased books. An example is a series of books where 2-4 are in the amazon kindle store, but book 1 isn't. I find book 1 elsewhere and then buy 2-4. However, I can't read book 1 on my iphone. Only the kindle. WHAT IS THE WORLD COMING TO. ;) I understand amazon's reasoning for this - and I don't expect it to change. I do wish i could push my emailed books into their cloud and handle them a bit better (with metadata, etc). I doubt that will happen.&lt;/p&gt;
+
+&lt;p&gt;If you read a lot and want a great reading experience, you should &lt;a href=&quot;http://www.amazon.com/gp/product/B00154JDAI?ie=UTF8&amp;amp;tag=nata2productions&amp;amp;linkCode=as2&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B00154JDAI&quot;&gt;buy a kindle.&lt;/a&gt;&lt;/p&gt;
+</content>
+
+
+
+ </entry>
+ 
+ <entry>
+   <title>Python Oauth Client - Excla.im</title>
+   <link href="http://www.nata2.org/2009/02/28/python-oauth-client-exclaim/"/>
+   <updated>2009-02-28T00:00:00-06:00</updated>
+   <id>http://www.nata2.org/2009/02/28/python-oauth-client-exclaim</id>
+   <content type="html">&lt;p&gt;I built &lt;a href=&quot;http://excla.im&quot;&gt;Excla.im&lt;/a&gt; quite awhile ago, well before &lt;a href=&quot;http://twitter.com/harper&quot;&gt;Twitter&lt;/a&gt; unleased their oauth beta program. Regardless, &lt;a href=&quot;http://factoryjoe.com/blog/&quot;&gt;Chris Messina&lt;/a&gt; &lt;a href=&quot;http://flickr.com/photos/factoryjoe/2841257703/&quot;&gt;tagged the Excla.im sign up process as an anty pattern&lt;/a&gt; within his flickr stream. I was bummed because i would have loved to use Oauth to authenticate Excla.im. But because of the tagging, i was constantly thinking about how to remove the anti pattern.&lt;/p&gt;
+
+&lt;p&gt;Finally, Twitter released the &lt;a href=&quot;http://groups.google.com/group/twitter-development-talk/browse_thread/thread/42486bd3d7d136d0/f0e89b742bf0033e?pli=1&quot;&gt;Oauth Beta&lt;/a&gt; and I was able to bribe @&lt;a href=&quot;http://al3x.net/&quot;&gt;Al3x&lt;/a&gt; to give me access (which reminds me, i need to send my &lt;a href=&quot;http://flickr.com/photos/natatwo/3149040948/&quot;&gt;bribe&lt;/a&gt;). I then sat for a month looking at the various python examples for OAuth and basically said &quot;What The Fuck&quot; over and over again. There were no solid examples and my experience with OAuth in PHP was a total hack so i could post shit to fireeagle. I was SOL as to finding a guide.&lt;/p&gt;
+
+&lt;p&gt;Then &lt;a href=&quot;http://abrah.am&quot;&gt;abrah.am&lt;/a&gt; released his &lt;a href=&quot;http://github.com/poseurtech/twitteroauth/tree/master)&quot;&gt;PHP twitter OAuth lib&lt;/a&gt;. It worked really well and was pretty much just plug and play to use it in a PHP app. Nice. I wanted that but in python. I decided to spend a minute or two and create it.&lt;/p&gt;
+
+&lt;p&gt;The base library my client is using is the the &lt;a href=&quot;http://code.google.com/p/gdata-python-client/source/browse/trunk/src/gdata/#gdata/oauth&quot;&gt;OAuth lib&lt;/a&gt; from &lt;span style=&quot;text-decoration: none; color: #000000;&quot;&gt;google &lt;a href=&quot;http://code.google.com/p/gdata-python-client/&quot;&gt;gdata-python-client&lt;/a&gt;&lt;/span&gt;&lt;a href=&quot;http://code.google.com/p/gdata-python-client/&quot;&gt; project&lt;/a&gt;. I figure it is a working client and is in production use - so it should be solid. There are very few &lt;a href=&quot;http://code.google.com/p/gdata-python-client/source/browse/trunk/src/gdata/oauth/CHANGES.txt&quot;&gt;changes&lt;/a&gt; between it and the official client that is released through &lt;a href=&quot;http://oauth.googlecode.com/svn/code/python/oauth/&quot;&gt;oauth.net&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The client is rather simple, in fact it should work with other api providers with very little work. You can check it out at &lt;a href=&quot;http://github.com/harperreed/twitteroauth-python/&quot;&gt;github&lt;/a&gt;. Please let me know feedback. i am a python n00b - so give me your best shot/code review. I am using Google Code as a &lt;a href=&quot;http://code.google.com/p/twitteroauth-python/issues/list&quot;&gt;issue tracker&lt;/a&gt;, so feel free to &lt;a href=&quot;http://code.google.com/p/twitteroauth-python/issues/entry&quot;&gt;post some bugs&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It is rather pluggable. I was able to launch excla.im (on app engine) with oauth support in no time. I am currently not holding passwords for anyone. It is an awesome feeling.&lt;/p&gt;
+</content>
+
+
+
+ </entry>
  
  <entry>
    <title>Seven Things (goddamn internet friends)</title>
@@ -117,225 +386,40 @@
  </entry>
  
  <entry>
-   <title>Those parties were awesome!</title>
-   <link href="http://www.nata2.org/2008/03/11/those-parties-were-awesome/"/>
-   <updated>2008-03-11T00:00:00-05:00</updated>
-   <id>http://www.nata2.org/2008/03/11/those-parties-were-awesome</id>
-   <content type="html">&lt;p&gt;I am finally recovered from my flash travel/party tour. Being shuttled around the country going to parties is a rough life - let me tell you. It was awesome. I met some great people and saw some really cool stuff. It was really cool how much overlap occurred between the boulder crowd and SXSW. Startup people are fun. I want to run down the events and how they turned out. The first was boulder. &lt;a href=&quot;http://www.keepboulderweird.org/&quot;&gt;Boulder is a weird place&lt;/a&gt;. Seriously. It is strange. The boulder event was at this bar called the Foundry. I am guessing that if it wasn't packed to the gills with tech people from the front range, I would never go there. It was a pretty hilarious venue, however the tech people really filled it out. So it turned out to be a great choice. In boulder there were a lot of cool startups presenting. The one that really caught my eye was &lt;a href=&quot;http://socialthing.com&quot;&gt;Socialthing&lt;/a&gt;. These guys are sweet. They are doing a very simple and elegant solution for the crowded social aggregation space. Although I really like the community features of their direct competitor &lt;a href=&quot;http://friendfeed.com&quot;&gt;FriendFeed&lt;/a&gt;, I like the design and interface of socialthing alot. It is great - and they are sweet guys. There were a fair number of other startups, but unless they have real words in their names - i won't link them. Just kidding, but seriously - there were a fair number of people with startups that plain didn't have the best names. It is a bummer. Especially because the people were so nice and their ideas/technology seemed solid. It is &lt;a href=&quot;http://deliberately-different.blogspot.com/2006/02/how-they-named-companies.html&quot;&gt;hard to&lt;/a&gt; &lt;a href=&quot;http://www.salon.com/media/col/shal/1999/11/30/naming/print.html&quot;&gt;name a&lt;/a&gt; &lt;a href=&quot;http://blog.guykawasaki.com/2006/02/the_name_game.html&quot;&gt;company&lt;/a&gt;. Anyway - some of the not so awesomely named but awesome technology and problem solution startups in boulder are:&lt;/p&gt;
+   <title>2008 Retrospective</title>
+   <link href="http://www.nata2.org/2009/01/04/2008-retrospectiv/"/>
+   <updated>2009-01-04T00:00:00-06:00</updated>
+   <id>http://www.nata2.org/2009/01/04/2008-retrospectiv</id>
+   <content type="html">&lt;p&gt;2008 was a great year.&lt;/p&gt;
 
-&lt;blockquote&gt;&lt;a href=&quot;http://Lijit.com&quot;&gt;Lijit.com&lt;/a&gt; - doing search for your blog. kinda like google site search, but with your social graph built in. Really cool stuff. &lt;a href=&quot;http://Villij.com&quot;&gt;Villij.com&lt;/a&gt; - not my favorite name. The guys are cool and they have some cool ideas about recommendations in the social graph space.&lt;/blockquote&gt;
+&lt;p&gt;A lot of fun things happened. I started speaking more. I started using linux as my desktop. Obama won. I played with XMPP manically. I built some neat applications and Threadless continued to be awesome.&lt;/p&gt;
 
+&lt;p&gt;On my blog, the following entires got a decent amount of attention:&lt;/p&gt;
 
-&lt;p&gt;I also met a really awesome &quot;startup enabler&quot; named &lt;a href=&quot;http://jeremytanner.com/&quot;&gt;Jeremy Tanner&lt;/a&gt;. He seems to do what I do at Threadless for various startups in the Colorado scene. Jeremy moved from Detroit to Colorado - so he had a lot of input on how it was going from city to smaller city. He had great things to say about being able to jump on his motorcycle and head to the canyons for an awesome lunch time experience. After this event, I crashed at my hotel. Spent some time with my parents and was off to SXSW for ONE day! With much insanity, I finally made it to Austin and barely made it to the People Powered Powwow. It was awesome. Hearing the experiences of &lt;a href=&quot;http://etsy.com&quot;&gt;Etsy&lt;/a&gt;, &lt;a href=&quot;http://www.timbuk2.com/tb2/products/bagbuilder&quot;&gt;Timbuk2&lt;/a&gt;, &lt;a href=&quot;http://moo.com/&quot;&gt;Moo&lt;/a&gt;, &lt;a href=&quot;http://www.jpgmag.com/&quot;&gt;JPG&lt;/a&gt; and all the other awesome companies was quite inspiring. It was also awesome to meet the people who are behind all these awesome brands. It was like a secret people powered club where we all tell our people powering secrets. A really powerful meetup. I am glad that &lt;a href=&quot;http://richardmoross.com/&quot;&gt;Richard&lt;/a&gt; (from moo) set it up. it alone was worth the trip. Some of the companies that were there that I really liked:&lt;/p&gt;
-
-&lt;blockquote&gt;&lt;a href=&quot;http://styleshake.com/user/&quot;&gt;Styleshake&lt;/a&gt; - I was surprised by this one. Styleshake is a neat community that helps facilitate custom dresses. Another thing I would have never guessed would be made into a crowd sourcing enterprise - but it works. And it seems to work well. The dresses are cool and the variations are impressive. If I was a svelte young woman I would certainly check this out. &lt;a href=&quot;http://www.burdastyle.com/&quot;&gt;BurdaStyle&lt;/a&gt; - I thought this was the coolest idea i had heard in awhile. Open source sewing patterns. Taking various patterns and releasing the designs to the community to create and manipulate. Helping to foster the crafting, sewing world as well as create awesome clothes.&lt;/blockquote&gt;
-
-
-&lt;p&gt;After the mini conference, I was fortunate enough to have dinner with the JPG people and Wilson Minor (&lt;a href=&quot;http://everyblock.com&quot;&gt;EveryBlock&lt;/a&gt;). We ate at some nice Mexican food place. It was good, better than Chicago Mexican food. Then I made my way to the soon to be &lt;a href=&quot;http://upcoming.yahoo.com/event/430139/&quot;&gt;bumping party&lt;/a&gt;. The party was fun. There were a lot of people. Floss seemed to be well accepted and it was awesome to meet &lt;a href=&quot;http://www.kidkameleon.com/&quot;&gt;kid kameleon&lt;/a&gt;. Around this time I had the awesomeness to bump into a dude from &lt;a href=&quot;http://www.threadbanger.com/&quot;&gt;Threadbangers&lt;/a&gt;. he was able to capture my &lt;a href=&quot;http://www.threadbanger.com/episode/SXSW_20080310&quot;&gt;natural retardedness for an episode of threadbangers&lt;/a&gt;. haha. Whew. After my debut in amazing, I was able to take a minute and meet up with some friends. It is fun to hang out with Chicago friends when not in Chicago. I met up with &lt;a href=&quot;http://jacobdehart.com&quot;&gt;Jacob DeHart&lt;/a&gt;, &lt;a href=&quot;http://bloxes.com/&quot;&gt;Aza Raskin&lt;/a&gt;, &lt;a href=&quot;http://www.srobbin.com/&quot;&gt;Scott Robbin&lt;/a&gt;, &lt;a href=&quot;http://www.humanized.com/about/&quot;&gt;Andrew Wilson&lt;/a&gt;. Another person I was thrilled to meet up with is &lt;a href=&quot;http://mediadiet.net/&quot;&gt;Heath Row&lt;/a&gt;. Heath has always been a favorite person of mine and it is great (and rare) to hang out in person. After the party died down - we all went to the &lt;a href=&quot;http://PureVolume.com&quot;&gt;Pure Volume&lt;/a&gt; ranch for the Social Thing party and my trip came full circle. I was able to meet up with the Lijit, Villij and Socialthing guys. After rocking out there for a couple hours i decided to head home, sleep and finally attempt to make my way back to Chicago. I barely made it. ;)&lt;/p&gt;
-</content>
-
-
-
- </entry>
- 
- <entry>
-   <title>A email response from a friend</title>
-   <link href="http://www.nata2.org/2007/10/17/a-email-response-from-a-friend/"/>
-   <updated>2007-10-17T00:00:00-05:00</updated>
-   <id>http://www.nata2.org/2007/10/17/a-email-response-from-a-friend</id>
-   <content type="html">&lt;p&gt;Awhile ago I got this email from a friend. It is about the Medical Marijuana problem with Iraq veterans. I thought you guys might like to read it. So here it is:&lt;/p&gt;
-
-&lt;blockquote&gt;I just read the article you posted about medical marijuana and veterans and it definitely was intense. Its a shame that they are not getting taken care of. That particular guy says that there were no nightmares and his limbs were intact, which is very lucky. I have friends that came back from Iraq in the last year or so and it is scary to see the change. First off, only one of them has agreed to come out and interact with us again. My friend John is a Marine and was stationed mainly in Ramadi. John had always been an interesting character, but since Iraq he has lost all innocence. He's still very spontaneous and wacky, but in a very bitter way. He acts as he does because he's so angry that popped collars walk around thinking that they are kings, and John is not treated as a king coming back home. He won't talk about most of what happened over there, only few of the fonder memories. His best friend was basically blown up in front of him, leaving a wife and child in California. One particular weekend, John and I went to CU to visit my now ex. Very stressful nights that weekend. John got shit ass drunk as quickly as possible and yelled at everyone on the streets for being able to enjoy their 20 something years. We got kicked out of two bars in half an hour, then John decided to disappear for the rest of the night. He'd come back in one hour, two hour, three hour intervals and take off again. Talking to him on the ride there and back was ridiculously difficult. Making small talk was pointless, and talking about Iraq was too personal. Every time he came back home he pulled the same disappearing act, completely disregarding the fact that we were worried about him.It just broke my heart to see how badly he wished he was still naive. He was sent to Iraq for a second trip, and I have since lost contact with him or friends that would know where he was. That article totally hit a sore spot in my heart for these guys out there. In no way am I a supporter of the war or the military, but I completely support the individuals that decide to put themselves into the military. This line from the article, 'My wife was the love of my life, the girl I wanted to spend the rest of my life with, but when I came back from Iraq, she was now a complete stranger to me, as I was to her.' is an issue that most vets deal with, its really fucking sad.&lt;/blockquote&gt;
-
-
-&lt;p&gt;Yep. Its insane how the government is creating a state of war that most people don't want, then not supporting the troops as much as they need to be supported. We need this to stop.&lt;/p&gt;
-</content>
-
-
-
- </entry>
- 
- <entry>
-   <title>Goddamn Stoners!</title>
-   <link href="http://www.nata2.org/2007/06/27/goddamn-stoners/"/>
-   <updated>2007-06-27T00:00:00-05:00</updated>
-   <id>http://www.nata2.org/2007/06/27/goddamn-stoners</id>
-   <content type="html">&lt;p&gt;A friend of mine works for &lt;a href=&quot;http://www.hightimes.com/ht/home/&quot;&gt;high times&lt;/a&gt;. So Charlie and I figured we would send them a small swag package - and then they would send us a swag package. Fun fun. And a simple transaction.. or so we thought.&lt;/p&gt;
-
-
-&lt;p&gt;Natasha is my friend who works for High Times.&lt;/p&gt;
-
-
-&lt;p&gt;Here is our chat log:&lt;/p&gt;
-
-
-&lt;p&gt;&lt;em&gt;6/11/2007&lt;/em&gt;&lt;/p&gt;
-
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Natasha&lt;/strong&gt;: hey what's the address there?&lt;br&gt;
-&lt;strong&gt;Harper&lt;/strong&gt;: [address redacted]&lt;br&gt;
-&lt;strong&gt;Natasha&lt;/strong&gt;: alright!&lt;br&gt;
-&lt;strong&gt;Natasha&lt;/strong&gt;: will be sending you out a box!!&lt;br&gt;
-&lt;strong&gt;Natasha&lt;/strong&gt;: fancy&lt;br&gt;
-&lt;strong&gt;Harper&lt;/strong&gt;: awesome!&lt;br&gt;
-&lt;strong&gt;Natasha&lt;/strong&gt;: yeah!&lt;/p&gt;
-&lt;/blockquote&gt;
-
-
-&lt;p&gt;&lt;em&gt;6/19/2007&lt;/em&gt;&lt;/p&gt;
-
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Natasha&lt;/strong&gt;: hey dude i just got back from tennessee and the package i&lt;br&gt;
-sent was on my desk waiting.&lt;br&gt;
-&lt;strong&gt;Natasha&lt;/strong&gt;: i think i got the address wrong&lt;br&gt;
-&lt;strong&gt;Natasha&lt;/strong&gt;: so i figured out what was wrong with the address i sent&lt;br&gt;
-&lt;strong&gt;Natasha&lt;/strong&gt;: total dyslexia&lt;br&gt;
-&lt;strong&gt;Natasha&lt;/strong&gt;: Woodravens Ave.&lt;br&gt;
-&lt;strong&gt;Natasha&lt;/strong&gt;: yay!&lt;br&gt;
-&lt;strong&gt;Harper&lt;/strong&gt;: haha&lt;/p&gt;
-&lt;/blockquote&gt;
-
-
-&lt;p&gt;&lt;em&gt;6/27/2007&lt;/em&gt;&lt;/p&gt;
-
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Harper&lt;/strong&gt;: we are so lost without our package&lt;br&gt;
-&lt;strong&gt;Natasha&lt;/strong&gt;: fucking stoners.&lt;br&gt;
-&lt;strong&gt;Natasha&lt;/strong&gt;: you never got it?&lt;br&gt;
-&lt;strong&gt;Harper&lt;/strong&gt;: nope&lt;br&gt;
-&lt;strong&gt;Natasha&lt;/strong&gt;: that's super awesome&lt;br&gt;
-&lt;strong&gt;Natasha&lt;/strong&gt;: i've got a tracking number&lt;br&gt;
-&lt;strong&gt;Harper&lt;/strong&gt;: oh yes!&lt;br&gt;
-&lt;strong&gt;Natasha&lt;/strong&gt;: HAHAHAHA it was sent to 419 Park Ave. South NY, NY 10016&lt;br&gt;
-&lt;strong&gt;Natasha&lt;/strong&gt;: that's us&lt;/p&gt;
-&lt;/blockquote&gt;
-
-
-&lt;p&gt;Awesome! I love this shit!&lt;/p&gt;
-
-
-&lt;p&gt;(In defense of Natasha - it was the mailroom and not her. She is totally able to ship stuff!)&lt;/p&gt;
-
-
-&lt;div class=&quot;wlWriterSmartContent&quot; id=&quot;0767317B-992E-4b12-91E0-4F059A8CECA8:ab139160-9d1e-4c1b-917c-0ffe8eb4a932&quot; contenteditable=&quot;false&quot; style=&quot;padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px&quot;&gt;[tags]humor, hilarious, life, shipping, high times, stoners[/tags]&lt;/div&gt;
-
-
-
-</content>
-
-
-
- </entry>
- 
- <entry>
-   <title>A Sad Day. RIP Kurt Vonnegut.</title>
-   <link href="http://www.nata2.org/2007/04/12/a-sad-day-rip-kurt-vonnegut/"/>
-   <updated>2007-04-12T00:00:00-05:00</updated>
-   <id>http://www.nata2.org/2007/04/12/a-sad-day-rip-kurt-vonnegut</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;http://farm1.static.flickr.com/234/456138744_bd159ed29d_m.jpg&quot; align=&quot;right&quot;&gt;Yesterday &lt;a href=&quot;http://en.wikipedia.org/wiki/Kurt_Vonnegut&quot;&gt;Kurt Vonnegut&lt;/a&gt;, one of my favorite authors and a pillar my my upbringing, died. He was 84. I read my first Kurt Vonnegut book, &lt;a href=&quot;http://www.amazon.com/Slapstick-Lonesome-More-Kurt-Vonnegut/dp/0385334230/ref=pd_bbs_sr_10/104-8140476-8316711?ie=UTF8&amp;amp;s=books&amp;amp;qid=1176359408&amp;amp;sr=8-10&quot;&gt;Slapstick&lt;/a&gt;, &amp;nbsp;when I was in 5th grade. It was really amazing. I was quite a bit young for the book, but it was a great follow up to &lt;a href=&quot;http://www.amazon.com/Catch-22-Novel-Simon-Schuster-Classics/dp/0684865130/ref=pd_bbs_sr_1/104-8140476-8316711?ie=UTF8&amp;amp;s=books&amp;amp;qid=1176360307&amp;amp;sr=1-1&quot;&gt;Catch-22&lt;/a&gt;. hah. I still remember Slapstick and think about it quite often.&lt;/p&gt;
-
-
-&lt;p&gt;~ hi ho ~&lt;/p&gt;
-
-
-&lt;p&gt;I think that is my Favorite Kurt Vonnegut book.&lt;/p&gt;
-
-
-&lt;p&gt;Kurt Vonnegut made quite the impact on me.&amp;nbsp;My father was a big Vonnegut fan and recommended that I read his books constantly. As&amp;nbsp; grew older we were able to share the jokes, and the excitement of Vonnegut's novels. It was a great thing to share with your loved ones. I continue to push Kurt Vonnegut's books on to my friends and family as much as I can. His novels are always quirky and fun. They reminded me that life isn't always serious, even if serious things are happening.&amp;nbsp; The single biggest piece of knowledge I gleaned from his novels was the theme that&amp;nbsp;we need to treat people well. His books were a great commentary on why more humanist values are needed in our world. If anyone is wondering what is wrong with the world, read a bundle of Kurt Vonnegut, a couple Studs Terkel and Joseph Heller's Catch-22. You will be set right.&lt;/p&gt;
-
-
-&lt;p&gt;I once was able to meet and speak a small amount with Kurt Vonnegut when he spoke at a school in the Chicago suburbs. He talked about humanism and being old. He mentioned how he felt a humanist funeral should&amp;nbsp;be. It was very humorous. I took a picture of Kurt Vonnegut and me and gave&amp;nbsp;it to my father.&lt;/p&gt;
-
-
-&lt;p&gt;In regards to death,&amp;nbsp; I feel that Kurt Vonnegut's version of death and afterlife is the closest to my own beliefs on the matter.&amp;nbsp;In Studs Terkel's book&amp;nbsp;&quot;&lt;i&gt;&lt;a href=&quot;http://www.amazon.com/Will-Circle-Unbroken-Reflections-Ballantine/dp/0345451201/ref=pd_bbs_sr_7/104-8140476-8316711?ie=UTF8&amp;amp;s=books&amp;amp;qid=1176360262&amp;amp;sr=8-7&quot;&gt;Will the Circle Be Unbroken? Reflections on Death, Rebirth, and Hunger for a Faith&lt;/a&gt;,&lt;/i&gt;&quot; Studs interviews Vonnegut on death and Vonnegut &lt;a href=&quot;http://speakingoffaith.publicradio.org/programs/studsterkel/vonnegut.shtml&quot;&gt;says the following&lt;/a&gt;:&lt;/p&gt;
-
-
-&lt;blockquote&gt;
-&lt;p&gt;What the freethinkers were are now called humanists. I am one. A humanist believes, because of Darwin, whose truths were so shocking, in making the most use of good science as possible. Humanists behave well without any expectation of either reward or punishment in an afterlife. We serve, as best we can, our community. When I was growing up, nobody ever said anything about Heaven, about an afterlife. They said that this life was enough.&lt;/p&gt;
-&lt;p&gt;I have experienced what happens when I die, and so have you. We call it sleep.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-
-&lt;p&gt;This is the basis for my beliefs and I feel is pretty much the basis for the humanist movement. You need to do good. right now. because you may not be here soon. and you may not be here tomorrow. and since there is no afterlife, this is the best and there is no waiting for the better to happen. so lets have fun and enjoy what we have!&lt;/p&gt;
-
-
-&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;Hello, babies. Welcome to Earth. It&amp;rsquo;s hot in the summer and cold in the winter. It&amp;rsquo;s round and wet and crowded. At the outside, babies, you&amp;rsquo;ve got about a hundred years here. There&amp;rsquo;s only one rule that I know of, babies &amp;mdash; &amp;lsquo;God damn it, you&amp;rsquo;ve got to be kind.&amp;rsquo; &amp;rdquo;&lt;/p&gt;
-&lt;p&gt;- Kurt Vonnegut, Jr. (November 11, 1922 - April 11, 2007)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-
-&lt;p&gt;So it goes.&lt;/p&gt;
-
-
-&lt;div class=&quot;wlWriterSmartContent&quot; id=&quot;0767317B-992E-4b12-91E0-4F059A8CECA8:38b4925d-f122-4be7-89cf-474a253a242f&quot; contenteditable=&quot;false&quot; style=&quot;padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px&quot;&gt;[tags]kurt vonnegut, authors, literature, death, sad, life, novels, books, growing up[/tags]&lt;/div&gt;
-
-
-
-</content>
-
-
-
- </entry>
- 
- <entry>
-   <title>My upgrade wordpress script</title>
-   <link href="http://www.nata2.org/2007/03/31/my-upgrade-wordpress-script/"/>
-   <updated>2007-03-31T00:00:00-05:00</updated>
-   <id>http://www.nata2.org/2007/03/31/my-upgrade-wordpress-script</id>
-   <content type="html">&lt;p&gt;I broke my blog the other day. It was a pain in the ass. I don't really know what happened - just that it broke. So I was thinking, I hate upgrading my wordpress. I hate it. I agree 100% with &lt;a href=&quot;http://www.mattcutts.com/blog/upgrading-wordpress/&quot;&gt;Matt Cutts&lt;/a&gt; about how wordpress has one of the most clunky and cruft creating upgrade process. So annoying. And it gets even more annoying when you are doing it with 50 blogs. stupid friends. hah. So awhile ago I created this script which basically lets me just execute a small number of commands to upgrade a wordpress blog. If a script isn't really your thing, it seems like the best way to handle wordpress upgrades is to use SVN to do them. I am going to look into the best way to do that, but my experience so far in that experiment has shown me that the bleeding edge release of wordpress is not always a working release. ;) &lt;a href=&quot;http://photomatt.net/&quot;&gt;Matt&lt;/a&gt; from wordpress &lt;a href=&quot;http://www.mattcutts.com/blog/upgrading-wordpress/#comment-100841&quot;&gt;comments&lt;/a&gt; on Matt Cutt's blog about the existence of a &lt;a href=&quot;http://www.zirona.com/software/wordpress-instant-upgrade/&quot;&gt;upgrade plugin&lt;/a&gt; - which seems really interesting. hmm.. So anyway. The script... I am warning you that this script HAS KILLED AT LEAST ONE BLOG. hah. but it has also regularly upgraded at least 50 blogs as well. So.. use at your own risk. and feel free to modify and fix stuff that you see. I am assuming that your web layout is:&lt;/p&gt;
-
-&lt;blockquote&gt;/ &lt;em&gt;- root of domain&lt;/em&gt; /web &lt;em&gt;- blogs webroot&lt;/em&gt; /archive &lt;em&gt;- archive for old backups&lt;/em&gt;&lt;/blockquote&gt;
-
-
-&lt;p&gt;If your layout differs it will not be too hard to change the vars and make the script work for you. The script will backup your wordpress DB, tar up your wordpress dir, download the newest version of wordpress, untar the new wordpress, and then move all your wp-content and what not into the new wordpress dir. It then puts all the backups into a dated folder in the archive dir. then cleans up a bit after itself. The script does not account for any customizations at all. If you have any files that are placed in the webroot, or files that are not in their normal places, it will not work at all. Honestly - unless you know what you are doing and really want to play Russian roulette of the bash kind - I wouldn't use this script. ;)&lt;/p&gt;
-
-&lt;blockquote&gt;#!/bin/bash # Dirs webdir=&quot;web&quot; archivedir=&quot;archive&quot; # Mysql credentials database=&quot;wordpress mysql database&quot; username=&quot;wordpress mysql username&quot; password=&quot;wordpress mysql password&quot; #the meat of the script echo &quot;Wordpress upgrade script&quot; echo &quot;* Backing up wordpress db&quot; /usr/local/mysql/bin/mysqldump $database -u $username -p$password &amp;gt; sql_backup_`date +&quot;%m-%d-%Y&quot;`.sql echo &quot;* Gzipping wordpress sql&quot; gzip sql_backup_`date +&quot;%m-%d-%Y&quot;`.sql mkdir wordpress.backup_`date +&quot;%m-%d-%Y&quot;` mv sql_backup_`date +&quot;%m-%d-%Y&quot;`.sql.gz wordpress.backup_`date +&quot;%m-%d-%Y&quot;` mkdir wp-backup_`date +&quot;%m-%d-%Y&quot;` cd $webdir echo &quot;* Backing up the old wordpress&quot; tar zcf ../wordpress.backup_`date +&quot;%m-%d-%Y&quot;`/$webdir.backup_`date +&quot;%m-%d-%Y-%T&quot;`.tgz . cp -a wp-config.php ../wp-backup_`date +&quot;%m-%d-%Y&quot;` cp -a wp-content ../wp-backup_`date +&quot;%m-%d-%Y&quot;` cp -a wp-images ../wp-backup_`date +&quot;%m-%d-%Y&quot;` cp -a .htaccess ../wp-backup_`date +&quot;%m-%d-%Y&quot;` cd ../wp-backup_`date +&quot;%m-%d-%Y&quot;` echo &quot;* Downloading the newest wordpress&quot; wget -q http://wordpress.org/latest.tar.gz echo &quot;* Extrating the new wordpress&quot; tar zxf latest.tar.gz cd .. echo &quot;* Doing a bunch of directory and file juggling&quot; mv $webdir wordpress.backup_`date +&quot;%m-%d-%Y&quot;`/ mv wordpress.backup_`date +&quot;%m-%d-%Y&quot;`/ $archivedir/wordpress.backup_`date +&quot;%m-%d-%Y-%T&quot;` mv wp-backup_`date +&quot;%m-%d-%Y&quot;`/wordpress $webdir cp -af wp-backup_`date +&quot;%m-%d-%Y&quot;`/* $webdir/ cp -af wp-backup_`date +&quot;%m-%d-%Y&quot;`/.htaccess $webdir/ echo &quot;* Cleaning up&quot; rm -rf wp-backup_`date +&quot;%m-%d-%Y&quot;`/ echo &quot;* Backup placed in $archivedir/wordpress.backup_`date +&quot;%m-%d-%Y-%T&quot;`&quot; echo &quot;All upgraded. Run the upgrade script: /wp-admin/upgrade.php&quot;&lt;/blockquote&gt;
-
-
-&lt;p&gt;So you drop this script into your domain root and then execute it. Here is the output from my most recent upgrade.&lt;/p&gt;
-
-&lt;blockquote&gt;[jhr@destrukt nata2.org]$ sh wordress_upgrade.sh Wordpress upgrade script * Backing up wordpress db * Gzipping wordpress sql * Backing up the old wordpress * Downloading the newest wordpress * Extrating the new wordpress * Doing a bunch of directory and file juggling * Cleaning up * Backup placed in archive/wordpress.backup_03-31-2007-17:50:04 All upgraded. Run the upgrade script: /wp-admin/upgrade.php [jhr@destrukt nata2.org]$&lt;/blockquote&gt;
-
-
-&lt;p&gt;Since it completely removes all the old files, except those in wp-content and wp-images it leads to less cruft and nonsense. It simply runs though and does what I would have done with my fingers, but automagically. You can &lt;a href=&quot;http://stuff.harperreed.org/v/code/wordpress_upgrader/f/wordress_upgrade-release.sh&quot;&gt;download the script at stuff.harperreed.org&lt;/a&gt;. So there yea go. Its really simple and quite easy. And it works great for upgrading my blogs. Let me know if it worked for you, or if you have any comments or suggestions.&lt;/p&gt;
-
-&lt;p class=&quot;wlWriterSmartContent&quot; id=&quot;0767317B-992E-4b12-91E0-4F059A8CECA8:4aa8b25b-1fa2-4173-bbf9-60825aebbc8f&quot; contenteditable=&quot;false&quot; style=&quot;margin: 0px; padding: 0px; display: inline&quot;&gt;[tags]wordpress, upgrade, script, bash, automatic upgrade, php[/tags]&lt;/p&gt;
-
-
-
-</content>
-
-
-
- </entry>
- 
- <entry>
-   <title>Chocolate Vegan Cake</title>
-   <link href="http://www.nata2.org/2007/01/19/chocolate-vegan-cake/"/>
-   <updated>2007-01-19T00:00:00-06:00</updated>
-   <id>http://www.nata2.org/2007/01/19/chocolate-vegan-cake</id>
-   <content type="html">&lt;p&gt;So at lunch today we were talking about vegan food and I remembered this excellent vegan chocolate cake recipe that my family made for the holidays. It is so good. I remember when we had bunches of non-vegan cakes and pies - this one was always the first to get eaten (the majority of my family is not vegan). Soo good. Anyway - here is the recipe - straight from my mom:&lt;/p&gt;
-
-&lt;blockquote&gt;&lt;strong&gt;Chocolate Vegan Cake&lt;/strong&gt; Ingredients:
 &lt;ul&gt;
-&lt;li&gt;1 1/2 cup flour&lt;/li&gt;
-&lt;li&gt;1/3 cup cocoa powder&lt;/li&gt;
-&lt;li&gt;1 teaspoon baking soda&lt;/li&gt;
-&lt;li&gt;1/2 teaspoon salt&lt;/li&gt;
-&lt;li&gt;1 cup sugar&lt;/li&gt;
-&lt;li&gt;1/2 cup vegetable oil&lt;/li&gt;
-&lt;li&gt;1 cup cold water&lt;/li&gt;
-&lt;li&gt;2 teaspoons vanilla extract&lt;/li&gt;
-&lt;li&gt;2 teaspoon vinegar&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://www.nata2.org/2008/10/06/chicago-transit-api/&quot;&gt;Chicago Transit API&lt;/a&gt; - Oct. 6th - Reverse engineered and built a proxy for the CTA Bustracker.&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://www.nata2.org/2008/08/30/mini-hi-fi-the-chase/&quot;&gt;Mini Hi Fi: The Chase&lt;/a&gt; - Aug. 30th - Built a mini stereo. Audiophile addiction avoided!&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://www.nata2.org/2008/07/13/exclaim-a-replacement-jabber-bot/&quot;&gt;Excla.im - a replacement jabber bot&lt;/a&gt; - Jul. 13th - Built a small jabber bot to update twitter.&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://www.nata2.org/2008/03/25/social-xmpp/&quot;&gt;Social XMPP&lt;/a&gt; - Mar. 25th - Initiated a conversation with the venerable Peter St. Andre to start up the social xmpp list.&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://www.nata2.org/2008/03/02/olpc-chicago-jabber-server/&quot;&gt;OLPC Chicago Jabber Server&lt;/a&gt; - Mar. 2nd - Built a jabber server for hosting various OLPC related community activities.&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://www.nata2.org/2008/03/02/awesome-hosting-options/&quot;&gt;Awesome Hosting Options&lt;/a&gt; - Mar. 2nd - Outlined what I use for hosting. A rather popular post. A bit outdated. I need to update it.&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://www.nata2.org/2008/02/29/the-mosso-cloud-how-requests-are-not-a-good-metric/&quot;&gt;The Mosso Cloud: Requests are not a good metric&lt;/a&gt; - Feb. 29th - I was unhappy with how mosso had set about charging us for usage. Mosso is still a good host and is still struggling with this issue.&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://www.nata2.org/2008/02/25/google-apps-auth-xmpp-and-radius-idea/&quot;&gt;Google Apps Auth: XMPP and Radius idea&lt;/a&gt; - Feb. 25th - I wrote about how I wanted a radius endpoint for my google apps account. It would make a bunch of stuff easier for me. My solution was to hack a radius server to auth over our Google Apps talk/XMPP account.&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://www.nata2.org/2008/01/22/putting-the-blame-on-your-vendors-for-the-win/&quot;&gt;Putting the blame on your vendors for the win&lt;/a&gt;. - Jan. 22nd - I was unhappy with how some internet peers had blamed their vendor when equipment failures resulted in downtime. I think that people should stand behind their decisions and if there is an error - they should take responsibilities. It is weak to blame a vendor.&lt;/li&gt;
 &lt;/ul&gt;
-Directions: Preheat oven 375 degrees. Use small brownie sized pan, (no greasing required.) Mix all dry ingredients right in pan. Mix all wet ingredients in a separate bowl EXCEPT VINEGAR, (IMPORTANT.) Add wet ingredients to dry and stir until all dry ingredients are mixed. Add vinegar quickly and stir in&lt;/blockquote&gt;
 
 
+&lt;p&gt;The theme seemed to be XMPP and Hosting - which, if you have hung out with me recently,  is rather close to what i like to talk about in real life ;). I think that I will continue this trend into 2009, but hopefully blog about it more.&lt;/p&gt;
 
+&lt;p&gt;I did notice that I ended up blogging less this year than almost any year before (2008: 30 entries, 2007: 84 entries, 2006: 154 entries, 2005: 166 entries, 2004: 275 entries, 2003: 290 entries, 2002: 266 entries, 2001: 103 entries, 2000: 27 entries). I have been blogging for about 8 years for a  total of about 1395 entries - which means that this 1 year accounts for about ~2% of my blog entries. haha. I am guessing that 2% accounts for about 90% of my blog traffic. I am not a new years resolution type of guy, but I would like to blog more regularly. Hopefully get my percentage up a bit. maybe 100 posts. It isn't THAT hard. ;)&lt;/p&gt;
+
+&lt;p&gt;To offset the lack of blogging, I twittered a lot. In fact, I updated twitter around 3251 times (this number is approximate because of the twitter api and paging). Of the 3251 tweets, 852 were replies. I replied to &lt;a href=&quot;http://twitter.com/paulsmith&quot;&gt;paulsmith&lt;/a&gt; the most with 25 replies. &lt;a href=&quot;http://twitter.com/ryankanno&quot;&gt;ryankanno&lt;/a&gt; was second with 20 replies. I said awesome around 249 times. I talked about sleep 71 times. I mentioned Hiromi 122 times. I said fuck about 46 times. I talked about work 238 times.  My fake new years resolution about twitter is to stop having twitter steal blog entries. I saw that written somewhere and I laughed at how often that happens. I think of a blog and instead just twitter about it. It kills the entry and doesn't flesh out my thoughts as much. I think the best plan is to integrate and use both mediums to develop a post.&lt;/p&gt;
+
+&lt;p&gt;My flickr usage dropped significantly this year. Kind of a bummer because i LOVE taking pictures. Hiromi is currently telling me that we don't take enough picture together.  It looks like i took only ~800 pictures in 2008. I blame this on the iPhone and how slow its camera is. In previous years i have used &lt;a href=&quot;http://shozu.com&quot;&gt;shozu&lt;/a&gt; and a 360 device. This let me upload picture directly after i took them and most often in the background. I need to take more pictures. I wish i had more insight into my flickr pictures. I need to build out my archive a bit more to keep track of everything like i did with twitter. It is quite handy.&lt;/p&gt;
+
+&lt;p&gt;Work was awesome in 2008. We had some large projects that launched a bit rougher than i would have liked, but they turned out awesome. &lt;a href=&quot;http://typetees.com&quot;&gt;Typetees.com&lt;/a&gt;, &lt;a href=&quot;http://theselectseries.com&quot;&gt;theselectseries.com&lt;/a&gt;, &lt;a href=&quot;http://threadlesskids.com&quot;&gt;threadlesskids.com&lt;/a&gt; and the new &lt;a href=&quot;http://threadless.com&quot;&gt;threadless.com&lt;/a&gt; are all awesome. The team that worked on them are all amazing. I couldn't ask for a better team of technologists, production people, operations people and warehouse people to help make technology at Threadless be awesome.  I can't wait to see what is in the pipeline for 2009.&lt;/p&gt;
+
+&lt;p&gt;Seriously - 2008 was a great year. I can't wait to see what 2009 brings. I hope more fun, more blog entires, more tweets and more pictures.&lt;/p&gt;
 </content>
 
 
@@ -343,21 +427,17 @@ Directions: Preheat oven 375 degrees. Use small brownie sized pan, (no greasing 
  </entry>
  
  <entry>
-   <title>Hacking mobile voicemail with Asterisk and caller ID spoofing</title>
-   <link href="http://www.nata2.org/2006/09/24/hacking-voicemail-with-asterisk-and-caller-id-spoofing/"/>
-   <updated>2006-09-24T00:00:00-05:00</updated>
-   <id>http://www.nata2.org/2006/09/24/hacking-voicemail-with-asterisk-and-caller-id-spoofing</id>
-   <content type="html">&lt;p&gt;So there has always had a problem with US mobile providers having their voicemail be susceptible to being compromised by calling with a spoofed caller id. Apparently most providers caller id apps just checks the referring callerid - and doesn't force the voicemail user to pick a passcode; so it allows someone to trick the voicemail app into believing they are calling from a trusted number. This has been covered all &lt;a href=&quot;http://www.toast442.org/C662738431/E680925937/index.html&quot;&gt;over the&lt;/a&gt; &lt;a href=&quot;http://www.i-hacked.com/content/view/124/47&quot;&gt;Internet&lt;/a&gt; and was in the &lt;a href=&quot;http://www.macdevcenter.com/pub/a/mac/2005/01/01/paris.html&quot;&gt;spotlight&lt;/a&gt; awhile back when it was alleged that this was how &lt;a href=&quot;http://blog.tmcnet.com/blog/tom-keating/mobile-phones/paris-hilton-hacks-voicemail-using-asterisk.asp&quot;&gt;Paris Hilton's mobile phone was hacked&lt;/a&gt;. It is a pretty big problem and is probably really easy to fix. So, just to make things funnier - I decided that I would release a snippit of code that would make it easier to execute this hack.&lt;/p&gt;
+   <title>Happy Holidays</title>
+   <link href="http://www.nata2.org/2008/12/26/happy-holidays/"/>
+   <updated>2008-12-26T00:00:00-06:00</updated>
+   <id>http://www.nata2.org/2008/12/26/happy-holidays</id>
+   <content type="html">&lt;p&gt;&lt;a title=&quot;It's snowing like crazy. by nata2, on Flickr&quot; href=&quot;http://www.flickr.com/photos/natatwo/3119262443/&quot;&gt;&lt;img class=&quot;alignright&quot; src=&quot;http://farm4.static.flickr.com/3117/3119262443_bf1b6529b3_m.jpg&quot; alt=&quot;It's snowing like crazy.&quot; width=&quot;180&quot; height=&quot;240&quot; align=&quot;right&quot; /&gt;&lt;/a&gt;Hello everyone.&lt;/p&gt;
 
-&lt;blockquote&gt;#!/asterisk/php/bin/php -q &amp;lt;? set_time_limit(30); //make sure the php script doesn't time out require('phpagi.php'); // include the phpagi class error_reporting(E_ALL); // limit the errors $agi = new AGI(); // instantiate the AGI class $agi-&amp;gt;answer(); // answer the phone sleep(2); // wait a sec or two $agi-&amp;gt;stream_file('enter_spoof'); // speak a wav file that says &quot;enter the number&quot; $result = $agi-&amp;gt;get_data('beep', 3000, 10); // beep and grab the 10 numbers $agi-&amp;gt;verbose(&quot;Number to call:&quot;.$result['result']); // throw info so you know whats up $agi-&amp;gt;set_callerid($result['result']); // set caller id to the number you are calling $agi-&amp;gt;exec(&quot;Dial IAX2/iax-provider/1&quot;.$result['result']); // call the number ?&amp;gt;&lt;/blockquote&gt;
+&lt;p&gt;I have been busy. Threadless just ended its &lt;a href=&quot;http://www.threadless.com/news/400348/Tees_from_5_at_Threadless_Annual_Holiday_Sale&quot;&gt;annual holiday sale&lt;/a&gt; (went out with a &lt;a href=&quot;http://www.threadless.com/news/406990/And_the_final_gift_is_opened_to_reveal&quot;&gt;bang&lt;/a&gt;). &lt;a href=&quot;http://hiromiusagi.com&quot;&gt;Hiromi&lt;/a&gt; and I have been busy getting read for our holiday party with my parents on christmas (today!) and i have been hacking on a bunch of stuff in my spare time. Hiromi made an amazing dinner and we ate it. ;) It was a great time. We missed &lt;a href=&quot;http://dylanreed.com&quot;&gt;Dylan&lt;/a&gt; and &lt;a href=&quot;http://photodork.org/&quot;&gt;Sarah&lt;/a&gt;, but we will hopefully see them soon.&lt;/p&gt;
 
+&lt;p&gt;This year has been great thus far and I will attempt to memorialize it in a year end post around the 1st. However, in the meantime I wanted to take a moment and say &quot;&lt;a href=&quot;http://www.threadless.com/product/509/HI&quot;&gt;HI&lt;/a&gt;&quot; and go ahead and wish everyone a &lt;a href=&quot;http://en.wikipedia.org/wiki/Holiday_greetings&quot;&gt;Happy Holidays&lt;/a&gt;. I hope everyone discovered their proper amount of &lt;a href=&quot;http://en.wikipedia.org/wiki/Conspicuous_consumption&quot;&gt;conspicuous consumer&lt;/a&gt;. I know that &lt;a href=&quot;http://reedbooks.org/&quot;&gt;we&lt;/a&gt; did.&lt;/p&gt;
 
-&lt;p&gt;You can add this to your /var/lib/asterisk/agi-bin dir and then specify the extension you want to use to dial and execute the php/agi script&lt;/p&gt;
-
-&lt;blockquote&gt;exten =&amp;gt; 666,1,Answer exten =&amp;gt; 666,2,AGI(tmobilevoicemail_spoof.php) exten =&amp;gt; 666,3,Hangup&lt;/blockquote&gt;
-
-
-&lt;p&gt;Then when you dial 666 it executes the script. It will ask you what number to dial then dial it after setting the caller id to the same number. It will dial the number and then ring the phone. If the phone is on and the target number is answered - it won't work; however if the person doesn't answer you will be placed in the targets voicemail as a trusted user. So, I would suggest calling people in the middle of the night or when you know they will not answer. Wait.. I actually wouldn't suggest calling anyone but yourself. It seems to me that the only viable solution that will be compatible with all phones, people and providers is to force the users to choose passcode to your voicemail. This is - of course - a proof of concept. You should not actually hack peoples voicemails. That is not very nice. We are into being nice. Also, check out my &lt;a href=&quot;http://www.nata2.org/2006/02/14/caller-id-spoofing-with-php-and-asterisk/&quot;&gt;previous entry on caller id spoofing&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Although, I certainly don't update my blog quite as often as I would like (or my mom would like) - I do update my &lt;a href=&quot;http://twitter.com/harper&quot;&gt;twitter status&lt;/a&gt; quite often and post a &lt;a href=&quot;http://flickr.com/photos/natatwo&quot;&gt;number of pictures to flickr&lt;/a&gt;. I am hopefully going to start updating this blog a bit more, but in the meantime you are welcome to check out my &lt;a href=&quot;http://harperreed.org/activity/&quot;&gt;interweb activity aggregation page&lt;/a&gt; and the &lt;a href=&quot;http://feeds.feedburner.com/HarperReedsActivityDigest&quot;&gt;associated RSS feed&lt;/a&gt; (props to &lt;a href=&quot;http://derek.broox.com&quot;&gt;broox&lt;/a&gt; who showed me &lt;a href=&quot;http://derek.broox.com/today&quot;&gt;his&lt;/a&gt;, which I copied).&lt;/p&gt;
 </content>
 
 
@@ -365,21 +445,19 @@ Directions: Preheat oven 375 degrees. Use small brownie sized pan, (no greasing 
  </entry>
  
  <entry>
-   <title>38 S60 tips and tricks </title>
-   <link href="http://www.nata2.org/2006/04/11/38-s60-tips-and-tricks/"/>
-   <updated>2006-04-11T00:00:00-05:00</updated>
-   <id>http://www.nata2.org/2006/04/11/38-s60-tips-and-tricks</id>
-   <content type="html">&lt;div style=&quot;text-align: center&quot;&gt;
-&lt;p align=&quot;left&quot;&gt;So now that everyone is finally interested in getting a symbian phone - i decided to unearth some tricks and what not for symbian phones.&lt;/p&gt;
-&lt;div align=&quot;left&quot;&gt;
-&lt;p align=&quot;left&quot;&gt;I have tried most of these. I am not quite sure where i got this list - probably from some yahoo group or some site years ago when i got my 7610. Most of it works on my N70 so it should all be still current.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div style=&quot;text-align: center&quot;&gt;&lt;!--adsense--&gt;&lt;/div&gt;
-&lt;strong&gt;Tip 1 - Do you know how to use the edit button (abc or pencil button)?&lt;/strong&gt; Heres how... in the inbox for example; you wanna delete multiple SMS, simply hold the edit button, scroll down, and then, press c to delete the marked SMS. The edit button can also be used to copy and past text in SMS, simply hold it and scroll across, choose copy. &lt;strong&gt;Tip 2 - How to reset your password&lt;/strong&gt; Press *#7370#, then enter the lock code, which is the sec code of the phone. NOTE: battery must be full, else if format is disrupted by low battery, consequences will be disastrous for 6600 users, to format the phone, theres an alternative way. Press and hold &amp;lt;3&amp;gt;, &amp;lt;*&amp;gt;, and the buttons, then power on phone, keep holding on the 3 buttons, till you come to a format screen. this method ONLY works on 6600, and need not enter the sec code. BUT sec code won't be reset to default 12345. &lt;strong&gt;Tip 3 - installing .sis files simply using the cable&lt;/strong&gt; Just plug it in, place the .sis file anywhere on e: (the MMC), not in any folders, root of e:, disconnect, then look for it in manager. &lt;strong&gt;Tip 4 &amp;ndash; Task Menu&lt;/strong&gt; Save on battery and system memory being used by regularly checking the task manager which can be accessed by holding down the menu button!! &lt;strong&gt;Tip 4a&lt;/strong&gt; - Set the screen saver to a short time out period to prolong battery life. &lt;strong&gt;Tip 4b&lt;/strong&gt; - Avoid restarting the phone, or repeatedly turning it on and off. This helps increase battery life. &lt;strong&gt;Tip 5 &amp;ndash; IMEI Number&lt;/strong&gt; Type *#06# to display your IMEI serial number, very valuable for the unlocking your phone to other sim cards &lt;strong&gt;Tip 6 &amp;ndash; Firmware Version&lt;/strong&gt; Type *#0000# to view which firmware version you are running &lt;strong&gt;Tip 7 &amp;ndash; Avoid being bluejacked&lt;/strong&gt; If you would like to avoid being &quot;blue jacked&quot;, keep bluetooth turned off, or set your phone's visibility to hidden. &lt;strong&gt;Tip 8 - Make your phone a watch&lt;/strong&gt; Don't want to carry a watch and a phone? Set the screen saver to show date and time, then you can ditch the watch. &lt;strong&gt;Tip 9 &amp;ndash; Save memory while installing apps&lt;/strong&gt; Save memory when installing apps, by installing over bluetooth. This can be done using the nokia phone suite and a bluetooth serial connection. Only works with .SIS files, so java still has to be sent to the phone, but will save space when using .SIS files. &lt;strong&gt;Tip 10 - Operator logos&lt;/strong&gt; Use a filemanager like FExplorer or SeleQ to add the folders: &quot;c:/system/Apps/phone/oplogo&quot;. Add a .bmp picture to folder &quot;oplogo&quot; and restart your phone! The .bmp picture size needs to be: 97 x 25 pixels &lt;strong&gt;Tip 11 - Check if the recipients phone is on&lt;/strong&gt; Delivery reports or Type *0# your message in the message composer window space then write your message, the recipient will not see the star zero hash bit - just the message When they read it it will relay a message back to your phone showing the time they received it. (haven't yet tried it myself though) &lt;strong&gt;Tip 12 - BlueJacking&lt;/strong&gt; First up, you need to know what Bluetooth is. There are lots of types of modern devices that incorporate Bluetooth as one of their many features. PDAs, mobile phones and laptops are a few of these modern devices. Bluetooth means that Bluetooth enabled devices can send things like phonebook/address book contacts, pictures &amp;amp; notes to other Bluetooth enabled devices wirelessly over a range of about 10 metres. So, we've got past the boring part. Now, using a phone with Bluetooth, you can create a phonebook contact and write a message, eg. 'Hello, you've been bluejacked', in the 'Name' field. Then you can search for other phones with Bluetooth and send that phonebook contact to them. On their phone, a message will popup saying &quot;'Hello, you've been bluejacked' has just been received by Bluetooth&quot; or something along those lines. For most 'victims' they will have no idea as to how the message appeared on their phone. &lt;strong&gt;Tip 13: Gallery Shortcut Keys&lt;/strong&gt; While you are viewing a picture in your phone's gallery, press one of these shortcut keys (definitely works on 6600, not sure about other symbians) 1 - turn image anticlockwise 3 - turn image clockwise * - toggle on/off of full screen 5 - zoom in 0 - zoom out &lt;strong&gt;Tip 16: A soft and Hard reset&lt;/strong&gt; A Soft-reset - the process of resetting all the settings of the phone to the factory default! No applications are deleted! A Hard-reset is like formatting a drive! It does format the memory. Everything that has been installed after the first use of the phone is deleted! It will recover the memory of the phone to the state you purchased it! It is done by inputing the following code: *#7370# NOTE: The battery must be full or the charger has to be connected to the phone so that it does not run out of power and make the phone unusable. &lt;strong&gt;Tip 17: Formats of images&lt;/strong&gt; supported ones: JPG UPF GIF87a/89a WBMB MBM TIFF/F PNG EXIF How to copy &amp;amp; paste text in your Nokia 3650: Press and hold the pencil key and select your text using the scroll key. Left function key will change to 'Copy'. Press it to copy the selected text to clipboard. You can paste the clipboard contents the same way: press and hold the pencil key and press 'Paste'. Or, press pencil key once and select 'Paste'. Press and hold the Menu key to open the application switching window, where you can *duh* switch between applications. &lt;strong&gt;Tip 18: Hanging Program&lt;/strong&gt; If a program hangs and you can't shut it down, select the application in the application switching window and press 'C' to kill it. It's also a faster way to exit programs. &lt;strong&gt;Tip 19: Quiet your camera shutter&lt;/strong&gt; Turn on/off the &quot;click&quot; sound made by the camera by selecting the 'Silent' profile or by turning warning tones on/off: Menu &amp;gt; Profiles &amp;gt; &quot;select your activated profile&quot; &amp;gt; Personalize &amp;gt; Warning tones &amp;gt; On/Off. (This also effects the sound of Java games and apps).
-&lt;div style=&quot;text-align: center&quot;&gt;&lt;!--adsense--&gt;&lt;/div&gt;
-&lt;strong&gt;Tip 20: Background Image&lt;/strong&gt; To change background image go to: Menu &amp;gt; Tools &amp;gt; Settings &amp;gt; Phone &amp;gt; Standby mode &amp;gt; Background image &amp;gt; Yes &amp;gt; &quot;choose an image&quot;. The best size for background images is 174x132 pixels.&lt;strong&gt;Tip 21: Contact Image&lt;/strong&gt; Display an image when someone's calling: Menu &amp;gt; Contacts &amp;gt; &quot;select a contact card&quot; &amp;gt; Options &amp;gt; Edit &amp;gt; Options &amp;gt; Add thumbnail &amp;gt; &quot;choose an image&quot;. &lt;strong&gt;Tip 22: Contact Ringtone&lt;/strong&gt; Add a personal ringing tone to a contact: Menu &amp;gt; Contacts &amp;gt; &quot;select a contact card&quot; &amp;gt; Options &amp;gt; Open &amp;gt; Options &amp;gt; Ringing tone &amp;gt; &quot;choose a ringing tone&quot;. &lt;strong&gt;Tip 23: Delete all messages in your inbox&lt;/strong&gt; Delete all messages from your Inbox at once: Menu &amp;gt; Messaging &amp;gt; Inbox &amp;gt; Options &amp;gt; Mark/Unmark &amp;gt; Mark all &amp;gt; Options &amp;gt; Delete. &lt;strong&gt;Tip 24: Hide Caller ID&lt;/strong&gt; Send or hide your caller ID: Go to: Menu &amp;gt; Tools &amp;gt; Settings &amp;gt; Call &amp;gt; Send My Caller ID &amp;gt; 'Yes', 'No' or 'Set By Network' to follow the default settings of your home network. &lt;strong&gt;Tip 25: Copying large files?&lt;/strong&gt; If you often copy large files to your MultiMedia Card, I recommend a card reader. &lt;em&gt;E.g.&lt;/em&gt; With a card reader it takes only 12 seconds to copy a 10 MB file! &lt;strong&gt;Tip 26: Record a phone call&lt;/strong&gt; Record the sound of a phone call using the (sound) Recorder. Menu &amp;gt; Extra's &amp;gt; Recorder &amp;gt; Options &amp;gt; Record sound clip. Note: short beeps are audible during call registration. But there is a 60 second limitation so if you want unlimited sound recording get this app: Extended Recorder. &lt;strong&gt;Tip 27: Switch dictionary On/Off&lt;/strong&gt; While writing text, press &quot;#&quot; to switch between upper and lower case and Dictionary on/off (predictive text input). &lt;strong&gt;Tip 30: Switch between alpha and numeric mode&lt;/strong&gt; Press and hold &quot;#&quot; to switch between Alpha mode and Number mode. &lt;strong&gt;Tip 31: Keyboard shortcuts for zooming and rotating images in Images:&lt;/strong&gt; 1 = zoom in 0 = zoom out, press and hold to return to the normal view 2 = rotate anticlockwise 9 = rotate clockwise * = full screen In standby mode, press and hold the right soft key to activate voice dialing. &lt;strong&gt;Tip 32: Add a voice tag&lt;/strong&gt; To add a voice tag to a phone number, open a contact card and scroll to the phone number and select: Options &amp;gt; Add voice tag. &lt;strong&gt;Tip 33: Customize soft keys&lt;/strong&gt; You can customize both soft keys located below the screen (in standby mode): Menu &amp;gt; Tools &amp;gt; Settings &amp;gt; Phone &amp;gt; Standby mode &amp;gt; Left/Right selection key &amp;gt; &quot;select an application&quot;. &lt;strong&gt;Tip 34: Standby Mode -&amp;gt; Contacts&lt;/strong&gt; In standby mode. press scroll key center (joystick) to go directly to Contacts. &lt;strong&gt;Tip 35: Standby Mode -&amp;gt; WAP Home Page&lt;/strong&gt; In standby mode, press and hold 0 to launch your wap home page. &lt;strong&gt;Tip 36: Launch a specific application based on space&lt;/strong&gt; In Menu or any subfolder, press numbers 1 - 9 to start the application at that location. 123 456 789 &lt;strong&gt;Tip 37: Dial a specific number&lt;/strong&gt; In standby mode, 45# + dials the number on your sim in memory slot 45. 50# + dials slot 50 and so on. &lt;strong&gt;Tip 38: Turn on back light while keypad is locked&lt;/strong&gt; If you have your keylock activated just press the on/off button to turn on your backlight to look at the time when it's dark without having to unlock the keypad.
-&lt;div style=&quot;text-align: center&quot;&gt;&lt;!--adsense--&gt;&lt;/div&gt;
+   <title>Release your applications inner API. Please.</title>
+   <link href="http://www.nata2.org/2008/10/06/release-your-applications-inner-api-please/"/>
+   <updated>2008-10-06T00:00:00-05:00</updated>
+   <id>http://www.nata2.org/2008/10/06/release-your-applications-inner-api-please</id>
+   <content type="html">&lt;p&gt;I have recently been involved in talking to a local chicago entity about their unofficial API. It has been fun and deserves a blog entry of its own. However, this is not that blog entry - this blog entry is about mashups and the not so public APIs they often create.&lt;/p&gt;
 
+&lt;p&gt;In the past couple years i have constantly been tearing apart webapps. Either because I wearing my developer hat at work or because i am rocking on something at home. I have always been trying to figure out what goes on behind the scenes and wondering if i coudl use that to do something cool.&lt;/p&gt;
+
+&lt;p&gt;A couple weeks ago i decided to figure out what powered the CTA Bustracker Google Maps mash up and was able to expose the &lt;a href=&quot;http://chicago.transitapi.com/&quot;&gt;&quot;hidden&quot; api that powered the mashup&lt;/a&gt;. In a conversation I had with &lt;a href=&quot;http://www.juggernautco.com/about.html&quot;&gt;&lt;span style=&quot;font-family: Georgia,Times New Roman,Times,serif; font-size: x-small;&quot;&gt;Dan x O'Neil&lt;/span&gt;&lt;/a&gt; about the unofficial API I was able to expose - he asked a question about mashups and APIs. It led me to rant about how there is so much untapped APIs out on the internet currently powering mashups, and other rich internet appliances. These APIs are not documented, are unofficial and will of course change. But think of the data and functionality that could come from all these mashups and startups who are building an API for internal use but could release it and empower their users to build something neat.&lt;/p&gt;
+
+&lt;p&gt;If you have built an application recently that has endpoints that is returning JSON for js frontend work, or is integrating with google maps, or is exposing endpoints for fun - PLEASE, please document it a bit, throw an API link on your site and let some enterprising and bored nerds build something on the thing you made. Don't try to imagine how someone would use your endpoints - but expect to be surprised.&lt;/p&gt;
+
+&lt;p&gt;I need to do this with threadless - we built it to be very easy to break down and integrate into other peoples sites (image urls, etc). But, there is a secret API that we should be releasing, documenting and letting people use. Stay tuned.&lt;/p&gt;
 </content>
 
 
@@ -387,87 +465,53 @@ Directions: Preheat oven 375 degrees. Use small brownie sized pan, (no greasing 
  </entry>
  
  <entry>
-   <title>Caller id spoofing with PHP and asterisk</title>
-   <link href="http://www.nata2.org/2006/02/14/caller-id-spoofing-with-php-and-asterisk/"/>
-   <updated>2006-02-14T00:00:00-06:00</updated>
-   <id>http://www.nata2.org/2006/02/14/caller-id-spoofing-with-php-and-asterisk</id>
-   <content type="html">&lt;p&gt;I have cleaned up and commented a little hack i did for my home asterisk server - allowing a person to dial an extension and then be walked through spoofing caller id on a call. It is a ridiculously easy hack to engage. I was surprised and a bit concerned at what this means in regards to trust and telephony. I mean, if a hobbyist is able to spoof caller id on a phone call to anywhere with nothing more than &lt;a href=&quot;http://asteriskathome.sourceforge.net/&quot;&gt;asterisk@home&lt;/a&gt; and &lt;a href=&quot;http://www.vmware.com/products/server/&quot;&gt;vmware&lt;/a&gt;.. what is to stop someone from setting something like this up and stealing credit cards or social security numbers using some crazy &lt;a href=&quot;http://en.wikipedia.org/wiki/Social_engineering_%28computer_security%29&quot;&gt;social engineering&lt;/a&gt;.. i guess nothing.. So anyway, i released &lt;a href=&quot;http://asteriskathome.sourceforge.net/&quot;&gt;my source code&lt;/a&gt;. It is really really simple and based entirely on one small block of code. The basic idea is:&lt;/p&gt;
+   <title>Chicago Transit API</title>
+   <link href="http://www.nata2.org/2008/10/06/chicago-transit-api/"/>
+   <updated>2008-10-06T00:00:00-05:00</updated>
+   <id>http://www.nata2.org/2008/10/06/chicago-transit-api</id>
+   <content type="html">&lt;p&gt;&lt;a title=&quot;The goddamn damon bus. seriously by nata2, on Flickr&quot; href=&quot;http://www.flickr.com/photos/natatwo/264290817/&quot;&gt;&lt;img class=&quot;alignright&quot; src=&quot;http://farm1.static.flickr.com/87/264290817_f5ccf294d0_m.jpg&quot; alt=&quot;The goddamn damon bus. seriously&quot; width=&quot;240&quot; height=&quot;180&quot; align=&quot;right&quot; /&gt;&lt;/a&gt;I have been working hard to release the work that I have been doing to expose some of the more interesting real time data about chicago transit. Currently it is very bus-centric, but that is hopefully changing.&lt;/p&gt;
 
-&lt;blockquote&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;small&gt;Prompt user for input (spoofed number)&lt;/small&gt;&lt;/li&gt;
-&lt;li&gt;&lt;small&gt;Grab 10 digits (spoofed number)&lt;/small&gt;&lt;/li&gt;
-&lt;li&gt;&lt;small&gt;Prompt user for input (number to call)&lt;/small&gt;&lt;/li&gt;
-&lt;li&gt;&lt;small&gt;Grab 10 digits (number to call)&lt;/small&gt;&lt;/li&gt;
-&lt;li&gt;&lt;small&gt;Set caller idea based on input in step 1 and 2&lt;/small&gt;&lt;/li&gt;
-&lt;li&gt;&lt;small&gt;Make call to number from input in step 3 and 4&lt;/small&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;The genesis for this API is some work I did awhile ago reverse engineering the &lt;a href=&quot;http://ctabustracker.com/bustime/map/displaymap.jsp&quot;&gt;CTA Bus Tracker mashup&lt;/a&gt;. I was able to expose the endpoints that powered their google maps mashup. In its original state - you can get some pretty awesome functionality and data. I am attempting to clean it up and make it more robust.&lt;/p&gt;
 
+&lt;p&gt;The native endpoints thus far are:&lt;/p&gt;
 
-&lt;p&gt;As you can see the idea is pretty simple. get input. set callerid. make call. The code is just as simple:&lt;/p&gt;
-
-&lt;blockquote&gt;&lt;small&gt;&lt;span style=&quot;font-style: italic&quot;&gt;//(step 1) Prompt user for input&lt;/span&gt; $agi-&amp;gt;stream_file('enter_spoof'); &lt;span style=&quot;font-style: italic&quot;&gt;//(step 2) Grab 10 digits&lt;/span&gt; $result = $agi-&amp;gt;get_data('beep', 3000, 10); &lt;span style=&quot;font-style: italic&quot;&gt;//set variables and output debug info&lt;/span&gt; $spoofnumber= $result['result']; $agi-&amp;gt;verbose(&quot;Spoof Number:&quot;.$spoofnumber);&lt;/small&gt; &lt;small&gt;&lt;span style=&quot;font-style: italic&quot;&gt;//(step 3) Prompt user for input&lt;/span&gt; $agi-&amp;gt;stream_file('call_spoof'); &lt;span style=&quot;font-style: italic&quot;&gt;//(step 4) Grab 10 digits&lt;/span&gt; $result = $agi-&amp;gt;get_data('beep', 3000, 10); &lt;span style=&quot;font-style: italic&quot;&gt;//set variables and output debug info&lt;/span&gt; $callnumber= $result['result']; $agi-&amp;gt;verbose(&quot;Number to call:&quot;.$callnumber); &lt;span style=&quot;font-style: italic&quot;&gt;//(step 5) Set callerid to whatever the input was in step 2&lt;/span&gt; $agi-&amp;gt;set_callerid($spoofnumber); &lt;span style=&quot;font-style: italic&quot;&gt;//(step 6) Make call to number from input in step 3 and 4 $agi-&amp;gt;exec(&quot;Dial IAX2/yourpassword@provider/1&quot;.$callnumber);&lt;/span&gt;&lt;/small&gt;&lt;/blockquote&gt;
-
-
-&lt;p&gt;The agi interface to asterisk obviously hides a lot of the complex stuff that asterisk does in the background - but still - the code is insanely simple. even with user interaction. A lot of features could be added - password; callerid checking to make sure only valid users are using the app; call back - so if you call it and set up your spoof, it calls back your number to make sure you who you say you are. or whatever ;) a lot of options are available. With a little bit of expansion - i think someone could easily make a robust callerid spoofing application for criminals and not criminals. it is easy enough for anyone to do. Check out my code here: &lt;a href=&quot;http://stuff.harperreed.org/?path=code%2Fasterisk_callerspoof_php&amp;amp;text=asterisk_callerspoof.phps&quot;&gt;asterisk_callerspoof&lt;/a&gt; What i have done is nothing new - there is a great article about all this: &lt;a href=&quot;http://www.rootsecure.net/?p=reports/callerid_spoofing&quot;&gt;Automated Caller ID / ANI Spoofing&lt;/a&gt; asterisk and php rule.&lt;/p&gt;
-</content>
-
-
-
- </entry>
- 
- <entry>
-   <title>I am going to Haxor my t-amp. Super Klasse</title>
-   <link href="http://www.nata2.org/2005/10/27/i-am-going-to-haxor-my-t-amp-super-klasse/"/>
-   <updated>2005-10-27T00:00:00-05:00</updated>
-   <id>http://www.nata2.org/2005/10/27/i-am-going-to-haxor-my-t-amp-super-klasse</id>
-   <content type="html">&lt;p&gt;So. I have been at work a lot lately. So my amp mod is pretty dope. Although i get a fierce hum when i charge the battery - i have decided to move forward and build the rest of it. I think i am going to build four distinct parts. First the power supply. i am thinking that the power supply should be completely separate from all of the other components - mostly cuz it is totally noise causing and i will be able to replace it if needed. I do like how clean and portable the battery power is - so i will keep that and then make the trickle charger just charge it always. I would like to place a digital or analog voltage meter on the front to make sure that the voltage is correct and that the battery is charged. I think something real flashy wil be nice. like a simple digital display with a blue LED backlight. It will rule. The second component will be the preamp/input switch - this will be a simple simple preamp. The tirck will be that the volume pot will be motorized to control the volume via a microcontroller - this will allow me to have a remote. god i need a remote. then i will also add twin VU meters - not real real vu meters, but somethign that will allow me to view the levels for each channel. once again - something kinda flashy. i think that really nice analog VUish meters woudl be nice - with that really dim seventies light. Something simple though. The third component would be the phono preamp. It would a really chilled out active/passive phono preamp that would allow me to hook my turntable(1200 w00t) to my preamp/amp. that is all. The fourth and probable most important part of the equation would be the amp. i would take the pot off the amp and make it just be an amp. nothing more. i will possibly use the sonic impact t-amp - but maybe upgrade to something with a bit power so i don't have to use crazy crazy speakers for it to soudn good. A probably pseudo parts list:&lt;/p&gt;
-
-&lt;blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;small&gt;Power Supply&lt;/small&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;small&gt;12.x V Battery&lt;/small&gt;&lt;/li&gt;
-&lt;li&gt;&lt;small&gt;Trickle Charger&lt;/small&gt;&lt;/li&gt;
-&lt;li&gt;&lt;small&gt;Voltage meter&lt;/small&gt;&lt;/li&gt;
-&lt;li&gt;&lt;small&gt;Power switch&lt;/small&gt;&lt;/li&gt;
-&lt;li&gt;&lt;small&gt;Charge/Battery toggle&lt;/small&gt;&lt;/li&gt;
-&lt;li&gt;&lt;small&gt;Four Power outs&lt;/small&gt;&lt;/li&gt;
-&lt;li&gt;&lt;small&gt;blue led status light&lt;/small&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://chicago.transitapi.com/bustime/map/getRoutePoints.jsp?route=49&quot;&gt;getRoutePoints&lt;/a&gt;: Returns latitude/longitude, stop IDs, and stop names for bus stops along a particular route.&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://chicago.transitapi.com/bustime/map/getPatternPoints.jsp?route=20&amp;amp;pattern=959&quot;&gt;getPatternPoints&lt;/a&gt;:&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://chicago.transitapi.com/bustime/map/getStopPredictions.jsp?stop=8207&amp;amp;route=49&quot;&gt;getStopPredictions&lt;/a&gt;: Gets stop predictions. Timing and whatnot.&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://chicago.transitapi.com/bustime/map/getBusPredictions.jsp?bus=6654&quot;&gt;getBusPredictions&lt;/a&gt;: Returns arrival predictions for a particular bus.&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://chicago.transitapi.com/bustime/map/getBusesForRoute.jsp?route=49&quot;&gt;getBusesForRoute&lt;/a&gt;: Gets buses for specific route&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://chicago.transitapi.com/bustime/map/getBusesForRouteAll.jsp&quot;&gt;getBusesForRouteAll&lt;/a&gt;: Gets information about every bus in the system.&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://chicago.transitapi.com/bustime/map/schedules.jsp?agency=1&amp;amp;route=92&quot;&gt;Schedule&lt;/a&gt;: Download the Schedule (pdf! w00t)&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://chicago.transitapi.com/bustime/map/getTimeAndTemp.jsp&quot;&gt;getTimeAndTemp&lt;/a&gt;: Outputs the current time and temp&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;small&gt;Preamp/Switcher&lt;/small&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;small&gt;Remote, microcontroller controller potentiometer&lt;/small&gt;&lt;/li&gt;
-&lt;li&gt;&lt;small&gt;multiple step potentiometer&lt;/small&gt;&lt;/li&gt;
-&lt;li&gt;&lt;small&gt;4 inputs&lt;/small&gt;&lt;/li&gt;
-&lt;li&gt;&lt;small&gt;12v power input for remote&lt;/small&gt;&lt;/li&gt;
-&lt;li&gt;&lt;small&gt;2 (left/right) VU meters&lt;/small&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;small&gt;Amp&lt;/small&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;small&gt;amp (some tripath amp - probably si t-amp)&lt;/small&gt;&lt;/li&gt;
-&lt;li&gt;&lt;small&gt;2 line input&lt;/small&gt;&lt;/li&gt;
-&lt;li&gt;&lt;small&gt;4 speaker posts&lt;/small&gt;&lt;/li&gt;
-&lt;li&gt;&lt;small&gt;12V in&lt;/small&gt;&lt;/li&gt;
-&lt;li&gt;&lt;small&gt;blue led status light&lt;/small&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;small&gt;Phono Preamp&lt;/small&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;small&gt;12V in&lt;/small&gt;&lt;/li&gt;
-&lt;li&gt;&lt;small&gt;2 line in (phono )&lt;/small&gt;&lt;/li&gt;
-&lt;li&gt;&lt;small&gt;2 line out&lt;/small&gt;&lt;/li&gt;
-&lt;li&gt;&lt;small&gt;blue led status light&lt;/small&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/blockquote&gt;
 
 
-&lt;p&gt;I think that this project rules and is totally teaching me more about electronics. i mean - i took the classes and have done shit with microcontrollers - but i like this application crap. it rules. so there.&lt;/p&gt;
+&lt;p&gt;I have created a proxy for the endpoints that will do some caching and hopefully alleviate any crazy load the CTA servers would have if this API becomes popular.&lt;/p&gt;
+
+&lt;p&gt;I also did some work to push the UPOC alerts from the CTA riders community into a usable form. That endpoint is the first of hopefully many that can be used to grab real time information about the CTA. You can access it at:&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;http://chicago.transitapi.com/api/alerts/upoc/latest/&quot;&gt;Community Upoc alerts&lt;/a&gt;: Outputs the last alert sent from the UPOC group&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Dan X O'Neil and myself hacked these alerts into the &lt;a href=&quot;http://twitter.com/ctatweet&quot;&gt;CTA Tweet bot&lt;/a&gt; that sends CTA updates via twitter. Pretty neat.&lt;/p&gt;
+
+&lt;p&gt;Moving forward with the API, I want to do a couple key things. The first is to return JSON instead of that terrible XML. The second is to create a couple endpoints that will help with finding the right bus at the right location. I am always looking for help with this stuff - so if you have any ideas - please let me know in the comments.&lt;/p&gt;
+
+&lt;p&gt;So far, there are not a whole lot of applications using this API. The only ones I have thus far are:&lt;/p&gt;
+
+&lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;http://commuting.in/chicago/about&quot;&gt;Commuting.in Chicago&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://txtful.com/template.html?templateId=1368034&quot;&gt;txtful bus alerts&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://businfo.chicagobus.org/&quot;&gt;ChicagoBus.org Bus Finder&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;If you know of any others - let me know. I have a couple projects brewing myself that will hopefully add a shortcode, and a jabber bot for bus notifications and queries. Are there any things yall would like to see? I personally want a really solid native iphone app. It would be awesome to be able to have the iphone pinpoint your location and then tell you what the nearest buses are that are arriving soon. Also - replicating the bus tracker in an easier to use fashion would be excellent.&lt;/p&gt;
+
+&lt;p&gt;All of this API work wouldn't have been possible without the help of &lt;a href=&quot;http://detour1999.com&quot;&gt;Dylan Richard&lt;/a&gt;, &lt;a href=&quot;http://www.derivativeworks.com/&quot;&gt;Dan X O'Neil&lt;/a&gt; and &lt;a href=&quot;http://chicagobus.org&quot;&gt;Kevin Zolkiewicz&lt;/a&gt;. The CTA has also been amazingly cool with all of this - I really like those guys.&lt;/p&gt;
 </content>
 
 
@@ -475,26 +519,47 @@ Directions: Preheat oven 375 degrees. Use small brownie sized pan, (no greasing 
  </entry>
  
  <entry>
-   <title>long ago</title>
-   <link href="http://www.nata2.org/2005/03/12/long_ago/"/>
-   <updated>2005-03-12T00:00:00-06:00</updated>
-   <id>http://www.nata2.org/2005/03/12/long_ago</id>
-   <content type="html">&lt;p&gt;i had these pictures forever - but I was unable to put them up. first I thought I lost my camera battery. then I found it. then I was dumb. then dumber. then I figured it all out. for the record. iphoto is not better than picasa. picasa is real real nice. the absolute integration of iphoto is dope. but picasa is better. a lot better. heh.&lt;/p&gt;
+   <title>Mini Hi Fi: The Chase</title>
+   <link href="http://www.nata2.org/2008/08/30/mini-hi-fi-the-chase/"/>
+   <updated>2008-08-30T00:00:00-05:00</updated>
+   <id>http://www.nata2.org/2008/08/30/mini-hi-fi-the-chase</id>
+   <content type="html">&lt;p&gt;&lt;a title=&quot;2008-08-27 00:32:37 -0500 by nata2, on Flickr&quot; href=&quot;http://www.flickr.com/photos/natatwo/2802479942/&quot;&gt;&lt;img class=&quot;alignright&quot; src=&quot;http://farm4.static.flickr.com/3048/2802479942_2895dcc1d2_m.jpg&quot; alt=&quot;My System&quot; width=&quot;240&quot; height=&quot;180&quot; align=&quot;right&quot; /&gt;&lt;/a&gt; Anyone who hung out with me in the last couple months has probably heard me rant and roll about my new stereo. It is awesome. I can't shut up about it. I am addicted.&lt;/p&gt;
 
+&lt;p&gt;It all started a couple years ago when the SI Tripath Amp emerged on the market. It was a little amp that was reviewed as being MUCH bigger than its cost or its physical size. It was about 40 bucks at target and reviewed the same as amps costing thousands more. Pretty sweet.&lt;/p&gt;
 
-&lt;p&gt;so here are some pictures from awhile ago:&lt;/p&gt;
+&lt;p&gt;I purchased a couple of these and immediately blew at least 2 of them fucking around, recasing and generally attempting to make them sound better than they sound stock. After giving my final one away to a former coworker of Hiromi's - I stopped paying attention to the various blogs and audio reviews of the T Amps.&lt;/p&gt;
 
+&lt;p&gt;Until about 1.5 months ago. heh.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://nata2.info/?path=pictures%2Fevents%2F2005%3A02%3A25_Crobar_felix&quot;&gt;Felix at crobar&lt;/a&gt; and &lt;a href=&quot;http://nata2.info/?path=pictures%2Fevents%2F2005%3A02%3A24_Soundbar_ThrillKillKult&quot;&gt;thrillkill kult at soundbar&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I read an article about &lt;a href=&quot;http://www.hackaday.com/2008/07/27/build-your-own-speakers/&quot;&gt;building speakers on hackaday&lt;/a&gt;. It lead me to another article about building your own &lt;a href=&quot;http://www.hackaday.com/2005/05/26/cat-5-speaker-cables/&quot;&gt;speaker hi-end cables&lt;/a&gt;. Which lead me to an article about &lt;a href=&quot;http://www.tnt-audio.com/clinica/t-amp_tweaks_e.html&quot;&gt;reboxing a SI T-Amp&lt;/a&gt;. Full circle.&lt;/p&gt;
 
+&lt;p&gt;The T-Amp article lead me to start reading &lt;a href=&quot;http://diyaudio.com/&quot;&gt;diyaudio.com&lt;/a&gt; for about 2 weeks straight. It was madness. I stopped programming, stopped hacking stuff and just started building out a new HiFi system in my head.&lt;/p&gt;
 
-&lt;p&gt;fun fun.&lt;/p&gt;
+&lt;p&gt;I read a bunch of reviews about amps, speakers, and all sorts of random topics - until i found this awesome &lt;a href=&quot;http://6moons.com/audioreviews/trends/ta10.html&quot;&gt;6moons review&lt;/a&gt; of the &lt;a href=&quot;http://www.trendsaudio.com/EN/Product/TA-10_desc.htm&quot;&gt;Trends Audio TA-10.1&lt;/a&gt;. The thing that was interesting about this review is that the &lt;a href=&quot;http://6moons.com/audioreviews/trends/ta10_3.html&quot;&gt;3rd page&lt;/a&gt; of the review mentioned some Klipsch speakers that i happen to own and have in my living room. The review mentioned how awesome the TA 10.1 was when matched with the Klipsch speakers, especially in a &lt;a href=&quot;http://www.canuckaudiomart.com/forum/viewtopic.php?t=7335&quot;&gt;horizontal bi-amping&lt;/a&gt; configuration.&lt;/p&gt;
 
+&lt;p&gt;So I went ahead and picked up two of them from &lt;a href=&quot;http://www.audio-magus.com/&quot;&gt;Audio Magus&lt;/a&gt; to bi-amp my klipsch monsters. I also picked up a &lt;a href=&quot;http://www.phonopreamps.com/tc754pp.html&quot;&gt;CHEAP preamp&lt;/a&gt; from &lt;a href=&quot;http://www.phonopreamps.com/&quot;&gt;phonopreamps.com&lt;/a&gt;. In total i spent about $325 and picked up 2 amps and 1 preamp.&lt;/p&gt;
 
-&lt;p&gt;I have to change browsers now. stupid safari.&lt;/p&gt;
+&lt;p&gt;After they arrived, i was able to hook everything up and after a bit of burn in really hear how awesome it actually is. I am very happy with the results. I am not going to talk about soundstage or anything like that - just that it sounds awesome.&lt;/p&gt;
 
+&lt;p&gt;Since I am bi-amping my speakers - I went ahead and set both amps as poweramps (by a jumper inside the amp) and am using the preamp as the volume control. This works very well. My only gripe is that there is no remote, but that is a future addition.&lt;/p&gt;
 
+&lt;p&gt;For audio sources, i have an airport express, my turntable and a poor CD player.&lt;/p&gt;
 
+&lt;p&gt;The future of this system is exciting.&lt;/p&gt;
+
+&lt;p&gt;I am planning on getting a solid preamp. Probably a &lt;a href=&quot;http://www.dared.gr/display.php?lang=EN&amp;amp;model=SL-2000A&quot;&gt;Dared SL 2000A&lt;/a&gt;. It seems that adding a tube preamp to my &quot;digital&quot; amp setup could offer some warmth to the system. It also has a remote for volume control. The only downside is that it only has 2 channels for input - which means that I will have to figure out one source to get rid of (turntable most likely).&lt;/p&gt;
+
+&lt;p&gt;The next thing I would like to add is a couple DACs to do the D/A conversion for my Airport Express and my CD transport. I am looking at the &lt;a href=&quot;http://www.audio-magus.com/Super_Pro_DAC707SE_USB_p/dac707usb.htm&quot;&gt;Super Pro DAC707SE&lt;/a&gt;. It is cheap, well reviewed and has USB support if I choose to add the DAC to one of my computers as a source. Having a DAC should make my Airport Express experience better when listening to lossless audio files. It will also make the shitty CD player sound a lot better. Ultimately, I would like to get a better cd player - which leads me to my next plan.&lt;/p&gt;
+
+&lt;p&gt;The CD transport is world is pretty nuts. It seems that every single transport available is in the thousands, and that there isn't any really a DIY CD transport option that is accessible. There is one compelling option for DIY - the Shigaclone. It is a direct clone of the &lt;a href=&quot;http://www.sakurasystems.com/products/shigacd.html&quot;&gt;Shigaraki Transport&lt;/a&gt;, however the insides are from a JVC boombox (&lt;span class=&quot;nf&quot;&gt;&lt;a href=&quot;http://www.amazon.com/JVC-RC-EZ31-Portable-Boombox-Cassette/dp/B000FD2AG4&quot;&gt;JVC RC-EZ31&lt;/a&gt;)&lt;/span&gt;. The &lt;a href=&quot;http://www.diyaudio.com/forums/showthread.php?threadid=120229&quot;&gt;details are at diyaudio&lt;/a&gt;. Unlike the other clones out there, the Shigaclone seems to be VERY hands on and just a bit past my skill level. I am waiting for a dedicated howto that explains all the various parts of the shigaclone and how I can make one without reading 1800 forum posts. In the meantime, i will have to find an alternative.&lt;/p&gt;
+
+&lt;p&gt;The alternative I have thus far is a 1994 NEC Multispin CDR-401G external CD-ROM. It has play/pause/forward/back buttons and has a digital coax out. It apparently sounds terrible, however once it is hooked to a DAC, it works wonderfully. It is VERY hard to find.&lt;/p&gt;
+
+&lt;p&gt;So for a CD transport, unless i want to spend a million bucks, I have two choices. Build a clone or buy a vintage CDROM.&lt;/p&gt;
+
+&lt;p&gt;I decided that the part of this i liked the best is the chase. I am very happy that I have a good sound system, but I am MORE excited about attempting to find the best system for cheap. Its a GREAT game.&lt;/p&gt;
+
+&lt;p&gt;I just need to make sure that i don't fall for the tricks. I don't want to spend ANY money on cables, nor money on speaker wire. &lt;a href=&quot;http://www.engadget.com/2008/03/03/audiophiles-cant-tell-the-difference-between-monster-cable-and/4&quot;&gt;Metal is metal.&lt;/a&gt;&lt;/p&gt;
 </content>
 
 
@@ -502,16 +567,13 @@ Directions: Preheat oven 375 degrees. Use small brownie sized pan, (no greasing 
  </entry>
  
  <entry>
-   <title>life ON mars</title>
-   <link href="http://www.nata2.org/2005/02/16/life_ON_mars/"/>
-   <updated>2005-02-16T00:00:00-06:00</updated>
-   <id>http://www.nata2.org/2005/02/16/life_ON_mars</id>
-   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.space.com/scienceastronomy/mars_life_050216.html&quot;&gt;here&lt;/a&gt; and then &lt;a href=&quot;http://www.space.com/imageoftheday/image_of_day_050111.html&quot;&gt;this thing&lt;/a&gt;... we are doomed. more appropriatly - theology is doomed. stupid single world theory. always getting in the way. if we find intelligent life we will at least know that it exists &lt;a href=&quot;http://legis.state.nm.us/Sessions/05%20Regular/bills/senate/SB0291.html&quot;&gt;somewhere&lt;/a&gt;.&lt;br&gt;&lt;/p&gt;
+   <title>oh yea. i have a blog</title>
+   <link href="http://www.nata2.org/2008/07/13/oh-yea-i-have-a-blog/"/>
+   <updated>2008-07-13T00:00:00-05:00</updated>
+   <id>http://www.nata2.org/2008/07/13/oh-yea-i-have-a-blog</id>
+   <content type="html">&lt;p&gt;Apparently for the last month or two, I totally forgot that i have a blog. Instead of blogging, i have been hanging out with Hiromi, using twitter,traveling, programming and building things. I didn't have time to include blogging into that mix.&lt;/p&gt;
 
-&lt;br&gt;
-
-
-&lt;p&gt;brb. work.&lt;/p&gt;
+&lt;p&gt;I have a theory, that when my twitter usage goes up, my blogging goes down (I am not &lt;a href=&quot;http://www.problogger.net/archives/2008/07/12/does-twitter-distract-from-or-inspire-your-blogging/&quot;&gt;alone in this&lt;/a&gt;). I am a bit annoyed by this. My twitter posts don't have as much reach as my blog posts. My interaction with people on twitter is much higher than on my blog. I am so conflicted. haha. Luckily, i think i can do both without sacraficing (much) one or the other.I think i will have to just make my posting smaller and more frequent (like a tumble log - but bigger) and make sure that i don't spend myself entirely on twitter.&lt;/p&gt;
 </content>
 
 
@@ -519,48 +581,27 @@ Directions: Preheat oven 375 degrees. Use small brownie sized pan, (no greasing 
  </entry>
  
  <entry>
-   <title>xmlhttp. tiddlywiki. new design. other stuff</title>
-   <link href="http://www.nata2.org/2005/02/10/xmlhttp__tiddlywiki__new_design__other_stuff/"/>
-   <updated>2005-02-10T00:00:00-06:00</updated>
-   <id>http://www.nata2.org/2005/02/10/xmlhttp__tiddlywiki__new_design__other_stuff</id>
-   <content type="html">&lt;p&gt;heh. &lt;a href=&quot;http://www.dopeman.org/nata2&quot;&gt;check out&lt;/a&gt; my new design. it is almost done. I need to fancy it up a bit and tweak it a little bit. but for the most part it is near completion.&lt;br&gt;&lt;/p&gt;
+   <title>Japan Tech Friends</title>
+   <link href="http://www.nata2.org/2008/07/13/japan-tech-friends/"/>
+   <updated>2008-07-13T00:00:00-05:00</updated>
+   <id>http://www.nata2.org/2008/07/13/japan-tech-friends</id>
+   <content type="html">&lt;p&gt;A couple weeks ago, I was in japan for some family events. It was a great trip. Hanging out with Hiromi's family and friends was awesome. Since we were going to be spending some free time in Tokyo, i decided to reach out to the Tokyo tech community and meet some people.  I emailed my friend, Kristin, who had &lt;a href=&quot;http://kristenicole2.wordpress.com/2008/05/28/day-2-in-tokyo-still-afraid-of-heights/&quot;&gt;just been to Japan&lt;/a&gt; and asked her to hook me up with some cool cats in the tech scene.&lt;/p&gt;
 
-&lt;br&gt;
+&lt;p&gt;She obliged and I was able to meet with an awesome group of people for a barcamp like event, and then hang out with another awesome guy who should be the tech tour guide of tokyo. I sadly missed some people from ibm, who were out of town on business - but there is always next time.&lt;/p&gt;
 
+&lt;p&gt;The &lt;a href=&quot;http://akimoto.jp/blog/2008/06/21/aa-camp3%E6%97%A5%E9%80%A3%E7%B6%9A%E9%96%8B%E5%82%AC/&quot;&gt;barcamp like event&lt;/a&gt; was called AA-Camp. It was hosted by &lt;a href=&quot;http://akimoto.jp&quot;&gt;Akky AKIMOTO&lt;/a&gt; who is from &lt;a href=&quot;http://labs.cybozu.co.jp/en/&quot;&gt;Cybozu Labs&lt;/a&gt;. Cybozu labs is a really neat incubator ran by the Cubozu company. It seems that the goal of the lab is to create the next big thing in japanese technology. They give a lot of autonomy to their engineers and really allow them to flouish. The idea of incubators always seem so fun. Akky had two other technologists at the event besides myself. We worked on our own projects, then we presented about ourselves. A&lt;/p&gt;
 
-&lt;p&gt;also check out &lt;a href=&quot;http://43things.com&quot;&gt;43 things&lt;/a&gt; - a really really cool idea. I think I will integrate it with my new blog design. I also want to make a friends section like nick whatever's blog - which I don't want to find right now. I need to rethink my design a bit. but I am happy so far. to load peoples rss I am thinking about using xmlhttp or something. it should rule.&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;The presentations were pretty biographical, covering what we were up to, currently working on and our employers. The first to present was &lt;a href=&quot;http://www.ganchiku.com/&quot;&gt;Shin Ohno&lt;/a&gt;. He is a developer working with Akky to create a neat site for creating comparison tables called &lt;a href=&quot;http://narabe.com/&quot;&gt;Narabe&lt;/a&gt;. Shin has an awesome plan. He travels and does development from his travels. Since all he needs is internet and a laptop, he is well connected no matter where he finds himself.&lt;/p&gt;
 
-&lt;br&gt;
+&lt;p&gt;The next presenter was Akky. He ran through his work, cybozu, cybozu labs and some of their applications they have created. They have launched a number of neat applications - my favorite is &lt;a href=&quot;http://mylingual.net/&quot;&gt;mylingual&lt;/a&gt; - which is a firefox script that translates site from one language to another. sweet stuff. The other applications were &lt;a href=&quot;http://pathtraq.com/&quot;&gt;PathTraq&lt;/a&gt; (alexa like site ranking) and &lt;a href=&quot;http://japanize.31tools.com/&quot;&gt;Japanize&lt;/a&gt; (translating sites into japanese), &lt;a href=&quot;http://ja.doukaku.org/lang/&quot;&gt;doukaku&lt;/a&gt; (coding challenges) and &lt;a href=&quot;http://amachang.art-code.org/pr/&quot;&gt;S6&lt;/a&gt; (a presentation framework). You can seem a summary of Akky's presentation &lt;a href=&quot;http://asiajin.com/blog/2008/05/16/tokyo2point0-event-cybozu-labs-and-phishing-web-20-security/&quot;&gt;here&lt;/a&gt;. Its a bit different - but basically the same.&lt;/p&gt;
 
+&lt;p&gt;The next presenter was &lt;a href=&quot;http://mellowtone.co.jp/&quot;&gt;ARAI Shunichi&lt;/a&gt;. He was working in Ruby doing some neat things related to a startup in stealth mode. He showed us a Ruby framework he had written called &lt;a href=&quot;http://code.google.com/p/egalite/&quot;&gt;Egalite&lt;/a&gt; which is supposed to be even simpler than rails.&lt;/p&gt;
 
-&lt;p&gt;i am also thinking about combining &lt;a href=&quot;http://www.tiddlywiki.com/&quot;&gt;tiddywiki&lt;/a&gt; and xmlhttp to create a super fancy smooth javascript notepad for my site. it should rule.&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;It was awesome to hang out with technologists who were doing neat things and interested in talking about their projects. I hope i get another chance to go to an AA-Camp.&lt;/p&gt;
 
-&lt;br&gt;
+&lt;p&gt;A couple days later, I met up with Tsutomu Kodama. He works for &lt;a href=&quot;http://japan-hopper.com&quot;&gt;Japan Hopper&lt;/a&gt;, a site for backpackers and travelers in japan. it looks to be a google maps wiki mashup allow for people to annotate places and add cool traveler info. Neat. He took us to the small streets behind Omotesando and Harajuku. I was able to find some awesome shoes, check out amazing eyeglasses and eat at a really neat small resturant. I think that any technology person who is in Tokyo and wants to see neat things should attempt to contact Kodama. He is full of awesome places and good tips. He is also quite similar to myself (in a eeire way) and we got along quite well. A great afternoon.&lt;/p&gt;
 
-
-&lt;p&gt;also check out my friend kevi's site: &lt;a href=&quot;http://www.slimkevi.com/&quot;&gt;slimkevi&lt;/a&gt;. he is trying to lose a bunch of weight. the site is totally awesome. good luck. I hope he finds himself successful.&lt;br&gt;&lt;/p&gt;
-
-&lt;br&gt;
-
-
-&lt;p&gt;having reread my entry - I realized I am incredibly tired and need to goto bed. gnight.&lt;/p&gt;
-</content>
-
-
-
- </entry>
- 
- <entry>
-   <title>of course.</title>
-   <link href="http://www.nata2.org/2005/02/06/of_course_/"/>
-   <updated>2005-02-06T00:00:00-06:00</updated>
-   <id>http://www.nata2.org/2005/02/06/of_course_</id>
-   <content type="html">&lt;p&gt;so tomorrow is the day. when the site will go live. I am pretty excited. ;)&lt;br&gt;&lt;/p&gt;
-
-&lt;br&gt;
-
-
-&lt;p&gt;more later.&lt;/p&gt;
+&lt;p&gt;Its exciting to have friends in Japan that are technologists. Now i know that next time i am there i will have the opportunity to network more and meet others.&lt;/p&gt;
 </content>
 
 
