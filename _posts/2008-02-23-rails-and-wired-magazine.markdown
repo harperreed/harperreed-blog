@@ -2,6 +2,7 @@
 wordpress_id: 1507
 layout: post
 title: Rails and Wired magazine
+tags: technology, community, rails, wired, rant
 wordpress_url: http://www.nata2.org/2008/02/23/rails-and-wired-magazine/
 ---
 Apparently I am in the March Wired magazine. I am not sure exactly what the title of the article or the exact content - but I was interview about my views on the rails community as someone who left the community and moved on to other things. (I think - I haven't seen it - just heard that i was in it.)

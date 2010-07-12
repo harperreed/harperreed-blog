@@ -3,6 +3,7 @@ wordpress_id: 603
 layout: post
 title: online communities
 excerpt: i guess I still need to write that paper on online communities and the socialization of online relationships. Especially in light of friendster and the development of virtual "ubermensch." heh. I guess I wasn't clear in what I was saying. I am naive enough to jump to the conclusion that I can use the idea of the ubermensch when ...
+tags: social, war, community, tones, development, friendster
 wordpress_url: http://new.nata2.org/?p=603
 ---
 i guess I still need to write that paper on online communities and the socialization of online relationships. Especially in light of friendster and the development of virtual "<a href="http://www.stanford.edu/~pj97/Nietzsche.htm">ubermensch</a>." <br/><br/>heh. I guess I wasn't clear in what I was saying. I am naive enough to jump to the conclusion that I can use the idea of the ubermensch when talking about online communities..  when discussing the idea of ubermensch or overmen.. let us look at the above links definition: <blockquote><small>

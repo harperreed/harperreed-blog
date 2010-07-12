@@ -7,6 +7,7 @@ excerpt: |
   awesomenessok
   sleep time. well at home. that is. peace ;)
 
+tags: watership
 wordpress_url: http://new.nata2.org/?p=992
 ---
 i was about ready to go home when I decided to finish up an old hack and look what happened: <br/>

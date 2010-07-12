@@ -12,6 +12,7 @@ excerpt: |-
   16 orders in 2001
   32 orders in 2002
   ...
+tags: books, college
 wordpress_url: http://new.nata2.org/?p=725
 ---
 I was glancing at my order history on amazon.com and I noticed that I have ordered a lot of stuff. I shoudl relaly save my money I suppose. here is a breakdown. a lot of these orders may have been one book. or may have been many books. 

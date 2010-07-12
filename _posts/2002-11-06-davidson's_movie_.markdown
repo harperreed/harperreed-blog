@@ -5,6 +5,7 @@ title: davidson's movie.
 excerpt: |-
   My friend Davidson Cole has made a movie called Design. It is about: 
   Eighteen-year-old Sonya is struggling to save her father from alcoholism after his wife leaves him. Voyeuristic photographer Nicholas is obsessed with women, yet hides behind the prying lens of his camera. Cursed factory wo...
+tags: php, women, war, sick, movies, source, design, health, irc, politic, wedding
 wordpress_url: http://new.nata2.org/?p=390
 ---
 My friend <a href="http://www.pen-paper.net/rpgdb.php?op=showcreator&creatorid=2470">Davidson Cole</a> has made a movie called <b>Design</b>. It is about: <blockquote><small>

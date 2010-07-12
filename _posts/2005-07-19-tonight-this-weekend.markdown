@@ -2,6 +2,7 @@
 wordpress_id: 1095
 layout: post
 title: tonight / this weekend
+tags: general, movies, music, hiromi, clubbing, awesome, party, nightlife
 wordpress_url: http://www.nata2.org/?p=1095
 ---
 I am having a hell of a time staying on task. I really have NO idea what day it is or where i am. haha. well i know i am on my couch. watching shitty TV and wishing i had an office. But soon it will all change. 

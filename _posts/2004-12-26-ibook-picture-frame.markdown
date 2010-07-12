@@ -2,6 +2,7 @@
 wordpress_id: 1181
 layout: post
 title: iBook picture frame
+tags: general, hacking, osx, apple, mac, picture, ibook, fram
 wordpress_url: http://www.nata2.org/2004/12/26/ibook-picture-frame/
 ---
 <img align="right" alt="Ibook Picture Frame" src="http://nata2.info/.thumbnails/misc/misc_hacking/ibook_picture_frame/IMG_3842.jpg" />

@@ -2,6 +2,7 @@
 wordpress_id: 1063
 layout: post
 title: "whale. big. boat. little. "
+tags: general, sick, ella, claudia, bbq, picture
 wordpress_url: http://www.nata2.org/2005/05/18/1063/
 ---
 I love flickr. it is great. My friend thom has posted what could be one of the most amazing pictures i have ever seen. check it out <a href="http://flickr.com/photos/moht/14309645/">here</a>. 

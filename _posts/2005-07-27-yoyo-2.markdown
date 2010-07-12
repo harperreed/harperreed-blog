@@ -2,6 +2,7 @@
 wordpress_id: 1100
 layout: post
 title: YoYo
+tags: general, travel, yoyoing
 wordpress_url: http://www.nata2.org/2005/07/27/yoyo-2/
 ---
 I am in orlando. yoyoing. it is incredibly nerdy. 

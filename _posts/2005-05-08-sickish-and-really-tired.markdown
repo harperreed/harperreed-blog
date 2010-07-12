@@ -2,6 +2,7 @@
 wordpress_id: 1053
 layout: post
 title: sickish.. and really tired.  clubbing
+tags: general, blogs, hiromi, clubbing, wordpress, cole
 wordpress_url: http://www.nata2.org/2005/05/08/sickish-and-really-tired/
 ---
 it is kinda late. hiromi and i are waiting for food. how i love you food. my new friend who i will soon destroy. food. my friend food. 

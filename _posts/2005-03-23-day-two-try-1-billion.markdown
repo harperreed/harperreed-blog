@@ -2,6 +2,7 @@
 wordpress_id: 1026
 layout: post
 title: Day two try 1 billion
+tags: general, php, blogs, wordpress, content, management, trackbacks, xml, xslt, mvc, smarty
 wordpress_url: http://www.nata2.org/2005/03/23/day-two-try-1-billion/
 ---
 so i have been working on wordpress and i decided to upgrade all my friends to wordpress. so i did <a href="http://www.proxientunit.com">mike's</a>, <a href="http://www.mimiblume.com" title="miriams">miriams</a>, <a href="http://www.dylanreed.org" title="Dylan's">Dylan's</a>, <a href="http://www.danielleclock.org/blog/">danielles</a> and <A href="http://www.mikecompton.com/blog/">comptons</a> and soon i will get Matiss's and Thom's. 

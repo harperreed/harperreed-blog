@@ -2,6 +2,7 @@
 wordpress_id: 1298
 layout: post
 title: holy damn tired. Juggling for Pride. intonation
+tags: general, juggling, fun, weekend, tired, intonation, tommie-sunshine
 wordpress_url: http://www.nata2.org/2006/06/26/holy-damn-tired-juggling-for-pride-intonation/
 ---
 Woah. I am so damned tired. I slept a LOT today. Like nap after nap after nap. and no actual rest. So this weekend was nuts. First off it was intonation festival weekend. I usually HATE festivals but intonation is often fun and full of good bands. I wasn't going to go - but <a href="http://www.tommiesunshine.com">tommie</a> is in town and had passes - so i was able to stop by. I saw the boredoms, ghostface killer, the streets and lady soverign. It was pretty awesome - but last year was better. it was more fun just to hang out with friends and whatnot - then actually see the bands.

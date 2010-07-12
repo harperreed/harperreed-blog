@@ -2,6 +2,7 @@
 wordpress_id: 1210
 layout: post
 title: "can't sleep. stupid cold. "
+tags: general, cold, sick, google, hacks, diy, ambient, future
 wordpress_url: http://www.nata2.org/2006/02/13/cant-sleep-stupid-cold/
 ---
 seirously. i just lay in bed. feeling sick. breathing out of my mouth and bummed that i can't sleep.

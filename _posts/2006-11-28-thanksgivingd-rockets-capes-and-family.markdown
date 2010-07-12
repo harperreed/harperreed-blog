@@ -2,6 +2,7 @@
 wordpress_id: 1390
 layout: post
 title: "Thanksgiving'd: Rockets, Capes and family"
+tags: general, family, colorado, vacation, holidays, insanity, thanksgiving, rockets, capes
 wordpress_url: http://www.nata2.org/2006/11/28/thanksgivingd-rockets-capes-and-family/
 ---
 After a really nice long week in Colorado I am sadly back in Chicago and back to work. We had a fun time. I got in two Fridays ago.

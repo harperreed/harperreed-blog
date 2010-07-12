@@ -2,6 +2,7 @@
 wordpress_id: 1192
 layout: post
 title: OGO review
+tags: general, technology, technology, mobile, review, ogo, cingular
 wordpress_url: http://www.nata2.org/2004/09/24/ogo-review-3/
 ---
 <img align="right" src="http://nata2.info/.thumbnails/pictures/misc/ogo_review/DSCN2051.jpg" />

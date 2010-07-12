@@ -2,6 +2,7 @@
 wordpress_id: 1434
 layout: post
 title: PECL Uploadprogress example
+tags: technology, technology, php, progressbar, php-progress-bar, progress-bar, prototype-uploads, yui, prototype, pecl, uploadprogress, ajax-uploads, uploads
 wordpress_url: http://www.nata2.org/2007/04/16/pecl-uploadprogress-example/
 ---
 Today I decided I was going to build the asynchronous picture uploader for one of our new projects. I had installed the <a href="http://pecl.php.net/package/uploadprogress">PECL Uploadprogress extension</a> awhile ago and I just needed to build an example and then build it into our app.

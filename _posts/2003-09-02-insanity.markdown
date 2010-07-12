@@ -10,6 +10,7 @@ excerpt: |-
   phunktoad (2:05:15 PM): have you watched the little kid one
   phunktoad (2:06:12 PM): jesus
   phunktoad (2:06:21 PM): I c...
+tags: linux
 wordpress_url: http://new.nata2.org/?p=611
 ---
 this is <a href="http://www.ntv.co.jp/kasoh/past_movie/contents.html">insanity</a>

@@ -3,6 +3,7 @@ wordpress_id: 211
 layout: post
 title: the best movie ever... !!
 excerpt: "Last night I went out to a seedy bar with some friends after work. Drank a little - helped another friend with web problems. and then went to some movies. I say some because we couldn't afford to goto the movie we wanted to goto. So we purchased tickets to a cheaper movie and then after an hour of the cheaper movie, we sneaked out and the "
+tags: movies, humor
 wordpress_url: http://new.nata2.org/?p=211
 ---
 Last night I went out to a seedy bar with some friends after work. Drank a little - helped another friend with web problems. and then went to some movies. I say some because we couldn't afford to goto the movie we wanted to goto. So we purchased tickets to a cheaper movie and then after an hour of the <a href="http://us.imdb.com/Title?0273923">cheaper movie</a>, we sneaked out and the <a href="http://us.imdb.com/Title?0192657">movie</a> we came to see was just starting.<br/><br/>

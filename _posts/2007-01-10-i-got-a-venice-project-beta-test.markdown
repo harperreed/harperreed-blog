@@ -2,6 +2,7 @@
 wordpress_id: 1404
 layout: post
 title: I got a Venice Project beta test
+tags: technology, social, technology, projects, interesting, television, web-20, beta, p2p, venice-project
 wordpress_url: http://www.nata2.org/2007/01/10/i-got-a-venice-project-beta-test/
 ---
 The <a href="https://www.theveniceproject.com">Venice Project</a> is a P2P social television project by the guys who made <a href="http://skype.com">Skype</a>. They are really into disruptive technologies and I am excited to be a part of the beta. You can get more information at the <a href="http://en.wikipedia.org/wiki/The_Venice_Project_%28software%29">Venice Project wikipedia page.</a>

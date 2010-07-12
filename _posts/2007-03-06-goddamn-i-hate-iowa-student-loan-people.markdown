@@ -2,6 +2,7 @@
 wordpress_id: 1416
 layout: post
 title: Goddamn. I hate Iowa Student loan people.
+tags: general
 wordpress_url: http://www.nata2.org/2007/03/06/goddamn-i-hate-iowa-student-loan-people/
 ---
 For the past couple weeks I have been slowly and surely reigning in all my finances and changing them to work with Hiromi and my new fancy joint account. Its pretty exciting and a big step for me in regards to finances. I usually manage my finances like I would a motorcycle - recklessly and without a helmet; but I have been trying to do everything the "correct"  and have actually been reading blogs and what not to find out how to budget things efficiently and without losing money.

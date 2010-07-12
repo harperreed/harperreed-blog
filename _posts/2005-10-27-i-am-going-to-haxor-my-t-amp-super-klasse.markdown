@@ -2,6 +2,7 @@
 wordpress_id: 1143
 layout: post
 title: I am going to Haxor my t-amp. Super Klasse
+tags: general, hacking, projects, electronics, audio, t-amp
 wordpress_url: http://www.nata2.org/?p=1143
 ---
 So. I have been at work a lot lately. 

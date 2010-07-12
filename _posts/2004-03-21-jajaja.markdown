@@ -6,6 +6,7 @@ excerpt: |-
   today I installed my new router, looked over my taxes, accidently watched a really dumb movie and discussed white privilege with a friend. it was a good day. 
   
   check out t...
+tags: php, chris, birthday
 wordpress_url: http://new.nata2.org/?p=781
 ---
 today I installed <a href="http://www.sveasoft.com/forum6.html">my new router</a>, looked over my taxes, accidently watched a <a href="http://www.vidkraft.com/ffvp/2003/under_the_tuscan_sky.htm">really dumb movie</a> and discussed <a href="http://whiteprivilegeconference.com/">white privilege</a> with a <a href="http://www.eddiemoorejr.com">friend</a>. it was a good day. 

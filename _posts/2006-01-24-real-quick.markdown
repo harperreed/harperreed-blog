@@ -2,6 +2,7 @@
 wordpress_id: 1200
 layout: post
 title: "real quick. "
+tags: general, awe
 wordpress_url: http://www.nata2.org/2006/01/24/real-quick/
 ---
 <p>i was recently reminded of why i hate companies who are way too full of themselves. just in the past week i called a <a href="http://vibesmedia.com/">company here in chicago</a> that does some stuff that we were interested in using. they totally blew me off when they realized i wasn't going to use their managed services. wtf. we would have droppped a lot of money on them. we could easily have rivaled what any of their other clients were doing. they thought i was just some punk kid calling to waste time. I hate being snubbed. I will never ever think about using them.</p>

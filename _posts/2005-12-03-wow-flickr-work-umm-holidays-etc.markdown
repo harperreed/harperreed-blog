@@ -2,6 +2,7 @@
 wordpress_id: 1152
 layout: post
 title: "wow. flickr. work. umm... holidays. etc. "
+tags: general, books, crobar, politics, travel, holidays, awesome, party
 wordpress_url: http://www.nata2.org/2005/12/03/wow-flickr-work-umm-holidays-etc/
 ---
 So i haven't updated in awhile. that is.. i haven't updated since the beginning of thanksgiving weekend. Oh what a weekend it was. Filled with unimaginable excitment and fun. 

@@ -2,6 +2,7 @@
 wordpress_id: 1479
 layout: post
 title: IRC is a very strange place
+tags: general, humor, irc, nerds, breaking-up
 wordpress_url: http://www.nata2.org/2007/09/17/irc-is-a-very-strange-place/
 ---
 I sit on IRC quite a lot. Most of the time in #corporate on efnet. I have been there pretty much everyday for the last 5 years. Kind of insane. I love shells. anyway, in the past couple months some friends and i were talking about starting another channel. So we brainstormed some channel names. Then i squatted in a couple of them to see what kind of people came in. We didn't want something that people were regularly joining or using. We wanted something fresh but easy to remember.

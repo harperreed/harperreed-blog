@@ -2,6 +2,7 @@
 wordpress_id: 1440
 layout: post
 title: "The Digg Rebellion: a breaking of the covenant"
+tags: technology, technology, online, web-20, users, communities, digg
 wordpress_url: http://www.nata2.org/2007/05/01/the-digg-rebellion-a-breaking-of-the-covenant/
 ---
 <a href="http://www.flickr.com/photos/natatwo/480879814/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/184/480879814_09717a2419_m.jpg" alt="Digg  News taken over by people talking about AACS code" align="right" height="240" width="130" /></a>It all started today when <a href="http://digg.com">DIGG</a> censored a news story. A story about the <a href="http://www.google.com/url?sa=t&amp;ct=res&amp;cd=1&amp;url=http%3A%2F%2Fwww.chillingeffects.org%2Fnotice.cgi%3FsID%3D3218&amp;ei=MxY4Rq7KKYe4iwHx4JD1DA&amp;usg=AFrqEzeWGk2h0rWvbbyJd7LQs_83E8zakA&amp;sig2=LBve4hXK4rs50QqrYLWxJw">AACS controversy</a>. AACS issued some <a href="http://www.chillingeffects.org/anticircumvention/notice.cgi?NoticeID=7180">cease and desists</a> to various organizations (I think including DIGG) who talked about cracking the AACS encryption on HDDVD and Blu-Ray DVDs.

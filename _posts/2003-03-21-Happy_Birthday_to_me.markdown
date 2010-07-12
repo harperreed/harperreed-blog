@@ -5,6 +5,7 @@ title: Happy Birthday to me
 excerpt: |-
   Today is my 25th birthday.  I am happy. Last night I hung out with a bunch of cool cats and we went to iggy's and ate dinner. we got there about 11:50 so it was a good time. I drank beer and coke - not together.. mind you.. I am not like some of my friends.. hehe.. ;). it was fun. they sang happy birthday to me.. and succeeded in embarrasing me slightly. I like that. 
   WW3 seems like i...
+tags: birthday, india
 wordpress_url: http://new.nata2.org/?p=469
 ---
 Today is my 25th birthday.  I am happy. Last night I hung out with a bunch of cool cats and we went to iggy's and ate dinner. we got there about 11:50 so it was a good time. I drank beer and coke - not together.. mind you.. I am not like some of my friends.. hehe.. ;). it was fun. they sang happy birthday to me.. and succeeded in embarrasing me slightly. I like that. <br/><br/>

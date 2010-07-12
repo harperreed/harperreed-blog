@@ -2,6 +2,7 @@
 wordpress_id: 1220
 layout: post
 title: "Whew. How i hate PXE. "
+tags: general, technology, unix, freebsd, soekris, stompbox, pxe, booting, linksys, wrt54g, monowall
 wordpress_url: http://www.nata2.org/2006/02/25/whew-how-i-hate-pxe/
 ---
 So i spent most of today attempting to boot my <a href="http://www.soekris.com/net4521.htm">soekris 4521</a> via PXE to install freebsd. It is killing me. i am going to punch it. wait. i have punched it. over and over again. i punched it in its goddamn eyes.

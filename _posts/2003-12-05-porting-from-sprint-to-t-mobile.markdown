@@ -2,6 +2,7 @@
 wordpress_id: 1167
 layout: post
 title: Porting from sprint to t-mobile
+tags: general
 wordpress_url: http://www.nata2.org/2003/12/05/porting-from-sprint-to-t-mobile/
 ---
 On the LNP day last month i immediately ported from sprint to t-mobile. I had been with sprint for 4 years and was appreciative of their "3g" technology. but after gettgin completely screwed one too many times i decided to switch. I had a tough time figuring out which provider to go with, although i had narrowed the phone down to the <a href="http://www.sonyericsson.com/t610/">t610</a>.

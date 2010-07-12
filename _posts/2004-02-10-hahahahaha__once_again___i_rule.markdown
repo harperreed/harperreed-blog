@@ -3,6 +3,7 @@ wordpress_id: 750
 layout: post
 title: hahahahaha. once again.. i rule
 excerpt: "so a week or so ago I went to this party for the chicago thong organization, it was really funny and strange - but my friend chris and I participated in the activities and wore thongs and capes(which was the costume of choice). well later that night we were at a club and one of our friends snapped this really great "
+tags: nerd, reed, family, php, phone, chicago, hacking, search, chris, tools, security, mom, aim, linux, ipod, kungfu, google, hong, advertising
 wordpress_url: http://new.nata2.org/?p=750
 ---
 so a week or so ago I went to this party for the <a href="http://www.chicagothong.org/">chicago thong organization</a>, it was really funny and strange - but my friend chris and I participated in the activities and wore thongs and capes(which was the costume of choice). well later that night we were at a club and one of our friends snapped this really great <a href="http://ambrel.net/android/images/IMG_1453.jpg">shot of my ass</a>. when I got to work on monday and saw it - I thought immediately how fun(and funny) it would be to send it to my parents in a really nice frame. so I did. it was killing me however - cuz I had to wait quietly in the corner and let them receive it without me blowing the surprise. so today they receieved it. ;) and here is my fathers response (via aim of course):

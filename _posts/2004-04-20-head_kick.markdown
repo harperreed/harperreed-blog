@@ -4,6 +4,7 @@ layout: post
 title: head kick
 excerpt: "i just made a 3ft x 4ft picture of my head. it is pretty funny. especially when it is printed out. \r\n\
   so. umm. yea. here is a "
+tags: harper, phone, nokia
 wordpress_url: http://new.nata2.org/?p=826
 ---
 i just <a href="http://homokaasu.org/rasterbator/">made</a> a 3ft x 4ft</a> picture of my <a href="http://nata2.info/misc/Incoming/Harpers-head-rasterbation.pdf">head</a>. it is pretty funny. especially when it is <a href="http://www.nata2.info/?path=pictures%2Fmisc%2Fphone_camera%2Fphotolog&img=1082502984-Nokia6600(424).jpg">printed out</a>. <br/>

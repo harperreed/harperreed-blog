@@ -2,6 +2,7 @@
 wordpress_id: 1149
 layout: post
 title: I think i forgot i even had a blog
+tags: general, computers, work
 wordpress_url: http://www.nata2.org/2005/11/17/i-think-i-forgot-i-even-had-a-blog/
 ---
 Work has been really crazy. We are having a <a href="http://www.threadless.com">sale</a> and its nutso. are servers were totally owned by our users and we had to fight every one of them to survive. but we did it. and now threadless is ruling - more or less. soon it will be ruling always. and forever. 

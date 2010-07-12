@@ -3,6 +3,7 @@ wordpress_id: 541
 layout: post
 title: very nice and sad weekend
 excerpt: So this weekend was erally great. So much nice stuff happened and went down.. but all because of a very sad reason.. Yesterday bec left for miami.. :( - hopefully we will see her again. I really enjoyed hangin...
+tags: juggle, chicago, war, food, matiss, hiromi
 wordpress_url: http://new.nata2.org/?p=541
 ---
 So this weekend was erally great. So much nice stuff happened and went down.. but all because of a very sad reason.. Yesterday <a href="http://nata2.info/?path=pictures%2Fmisc%2Fbecs_going_away_weekend%2Fbecs%20last%20supper&img=becs%20last%20supper%20025.jpg">bec</a> left for <a href="http://formen.ign.com/news/35755.html">miami</a>.. :( - hopefully we will see her again. I really enjoyed hanging out and getting to know her. I wish her the best of luck and hope to her from her soon.. however the saying goodbye part was soo sad. I hate being sad and goodbyes are the hardest part. especially when the person is nice and ultra cool. doh times 10.

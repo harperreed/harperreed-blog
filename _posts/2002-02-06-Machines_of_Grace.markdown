@@ -3,6 +3,7 @@ wordpress_id: 203
 layout: post
 title: Machines of Grace
 excerpt: So everyday I walk down some street that is being reconstructed. It is really neat to see civil engineering happen over time. Quite something really. I quite enjoy watching the big machinery move about and crush and build and destroy things. I often time mistake them for dinosaurs. I mean I know they are not dinosaurs.. however they could be. I imagine them being the same size as dinosaurs - and ...
+tags: bush, tones
 wordpress_url: http://new.nata2.org/?p=203
 ---
 So everyday I walk down some street that is being reconstructed. It is really neat to see civil engineering happen over time. Quite something really. I quite enjoy watching the big machinery move about and crush and build and destroy things. I often time mistake them for dinosaurs. I mean I know they are not dinosaurs.. however they could be. I imagine them being the same size as dinosaurs - and in that flintstones sorta way.. they are being used as dinosarus would be used. It is fun. <br/><br/>Last night I went and saw busta rhymes. and boy oh boy did he bust da rhymes. heh. well. ice cube was in the audience and apparently "eazy-e" was there as well. Which is rather surprising cuz he is dead. or busta accidently exposed the plot that got 2pac and biggie smalls.. as well. hmm.. I wonder.<br/>

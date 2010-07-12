@@ -3,6 +3,7 @@ wordpress_id: 135
 layout: post
 title: Late Night in the airport.
 excerpt: So I was walking in DIA heading to my terminal when I noticed a set of "net terminals." I laughed and thought "how nice, free internet. Now there is a business model that will work." I think it was called go2net... althought io don't really remember. All I know is that they used linux and a slow version of netscape 4 and the terminal next to mine kernal panic...
+tags: chicago, internet, business, linux
 wordpress_url: http://new.nata2.org/?p=135
 ---
 So I was walking in DIA heading to my terminal when I noticed a set of "net terminals." I laughed and thought "how nice, free internet. Now there is a business model that will work." I think it was called <a href="http://www.go2net.com">go2net</a>... althought io don't really remember. All I know is that they used linux and a slow version of netscape 4 and the terminal next to mine kernal panic'd.. hehe..

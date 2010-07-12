@@ -2,6 +2,7 @@
 wordpress_id: 1408
 layout: post
 title: A lot of stuff in the last month.
+tags: general, dylan, chicago, hiromi, mosso, skinnycorp, cta, servers, moving, logan-square, lincoln-square, buses, valentines-day
 wordpress_url: http://www.nata2.org/2007/02/14/a-lot-of-stuff-in-the-last-month/
 ---
 I know I know. I have been a bad bad blogger. I basically I have been ignoring the fact that I have a blog. For a long time - - pretty much since I got back from japan at the beginning of January. eep. What weird is that I have been playing computer a lot - but mostly doing workish things. it made it hard to justify blogging when I had 100 things on my plate. whoops. But now things have settled down a bit.  I feel a more static, and I don't think that everything is going to blow up. Its nice to breathe!

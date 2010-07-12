@@ -5,6 +5,7 @@ title: christ i am not
 excerpt: |-
   So on thursday I got really bored and made a false profile for a christian dating service. It is really lame.. however we made a funny profile. unfortunantly it deleted the best part. I was so sad. :( here is an excerpt: 
   When I was a younger lad, I unfortunately witnessed a crime of passion that changed my life forever. Finding my mother in ...
+tags: family, chicago, search, community, chris, bush, action, vacation, games, hong, restaurant
 wordpress_url: http://new.nata2.org/?p=560
 ---
 So on thursday I got really bored and made a false profile for a <a href="http://bigchurch.com">christian dating service</a>. It is really lame.. however we made a funny profile. unfortunantly it deleted the best part. I was so sad. :( here is an excerpt: <blockquote><small>

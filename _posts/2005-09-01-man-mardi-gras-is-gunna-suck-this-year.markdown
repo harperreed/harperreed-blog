@@ -2,6 +2,7 @@
 wordpress_id: 1123
 layout: post
 title: "man... mardi gras is gunna suck this year. "
+tags: general, skinnycorp, awesome, work, photolog, destruction
 wordpress_url: http://www.nata2.org/?p=1123
 ---
 seriously. new orleans got knocked the fuck down. It is amazing how nature can take a piece of something that we think is strong and then remove our conception of strength without even thinking of it. I remember reading the other day about how the hurricane had POUNDED miami and it was going to disrupt the VMAs (oh my god!!) - but no one had even an inkling of how powerful and destructive it could end up being.  I guess we now know. I think it is insane that the governor of louisiana is saying that new orleans needs to be abandoned. i wonder if we will rebuild it - or if it will be under water. i heard that it is a city that is below sea level and near the mouth of a river and near a lake and near the ocean - that seems like a bad place for a city.  eh.. i guess we all learn from our mistakes.. 

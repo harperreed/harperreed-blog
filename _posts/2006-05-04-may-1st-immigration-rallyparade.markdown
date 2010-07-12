@@ -2,6 +2,7 @@
 wordpress_id: 1258
 layout: post
 title: May 1st Immigration Rally/Parade
+tags: general, chicago, rights, protest, immigration, rally, hr4437, 1mayhuelga
 wordpress_url: http://www.nata2.org/2006/05/04/may-1st-immigration-rallyparade/
 ---
 <a title="Photo Sharing" href="http://www.flickr.com/photos/natatwo/138514449/"><img align="right" title="IMG_5959" alt="IMG_5959" src="http://static.flickr.com/51/138514449_388cbbc1b9_m.jpg" /></a>On monday i went to the immigration rally in chicago. It was amazing. One of the craziest and coolest things i have done. I wasn't expecting the number of people - nor the feelings and emotions that were around. It was pretty cool.

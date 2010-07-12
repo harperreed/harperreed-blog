@@ -2,6 +2,7 @@
 wordpress_id: 1673
 layout: post
 title: "Smitten by the iPad: thoughts and complaints. "
+tags: general, apple, ipad
 wordpress_url: http://www.nata2.org/?p=1673
 ---
 <a title="The ipad is awesome by nata2, on Flickr" href="http://www.flickr.com/photos/natatwo/4488064118/"><img src="http://farm5.static.flickr.com/4052/4488064118_ea9d770433_m.jpg" alt="The ipad is awesome" width="240" height="180" align="right" /></a>I was tricked by the gravitational forces that an apple product announcement causes into visiting the apple store. Five hundred bucks later I walked out of the apple store with a fancy new iPad. Excited and Doh!

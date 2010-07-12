@@ -2,6 +2,7 @@
 wordpress_id: 1134
 layout: post
 title: Sad violent books about society
+tags: general, books, literature, stereo, hifi, diy, audio, sadness, society, violent
 wordpress_url: http://www.nata2.org/2005/10/05/sad-violent-books-about-society/
 ---
 So i have been reading these short, sad, very violent books about society. It is pretty rough.

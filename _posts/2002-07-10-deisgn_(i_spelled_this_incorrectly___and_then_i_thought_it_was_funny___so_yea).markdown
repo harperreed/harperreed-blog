@@ -5,6 +5,7 @@ title: deisgn (i spelled this incorrectly.. and then i thought it was funny.. so
 excerpt: |-
   i love the internet. Awhile back I posted 60X1.com, I finally took the time to finish it and much to my chagrin it led me to some amazing sites:
   tinkin - this is the guy who made 60X1.com he has a bunch of really great anti war stuff. it is so good. it makes me happ...
+tags: internet, war, sites, bush, metal, source, humor, design, politics, politic
 wordpress_url: http://new.nata2.org/?p=316
 ---
 i love the internet. Awhile back I posted <a href="http://111111111111111111111111111111111111111111111111111111111111.com">60X1.com</a>, I finally took the time to finish it and much to my chagrin it led me to some amazing sites:<br/>

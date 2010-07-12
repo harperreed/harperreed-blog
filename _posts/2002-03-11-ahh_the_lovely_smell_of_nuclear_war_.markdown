@@ -3,6 +3,7 @@ wordpress_id: 227
 layout: post
 title: ahh the lovely smell of nuclear war.
 excerpt: I love going to the internet and seeing a fresh brew of fear waiting for me on the other side. It is quite disconcerting. Check out this and this. as well as this ...
+tags: internet, war, fear, school
 wordpress_url: http://new.nata2.org/?p=227
 ---
 I love going to the internet and seeing a fresh brew of fear waiting for me on the other side. It is quite disconcerting. Check out <a href="http://www.latimes.com/news/opinion/la-op-arkinmar10.story">this</a> and <a href="http://www.nytimes.com/2002/03/10/international/10NUKE.html">this</a>. as well as <a href="http://news.bbc.co.uk/hi/english/world/americas/newsid_1864000/1864173.stm">this</a> and <a href="http://slashdot.org/article.pl?sid=02/03/10/0153216&mode=nested&tid=103&threshold=3">this</a>. <br/><br/>

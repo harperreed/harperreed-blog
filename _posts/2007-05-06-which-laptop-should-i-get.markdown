@@ -2,6 +2,7 @@
 wordpress_id: 1441
 layout: post
 title: Which laptop should I get
+tags: technology, technology, linux, osx, apple, macbook, t60, lenovo, purchase, development, desktop-development, mac, ubuntu, laptops
 wordpress_url: http://www.nata2.org/2007/05/06/which-laptop-should-i-get/
 ---
 So I am in the market for a new laptop. I am currently using a <a href="http://www.anandtech.com/mobile/showdoc.aspx?i=2296">Dell Inspiron 700M</a> which I purchased a couple summers ago when I was doing freelance work. It has been a really good laptop and has gotten a lot of stuff done. So now that the customary 2 years has past, I am feeling the itch to upgrade to faster, cooler and much better machine.

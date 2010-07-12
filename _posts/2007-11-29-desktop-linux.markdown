@@ -2,6 +2,7 @@
 wordpress_id: 1493
 layout: post
 title: "Desktop Linux.... "
+tags: general, linux, osx, ubuntu, unix, desktop-linux
 wordpress_url: http://www.nata2.org/2007/11/29/desktop-linux/
 ---
 I am a linux mad man recently. I was noticing today that almost all of my devices i enjoy using are unix and mostly linux based. Pretty insane. So with that thought i decided to unshackle myself from the man and attempt desktop linux for the first time.

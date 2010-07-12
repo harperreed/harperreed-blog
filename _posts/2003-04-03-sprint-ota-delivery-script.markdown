@@ -2,6 +2,7 @@
 wordpress_id: 1165
 layout: post
 title: Sprint OTA delivery script
+tags: general, php, sprint, screensavers, ringtones, ota
 wordpress_url: http://www.nata2.org/2003/04/03/sprint-ota-delivery-script/
 ---
 This is my attempt at putting all of the knowledge i used in the creation of the first to market website 3gScreensaver.com and A500hacking.com into a project that everyone can enjoy and benefit from.

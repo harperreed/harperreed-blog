@@ -3,6 +3,7 @@ wordpress_id: 908
 layout: post
 title: figured it out
 excerpt: "the past couple days have been real chill. I have listened to front 242 exclusively. it is nice. I am a fan of head hunter. of course. i remembered again how to use multiple irc servers with scrollz:/window new hide[esc 2]/window server irc.whatever.org/join #irule"
+tags: server, coding, irc, wedding, hiromi, itunes
 wordpress_url: http://new.nata2.org/?p=908
 ---
 the past couple days have been real chill. I have <a href="http://dopeman.org/itunes">listened</a> to <a href="http://www.front242.com/splash.htm">front 242</a> exclusively. it is nice. I am a fan of head hunter. of course. <br/><br/>i remembered again how to use multiple irc servers with scrollz:<blockquote><small>/window new hide<br/>[esc 2]<br/>/window server irc.whatever.org<br/>/join #irule</small></blockquote>

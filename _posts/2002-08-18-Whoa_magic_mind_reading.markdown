@@ -6,6 +6,7 @@ excerpt: |-
   Apparently it has become insane outside. nasa is planning on reading people minds.. what.. wtf.. what.. no sense.. 
   
   A senetor is questioning the lack of enron indictments..  no.. I h...
+tags: insane, chris, bush, iraq
 wordpress_url: http://new.nata2.org/?p=344
 ---
 Apparently it has become insane outside. <a href="http://www.washtimes.com/national/20020817-704732.htm">nasa</a> is planning on reading people minds.. what.. wtf.. what.. no sense.. 

@@ -2,6 +2,7 @@
 wordpress_id: 1199
 layout: post
 title: OSX Asterisk updated
+tags: technology, technology, source, osx, apple, asterisk, telephony, pbx, open
 wordpress_url: http://www.nata2.org/2006/01/24/osx-asterisk-updated/
 ---
 As yall know i have been playing and hacking with the Asterisk open source PBX. In my exploration time i have been looking at some great sites on asterisk and came across this relaly great asterisk guy named benjk. He runs the <a href="http://www.sunrise-tel.com/">sunrise-tel.com</a> site that releases and maintains some OSX Asterisk packages. Quite amazing. The work they are doing is pushing Asterisk into a completely different market than some of the other asterisk distributions. The idea as i see it - is to create a distribution that allows a person to easily install and configure asterisk on simple hardware and use it in a SOHO environment. The ideal place hardware for this would be a macmini or similar hardware, running on OSX. This is a stable unix environment that allows a lot of the hardcore-ness of linux and bsds but puts that carndy coating that is aqua in front of it.

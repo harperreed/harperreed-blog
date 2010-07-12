@@ -3,6 +3,7 @@ wordpress_id: 775
 layout: post
 title: the world.. E.T.A. etc. - nonsese
 excerpt: So today some terrorists in the basque region of spain blew up a bunch of commuter trains during rush hour. this is after the E.T.A. declared a cease fire on the caralina region of spain - so apparently the terrosist actions are now concentrated on madrid and the like. i know so little about the fran...
+tags: social, php, blogs, internet, sites, fear, bush, action, websites, source, aim, dad, terrorism, politic, google
 wordpress_url: http://new.nata2.org/?p=775
 ---
 So today some terrorists in the basque region of spain <a href="http://www.nytimes.com/2004/03/11/international/europe/11CND-TRAI.html?hp">blew up a bunch of commuter trains during rush hour</a>. this is after the E.T.A. declared a cease fire on the caralina region of spain - so apparently the terrosist actions are now concentrated on madrid and the like. <br/><br/>i know so little about the france/spain/basque conflict that I am very confused. it is interesting to read the reactions of the internet to such a horrible terrorist act. I was specifically interested in what <a href="http://www.russellbeattie.com/notebook/1006663.html">Russell Beattie </a> would say - as he worked in spain for awhile doing tech stuff and has a seemingly good political stance. I also stumled upon a bunch of spanish blogs and newsfeeds that helped a lot. here are some links: <blockquote><small>

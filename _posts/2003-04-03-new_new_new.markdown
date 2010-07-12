@@ -4,6 +4,7 @@ layout: post
 title: new new new
 excerpt: "so awhile ago I ordered some new servers.. and here they are.. weee\r\n\
   the biggin, the littlin and the "
+tags: server, action
 wordpress_url: http://new.nata2.org/?p=477
 ---
 so awhile ago I ordered some new servers.. and here they are.. weee

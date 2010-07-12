@@ -3,6 +3,7 @@ wordpress_id: 910
 layout: post
 title: so tired. this weekend. etv. weddings are fun and weird
 excerpt: this weekend I went to colorado to see my friend sarah get married. it was pretty fun. I really enjoy weddings even though they are so weird. sara h and matt were really cute. it was nice that they got ...
+tags: job, family, phone, colorado, chicago, internet, video, sick, food, design, dad, games, wedding, nokia
 wordpress_url: http://new.nata2.org/?p=910
 ---
 this weekend I <A href="http://nata2.info/?path=pictures%2Fevents%2F2004%3A07%3A31_sarahs_wedding">went to colorado to see my friend sarah get married</a>. it was pretty fun. I really enjoy weddings even though they are so weird. <a href="http://nata2.info/?path=pictures%2Fevents%2F2004%3A07%3A31_sarahs_wedding&amp;img=IMG_0969.jpg">sara h and matt</a> were really cute. it was nice that they got married. 

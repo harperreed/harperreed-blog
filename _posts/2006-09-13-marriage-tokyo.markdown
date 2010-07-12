@@ -2,6 +2,7 @@
 wordpress_id: 1334
 layout: post
 title: Marriage. TOKYO.
+tags: general, harper, family, marriage, fun, hiromi, travel, life, amazing, japan, tokyo, yamanashi, big
 wordpress_url: http://www.nata2.org/2006/09/13/marriage-tokyo/
 ---
 <a href="http://www.flickr.com/photos/natatwo/228271999/" title="Photo Sharing"><img src="http://static.flickr.com/95/228271999_bdd2c3fd46_m.jpg" title="We are officially married!" alt="We are officially married!" align="right" /></a>So Hiromi and I are all married up now. Exciting. It was a weird and bureaucracy filled trip these last couple months and it all culminated with an excellent trip to Tokyo with my dad and Hiromi and us getting hitched.

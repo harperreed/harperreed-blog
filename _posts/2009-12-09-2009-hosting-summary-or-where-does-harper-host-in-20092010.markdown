@@ -2,6 +2,7 @@
 wordpress_id: 1655
 layout: post
 title: 2009 Hosting Summary (or where does Harper host in 2009/2010)
+tags: general, hosting, rackspace, google, infrastructure, cloud, amazon, cloud-hosting
 wordpress_url: http://www.nata2.org/?p=1655
 ---
 <a title="this is mount fuji by nata2, on Flickr" href="http://www.flickr.com/photos/natatwo/2581673203/"><img src="http://farm4.static.flickr.com/3192/2581673203_d18270a494_m.jpg" alt="this is mount fuji" width="240" height="180" align="right" /></a>2009 was an awesome year. A lot of amazing things happened in the world of hosting (and <a href="http://www.nata2.org/2009/10/07/leaving-threadless/">a lot happened</a> in the world of Harper too). Being a crazy hosting aficionado, I will summarize my thoughts on hosting in 2009 (I will leave the predictions for 2010).

@@ -3,6 +3,7 @@ wordpress_id: 892
 layout: post
 title: i got my bike today
 excerpt: this weekend was awesome. on thursday I hung out with a dope friend - we got dinner and drinks - it was pretty nice. I went home for a quick stop to say hi to my friends who were staying and then went to crobar - where a bunch of friends were. we somehow made it to vips. hahah. wh...
+tags: dylan, phone, sick, school, food, crobar, insane, movies, bush, action, matiss, wedding, nokia
 wordpress_url: http://new.nata2.org/?p=892
 ---
 this weekend was awesome. on thursday I hung out with a dope friend - we got <a href="http://www.nata2.info/?path=pictures%2Fmisc%2Fphone_camera%2Fphotolog&img=1088141512-Nokia6600(973).jpg">dinner and drinks</a> - it was pretty nice. I went home for a quick stop to say hi to my friends who were staying and then went to crobar - where a bunch of friends were. we somehow made it to vips. hahah. whatever. ;) then I went to bed. I find it pretty weird that I consider thursday the beginning of the weekend. heh. maybe that would explain my oft problematic friday morning. haha. anyway.. after thrusday...  I woke up sick. sad. I got a bit better throughout work and came home so we could leave for sheboygan. wtf.

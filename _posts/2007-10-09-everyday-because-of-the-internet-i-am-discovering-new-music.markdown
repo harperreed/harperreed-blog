@@ -2,6 +2,7 @@
 wordpress_id: 1484
 layout: post
 title: Everyday, because of the internet, I am discovering new music
+tags: general, internet, music, bittorrent, download
 wordpress_url: http://www.nata2.org/2007/10/09/everyday-because-of-the-internet-i-am-discovering-new-music/
 ---
 Legally of course.

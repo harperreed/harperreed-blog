@@ -2,6 +2,7 @@
 wordpress_id: 1503
 layout: post
 title: Data Portability feeds
+tags: general, blogs, rss, data-portability, data, social-networks, opml, google-reader, feeds
 wordpress_url: http://www.nata2.org/2008/01/10/data-portability-feeds/
 ---
 The future is obviously data and sharing it.

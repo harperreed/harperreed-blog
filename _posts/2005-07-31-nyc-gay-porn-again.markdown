@@ -2,6 +2,7 @@
 wordpress_id: 1101
 layout: post
 title: "nyc. gay porn again. "
+tags: general, travel, work, yoyo
 wordpress_url: http://www.nata2.org/2005/07/31/nyc-gay-porn-again/
 ---
 I am in nyc. sitting at tommie's apartment - listening to remixes and puffy electro. awesome. 

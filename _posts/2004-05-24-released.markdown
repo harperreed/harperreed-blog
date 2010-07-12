@@ -3,6 +3,7 @@ wordpress_id: 870
 layout: post
 title: released
 excerpt: so andy and I have been working very hard to finish our new project. and here it is:iTunesBlogger v.01heh. I rule. basically it is a utility that uses itunes to grab the currently playing song and post it to your blog/app or whatever. it is pretty nifty and I have been using various versions for the last couple days. the final(ish) version is...
+tags: applications, religion, itunes, blogger, itunesblogger
 wordpress_url: http://new.nata2.org/?p=870
 ---
 so andy and I have been working very hard to finish our new project. and here it is:<br/><a href="http://itunesblogger.com/">iTunesBlogger v.01</a><br/><br/>heh. I rule. basically it is a utility that uses itunes to grab the currently playing song and post it to your blog/app or whatever. it is pretty nifty and I have been using various versions for the last couple days. the final(ish) version is pretty dope and allows you to do things like this:

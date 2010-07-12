@@ -2,6 +2,7 @@
 wordpress_id: 1166
 layout: post
 title: theming the T610
+tags: general, sprint, tmobile, awesome, sony, ericcson, t610
 wordpress_url: http://www.nata2.org/2003/12/04/theming-the-t610/
 ---
 i recently experienced a painless switch from <a href="http://3gcoding.com/archives/000006.php">sprint to t-mobile</a>. It ruled. and part of the divorce i ended up with a <a href="http://www.sonyericsson.com/t610/">sony ericcson t610</a>. so as any good person would.. i went about creating some themes to make it look better than the defaults that came with it.

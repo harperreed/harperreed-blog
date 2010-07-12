@@ -2,6 +2,7 @@
 wordpress_id: 1543
 layout: post
 title: Excla.im - a replacement jabber bot
+tags: general, jabber, twitter, python, bot, xmpp, django, google-app-engine, sleekxmpp
 wordpress_url: http://www.nata2.org/?p=1543
 ---
 I use twitter quite a bit. I like to post to twitter in the most unobtrusive way possible. I don't like to interupt my workflow to post a quick thought or update. When they used to have their Jabber bot running - it was easy for me to just type in my update and get on with my gmail session or work. I didn't have to load a page that was often down, or use some other tool. I was bummed when the jabber bot went away. I needed it back to keep up with my use case.

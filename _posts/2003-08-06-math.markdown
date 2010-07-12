@@ -3,6 +3,7 @@ wordpress_id: 592
 layout: post
 title: math
 excerpt: this stuff is insane. really. I don't understand.
+tags: insane
 wordpress_url: http://new.nata2.org/?p=592
 ---
 <a href="http://www.mcs.surrey.ac.uk/Personal/R.Knott/Fibonacci/phi.html#golden">this stuff is insane</a>. really. I don't understand.

@@ -3,6 +3,7 @@ wordpress_id: 685
 layout: post
 title: Game Cube Killas
 excerpt: here is my new cell phone specs. here is the start to the mms photolog program. it is a bit complicated. stupid blogs ;) I will be putting all the pictures I take here. I love cell phones.. they a...
+tags: reed, phone, cell, colorado, chicago, blogs, games, apple, phones, hiromi, gamecube
 wordpress_url: http://new.nata2.org/?p=685
 ---
 <a href="http://www.clubsonyericsson.com/en/products_t610.shtml">here</a> is my new cell phone specs. <a href="http://nata2.info/?path=code%2Fmms2blog">here</a> is the start to the mms photolog program. it is a bit complicated. stupid blogs ;) I will be putting all the pictures I take <a href="http://nata2.info/?path=pictures%2Fmisc%2Fphone_camera%2Fphotolog">here</a>. I love cell phones.. they are my friends and companions forever. someday I will have fancy cell phone/wifi robot friends who will be rightful property owners. 

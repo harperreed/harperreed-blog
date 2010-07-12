@@ -2,6 +2,7 @@
 wordpress_id: 1262
 layout: post
 title: Ubuntu
+tags: general, technology
 wordpress_url: http://www.nata2.org/2006/05/09/ubuntu/
 ---
 I have been using ubuntu for a minute here while i compile some software for use on my soekris box at work. I am attempting to move from the <a href="http://nycwireless.net/pebble/">old pebble linux</a> to the new <a href="http://pyramid.metrix.net/FrontPage">pyramid </a>linux made by the <a href="http://metrix.net/metrix/">metrix guys</a>. Its pretty dope so far. a lot more modern, but sadly not mature. I need to compile in PCMCIA support and whatnot. a real pain ;)

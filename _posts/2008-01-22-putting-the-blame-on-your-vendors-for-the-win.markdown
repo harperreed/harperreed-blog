@@ -2,6 +2,7 @@
 wordpress_id: 1505
 layout: post
 title: "Putting the blame on your vendors for the win. "
+tags: technology, rackspace, rails, 37signals, web20, tumblr, infrastructure, network, downtime
 wordpress_url: http://www.nata2.org/?p=1505
 ---
 In the past week there were a couple of companies(<a href="http://tumblr.com">tumblr</a> and <a href="http://37signals.com">37signals</a>) who publically blamed Rackspace for the downtime of their sites (tumblr <a href="http://blog.davidville.com/2008/01/21/downtime-today/">here</a> and 37signals <a href="http://www.37signals.com/svn/posts/800-what-happened-this-morning">here</a>, <a href="http://www.techcrunch.com/2008/01/18/37signals-down-looks-like-rackspace-is-to-blame-again/">here</a>) . In both cases the downtime wasn't widespread and was limited to the individual sites. In both cases someone from the respective site blogged about how it was rackspaces fault they were down. It got me thinking...

@@ -2,6 +2,7 @@
 wordpress_id: 1168
 layout: post
 title: mms 2 blog
+tags: general
 wordpress_url: http://www.nata2.org/2003/12/10/mms-2-blog/
 ---
 I really like the idea of mobile blogging and haven't been too keen on using my keypad to do an entry on my blog. A friend showed me his <a href="http://bryan.textamerica.com/">moblog</a> that he made using his <a href="http://www.nokia.com/nokia/0,,2273,00.html">3650</a> and i thought that it couldn't possibly be that hard to create a similar thing using the mms message sent from the phone. As far as i can tell - the mms message is composed of fancy headers and then the payload as an attachment.

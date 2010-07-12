@@ -5,6 +5,7 @@ title: our world rules
 excerpt: |-
   Happy Valentines dayToday is my brothers birthday. Happy birthday dylan. for your birthday I got you a nuclear war threat.
   sweet huhI love the our leaders ability to really fudge certain things.. like the propagand...
+tags: dylan, reed, php, chicago, war, birthday, source, humor, terrorism, asia, iraq
 wordpress_url: http://new.nata2.org/?p=447
 ---
 <a href="http://www.monstromart.com/framegrabs/9F13/21.jpg">Happy Valentines day</a><br/>Today is my brothers birthday. Happy birthday <a href="http://www.dylanreed.org">dylan</a>. for your birthday I got you a <a href="http://news.bbc.co.uk/2/hi/asia-pacific/2757923.stm">nuclear war threat</a>.

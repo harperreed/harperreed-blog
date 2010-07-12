@@ -15,6 +15,7 @@ excerpt: |-
   I'm a friend of Harper's, and he was telling me about your diving job. We began to wonder a couple of things about diving.
   
   For instance, if you had to fight a monkey ...
+tags: job, harper, dylan, reed
 wordpress_url: http://new.nata2.org/?p=394
 ---
 ----- Original Message ----- <br/>

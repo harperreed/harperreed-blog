@@ -2,6 +2,7 @@
 wordpress_id: 1269
 layout: post
 title: horrible things...
+tags: general, hacking, sad, servers, firewall, colocation
 wordpress_url: http://www.nata2.org/2006/05/18/horrible-things/
 ---
 Man today sucked. Seriously. I haven't had a BAD day in years. today. today was a bad day. I woke up and got in the shower. Got dressed. check my email. checked my text messages. and i had a txt from my buddy mike telling me my server was broke. so i checked it out. i couldn't ssh into it or anything - which is very very unusual. I have never been able to not connect at all. and usually a web server or something.. but never the firewall. wtf. so i called and had them reboot it. took a cab to work. and nothing. it was totally totally toasted. so i called them again and we went through a bunch of stuff. finally i detirmined that i was totally fucked. So my friend tony helped me debug some stuff and finally i gave up. i was looking for plane tickets to columbus when tony found this <a href="http://owlriver.com/">dude in columbus</a> that does <a href="http://owlriver.com/sysadmin/?">unix support</a>. He came in and for a little bit of money really rocked the place and fixed her up.

@@ -2,6 +2,7 @@
 wordpress_id: 1016
 layout: post
 title: my birthday
+tags: general, birthday, wordpress
 wordpress_url: http://www.nata2.org/2005/03/21/my-birthday/
 ---
 today i turned twenty seven. congratulations i am the winner. 

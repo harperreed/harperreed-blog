@@ -2,6 +2,7 @@
 wordpress_id: 1491
 layout: post
 title: My servers are offline. :(
+tags: general, hosting, mosso, servers, colocation, shared-hosting, mediatemple
 wordpress_url: http://www.nata2.org/2007/11/20/my-servers-are-offline/
 ---
 For the first time in almost 7 years my servers are offline.

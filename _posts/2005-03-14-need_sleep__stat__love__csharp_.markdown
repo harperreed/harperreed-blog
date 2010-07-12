@@ -9,6 +9,7 @@ excerpt: |-
   released their &amp;quot;upgrade&amp;quot; which is significantly better than what they
   had, and rather similar to what I have done. doh! I guess I have to
   redo and make mine a lot bett...
+tags: general, sites, rock, websites
 wordpress_url: http://new.nata2.org/?p=1006
 ---
 <p>I am rather sleepy. tonight/today was good. I coded all day in anticipation of my new tool being released. I am excited. unfortunantly all my work is going to be looked at as sketchy - cuz the competitor released their &quot;upgrade&quot; which is significantly better than what they had, and rather similar to what I have done. doh! I guess I have to redo and make mine a lot better. ahh.. innovation. I am excited however.. it is a lot of fun. <br />

@@ -2,6 +2,7 @@
 wordpress_id: 1426
 layout: post
 title: Sad Google day.
+tags: technology, technology, google, sad, seo
 wordpress_url: http://www.nata2.org/2007/03/28/sad-google-day/
 ---
 Usually when I blog about Google, I am happy. but today it is a sad sad Google day. For the first time since the days of <a href="http://metacrawler.com/">metacrawler</a>, a search for <a href="http://www.google.com/search?q=harper+reed">Harper Reed</a> doesn't return one of my sites as the first hit. This really hurts. I guess I have been slacker at my SEO. Gotta jump back up there. I hope that harperreed.com drops once Google reindexes and notices that their title isn't harper/reed anymore. I just need to make millions of dollars and buy harperreed.com. sad!

@@ -2,6 +2,7 @@
 wordpress_id: 1407
 layout: post
 title: Chocolate Vegan Cake
+tags: general
 wordpress_url: http://www.nata2.org/2007/01/19/chocolate-vegan-cake/
 ---
 So at lunch today we were talking about vegan food and I remembered this excellent vegan chocolate cake recipe that my family made for the holidays. It is so good. I remember when we had bunches of non-vegan cakes and pies - this one was always the first to get eaten (the majority of my family is not vegan). Soo good. Anyway - here is the recipe - straight from my mom:

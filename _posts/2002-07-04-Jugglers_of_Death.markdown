@@ -5,6 +5,7 @@ title: Jugglers of Death
 excerpt: |-
   USA USA USA USA USA USA USA USA USA USA
   I sit in my kitchen once again.. having just got back from a juggling show at the Prodigal Son. It was a great time. It was incredible. The audience was receptive.. the juggling went well. We didn't drop at any pivitol points.. heh. and we got contacts for more gigs. I am very interested in w...
+tags: war, bush, juggling
 wordpress_url: http://new.nata2.org/?p=308
 ---
 USA USA USA USA USA USA USA USA USA USA<br/><br/>

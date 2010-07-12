@@ -4,6 +4,7 @@ layout: post
 title: massive
 excerpt: "This is from a couple days ago but whatever: \r\n\
   A report was released by a bunch of British physicians that said that \"A war against Iraq could kill half a million people, warns a new report by medical experts - and most would be civilians.\". Looks like we don't need to worry about anything. Oh yea - "
+tags: harper, reed, internet, war, author, iraq
 wordpress_url: http://new.nata2.org/?p=403
 ---
 This is from a couple days ago but whatever: <br/>

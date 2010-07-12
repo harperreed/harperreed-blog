@@ -2,6 +2,7 @@
 wordpress_id: 1360
 layout: post
 title: How to get and watch free TV
+tags: technology, awesome, television, p2p, rss, democracy, torrents, bittorrent, download
 wordpress_url: http://www.nata2.org/2006/10/09/get-and-watch-free-tv/
 ---
 So I canceled directTV awhile back and have been struggling to figure out how to easily download the shows I want to watch. I would love to do it legally. I have looked into the itunes solution - but they don't have all I need/want. And it won't work for hiromi - in japan. So I needed something that wasn't region specific and something that wasn't hard.

@@ -6,6 +6,7 @@ excerpt: |
   a good gamei got my picture phone.
   w00t
 
+tags: phone
 wordpress_url: http://new.nata2.org/?p=519
 ---
 <a href="http://bigideafun.com/penguins/arcade/doom_funnel/default.htm">a good game</a><br/><br/>i got my picture phone.<br/>

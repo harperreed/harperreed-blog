@@ -2,6 +2,7 @@
 wordpress_id: 1030
 layout: post
 title: weekend oh yea
+tags: general, blogs, food, crobar, flickr, hong, kong, sushi, itunes, awesome, party
 wordpress_url: http://www.nata2.org/2005/03/28/weekend-oh-yea/
 ---
 so this weekend i hung out a lot. it was awesome. i came home from work early on friday (holiday) and hung out with matt and hiromi. we went and got beers, pop, cheese and thai food. then we watched <b><a href="http://imdb.com/title/tt0386005/?fr=c2l0ZT1kZnxteD0yMHxsbT01MDB8dHQ9b258ZmI9dXxwbj0wfHE9bmV3IHBvaWxjZSBzdG9yeXxodG1sPTF8bm09b24_;fc=1;ft=20;fm=1">new poilce story</a></b>. so so good. it was about jackie chan - a screwed up sad sad cop and this punk kid who ruled. they get together and fight this gang of rich kids. it is hilarious and sad and awesome. incredible action movie. so good. 

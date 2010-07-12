@@ -5,6 +5,7 @@ title: meeting
 excerpt: "Next year, rather than go to the indy 500, I think I will go here.i am up, at work so early. goddamn meetings that I called. hehe. I shoudl have thought that a bit through. whatever. I am a dork.\r\n\
   \r\n\
   in other news.. millions of children in the UK are goign to be really sad when they find out "
+tags: php
 wordpress_url: http://new.nata2.org/?p=552
 ---
 Next year, rather than go to the indy 500, I think I will go <a href="http://www.b0g.org/wsnm/news.php?artc=3397">here</a>.<br/><br/>i am up, at work so early. goddamn meetings that I called. hehe. I shoudl have thought that a bit through. whatever. I am a dork.

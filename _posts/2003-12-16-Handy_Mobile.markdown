@@ -5,6 +5,7 @@ title: Handy Mobile
 excerpt: "So my mobile phone fascination has reached a new height. I took some spare time in the last couple days and compiled a phon/mobile/technology blog. check it out here. Hopefully it will continue to foster exciting phone stuff for my head. and make me a million dollar bills.\r\n\
   \r\n\
   i "
+tags: technology, phone, colorado, blogs, internet, server, video, girlfriend, coding, security, games, hiromi, friendster, mobile
 wordpress_url: http://new.nata2.org/?p=702
 ---
 So my mobile phone fascination has reached a new height. I took some spare time in the last couple days and compiled a phon/mobile/technology blog. check it out <a href="http://www.3gcoding.com">here</a>. Hopefully it will continue to foster exciting phone stuff for my head. and make me a million dollar bills.<br/><br/>

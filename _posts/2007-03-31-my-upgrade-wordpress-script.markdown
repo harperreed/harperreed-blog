@@ -2,6 +2,7 @@
 wordpress_id: 1427
 layout: post
 title: My upgrade wordpress script
+tags: technology, technology, php, wordpress, automatic-upgrade, bash, script, upgrade
 wordpress_url: http://www.nata2.org/2007/03/31/my-upgrade-wordpress-script/
 ---
 I broke my blog the other day. It was a pain in the ass. I don't really know what happened - just that it broke. So I was thinking, I hate upgrading my wordpress. I hate it. I agree 100% with <a href="http://www.mattcutts.com/blog/upgrading-wordpress/">Matt Cutts</a> about how wordpress has one of the most clunky and cruft creating upgrade process. So annoying. And it gets even more annoying when you are doing it with 50 blogs. stupid friends. hah. So awhile ago I created this script which basically lets me just execute a small number of commands to upgrade a wordpress blog.

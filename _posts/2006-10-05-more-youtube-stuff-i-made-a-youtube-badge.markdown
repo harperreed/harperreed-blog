@@ -2,6 +2,7 @@
 wordpress_id: 1358
 layout: post
 title: "More youTube stuff: I made a youTube badge. "
+tags: technology, php, flickr, youtube, classes, badge, flashandburn
 wordpress_url: http://www.nata2.org/2006/10/05/more-youtube-stuff-i-made-a-youtube-badge/
 ---
 <a href="http://www.flashandburn.net/youtubeBadge/nata2/refer"><img align="right" src="http://flashandburn.net/youtubeBadge/nata2/recent.png" /></a>So i decided to copy the success of my <a href="http://www.flashandburn.net/youtubeBadge/nata2/refer">flickr badge</a> and create a <a href="http://flashandburn.net/youtubeBadge/">youtube badge</a>. It works really easy and shows the last 6 videos you have uploaded. Its pretty cool. I used the <a href="http://www.nata2.org/2006/10/02/some-quick-youtube-hackings/">youtube class</a> i made the other day and just copied the functionality straight across from my flickr badge. haha. its awesome when you code well (its actually a mess... sadly).

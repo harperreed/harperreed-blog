@@ -10,6 +10,7 @@ excerpt: |-
   k3r051n3: http://nata2.info/?path=pictures2Fevents%2F2004%3A05%3A13_india%2Fdelhi_agra&img=IMG_0101.jpg
   linuXKilla: what
   k3r051n3: no? well i'll te...
+tags: linux, india
 wordpress_url: http://new.nata2.org/?p=861
 ---
 remember. I rule.

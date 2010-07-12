@@ -2,6 +2,7 @@
 wordpress_id: 1094
 layout: post
 title: guess what
+tags: general, job, travel, work, yoyo
 wordpress_url: http://www.nata2.org/2005/07/14/guess-what/
 ---
 no job for me. 

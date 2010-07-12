@@ -2,6 +2,7 @@
 wordpress_id: 1661
 layout: post
 title: "I love phones designed for developing countries. "
+tags: general, phones, nokia, motorola, developing
 wordpress_url: http://www.nata2.org/?p=1661
 ---
 <a title="Nokia 1100 and Motorola F3 by nata2, on Flickr" href="http://www.flickr.com/photos/natatwo/4283555038/"><img src="http://farm5.static.flickr.com/4039/4283555038_a798542c5f_m.jpg" alt="Nokia 1100 and Motorola F3" width="240" height="218" align="right" /></a>

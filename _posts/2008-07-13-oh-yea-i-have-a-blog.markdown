@@ -2,6 +2,7 @@
 wordpress_id: 1537
 layout: post
 title: oh yea. i have a blog
+tags: general, twitter, life, blogging
 wordpress_url: http://www.nata2.org/?p=1537
 ---
 Apparently for the last month or two, I totally forgot that i have a blog. Instead of blogging, i have been hanging out with Hiromi, using twitter,traveling, programming and building things. I didn't have time to include blogging into that mix.

@@ -2,6 +2,7 @@
 wordpress_id: 1498
 layout: post
 title: Chicago Ignite! Our presentation
+tags: technology, chicago, humor, fun, ignite, ignite-chicago, tech-community, giraffes, mustaches
 wordpress_url: http://www.nata2.org/2007/12/07/chicago-ignite-our-presentation/
 ---
 Tonight, Scott and I presented at the Chicago Ignite tech meetup. It was pretty fun. The event was "eventful" and the people were the usual. I was able to meet up with trow and the hosted labs guys - so that was good. It is always fun to involve ourselves in these affinity events. This one was especially funny because it was at a good friends bar. So when we showed up - it was quite hilarious.

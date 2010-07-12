@@ -3,6 +3,7 @@ wordpress_id: 675
 layout: post
 title: w00t.. pinging i am
 excerpt: This morning was awesome. I really feel that getting up leisurely at 10:30 is a healthy way to live. last night I attempted to stay up late to help with work stuff. but I onlly made it to about 3:30ish.. I was bummed out. I had planned to stay up late. but I didn't get a chance to take my much needed afternoon nap. I suppose I could have used this opportunity to start doing cocaine ;) hahah. umm...
+tags: nerd, php, blogs, war, sites, school, health
 wordpress_url: http://new.nata2.org/?p=675
 ---
 This morning was awesome. I really feel that getting up leisurely at 10:30 is a healthy way to live. last night I attempted to stay up late to help with work stuff. but I onlly made it to about 3:30ish.. I was bummed out. I had planned to stay up late. but I didn't get a chance to take my much needed afternoon nap. I suppose I could have used this opportunity to start doing cocaine ;) hahah. umm.. yea.. anyway.. I ended up breaking my tivo again. I really am not good at the tivo. I get it to work. and then immediately break it. all I want to do is get it really solid. but nooooooooooooooooooo. god hates me. well god.. I hate you.<br/><br/>

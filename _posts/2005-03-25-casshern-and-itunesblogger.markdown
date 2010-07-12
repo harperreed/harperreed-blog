@@ -2,6 +2,7 @@
 wordpress_id: 1029
 layout: post
 title: casshern and itunesblogger
+tags: general, sites, movies, hong, kong, itunes, itunesblogger, kung, fu
 wordpress_url: http://www.nata2.org/2005/03/25/casshern-and-itunesblogger/
 ---
 I got all my movies last night. i had ordered a bunch: <a href="http://imdb.com/title/tt0405821/">casshern</a>,<a href="http://imdb.com/title/tt0118694/"> in the mood for love</a>, <a href="http://imdb.com/title/tt0212712/">2046</a>, <a href="http://imdb.com/title/tt0373074/">kung fu hustle</a>, <a href="http://imdb.com/title/tt0439884/">a world without thieves</a>,  <a href="http://imdb.com/title/tt0436833/">colored bloussoms</a>, <a href="http://imdb.com/title/tt0386005/">new police story</a> and old boy. i am pretty excited. 

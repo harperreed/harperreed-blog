@@ -5,6 +5,7 @@ title: Cheney will act his revenge against those who speak ill
 excerpt: "A fire soaked Dick Cheney will be driving his very own segway(segue wtf) if you donate money. I don't think you should however. because I would use the money a more wisely...\r\n\
   \r\n\
   My mom is in town. we are going to visit my "
+tags: juggle, jugglers, dylan, reed, search, mom, juggling, vacation, cars, porn, google
 wordpress_url: http://new.nata2.org/?p=331
 ---
 A fire soaked Dick Cheney will be driving <a href="http://s1.amazon.com/paypage/P8UTBU5IRXE1T/002-5834389-7627262#description">his very own segway</a>(segue wtf) if you donate money. I don't think you should however. because I would use the money a more <a href="http://nata2.info/?path=pictures%2Fmisc%2Fslotcars">wisely</a>...

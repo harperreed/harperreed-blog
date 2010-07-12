@@ -2,6 +2,7 @@
 wordpress_id: 1323
 layout: post
 title: "oh yea. "
+tags: general, hosting, rackspace, movies, work, news
 wordpress_url: http://www.nata2.org/2006/08/15/oh-yea/
 ---
 i am pretty sure i was a bit tipsy when i wrote my last rant/entry. hah. but nobody knows. i can't possibly imagine that it makes a whole bundle of sense.

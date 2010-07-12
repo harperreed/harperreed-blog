@@ -6,6 +6,7 @@ excerpt: |-
   today, my girlfriend and I have decided to break up. It wasn't the best of situations for each other.... So after fourteen wonderful months together we are separating amicably. it was the only choice that allowed for us to maintain health and happiness. at least in our current situation. 
   
   However.. now I am a little lost.. I don't know what to do or to say.. I type these words and ...
+tags: fear, girlfriend, health
 wordpress_url: http://new.nata2.org/?p=159
 ---
 today, my girlfriend and I have decided to break up. It wasn't the best of situations for each other.... So after fourteen wonderful months together we are separating amicably. it was the only choice that allowed for us to maintain health and happiness. at least in our current situation. 

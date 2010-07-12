@@ -2,6 +2,7 @@
 wordpress_id: 1187
 layout: post
 title: Juicebox haxoring
+tags: general, hacking, juicebox, haxoring, make
 wordpress_url: http://www.nata2.org/2005/06/10/juicebox-haxoring-3/
 ---
 So awhile ago i was cruising the <a href="http://flickr.com/photos/tags/make/">make flickr tags</a> and i noticed the juicebox frame and i thought “i like frames. they are fun.” So i decided to go get some. unfortunantly they were all gone from walmat, or target so i went to the <a href="http://www.linux-hacker.net/cgi-bin/UltraBoard/UltraBoard.pl?Action=ShowBoard&Board=MJB">linux-hacker boards</a> and found a dude who was selling some. I bought them right before it was <a href="http://slashdot.org/article.pl?sid=05/06/01/1651220">posted to slashdot</a>.

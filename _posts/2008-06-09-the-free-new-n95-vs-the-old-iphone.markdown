@@ -2,6 +2,7 @@
 wordpress_id: 1531
 layout: post
 title: The free new N95 vs the old iPhone
+tags: technology, apple, mobile, nokia, symbian, iphone, n95, wom
 wordpress_url: http://www.nata2.org/?p=1531
 ---
 <img class="alignright" style="float: right;" src="http://www.cellphonebeat.com/images/n95-iphone_48.jpg" alt="" width="251" height="201" />It all started years ago when i got a <a href="http://en.wikipedia.org/wiki/Nokia_6600">Nokia 6600</a>. It was a dope phone and it really raised the bar for me in regards to my expectations for a smart phone. It was one of the first "good" symbian devices. In regards to today's standards - it isn't that great. But back then it rocked the house. I remember telling my friends "OMG. check it out. you can take movies!" and running around making movies. After the 6600, I picked up a <a href="http://en.wikipedia.org/wiki/Nokia_7610">Nokia 7610</a>. This device was basically the same, although a bunch faster and a bundle of better looks. it was quite stylish. Then came the <a href="http://en.wikipedia.org/wiki/N70">N70</a>. Then came the <a href="http://en.wikipedia.org/wiki/Nokia_E61">E61</a>. Then the <a href="http://en.wikipedia.org/wiki/Nokia_E50">E50</a>. Then the <a href="http://en.wikipedia.org/wiki/N73">N73</a>. And then the <a href="http://en.wikipedia.org/wiki/Nokia_E61#E61i_2">E61i</a>. Each iteration was much much better and faster. It was a fun to go through those. You could have called me a Nokia fan boy.

@@ -2,6 +2,7 @@
 wordpress_id: 1130
 layout: post
 title: blogging is sometimes hard. yea know. cuz it takes effort
+tags: general, blogs, internet, movies, mom, music, travel, sleepy, crazy, parents
 wordpress_url: http://www.nata2.org/?p=1130
 ---
 So i don't usually do it. i only do it when i feel its easy - or maybe when it is hardest. i don't really know. i imagine you can totally tell by reading my past entries. regardless of how easy or hard it is - i totally thinkthat i need to blog sometimes. and whether or not i do is a different story. i wish i had a blogging client that made it easy to update my blog in quick places. 

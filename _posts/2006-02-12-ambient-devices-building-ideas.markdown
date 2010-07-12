@@ -2,6 +2,7 @@
 wordpress_id: 1206
 layout: post
 title: "Ambient devices. building ideas. "
+tags: general, linux, diy, ambient, gumstix, qee, embedded
 wordpress_url: http://www.nata2.org/2006/02/12/ambient-devices-building-ideas/
 ---
 Awhile ago i picked myself up an ambient orb. It is a really cool idea - basically a device that will let you see information at a glance. For example - seeing how a server is doing based on the orbs color, or seeing what the weather is like based on the color. a lot of options. but the coolest part is that it is not obtrusive to your everyday life. you are able to just look and then see what is happening.

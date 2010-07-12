@@ -2,6 +2,7 @@
 wordpress_id: 1133
 layout: post
 title: hifi zone
+tags: general, games, stereo, hifi, diy
 wordpress_url: http://www.nata2.org/2005/10/04/hifi-zone/
 ---
 haha. 

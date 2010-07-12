@@ -2,6 +2,7 @@
 wordpress_id: 1082
 layout: post
 title: "mr. & mrs. "
+tags: general, movies, websites, matiss, wedding, hiromi, mark, hungry
 wordpress_url: http://www.nata2.org/2005/06/13/mr-mrs/
 ---
 Last night <a href="http://hirominakazawa.com">hiromi</a> and <a href="http://markhayward.net">mark</a> and myself went and saw <a href="http://www.google.com/reviews?cid=be0c0c100078b7b9&oi=showtimes&fq=mr.+and+mrs+smith">mr. and mrs. smith</a>. it was pretty nice. Really funny. a lot of good relationship jokes. The only flaw was that we got there late so we had to sit in the very front row. kind of a bummer. but it ruled. 

@@ -2,6 +2,7 @@
 wordpress_id: 1141
 layout: post
 title: t-amp reboxing part 1 of 1
+tags: general, skinnycorp, audio, t-amp, bugs
 wordpress_url: http://www.nata2.org/2005/10/20/t-amp-reboxing-part-1-of-1/
 ---
 Tonight ruled. while waiting for the <a href="http://www.yayhooray.com/thread/60504/skinnyCorp-gets-fancied-up-LIVE">graffiti artist to work and finish</a> and such i decided to do my t-amp project.  i got all the rest of my parts i ordered to rebox the sonic impact t-amp.  i followed the directions and parts lists from <a href="http://members.tripod.com/talkgarden/sonic_impact_5066.htm">this awesome site</a>. it was quite quite helpful. I have found a <a href="http://del.icio.us/nata2/t-amp">LOT of sites</a> dealing with the t-amp and that one is quite possibly the most complete.  It has parts lists, schematics and lots of pictures. it is well written and is enjoyable. 

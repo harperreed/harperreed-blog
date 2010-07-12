@@ -2,6 +2,7 @@
 wordpress_id: 1508
 layout: post
 title: "Google Apps Auth: XMPP and Radius idea"
+tags: technology, xmpp, google-apps, radius, ldap, authentication, sso, saml
 wordpress_url: http://www.nata2.org/2008/02/25/google-apps-auth-xmpp-and-radius-idea/
 ---
 At work we use <a href="http://google.com/a">Google Apps</a> for our enterprise email and calendaring. We use pretty much the entire gamut of tools Google provides us. And for the most part, we love it. It is great to have an easy to use, inexpensive suite of hosted tools that you can use from anywhere.

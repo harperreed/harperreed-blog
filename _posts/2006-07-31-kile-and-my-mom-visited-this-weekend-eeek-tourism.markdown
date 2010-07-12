@@ -2,6 +2,7 @@
 wordpress_id: 1314
 layout: post
 title: Kile and my Mom visited this weekend. eeek tourism!
+tags: general, family, vacation, fun, visits, navy-pier, kile
 wordpress_url: http://www.nata2.org/2006/07/31/kile-and-my-mom-visited-this-weekend-eeek-tourism/
 ---
 So this weekend was awesome. Kile and my mother flew in on thursday and we met up for dinner. They went to cirque du soliel and i went to juggling. Then on friday - i picked up my cousin kile at his hotel and we went to my work. He caused trouble and played xbox. I worked on our new secret project. After work - we went to sushi wabi and then kile went and played in the fountains in millenium park. He seemed to like how crazy it was.

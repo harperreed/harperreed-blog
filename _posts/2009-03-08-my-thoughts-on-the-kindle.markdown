@@ -2,6 +2,7 @@
 wordpress_id: 1608
 layout: post
 title: "My thoughts on the kindle: 1 vs 2 and the iphone app"
+tags: general, iphone, kindle, ebooks
 wordpress_url: http://www.nata2.org/?p=1608
 ---
 <a title="Kindle2 vs Kindle1 front powered on by nata2, on Flickr" href="http://www.flickr.com/photos/natatwo/3307240832/"><img align="right" class="alignright" src="http://farm4.static.flickr.com/3429/3307240832_8913af9d4f_m.jpg" alt="Kindle2 vs Kindle1 front powered on" width="240" height="180" /></a>First things first<strong>: The <a href="http://www.amazon.com/gp/product/B00154JDAI?ie=UTF8&amp;tag=nata2productions&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00154JDAI">Kindle</a> is awesome</strong>

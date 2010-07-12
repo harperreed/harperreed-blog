@@ -2,6 +2,7 @@
 wordpress_id: 1303
 layout: post
 title: New clothes
+tags: general, insane, fashion, tokyo, clothing, bape
 wordpress_url: http://www.nata2.org/2006/07/13/new-clothes/
 ---
 So for awhile i have been paying attention to the <a href="http://www.bape.com/">BAPE</a>/<a href="http://www.zugara.com/bbc/">BBC </a>phenomona that is invading hiphop. I guess i should say it has invaded hiphop. Anyway. I have admired the all over print, crazy foil, insane patterned hoodies and shirts for far too long. I am going to try and acquire some stuff that is insane. INSANE i tell you.

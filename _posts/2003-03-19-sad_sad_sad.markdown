@@ -7,6 +7,7 @@ excerpt: |-
   i am pissed now. 
   i had a whole entry full of neat links and I accidently canceled it. stupid goddamn mouse. always clicking clicking clicking.Watch out!
   So anyway. I am bummed out. my parents were supposed to come in today - but since god hates us pagans - they are stuck in colorful colorado enjo...
+tags: php, colorado, war, birthday, watership
 wordpress_url: http://new.nata2.org/?p=466
 ---
 arrrrgh.. <br/>

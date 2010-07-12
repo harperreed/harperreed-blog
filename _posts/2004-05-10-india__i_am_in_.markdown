@@ -5,6 +5,7 @@ title: india. i am in.
 excerpt: |-
   so I arrived in india. it is pretty awesome. quite a change from california where I have secretly been living for the past ten years. 
   it all started on thursday. the night befopre I was to leave for  india. hehe. my friend mike and nic came over from colorado and we hung out. we went to sushi and then to crobar. things got crazy and mike inadvertently got really drunk and assaulted re...
+tags: family, phone, colorado, chicago, food, crobar, insane, movies, india, sushi
 wordpress_url: http://new.nata2.org/?p=849
 ---
 so I arrived in india. it is pretty awesome. quite a change from california where I have secretly been living for the past ten years. <br/><br/>

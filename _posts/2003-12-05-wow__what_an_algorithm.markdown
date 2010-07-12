@@ -6,6 +6,7 @@ excerpt: |-
   goto google
   type miserable failure into the search box
   click I am feeling luckyhere are some funny pictures - poor fat kid.
+tags: php, search, google
 wordpress_url: http://new.nata2.org/?p=690
 ---
 goto google<br/>

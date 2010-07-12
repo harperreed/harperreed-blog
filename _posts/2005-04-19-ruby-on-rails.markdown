@@ -2,6 +2,7 @@
 wordpress_id: 1047
 layout: post
 title: ruby on rails
+tags: general, domains, dylan, php, blogs, community, ruby, rails, alliedmovements, stigmata
 wordpress_url: http://www.nata2.org/2005/04/19/ruby-on-rails/
 ---
 I decided to follow the pack of wild php developers and attack ruby on rails. it rules. in the past 30 hours of dayish time - i have spent a significant amount of time devoted to learning this new platform. it is nifty for sure. Basically it is an mvcish platform that runs off of ruby. it is pretty snappy and VERY VERY easy to roll out webapps. pretty handy. i have dreams of a new webapp everyday. however something about quality gets in the way. heh. well i am currently wrapping up work on <a href="http://www.alliedmovements.com">alliedmovements.com</a>. this is a site that will handle all my extra domains and create mini blogs for each domain. heh. it shoudl be nifty. i figure i should use the domains since i purchased them.. and i have a problem letting them drop. i guess one will never know when a use for <a href="http://penisfighter.com">penisfighter</a> will come up. heh. stupid penis fighter. 

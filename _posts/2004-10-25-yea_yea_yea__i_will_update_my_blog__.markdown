@@ -12,6 +12,7 @@ excerpt: |-
   [@scottv] he got a job
   
   So basically I have been just chilling out hard. not doig anything. I get home...
+tags: books, job, juggle, harper, phone, chicago, internet, search, sites, video, school, crobar, coding, tools, movies, action, halloween, games, matiss, philosophy, nyc, hiromi, google, amjad, nokia
 wordpress_url: http://new.nata2.org/?p=952
 ---
 heh. yea so my friends have "caught" me. busted for sure:

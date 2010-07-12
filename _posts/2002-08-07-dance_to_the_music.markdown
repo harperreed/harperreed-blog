@@ -5,6 +5,7 @@ title: dance to the music
 excerpt: "this is humorous.. this is weird.. \r\n\
   smile your on candid camera..\r\n\
   uhh.. wtf.. "
+tags: humor, ipod
 wordpress_url: http://new.nata2.org/?p=334
 ---
 <a href="http://www.watchmedance.com/">this</a> is humorous.. <br/><a href="http://members.tripod.com/oldmanriggs/george.html">this</a> is weird.. 

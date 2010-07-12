@@ -5,6 +5,7 @@ title: wifi blues
 excerpt: |-
   i need to send in my laptop
   and I need to remember  this, this and finally this...
+tags: laptop
 wordpress_url: http://new.nata2.org/?p=345
 ---
 i need to send in my laptop<br/>

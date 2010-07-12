@@ -2,6 +2,7 @@
 wordpress_id: 1352
 layout: post
 title: Hacking mobile voicemail with Asterisk and caller ID spoofing
+tags: technology, technology
 wordpress_url: http://www.nata2.org/2006/09/24/hacking-voicemail-with-asterisk-and-caller-id-spoofing/
 ---
 So there has always had a problem with US mobile providers having their voicemail be susceptible to being compromised by calling with a spoofed caller id. Apparently most providers caller id apps just checks the referring callerid - and doesn't force the voicemail user to pick a passcode; so it allows someone to trick the voicemail app into believing they are calling from a trusted number.

@@ -3,6 +3,7 @@ wordpress_id: 383
 layout: post
 title: emo
 excerpt: I juggled at six flags again this weekend. My hands turn so so black it is unnatural. they just change to a different shade altogether.. no matter how much you wash them. so troublesome. Anyway.. yesterday I worked a bunch and played with my mind not understanding time changes.. so funny. I am still pretty bummed about wellstone. That was a true loss (versus all those other people who died :P).
+tags: juggle, php, server, war, fear, insane, bush, aim, cinema, politic
 wordpress_url: http://new.nata2.org/?p=383
 ---
 I juggled at six flags again this weekend. My hands turn so so black it is unnatural. they just change to a different shade altogether.. no matter how much you wash them. so troublesome. Anyway.. yesterday I worked a bunch and played with my mind not understanding time changes.. so funny. I am still pretty bummed about wellstone. That was a true loss (versus all those other people who died :P).<br/><br/>Here are some links.. <br/>

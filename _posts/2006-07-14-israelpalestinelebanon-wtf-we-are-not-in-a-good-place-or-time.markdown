@@ -2,6 +2,7 @@
 wordpress_id: 1305
 layout: post
 title: Israel/Palestine/Lebanon wtf. We are not in a good place or time.
+tags: general
 wordpress_url: http://www.nata2.org/2006/07/14/israelpalestinelebanon-wtf-we-are-not-in-a-good-place-or-time/
 ---
 <a href="http://apnews.myway.com/article/20060714/D8IROI9G0.html">This</a> is not good. I don't think that our world and more specifically the United States president/foriegn policy can handle an actual War in the middle east. We will <a href="http://www.breitbart.com/news/2006/07/13/060713195011.0bs4l5nz.html">act stupid</a> and say that lebanon is a terror state.. then syria.. then iran.. and all the while israel will be "preemptively" bombing every arab/moslem state they can find. This is bad. I, of course, am not jewish/arab/moslem/israeli/palestian/labanese/nebraskan but it seems that israel attacking so many soverign countries while the world(except for the US) is shouting for them to stop is only going to lead us into a rather dark period of war.

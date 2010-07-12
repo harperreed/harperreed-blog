@@ -2,6 +2,7 @@
 wordpress_id: 1510
 layout: post
 title: Awesome hosting options
+tags: technology, hosting, rackspace, mosso, servers, mediatemple, webfaction, fdcservers
 wordpress_url: http://www.nata2.org/2008/03/02/awesome-hosting-options/
 ---
 I spend WAY WAY too much time trying to figure out where and how to host my websites. I guess you could it a hobby. A really horrible and expensive hobby. It isn't a great way to meet friends, enjoy life or honestly save money. However - it prepares me for the awesome ability to bitch about hosting and to write this blog entry.

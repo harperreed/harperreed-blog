@@ -2,6 +2,7 @@
 wordpress_id: 1211
 layout: post
 title: Caller id spoofing with PHP and asterisk
+tags: general, technology, technology
 wordpress_url: http://www.nata2.org/2006/02/14/caller-id-spoofing-with-php-and-asterisk/
 ---
 I have cleaned up and commented a little hack i did for my home asterisk server - allowing a person to dial an extension and then be walked through spoofing caller id on a call. It is a ridiculously easy hack to engage. I was surprised and a bit concerned at what this means in regards to trust and telephony. I mean, if a hobbyist is able to spoof caller id on a phone call to anywhere with nothing more than <a href="http://asteriskathome.sourceforge.net/">asterisk@home</a> and <a href="http://www.vmware.com/products/server/">vmware</a>.. what is to stop someone from setting something like this up and stealing credit cards or social security numbers using some crazy <a href="http://en.wikipedia.org/wiki/Social_engineering_%28computer_security%29">social engineering</a>.. i guess nothing..

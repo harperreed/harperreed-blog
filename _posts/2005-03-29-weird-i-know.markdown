@@ -2,6 +2,7 @@
 wordpress_id: 1033
 layout: post
 title: weird i know
+tags: general, sites, travel, interesting, work, hobby
 wordpress_url: http://www.nata2.org/2005/03/29/weird-i-know/
 ---
 but i am really rather sleepy. today at work really dragged. DRAGGED. i think i am going to pheonix this coming week. it should be pretty dope. 

@@ -2,6 +2,7 @@
 wordpress_id: 1147
 layout: post
 title: weird...
+tags: general, sick, movies, travel, weather
 wordpress_url: http://www.nata2.org/2005/11/06/weird-2/
 ---
 there is a thunderstorm outside.  its november. wtf. 

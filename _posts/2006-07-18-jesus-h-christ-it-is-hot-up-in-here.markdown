@@ -2,6 +2,7 @@
 wordpress_id: 1307
 layout: post
 title: "jesus h christ. it is hot up in here. "
+tags: general, chicago, fun, ideas, skinnycorp, heat, weather, squidoo, eating, dumb, irazu, drinking
 wordpress_url: http://www.nata2.org/2006/07/18/jesus-h-christ-it-is-hot-up-in-here/
 ---
 So we don't have air conditioning. I mean. we have one small unit that sits in our living room and makes watching television somewhat bearable - but we don't have central air or even something close to that. So we die. It is honestly around 100 degrees in my room. as you can imagine that makes it pretty hard to sleep.

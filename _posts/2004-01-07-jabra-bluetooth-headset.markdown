@@ -2,6 +2,7 @@
 wordpress_id: 1169
 layout: post
 title: Jabra bluetooth headset
+tags: general
 wordpress_url: http://www.nata2.org/2004/01/07/jabra-bluetooth-headset/
 ---
 so the other day I decided to pick up a <a href="http://jabra.com/products/FreeSpeak_Photo1.html">Jabra Freespeak</a> bluetooth headset for my t610. When wearing it I feel as though I am in the future. I thought about getting the <a href="http://www.nextlink.to/bluespoon/index.htm">digital bluespoon</a> but i felt bad paying more for the headset than i did for the phone. so i guess that will have to wait for when i get my <a href="http://www.nokia.com/nokia/0,4879,33210,00.html">6600</a>.

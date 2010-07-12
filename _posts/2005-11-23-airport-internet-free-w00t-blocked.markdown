@@ -2,6 +2,7 @@
 wordpress_id: 1151
 layout: post
 title: Airport internet. Free. W00t. Blocked.
+tags: general, travel, awesome, airport, lynx, unix
 wordpress_url: http://www.nata2.org/2005/11/23/airport-internet-free-w00t-blocked/
 ---
 Oh man. i am sitting here in midway. about an hour before i have to get on my plane. My internet obviously works - due to me being able to post this, but i am not able to access any of my own websites. websense has blocked them all. haha. stupid "gray hat." haha. as if i actually wore hats. anyway. i just ssh'd into my server, and am using lync to leave this. hah. we shall see how it actually turns out.

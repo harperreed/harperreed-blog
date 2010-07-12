@@ -11,6 +11,7 @@ excerpt: |
   phunktoad (11:52:03 AM): so you and her came over to beth's place, and you tell me that you both were taking flying lessons
   phunktoad (11:52:09 AM): and you wanted to show me
 
+tags: linux
 wordpress_url: http://new.nata2.org/?p=583
 ---
 Oh yea.. I am.. 

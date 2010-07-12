@@ -2,6 +2,7 @@
 wordpress_id: 1490
 layout: post
 title: Exciting News!
+tags: general, threadless, skinnycorp, jobs, employment
 wordpress_url: http://www.nata2.org/2007/11/05/exciting-news/
 ---
 I have been working at <a href="http://skinnycorp.com">skinnyCorp</a> for about 2.4 years. We have grown a lot in that time. It is really cool to think about. When I started, we had 3 servers, a lot of traffic and were selling quite a few shirts a day. Now, we are approaching 40 servers, a veritable ass load of traffic and we are selling a lot of shirts. It has been awesome to be a part of growing the technology behind <a href="http://threadless.com">Threadless</a> in a pace that matches the community.

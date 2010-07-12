@@ -4,6 +4,7 @@ layout: post
 title: I am tired
 excerpt: "Last night I tried to goto bed early. but I was tricked by something. I am not sure what. But something kept me up. I had a lot of weird dreams about moving from my cubicle to a strange undisclosed location and losing my headphones.. or something it was confusing. Last night I emailed myself regarding a weblog post I was supposed to make. here it is:\r\n\
   My "
+tags: reed, php, phone, war, fear, bush, politics, politic, phones
 wordpress_url: http://new.nata2.org/?p=392
 ---
 Last night I tried to goto bed early. but I was tricked by something. I am not sure what. But something kept me up. I had a lot of weird dreams about moving from my cubicle to a strange undisclosed location and losing my headphones.. or something it was confusing. <br/><br/>Last night I emailed myself regarding a weblog post I was supposed to make. here it is:<ul>

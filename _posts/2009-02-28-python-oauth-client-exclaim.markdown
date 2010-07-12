@@ -2,6 +2,7 @@
 wordpress_id: 1606
 layout: post
 title: Python Oauth Client - Excla.im
+tags: technology, twitter, python, oauth, appengine
 wordpress_url: http://www.nata2.org/?p=1606
 ---
 I built <a href="http://excla.im">Excla.im</a> quite awhile ago, well before <a href="http://twitter.com/harper">Twitter</a> unleased their oauth beta program. Regardless, <a href="http://factoryjoe.com/blog/">Chris Messina</a> <a href="http://flickr.com/photos/factoryjoe/2841257703/">tagged the Excla.im sign up process as an anty pattern</a> within his flickr stream. I was bummed because i would have loved to use Oauth to authenticate Excla.im. But because of the tagging, i was constantly thinking about how to remove the anti pattern.

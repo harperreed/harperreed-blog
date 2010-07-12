@@ -5,6 +5,7 @@ title: sneaky newish IE spoof
 excerpt: |-
   to solve the problem with virus scanners and such I have relocated this spoof to here
   that should work. for more info check out here or here. weird eh.. i am tired and hungry. mostly hung...
+tags: phone, server, irc
 wordpress_url: http://new.nata2.org/?p=709
 ---
 to solve the problem with virus scanners and such I have relocated this spoof to <a href="http://www.dopeman.org/spoof.html">here</a>

@@ -2,6 +2,7 @@
 wordpress_id: 1255
 layout: post
 title: "gcal: google calendar wordpress plugin"
+tags: general, technology, technology
 wordpress_url: http://www.nata2.org/2006/04/25/gcal-google-calendar-wordpress-plugin/
 ---
 <p>I have released my first wordpress plugin. It allows a user to take the public shared calendar feed from goodle calendar and display it in a useful fashion on their wordpress blog.</p>

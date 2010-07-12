@@ -2,6 +2,7 @@
 wordpress_id: 1122
 layout: post
 title: new skinnyCorp site... check it
+tags: general, food, skinnycorp, awesome, work
 wordpress_url: http://www.nata2.org/2005/08/31/new-skinnycorp-site-check-it/
 ---
 so jake and jeffrey rocked out this site in like negative 10 days. it was done nice and fast. check it out: <a href="http://www.skinnycorp.com/">skinnyCorp</a>. 

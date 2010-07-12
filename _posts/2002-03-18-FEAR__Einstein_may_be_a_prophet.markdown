@@ -3,6 +3,7 @@ wordpress_id: 232
 layout: post
 title: "FEAR: Einstein may be a prophet"
 excerpt: "Besides ineffectual teachers, and boring classes the United states commoner is threatened with a large scale war that may destroy us all. I was walking along the street this weeked and a bike messanger throw what amounted to a handfull of flyers in our direction. they said: \"G.W. Bush wan..."
+tags: war, video, bush, action, military, tones, politics, politic, taiwan, asia, iraq
 wordpress_url: http://new.nata2.org/?p=232
 ---
 Besides <a href="http://story.news.yahoo.com/news?tmpl=story&cid=679&u=/usatoday/20020318/cm_usatoday/3948029">ineffectual teachers, and boring classes</a> the United states commoner is threatened with a large scale war that may destroy us all. I was walking along the street this weeked and a bike messanger throw what amounted to a handfull of flyers in our direction. they said: "<b>G.W. Bush wants war</b>." Which seems to be not very far from the truth.<br/><br/>

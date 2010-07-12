@@ -2,6 +2,7 @@
 wordpress_id: 1061
 layout: post
 title: like a hoody on a hot day
+tags: general, taiwan, hiromi, ella, yoyos, party, amara
 wordpress_url: http://www.nata2.org/2005/05/13/like-a-hoody-on-a-hot-day/
 ---
 Recently hiromi and myself sent some gifts to a friend of ours in taiwan. I sent her a hoody and hiromi sent her a skirt. <a href="http://www.wretch.cc/album/show.php?i=pzella&b=7&f=1115999964&p=2">here</a> is a picture of her with the goods. 

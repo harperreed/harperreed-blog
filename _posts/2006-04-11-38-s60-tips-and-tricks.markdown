@@ -2,6 +2,7 @@
 wordpress_id: 1242
 layout: post
 title: "38 S60 tips and tricks "
+tags: general
 wordpress_url: http://www.nata2.org/phone-stuff/38-s60-tips-and-tricks/
 ---
 <div style="text-align: center">

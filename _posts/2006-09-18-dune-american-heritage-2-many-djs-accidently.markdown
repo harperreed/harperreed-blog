@@ -2,6 +2,7 @@
 wordpress_id: 1345
 layout: post
 title: DUNE. american heritage. 2 many djs. accidently
+tags: general
 wordpress_url: http://www.nata2.org/2006/09/18/dune-american-heritage-2-many-djs-accidently/
 ---
 I am watching the <a href="http://www.bbsdocumentary.com/">bbs documentary</a>. Its amazing. I started watching clive barker's Lord of Illusions - but it sucked. It always sucked. It sucked when i saw it in the theatre and it sucks now. So as soon as i remembered that it blew - i also remembered how awesome the BBS Doc was. So i put it in and now it is awesome. AWESOME i say.

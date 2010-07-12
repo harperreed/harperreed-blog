@@ -2,6 +2,7 @@
 wordpress_id: 1044
 layout: post
 title: flickr. crazy clean teeth
+tags: general, colorado, health, dentist
 wordpress_url: http://www.nata2.org/2005/04/11/flickr/
 ---
 i obviously have to start using flickr more. it apparently rules. 

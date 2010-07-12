@@ -8,6 +8,7 @@ excerpt: |-
    I was one of the head guys at a mental institution and I was in charge of combating all communicable diseases. So I got an alert of a breakout of this scary disease that turns ordinary people into shape shifters on a killing rampage.
   
   S...
+tags: job, war, insane, action, disease
 wordpress_url: http://new.nata2.org/?p=129
 ---
 So, I had another weird dream. this one was quite scary - not that weird good scary either. Real real scary. Not fun. it went like this:

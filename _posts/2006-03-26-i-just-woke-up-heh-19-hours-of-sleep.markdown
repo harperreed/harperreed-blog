@@ -2,6 +2,7 @@
 wordpress_id: 1234
 layout: post
 title: i just woke up... heh. 19 hours of sleep
+tags: general, hiromi, travel, japan, taxes, slacker
 wordpress_url: http://www.nata2.org/2006/03/26/i-just-woke-up-heh-19-hours-of-sleep/
 ---
 hahaha. i didn't mean to. i had set my alarms for 8pm last night. but apparently i didn't hear it or anything else until about 2 today. hah. whoops.

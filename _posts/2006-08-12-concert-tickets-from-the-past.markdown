@@ -2,6 +2,7 @@
 wordpress_id: 1320
 layout: post
 title: Concert tickets from the past
+tags: general, concerts, tickets, concert, shows, past, history, personal
 wordpress_url: http://www.nata2.org/2006/08/12/concert-tickets-from-the-past/
 ---
 Tonight while talking about my crazy hair in high school and showing my roommate chris some pictures from high school i stumbled upon all my old tickets from concents and what not from the past 16 years. I apparently have gone to an ass load of concerts. Maybe over 150. It was surpriseing to look at all of these tickets and realize that i have spent at least 3 hours if not more time per piece of paper. that is roughly 450 hours of music - a lot of it death metal. haha. awesome.

@@ -2,6 +2,7 @@
 wordpress_id: 1315
 layout: post
 title: "Goddamn Joel on software's new google search appliance. "
+tags: technology, search, web-20, wikipedia, joel-on-software, joel, software, endeca, encycopedia
 wordpress_url: http://www.nata2.org/2006/07/31/goddamn-joel-on-softwares-new-google-search-appliance/
 ---
 <p>So i think it is awesome that <a href="http://sethgodin.typepad.com/">seth godin</a> was able to "<a href="http://video.google.com/videoplay?docid=-6909078385965257294">convince</a>" google to give <a href="http://joelonsoftware.com/items/2006/07/28.html">joel on software a google search appliance</a>. That is amazing. I mean - Joel probably needed a better search engine, but what makes me mad is this:</p>

@@ -2,6 +2,7 @@
 wordpress_id: 1068
 layout: post
 title: "see.. i told you so. "
+tags: general, books, hacking, crobar, programming, music, wedding, hiromi, google, hacks, ruby, rails, trex, bike, danielle, psp
 wordpress_url: http://www.nata2.org/2005/05/23/see-i-told-you-so/
 ---
 So i had written some crappy post on how i made this it said:

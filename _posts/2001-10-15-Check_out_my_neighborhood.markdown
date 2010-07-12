@@ -6,6 +6,7 @@ excerpt: |-
   A ?green sticky substance? discovered in the Logan Square neighborhood was determined to be guacamole, while a suspicious powder in the shoe department of the Marshall Field?s store at Water Tower Place was believed to be foot powder, authorities said.
   
   check it out
+tags: chicago, author
 wordpress_url: http://new.nata2.org/?p=117
 ---
 A ?green sticky substance? discovered in the <b>Logan Square</b> neighborhood was determined to be guacamole, while a suspicious powder in the shoe department of the Marshall Field?s store at Water Tower Place was believed to be foot powder, authorities said.

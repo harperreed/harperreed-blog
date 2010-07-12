@@ -5,6 +5,7 @@ title: Mac Mini! oh yea. part deux
 excerpt: |-
   so I got my mac mini. it came during my last blog entry. I was excited. 
   of course. apple had to pack it all nice and such. I appreciate how minimal a...
+tags: phone, osx, apple, nokia
 wordpress_url: http://new.nata2.org/?p=983
 ---
 so I got my mac mini. it <a href="http://nata2.info/?path=pictures%2Fmisc%2Fphone_camera%2Fnokia_7610%2F200120051137&img=Nokia7610%28038%29.jpg">came</a> during my last blog entry. I was excited. 

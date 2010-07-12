@@ -2,6 +2,7 @@
 wordpress_id: 1393
 layout: post
 title: Twapp - a quick hack to update and view twitter
+tags: technology, technology
 wordpress_url: http://www.nata2.org/2006/12/07/twapp-a-quick-hack-to-update-and-view-twitter/
 ---
 Tonight after work I decided to whip up a quick <a href="http://www.twitter.com">twitter</a> client in C#. I love C#. It is so fun and easy. I have never done web work in it, but love writing applications. So tonight I just sat down and slugged through the idea.

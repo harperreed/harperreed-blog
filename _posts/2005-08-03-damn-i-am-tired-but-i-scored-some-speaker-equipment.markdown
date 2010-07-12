@@ -2,6 +2,7 @@
 wordpress_id: 1104
 layout: post
 title: "damn i am tired. but i scored some speaker equipment. "
+tags: general, music, electronics, stereo, computer, hot, heat, weather
 wordpress_url: http://www.nata2.org/?p=1104
 ---
 So i was working with seth - wrapping up my summer gig and hanging out a bit. and he was telling me that he was going to throw out some water damaged audiophile equipment that he had laying around. He then offered me the equipment - and i of course said YES. 

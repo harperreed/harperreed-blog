@@ -2,6 +2,7 @@
 wordpress_id: 1038
 layout: post
 title: ohhh... stuff got insane
+tags: general, job, travel, sad, javascript, hacks
 wordpress_url: http://www.nata2.org/2005/04/03/ohhh-stuff-got-insane/
 ---
 oh yea. so stability, unrest and insanity are all ways to describe my current feelings.  basically nothing is making sense and everything is all screwed up. 

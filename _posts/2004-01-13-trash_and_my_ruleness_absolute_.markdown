@@ -3,6 +3,7 @@ wordpress_id: 727
 layout: post
 title: trash and my ruleness absolute.
 excerpt: So I have been trashing my blog by quoting aim and such. it is nice and humorous but it totally throughs of the blog feel and makes it kinda childish. I really don't like it. but I am still laughignabout this prank I pulled on my friend scott  - so I will share it with yall.. it is the last one for awhile.. (unless I continue to be awesome)So the setup was that I wanted to play a joke o...
+tags: harper, phone, cell, chicago, war, humor, music, aim, linux, broox, friendster, brooks
 wordpress_url: http://new.nata2.org/?p=727
 ---
 So I have been trashing my blog by quoting aim and such. it is nice and humorous but it totally throughs of the blog feel and makes it kinda childish. I really don't like it. but I am still laughignabout this prank I pulled on my friend scott  - so I will share it with yall.. it is the last one for awhile.. (unless I continue to be awesome)<br/><bR>So the setup was that I wanted to play a joke on scott. I was posting random stuff to friendster and I came up with the idea of posting scotts cell phone number to friendster as a "dial a song." so I did it. here is my post:<blockquote><small>

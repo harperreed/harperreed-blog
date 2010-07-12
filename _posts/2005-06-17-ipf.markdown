@@ -2,6 +2,7 @@
 wordpress_id: 1084
 layout: post
 title: IPF!
+tags: general, dylan, fun, urination, crazy, rules
 wordpress_url: http://www.nata2.org/2005/06/17/ipf/
 ---
 i just wanted to remind everyone how much me and my friends rule. check it out here:

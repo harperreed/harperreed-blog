@@ -2,6 +2,7 @@
 wordpress_id: 1097
 layout: post
 title: hehe. life in shambles part 2
+tags: general, work, cleaning
 wordpress_url: http://www.nata2.org/2005/07/20/hehe-life-in-shambles-part-2/
 ---
 So my life was in shambles. but i am feeling it come back. For one. i cleaned my room. that seriously helped. I didn't know i had so much space. i coudl sleep anywhere. basically all i did was remove all the geeky stuff. like the cell phones, the computers, the audreys and the like. the second thing i did - was fix my computers. I changed up hard drives. merged my MP3 Libraries. and all that. So now rather than two disparate libraries i have one 60g one. nicer. i now need to finish that and copy it to its own HD and make everything happy. For third i am finally getting caught up on work. i had a very very good work day today and if i ever get tomorrow i imagine i will have one tomorrow as well. 

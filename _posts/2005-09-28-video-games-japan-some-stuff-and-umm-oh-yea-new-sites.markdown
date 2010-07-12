@@ -2,6 +2,7 @@
 wordpress_id: 1132
 layout: post
 title: video games, japan some stuff.. and umm.. oh yea. new sites
+tags: general, chicago, hacking, games, hiromi, skinnycorp, awesome, psp, jpan, console, emulation
 wordpress_url: http://www.nata2.org/?p=1132
 ---
 New York Peeps: check out <a href="http://movies.groups.yahoo.com/group/mediadiet-movies/">Heath's new group</a> for watching movies. and such. i imagine it will be a good time. 

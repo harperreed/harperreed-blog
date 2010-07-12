@@ -3,6 +3,7 @@ wordpress_id: 170
 layout: post
 title: irony
 excerpt: I was just getting ready to write a linux bastion server how-to. HA
+tags: server, linux
 wordpress_url: http://new.nata2.org/?p=170
 ---
 I was just getting ready to write a linux bastion server how-to. HA

@@ -2,6 +2,7 @@
 wordpress_id: 1048
 layout: post
 title: insanity for sure
+tags: general, blogs, insanity, depervation
 wordpress_url: http://www.nata2.org/2005/04/20/insanity-for-sure/
 ---
 So i randomly decided to redo <a href="http://blogs.nata2.org">blogs.nata2.org</a> in rails at 2 in the morning. WHY AM I INSANE!!!

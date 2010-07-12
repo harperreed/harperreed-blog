@@ -2,6 +2,7 @@
 wordpress_id: 1155
 layout: post
 title: this is a long awaited post
+tags: general, chicago, christmas, flickr, hiromi, rails, upgrading, api, nye, killhannah
 wordpress_url: http://www.nata2.org/?p=1155
 ---
 I am lost in regards to what to listen to. I need something new. Or old. i don't know. 

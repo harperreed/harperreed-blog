@@ -2,6 +2,7 @@
 wordpress_id: 1356
 layout: post
 title: Some quick youtube hackings
+tags: technology, php, code, api, youtube, classes
 wordpress_url: http://www.nata2.org/2006/10/02/some-quick-youtube-hackings/
 ---
 Man. Today was pretty awesome. Woke up. Juggled. Ate good food. And wrote some dope PHP stuff.

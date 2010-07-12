@@ -2,6 +2,7 @@
 wordpress_id: 1245
 layout: post
 title: Stuff I do
+tags: general
 wordpress_url: http://www.nata2.org/stuff-i-do/
 ---
 <strong>Hacking Stuff </strong>

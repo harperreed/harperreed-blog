@@ -2,6 +2,7 @@
 wordpress_id: 1261
 layout: post
 title: "So i finally came back. "
+tags: general, video, flickr, travel, home, jon
 wordpress_url: http://www.nata2.org/2006/05/09/so-i-finally-came-back/
 ---
 I am currently at home. Hanging out. Having a great time. It is sometime sooo nice to be home. I forget that about traveling.

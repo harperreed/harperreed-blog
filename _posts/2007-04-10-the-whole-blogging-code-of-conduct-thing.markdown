@@ -2,6 +2,7 @@
 wordpress_id: 1429
 layout: post
 title: The whole blogging code of conduct thing.
+tags: technology, technology, stupid, life, decency, code, conduct, feelings
 wordpress_url: http://www.nata2.org/2007/04/10/the-whole-blogging-code-of-conduct-thing/
 ---
 So awhile back, a little before etech, Kathy Sierra was attacked by some Internet hoodlums who used hatespeech and made Kathy Sierra feel threatened. She decided not to go to etech and instead <a href="http://headrush.typepad.com/creating_passionate_users/2007/03/as_i_type_this_.html">posted a blog entry about how she was scared of life and didn't feel like going outside</a>.  I think her blog entry was good. It basically started a tidal wave of discussion about being mean and hateful on the Internet.

@@ -2,6 +2,7 @@
 wordpress_id: 1217
 layout: post
 title: "Geopoli.com. I kinda need some help maybe. "
+tags: general, technology, harper, hacking, websites, politics, geoip, geotag, congress, webapps
 wordpress_url: http://www.nata2.org/2006/02/22/geopolicom-i-kinda-need-some-help-maybe/
 ---
 I need some new sites. Speaking of which - I am making a new site: geopoli.com. It is a geotargeted political banner ad and text ad delivery site. I want to make it so you can include a dynamic image or JS code snippet on your blog or myspace profile and it will display to your users a text ad or banner ad saying "YOU LIVE IN CHICAGO. SEND OBAMA an EMAIL."

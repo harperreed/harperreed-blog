@@ -2,6 +2,7 @@
 wordpress_id: 1079
 layout: post
 title: railsday.com experience
+tags: general, food, projects, ruby, rails, on, railsday, andy
 wordpress_url: http://www.nata2.org/2005/06/08/railsdaycom-experience/
 ---
 So <a href="http://aiphd.blogspot.com">andy</a> and i did <a href="http://railsday.com">rails day</a> on saturday. It was quite an experience. We started about 10am and worked until about 6pm. We got almost the entire way through the application with some MAJOR pieces missing - but not so bad for barely 8 hours or whatever. we totally coudl have finished if we would have actually used the 24 hours. but we have lives. haha. and we are not super ruby peeps. 

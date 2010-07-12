@@ -2,6 +2,7 @@
 wordpress_id: 1349
 layout: post
 title: blogs.nata2.org
+tags: general, blogs, sites, smarty, magpie-rss
 wordpress_url: http://www.nata2.org/2006/09/23/blogsnata2org/
 ---
 I redid this mini site using smarty, magpie rss and some other tricks. It is now pretty nice. I like using wordpress themes. It makes it easier. I can have a decent looking site (they are all blog like anyway) in about 5 minutes. Sometimes its a pain though. But it turned out nice i think.

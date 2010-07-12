@@ -2,6 +2,7 @@
 wordpress_id: 1601
 layout: post
 title: Seven Things (goddamn internet friends)
+tags: general, harper, meme, seven-things, about-me
 wordpress_url: http://www.nata2.org/2009/01/11/seven-things-goddamn-internet-friends/
 ---
 <p style="clear: both">I was tagged by both <a href="http://eliw.wordpress.com/2009/01/05/seven-things/">Eli White</a> and <a href="http://flinglog.com/text/seven-things/">Brian Fling</a> in this dastardly meme regarding 7 things. I am usually a HUGE fan of all things meme - and kind of regard myself as a <a href="http://fukung.net">certified</a> meme expert. However this whole meme that requires a lot of work - I.E. blogging is something entirely different. I think i actually like it, but i am not entirely sure yet ;).</p>

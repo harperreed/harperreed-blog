@@ -7,6 +7,7 @@ excerpt: |-
   
   this is pretty funny. heh. stupid states vote republican. ;) haha. umm yea. stupid colorado. omg. I am tired. I just got done from a marathon meeting about search engine features. w00t
   now home.i am feeling pretty good. it has be...
+tags: phone, colorado, search, school, india, travel
 wordpress_url: http://new.nata2.org/?p=848
 ---
 now hopefully nothing falls apart in the next 12 hours. 

@@ -2,6 +2,7 @@
 wordpress_id: 1511
 layout: post
 title: OLPC Chicago Jabber Server
+tags: technology, olpc, jabber, chat, xmpp, olpc-chicago, jabberolpchacksorg, jabber-server, ejabberd
 wordpress_url: http://www.nata2.org/2008/03/02/olpc-chicago-jabber-server/
 ---
 Today I spent a minute setting up a <a href="http://lists.laptop.org/pipermail/olpc-chicago/2008-March/000136.html">Ejabberd Server</a> for the OLPC Chicago group. This will allow all of us OLPC XO hackers to be on the same "mesh." To get started using the jabber server with your XO follow these simple steps:

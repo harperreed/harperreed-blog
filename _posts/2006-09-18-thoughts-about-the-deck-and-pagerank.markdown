@@ -2,6 +2,7 @@
 wordpress_id: 1346
 layout: post
 title: Thoughts about The DECK and PageRank.
+tags: technology, technology
 wordpress_url: http://www.nata2.org/2006/09/18/thoughts-about-the-deck-and-pagerank/
 ---
 <p>The other day I read the great post about <a href="http://www.seoegghead.com/blog/seo/mattcuttsarama-a-summary-of-useful-stuff-matt-cutts-has-said-p112.html">Matt Cutt's SEO tips and tricks</a> that were gleaned from his great blog. It was probably one of the most helpful SEO articles I had read in a minute. It summarized some points that I had learned throughout the years with just a couple sentences. Good work.</p>

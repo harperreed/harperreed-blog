@@ -2,6 +2,7 @@
 wordpress_id: 1050
 layout: post
 title: "ajaxed up on ruby on rails. seriously this time. "
+tags: general, music, osx, apple, applications, mac, ruby, rails, on, ajax, application, web, tiger, jack, spade
 wordpress_url: http://www.nata2.org/2005/04/30/ajaxed-up-on-ruby-on-rails-seriously-this-time/
 ---
 So i haven't really been posting to my blog as i would like. I have instead been coding <a href="http://rubyonrails.com">ruby on rails </a>applications. it is fun. i am kinda bored. sorta. not really. i was bored. then i discovered the ajax helpers. haha.  so much fun. unfortunately a site such as <a href="http://harperreed.org">harperreed.org</a> doesn't lend itself to being ajax'd. I was able to do some fanciness with the <a href="http://harperreed.org/quotations/random">quotation on the front </a>and the <a href="http://harperreed.org/contact">contact form</a>.  check it out. i am proud. 

@@ -9,6 +9,7 @@ excerpt: |-
    At least I'll wake up who I am tomorrow..... But Nata's RETARD, well he will still be RETARDED in the am. You faggot will still wake up a faggot in the morning.
   
   I a...
+tags: php, server, apache, sites, sick, applications
 wordpress_url: http://new.nata2.org/?p=936
 ---
 seriously. I was just sitting here at home waiting for things to happen. and BAM something happened. I got an email from minmouse@sbcglobal.net. heh. rule. here it is:

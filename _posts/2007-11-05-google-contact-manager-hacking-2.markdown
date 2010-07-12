@@ -2,6 +2,7 @@
 wordpress_id: 1489
 layout: post
 title: Google Contact Manager Hacking
+tags: general, hacking, google, gmail, xml, javascript, ajax, contacts, isync, contact-manager
 wordpress_url: http://www.nata2.org/2007/11/05/google-contact-manager-hacking-2/
 ---
 Since Google just changed the game of mobile software - I got to thinking about my new fascination - Contact management. So the first place I go to is Gmail and <a href="http://lifehacker.com/software/sneak-preview/gmail-speeds-up-improves-contacts-316673.php">Google's new contact manager</a>. Being an <a href="http://en.wikipedia.org/wiki/ISync">iSync</a> freakout, I love syncing my contacts. I LOVE being able to bring in contacts from all my different sources and see them mix with my current contacts. I LOVE finding duplicates and merging then. God I am a dork. So recently, Google released a new contact manager into Gmail's across the world (If you don't have it, you probably will soon) - so I was excited to try out the import export pieces to see how well it works/goes. fun fun. here are most of my notes.

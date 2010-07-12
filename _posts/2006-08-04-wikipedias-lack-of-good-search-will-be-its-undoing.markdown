@@ -2,6 +2,7 @@
 wordpress_id: 1318
 layout: post
 title: Wikipedia's lack of good search will be its undoing
+tags: technology, search, wikipedia, endeca, encyclopedia
 wordpress_url: http://www.nata2.org/2006/08/04/wikipedias-lack-of-good-search-will-be-its-undoing/
 ---
 So <a href="http://www.wikipedia.com">Wikipedia</a> is getting <a href="http://www.andycarvin.com/archives/2006/08/jimmy_wales_announce.html">a lot of</a> <a href="http://www.boingboing.net/2006/08/04/whats_next_for_wikip.html">coverage</a> for all of the doings of the wikimedia foundation (<a href="http://laptop.org/">$100 Laptop Partnership</a>, <a href="http://en.wikibooks.org/wiki/Wikiversity">Wikiversity</a>, Wikiwyg). A lot of amazing stuff. And not only amazing - but helpful and really community friendly. I think that <a href="http://www.wikipedia.com">Wikipedia</a> is really in a place to change the world. However - with that said - I think they need to concentrate on a part of their site that is integral:<strong> the search</strong>.

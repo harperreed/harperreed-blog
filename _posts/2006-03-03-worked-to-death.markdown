@@ -2,6 +2,7 @@
 wordpress_id: 1227
 layout: post
 title: "Worked to death. "
+tags: general, work
 wordpress_url: http://www.nata2.org/2006/03/03/worked-to-death/
 ---
 So yesterday i worked a lot. It was awesome. I enjoy being in a position where i really like what i am working on. It makes staying on task that much easier. In the past, when i was working at other companies, i would often have to work on two or three things of my own just to pass the time between real work and meetings and all that corporate crap that occurs at companies that are really old or really dumb. But now - working on awesome things..
