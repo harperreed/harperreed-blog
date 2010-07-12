@@ -2,6 +2,7 @@
 wordpress_id: 1354
 layout: post
 title: I love making these silly aggregate sites - reedbooks.org
+tags: general, family, blogs, money, rss, aggregation, mashup
 wordpress_url: http://www.nata2.org/2006/09/28/i-love-making-these-silly-aggregate-sites-reedbooksorg/
 ---
 I started with <a href="http://thestoryofharper.com">thestoryofharper.com</a> and then I created the site for <a href="http://hiromiandharper.com">hiromi and myself</a>. So after writing all the cool classes to make this easy I decided to make the <a href="http://blogs.nata2.org">blogs.nata2.org</a> site and then tonight I redid the reedbooks.org site to be an aggregate of my families blogs. fun fun.

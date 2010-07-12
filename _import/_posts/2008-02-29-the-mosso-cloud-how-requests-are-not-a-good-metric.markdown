@@ -2,6 +2,7 @@
 wordpress_id: 1509
 layout: post
 title: "The Mosso Cloud: Requests are not a good metric"
+tags: technology, hosting, mosso, web-20, cloud, grid
 wordpress_url: http://www.nata2.org/?p=1509
 ---
 <i><b>UPDATE: </b>Not a moment after i posted this - i got a mosso mailing that explained an upgrade in the plan. I will leave the original number in because i still think my point is valid and because that is what new Mosso customers will be getting. Their update is just a quick fix to stop us from bitching. It isn't solving the problem.</i>

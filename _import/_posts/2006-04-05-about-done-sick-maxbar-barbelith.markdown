@@ -2,6 +2,7 @@
 wordpress_id: 1237
 layout: post
 title: About done. sick. maxbar. barbelith.
+tags: general
 wordpress_url: http://www.nata2.org/2006/04/05/about-done-sick-maxbar-barbelith/
 ---
 Today was a long day. I have been going to bed so early and then getting up early. It has been nice. But I need to figure out the point of sleep moderation - or i need to get well. It seems that every day around 11 o clock i get kinda sick. Like my throat gets irratated and i cough a bit more. Probably just weak still from my fight with the cold. stupid cold.

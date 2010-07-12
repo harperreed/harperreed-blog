@@ -2,6 +2,7 @@
 wordpress_id: 1107
 layout: post
 title: she wants revenge is my new favorite band.
+tags: general, humor, music
 wordpress_url: http://www.nata2.org/2005/08/05/she-wants-revenge-is-my-new-favorite-band/
 ---
 however.. there is one downside.. the songs do sound the same. but mike said it best:

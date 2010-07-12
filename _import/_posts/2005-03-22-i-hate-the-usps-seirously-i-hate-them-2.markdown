@@ -2,6 +2,7 @@
 wordpress_id: 1025
 layout: post
 title: i HATE the usps. seirously i HATE them
+tags: general, hong, kong, usps, mail, hivizone, angry
 wordpress_url: http://www.nata2.org/2005/03/22/i-hate-the-usps-seirously-i-hate-them-2/
 ---
 So i have been ordering from <a href="http://www.hivizone.com">hivizone</a>, a hong kong asian cinema store, for about 4 years now. and they send via speedpost - which eventually turns into <a href="http://www.usps.com">USPS</a>. well. goddamn USPS always makes receiving packages a nightmare. so for the second time in the last six months i have placed an order with hivizone and USPS leaves an attempt of delivery notice. So i fill it out appropriately and leave it. The carrier then refuses to acknowledge it - and will either leave another one or just send my package back to hong kong. OMG. it kills me. 

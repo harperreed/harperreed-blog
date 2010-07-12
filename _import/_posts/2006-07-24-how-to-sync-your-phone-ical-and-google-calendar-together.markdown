@@ -2,6 +2,7 @@
 wordpress_id: 1249
 layout: post
 title: How to sync your phone, iCal and Google Calendar together.
+tags: technology, technology
 wordpress_url: http://www.nata2.org/2006/07/24/how-to-sync-your-phone-ical-and-google-calendar-together/
 ---
 I use a lot of operating systems in my daily computing exercise, each one does its own thing. I use windows for development - which really means that i just use windows for putty and firefox. I use linux to host and write code. and i use OSX for personal information management. Today i am going to tell yall how i use the i-suite and <a href="http://calendar.google.com/">Google Calendar</a> to have my calendars accessible all the time.

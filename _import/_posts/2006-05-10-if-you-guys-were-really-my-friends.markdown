@@ -2,6 +2,7 @@
 wordpress_id: 1263
 layout: post
 title: If you guys were really my friends
+tags: general, technology, phones, nokia, wifi, e60
 wordpress_url: http://www.nata2.org/2006/05/10/if-you-guys-were-really-my-friends/
 ---
 You would buy me this: <a href="http://welectronics.com/gsm/Nokia/Nokia_E60.HTML">Nokia E60</a>

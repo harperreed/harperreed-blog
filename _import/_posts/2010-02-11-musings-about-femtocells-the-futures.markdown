@@ -2,6 +2,7 @@
 wordpress_id: 1669
 layout: post
 title: "Musings about femtocells: the futures!"
+tags: general, phones, mobile, femtocell, developing-nations
 wordpress_url: http://www.nata2.org/?p=1669
 ---
 <blockquote>I wrote most of this entry the day before the earthquake in Haiti. It was motivated by the magicJack announcement and my interest in mobile devices within developing nations.  However, the thoughts in this post suddenly seemed more real after I started hearing reports of communication breakdown after the earthquake.</blockquote>

@@ -2,6 +2,7 @@
 wordpress_id: 1067
 layout: post
 title: sleep is for the weak
+tags: general, google
 wordpress_url: http://www.nata2.org/2005/05/22/sleep-is-for-the-weak/
 ---
 just wanted to let yall know that. 

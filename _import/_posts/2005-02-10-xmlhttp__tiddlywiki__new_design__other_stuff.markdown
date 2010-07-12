@@ -6,6 +6,7 @@ excerpt: |-
   heh. check out my new design. it is almost done. I need to fancy it up a bit and tweak it a little bit. but for the most part it is near completion. 
   
   also check out 43 things - a really really cool idea. I think I will integrate it with my new blog design. I also want to make a friends section like nick whate...
+tags: design
 wordpress_url: http://new.nata2.org/?p=991
 ---
 heh. <a href="http://www.dopeman.org/nata2">check out</a> my new design. it is almost done. I need to fancy it up a bit and tweak it a little bit. but for the most part it is near completion. 

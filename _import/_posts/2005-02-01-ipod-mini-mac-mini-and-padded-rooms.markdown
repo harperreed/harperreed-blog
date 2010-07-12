@@ -2,6 +2,7 @@
 wordpress_id: 1177
 layout: post
 title: Ipod Mini, Mac Mini and padded rooms.
+tags: general
 wordpress_url: http://www.nata2.org/2005/02/01/ipod-mini-mac-mini-and-padded-rooms/
 ---
 So i got one of those free ipod minis. It was stupid, those are such scams. it took a long time - cuz i didn't really care. but seriously. it isn't worth doing. you might as well just save your money and buy one. odn't get me wrong - it is free. but you are inadvertently selling out your fiends in the process. ;) 

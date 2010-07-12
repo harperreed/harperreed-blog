@@ -7,6 +7,7 @@ excerpt: |-
   i am enjoying the word invariably right now. it rules
   
   you all should come to the NYE party at my friends house. it will be awesome. check out the info watership.org. fun fun. lots of...
+tags: watership, humor
 wordpress_url: http://new.nata2.org/?p=977
 ---
 so I am working. with monkeys on my mind. it is a lot of fun - but it will soon be stressful. at least it is stress with humor involved. that is better. 

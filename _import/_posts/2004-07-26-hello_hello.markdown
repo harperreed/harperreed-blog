@@ -4,6 +4,7 @@ layout: post
 title: hello hello
 excerpt: "this is dumb. heh. BREAKING THE LAW!!\r\n\
   this weekend was pretty fun. I got my hair severly cut on friday. no more "
+tags: family, phone, colorado, chicago, video, food, crobar, insane, chris, girls, irc, experiment, nyc, sushi, nokia
 wordpress_url: http://new.nata2.org/?p=906
 ---
 <a href="http://boston.mirror-image.com/newsvideo/softwin/template.html?OAS_pos=SPONSOR2&amp;middle=072104_vws_worcester.wmv">this is dumb</a>. heh. BREAKING THE LAW!!<br/><br/>

@@ -2,6 +2,7 @@
 wordpress_id: 1236
 layout: post
 title: so.. my experience in tokyo
+tags: general, food, hiromi, travel, japan, tokyo, trips
 wordpress_url: http://www.nata2.org/2006/04/01/so-my-experience-in-tokyo/
 ---
 <a title="Photo Sharing" href="http://www.flickr.com/photos/natatwo/116388397/"><img align="right" alt="tokyo 032206 016" title="tokyo 032206 016" src="http://static.flickr.com/39/116388397_dadbeb9f34_m.jpg" /></a>Sorry i have been in such a "not blogging" mood,  but i have been in a real bad state since i got back. I got back last saturday and of course was jet-lagged. As soon as that was over i realized that i had contrated some space cold from either the plane, the train or matiss. So i basically spent the last week at work and then at home sleeping or reading or eating my new fancy ramen soup combo pasta surprise.

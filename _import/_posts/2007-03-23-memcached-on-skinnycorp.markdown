@@ -2,6 +2,7 @@
 wordpress_id: 1424
 layout: post
 title: Memcached on skinnyCorp
+tags: technology, technology, php, threadless, skinnycorp, memcached
 wordpress_url: http://www.nata2.org/2007/03/23/memcached-on-skinnycorp/
 ---
 <a href="http://www.flickr.com/photos/natatwo/430540094/" title="Photo Sharing"><img src="http://farm1.static.flickr.com/157/430540094_11dc4ca8c8_m.jpg" alt="Memcache versus Diskcache" align="right" height="240" width="168" /></a>In the last year or so Threadless has grown insanely. When I started in 2005, we had around 2 servers and a bundle of downtime. Now, just a year and a half later we have an assload of servers and haven't had any load based downtime in almost 6 months. Its awesome. We have really been striving to keep our server infrastructure two steps ahead of our traffic. It really makes a difference when we get slammed and our servers don't even grown. I love it.

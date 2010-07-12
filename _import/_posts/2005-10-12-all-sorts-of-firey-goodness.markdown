@@ -2,6 +2,7 @@
 wordpress_id: 1136
 layout: post
 title: "all sorts of firey goodness. "
+tags: general, skinnycorp, awesome, crazy, hifi, amp
 wordpress_url: http://www.nata2.org/2005/10/12/all-sorts-of-firey-goodness/
 ---
 today was pretty fun. 

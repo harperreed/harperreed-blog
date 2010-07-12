@@ -2,6 +2,7 @@
 wordpress_id: 1405
 layout: post
 title: How I setup blogs for my friends
+tags: technology, technology
 wordpress_url: http://www.nata2.org/2007/01/15/how-i-setup-blogs-for-my-friends/
 ---
 I am a blog advocate. I am often pushing my friends to get blogs and to update them. I love reading about how my friends are doing and what is going on in their lives and with their friends. It is such a nifty way to stay in touch. I know from my own experience how rewarding blogging can be. How it can create connections with people who normally would never be connected. I love it. So with that said - I am constantly helping friends set up blogs. And now I have it down to a science. I have figured out how to use wordpress and a couple plugins to create the perfect blogging environment for n00b bloggers. here is how it goes:

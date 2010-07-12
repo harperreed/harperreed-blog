@@ -2,6 +2,7 @@
 wordpress_id: 1321
 layout: post
 title: spiders are apparently good luck
+tags: general, movies, juggling, spiders
 wordpress_url: http://www.nata2.org/2006/08/13/spiders-are-apparently-good-luck/
 ---
 So i was playing computer and a spider crawled down my screen. It was really little. really really little. but now that it has disappeared i feel it crawling all over my body. heh.

@@ -5,6 +5,7 @@ title: NaTa2.info
 excerpt: "I set up a new document repository. I was tired of having to refind everythign I was looking for. So I set up a place that has everything together. wee. I am excited. now only if it was nicer and better. hehe. soon. my dear... soon.. \r\n\
   check it out at nata2.info...\r\n\
   I found some good stuff to post: "
+tags: chicago, osx
 wordpress_url: http://new.nata2.org/?p=139
 ---
 I set up a new document repository. I was tired of having to refind everythign I was looking for. So I set up a place that has everything together. wee. I am excited. now only if it was nicer and better. hehe. soon. my dear... soon.. 

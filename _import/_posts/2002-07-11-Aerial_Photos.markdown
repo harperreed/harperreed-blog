@@ -5,6 +5,7 @@ title: Aerial Photos
 excerpt: |
   There is something about aerial photos. they always fascinate me. it rules.
 
+tags: college
 wordpress_url: http://new.nata2.org/?p=317
 ---
 There is something about aerial photos. they always fascinate me. it rules.<br/>

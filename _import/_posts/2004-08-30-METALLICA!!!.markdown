@@ -5,6 +5,7 @@ title: METALLICA!!!
 excerpt: |-
   haha. 
   so this weekend was pretty ridiculous. it was generally out of control. basically I just hung out and did the things that make my life incredible. haha. it all started on Wednesday (of course).  so for the past couple weeks I have been working  nights a lot. so I have also had a LOT of screwed up sleep - i.e. none. especially at night. soo... on Wednesday I was struggl...
+tags: rock, food, crobar, metal, mom
 wordpress_url: http://new.nata2.org/?p=925
 ---
 haha. 

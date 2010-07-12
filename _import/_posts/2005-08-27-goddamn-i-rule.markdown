@@ -2,6 +2,7 @@
 wordpress_id: 1121
 layout: post
 title: "goddamn i rule. "
+tags: general, awesome, ruling, dork
 wordpress_url: http://www.nata2.org/2005/08/27/goddamn-i-rule/
 ---
 i had no idea how much i rule until derek pointed it out to me:

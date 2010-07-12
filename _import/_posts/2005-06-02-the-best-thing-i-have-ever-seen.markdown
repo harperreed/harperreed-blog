@@ -2,6 +2,7 @@
 wordpress_id: 1074
 layout: post
 title: "the best thing i have ever seen. "
+tags: general, music, awesome, eurodisco, dance
 wordpress_url: http://www.nata2.org/2005/06/02/the-best-thing-i-have-ever-seen/
 ---
 (this time i am not lieing)

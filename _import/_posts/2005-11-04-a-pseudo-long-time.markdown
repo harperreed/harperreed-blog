@@ -2,6 +2,7 @@
 wordpress_id: 1146
 layout: post
 title: "A pseudo long time "
+tags: general, crobar, christmas, halloween, wedding, travel, weekend, tired, hifi, audio, dreams
 wordpress_url: http://www.nata2.org/2005/11/04/a-pseudo-long-time/
 ---
 Sometimes bloggin just doesn't seem appealing. It seems like a something that is just pointless if you are not feeling the blogging vibe. So i have waited until i was in the blogging vibe. It had been an amazing couple of days. great things have happened. 

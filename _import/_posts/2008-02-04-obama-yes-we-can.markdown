@@ -2,6 +2,7 @@
 wordpress_id: 1506
 layout: post
 title: "Obama: yes we can"
+tags: general, video, politics, obama, president, elections, yes-we-can
 wordpress_url: http://www.nata2.org/2008/02/04/obama-yes-we-can/
 ---
 This weekend I went and volunteered for the Obama Campaign. It was a great experience. I showed up at 12pm and stayed until around 5. I was surrounded by great people who all believed in Obama and his movement. Quite inspiring.

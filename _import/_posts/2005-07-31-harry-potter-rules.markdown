@@ -2,6 +2,7 @@
 wordpress_id: 1102
 layout: post
 title: "harry potter rules. "
+tags: general, books, travel, work
 wordpress_url: http://www.nata2.org/2005/07/31/harry-potter-rules/
 ---
 I just finished the newest harry potter book. I quite enjoyed it. (i have turned the spiolers white - unless you are in an RSS reader)<i style="color: #fff;"> I was of course about dumbledore's demise and snape turning(hah) evil. but i was more bummed about harry's ejection of ginny. WHY. they are so cute. hahaha. </i>

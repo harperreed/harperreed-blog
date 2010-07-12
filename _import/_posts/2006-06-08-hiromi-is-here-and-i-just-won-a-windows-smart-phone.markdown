@@ -2,6 +2,7 @@
 wordpress_id: 1288
 layout: post
 title: Hiromi is here! and i just won a windows smart phone
+tags: general, chicago, movies, phones, hiromi, mobile, tmobile, win, contest
 wordpress_url: http://www.nata2.org/2006/06/08/hiromi-is-here-and-i-just-won-a-windows-smart-phone/
 ---
 So hiromi got here monday. it has been really fun.

@@ -5,6 +5,7 @@ title: i am going to punch your arms with a stick
 excerpt: |-
   this weekend was pretty fun. I hung out with the fam. yea know the drill. I apparently let my parents car out of the closet. stupid cars. hiding ALL THE TIME. here be pictures. 
   here are other pictures of a diffe...
+tags: sites, cars, ipod
 wordpress_url: http://new.nata2.org/?p=964
 ---
 this weekend was pretty fun. I hung out with the fam. yea know the drill. I apparently let my parents car out of the closet. stupid cars. hiding ALL THE TIME. <a href="http://nata2.info/?path=pictures%2Fevents%2F2004%3A11%3A22_fake_thanksgiving">here be</a> pictures. <Br><br/>

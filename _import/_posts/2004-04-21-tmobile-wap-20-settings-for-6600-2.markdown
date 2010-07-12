@@ -2,6 +2,7 @@
 wordpress_id: 1196
 layout: post
 title: Tmobile WAP 2.0 Settings for 6600
+tags: general, technology, phones, mobile, tmobile, settings, help, tutorial
 wordpress_url: http://www.nata2.org/2004/04/21/tmobile-wap-20-settings-for-6600-2/
 ---
 a lot of people have been having a hard time getting MMS and WAP to work with the nokia 6600. however. a while ago tmobile upgraded their system and now it works. basically it is all the same except for the addition of a proxy server. so you can either add the proxy server info to your current config or you can add whole new connections using the correct info provided.

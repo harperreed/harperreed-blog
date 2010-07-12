@@ -2,6 +2,7 @@
 wordpress_id: 1295
 layout: post
 title: "busy.. and i redesigned my blog. "
+tags: general
 wordpress_url: http://www.nata2.org/2006/06/20/busy-and-i-redesigned-my-blog/
 ---
 i am really busy right now. and have about ten posts in the draft queue. sadly i am kinda tired - so i will have to wait.

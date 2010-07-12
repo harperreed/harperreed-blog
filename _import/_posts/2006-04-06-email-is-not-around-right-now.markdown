@@ -2,6 +2,7 @@
 wordpress_id: 1238
 layout: post
 title: "email is not around right now.. "
+tags: general, google, gmail, email, down, broken
 wordpress_url: http://www.nata2.org/2006/04/06/email-is-not-around-right-now/
 ---
 I am freaking out.. hah. my email isn't really working right now. I foward all email i receive from harper @ nata2.org to my gmail account to use gmail as a simple reader. And this morning as soon as i got into work i am unable to access my gmail account. I can access my work gmail account. but not my primary one. I was also able to access it from home before i left for work. and now i can't access it at all. I tried with my phone, the imac here and in different browsers (cookies cleared and all). I am worried a bit. What makes it all together more scary is that i am unable to see any messages if i pop into the account. weird... I guess this is why you don't rely on others for services you could be providing yourself.

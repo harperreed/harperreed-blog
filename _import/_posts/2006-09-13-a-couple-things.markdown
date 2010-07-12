@@ -2,6 +2,7 @@
 wordpress_id: 1343
 layout: post
 title: a couple things
+tags: general, php, music, fun, hiromi, muse, website, rss, aggregation
 wordpress_url: http://www.nata2.org/2006/09/13/a-couple-things/
 ---
 First off - <a href="http://youtube.com/watch?v=jV1bRfLHA3A">this is the most amazing music video</a> i have ever seen. There is very little hyperbole in that statement. And since jacob has shown me that music video, i have been listening to muse like a madman. Such a funny video. Amazing.

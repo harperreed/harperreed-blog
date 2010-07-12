@@ -7,6 +7,7 @@ excerpt: |
   this is not as cool.. but maybe if you are 
   angry enough.. you can get some 
 
+tags: php, movies, sex, juggling, humor, politics, politic, apple, ipod
 wordpress_url: http://new.nata2.org/?p=562
 ---
 Bullet time <a href="http://www.nata2.info/humor/movies/bullet_time_ping_pong.wmv">ping pong</a>... it is so awesome... 

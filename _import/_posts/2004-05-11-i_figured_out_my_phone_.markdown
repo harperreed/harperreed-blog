@@ -5,6 +5,7 @@ title: i figured out my phone.
 excerpt: |-
   so I can now make international calls to everyone. if you want to prank me - dial 9880281475. hah. umm yea. or something like that. I will try and set up an sms gateway so you can leave me messages. or I won't whatever. i will post pictures soon. I promise. 
   now I need food. it is lunch time. which is weird I know - since I am posting this at 2:15 am. ;)last night g...
+tags: chicago, rock, food, design, india
 wordpress_url: http://new.nata2.org/?p=851
 ---
 so I can now make international calls to everyone. if you want to prank me - dial 9880281475. hah. umm yea. or something like that. I will try and set up an sms gateway so you can leave me messages. or I won't whatever. <br/><br/>i will post pictures soon. I promise. 

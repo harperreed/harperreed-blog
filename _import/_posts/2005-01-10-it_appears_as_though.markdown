@@ -5,6 +5,7 @@ title: it appears as though
 excerpt: |-
   i haven't really been blogging like I should. eh.. I get annoyed with it. so I don't do it. and then my friends and family contact me and yell. haha. so then I start again. heh. a "never ending" cycle of horror. heh. eh.. it isn't so bad. I don't really mind it. I just haven't had all the extra time in the world. only about half of all the extra time. 
   speaking of extra time. I ha...
+tags: family, sites, programming, movies, experiment
 wordpress_url: http://new.nata2.org/?p=978
 ---
 i haven't really been blogging like I should. eh.. I get annoyed with it. so I don't do it. and then my friends and family contact me and yell. haha. so then I start again. heh. a "never ending" cycle of horror. heh. eh.. it isn't so bad. I don't really mind it. I just haven't had all the extra time in the world. only about half of all the extra time. 

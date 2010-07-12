@@ -5,6 +5,7 @@ title: Web Cam Girls
 excerpt: |-
   heh. so I stayed up real late tonight looking at web cam girl pages. what a weird world that is. I don't quite understand it. Such a voyeuristic world we have here. poor weird cat.
   Sometimes the internet is not amusing. It took me far too l...
+tags: internet, women
 wordpress_url: http://new.nata2.org/?p=464
 ---
 heh. so I stayed up real late tonight looking at web cam girl pages. what a weird world that is. I don't quite understand it. Such a voyeuristic world we have here. <br/><a href="http://us.news1.yimg.com/us.yimg.com/p/rids/20030315/i/1047738430.2885836894.jpg">poor</a> weird cat.<br/><br/>

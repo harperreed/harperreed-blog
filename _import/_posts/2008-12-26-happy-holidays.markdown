@@ -2,6 +2,7 @@
 wordpress_id: 1578
 layout: post
 title: Happy Holidays
+tags: general, family, holidays
 wordpress_url: http://www.nata2.org/?p=1578
 ---
 <a title="It's snowing like crazy. by nata2, on Flickr" href="http://www.flickr.com/photos/natatwo/3119262443/"><img class="alignright" src="http://farm4.static.flickr.com/3117/3119262443_bf1b6529b3_m.jpg" alt="It's snowing like crazy." width="180" height="240" align="right" /></a>Hello everyone.

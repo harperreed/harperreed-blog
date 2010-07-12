@@ -3,6 +3,7 @@ wordpress_id: 699
 layout: post
 title: oh yea..
 excerpt: wtf.. saddam got caught. this is stupid. now this war will seem justified. ohhh.. lets villianify someone.. then "lose" him.. then catch him admidst crisis about the war to strengthen ou...
+tags: reed, php, search, war, bush, military, source, terrorism, iraq, google
 wordpress_url: http://new.nata2.org/?p=699
 ---
 wtf.. saddam got caught. this is stupid. now this war will seem justified. ohhh.. lets villianify someone.. then "lose" him.. then catch him <a href="http://www.krnv.com/Global/story.asp?S=1563356&nav=8faOJf1C">admidst</a> <a href="http://www.insightmag.com/news/565658.html">crisis</a> <a href="http://www.guardian.co.uk/worldlatest/story/0,1280,-3482401,00.html">about the war</a> to strengthen our argument for <a href="http://military.surfwax.com/files/Military_Spending.html">more military</a>/<a href="http://aclu.org/">less freedom</a>.<br/><br/>go military state! 

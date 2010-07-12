@@ -2,6 +2,7 @@
 wordpress_id: 1453
 layout: post
 title: Hosting woes. Collocation and how Mosso sucks
+tags: technology, technology, oarnet, hosting, collocation, rackspace, mosso
 wordpress_url: http://www.nata2.org/2007/06/05/hosting-woes-collocation-and-how-mosso-sucks/
 ---
 I <a href="http://www.nata2.org/2001/07/10/Goddamn_Hosting_Providers/">hate</a> <a href="http://www.nata2.org/2001/07/10/Hosting__/">web</a> hosting. I really do. I think that hosting is one of the most annoying parts of having web apps. It is hard to do. it is hard to manage. It is always more expensive that it needs to be. And it is constantly breaking in ways that severely damage whatever app is hosted on it. However, I have been lucky.

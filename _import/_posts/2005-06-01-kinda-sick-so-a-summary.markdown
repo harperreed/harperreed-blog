@@ -2,6 +2,7 @@
 wordpress_id: 1072
 layout: post
 title: kinda sick. so a summary
+tags: general, google, weekend, jobs, hack
 wordpress_url: http://www.nata2.org/2005/06/01/kinda-sick-so-a-summary/
 ---
 i have been sick recently. it sucks. not like ILL. just a cold. it will be done shortly i hope. 

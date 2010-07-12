@@ -2,6 +2,7 @@
 wordpress_id: 1125
 layout: post
 title: "good long weekend. "
+tags: general, hacking, birthday, movies, fun, money, parties, work, psp, rani
 wordpress_url: http://www.nata2.org/?p=1125
 ---
 I am glad to be back to work. I can't wait to really hit work hard. i feel it coming soon. the work. i am pretty excited. 

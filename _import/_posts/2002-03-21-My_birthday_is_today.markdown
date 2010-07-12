@@ -6,6 +6,7 @@ excerpt: |-
   today is my bday. I will sing a little song:
   i am 24.. I am 24.. I am 24.. I am 24.. I am 24.. I am 24.. I am 24.. I am 24.. I am 24.. I am 24.. I am 24.. I am 24.. I am 24.. I am 24.. I am 24.. 
   good song huh. I found a cool winamp plugin that allows me to weight songs on a playlist.. which means that my playlists at work have 30...
+tags: war
 wordpress_url: http://new.nata2.org/?p=236
 ---
 today is my bday. I will sing a little song:<br/>

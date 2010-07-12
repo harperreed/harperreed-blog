@@ -2,6 +2,7 @@
 wordpress_id: 1406
 layout: post
 title: Windows Vista vs OSX - Price comparison
+tags: technology, technology
 wordpress_url: http://www.nata2.org/2007/01/17/windows-vista-vs-osx-price-comparison/
 ---
 So Jake asked me about Microsoft's new <a href="http://www.microsoft.com/windowsvista">Windows Vista</a> and whether we should look into getting it. So we looked at the website to see when it comes out and wtf - it doesn't say. hah. It totally says that the <a href="http://www.microsoft.com/windowsvista/getready/wow.mspx">countdown starts now</a>, but it doesn't tell me when the countdown ends. What a horrible website. Jake thought it was a spam site at first and only from it being at the domain Microsoft.com made it not. There is no information at the website - except for the Vista pricing.

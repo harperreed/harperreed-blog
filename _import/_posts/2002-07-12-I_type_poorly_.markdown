@@ -5,6 +5,7 @@ title: I type poorly.
 excerpt: |-
   I am not a veyr good typist... you too can achieve this goal. . check it out here. 
   Last night I went and saw Blackalicious in concert. It was pretty good. The crowd was rather lame. A bunch of frat-like guys.. they were so annoying. but whatever. The gift of gab can speak very quickly.. sometimes I thoug...
+tags: war, video, bush, broox
 wordpress_url: http://new.nata2.org/?p=318
 ---
 I am not a veyr good typist... you too can achieve this goal. . check it out <a href="http://typera.solutions.fi/">here</a>. <br/><br/>

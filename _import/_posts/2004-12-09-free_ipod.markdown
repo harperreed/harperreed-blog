@@ -11,6 +11,7 @@ excerpt: |-
    I posted the referer info to nata2.info ( a pretty high bandwidth site) and a lot of people signed up and no one completed the offer.
    I waited 6 months
    I...
+tags: chris, christmas, ipod
 wordpress_url: http://new.nata2.org/?p=969
 ---
 so everyone is asking me how I got the free ipod. well. iw ill detail the steps:

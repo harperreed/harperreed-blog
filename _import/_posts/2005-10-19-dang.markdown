@@ -2,6 +2,7 @@
 wordpress_id: 1140
 layout: post
 title: dang
+tags: general, work, late, tired, audio, squidoo
 wordpress_url: http://www.nata2.org/2005/10/19/dang/
 ---
 <blockquote>

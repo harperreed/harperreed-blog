@@ -2,6 +2,7 @@
 wordpress_id: 1317
 layout: post
 title: "I am apparently listed in wired magazine. "
+tags: general, sites, audreyhacking, websites, wired, press
 wordpress_url: http://www.nata2.org/2006/08/02/i-am-apparently-listed-in-wired-magazine/
 ---
 Well... not me per se - but one of my websites. I don't really know which one, but judgeing from what i have heard - i think they talked about my <a href="http://flashandburn.net/flickrtools/">flickr myspace badge</a>. This is the second time i have heard about being in wired. The <a href="http://nata2.info/?path=pictures%2FIncoming&img=audrey_wired.jpg">first</a> was for <a href="http://www.audreyhacking.com">audreyhacking.com</a> and i don't think i even saw that one for real. Only for fake. Wow. So if anyone has a scan of the mention - email it to me. I need it!

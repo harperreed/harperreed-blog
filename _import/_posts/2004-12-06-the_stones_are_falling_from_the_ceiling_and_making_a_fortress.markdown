@@ -6,6 +6,7 @@ excerpt: |-
   i know I haven't updated in a while. do you think you can forgive me? I hope so. we all go through times where computers burn our fingers when we touch them. this wasn't one of those times. I just didn't feel like it. sometimes that happens. but whatever. I am back. for tonight. maybe for a couple days. maybe for a couple months. maybe for just a minute. 
   
   but whatever. so now. I a...
+tags: phone, computers, nokia
 wordpress_url: http://new.nata2.org/?p=966
 ---
 i know I haven't updated in a while. do you think you can forgive me? I hope so. we all go through times where computers burn our fingers when we touch them. this wasn't one of those times. I just didn't feel like it. sometimes that happens. but whatever. I am back. for tonight. maybe for a couple days. maybe for a couple months. maybe for just a minute. 

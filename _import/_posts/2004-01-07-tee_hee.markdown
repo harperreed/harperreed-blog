@@ -12,6 +12,7 @@ excerpt: |
   freudnl (2:17:24 PM): we shud send all the ppl we hate to columbia
   linUXkilla (2:17:46 PM): hahah
 
+tags: aim, linux
 wordpress_url: http://new.nata2.org/?p=718
 ---
 typeing is awesome

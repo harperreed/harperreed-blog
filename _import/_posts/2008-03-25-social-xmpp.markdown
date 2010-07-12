@@ -2,6 +2,7 @@
 wordpress_id: 1514
 layout: post
 title: Social XMPP
+tags: technology, jabber, awesome, lists, communities, xmpp, social-software
 wordpress_url: http://www.nata2.org/2008/03/25/social-xmpp/
 ---
 Last week my friend <a href="http://mark.atwood.name">Mark</a> pinged me and mentioned that I should get together with a friend of his who was in town for PYCON. I am always into meeting new people so I had dinner with <a href="http://dorseys.org/">Brian Dorsey</a>. It was awesome. I was able to rant and rave about all my ideas, interests and whatnot with new and possibly interested. Brian immediately suggested that he introduce me to a friend of his who he thought I would enjoy talking to. So I was introduced to <a href="http://anders.conbere.org/journal/">Anders Conbere</a>. The reason Brian thought we should meet was that we both incessantly talk about XMPP.

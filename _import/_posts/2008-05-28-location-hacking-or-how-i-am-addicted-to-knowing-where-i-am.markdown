@@ -2,6 +2,7 @@
 wordpress_id: 1518
 layout: post
 title: Location hacking. Or how I am addicted to knowing where I am
+tags: technology, hacking, fun, twitter, location, fireaeagle, dopplr, tripit
 wordpress_url: http://www.nata2.org/?p=1518
 ---
 <img class="alignright" style="float: right;" src="http://maps.google.com/staticmap?markers=41.6424713135,-87.9443130493,blue&amp;center=41.6424713135,-87.9443130493&amp;zoom=6&amp;size=200x200&amp;key=ABQIAAAAIFubrKPMu40p2O60-CINYhQC7HvwkBQIUfVW0Yi6qdDdLqLJJhT3qtFTsqKFKqtNsK7OiUle268hSw" alt="" />The last few weeks have been a whirl wind of travel, emergencies and fun events. All of it has made my life a mess in regards to plans, knowing whats up and keeping track of where i am supposed to go and when. Out of necessity, I decided it might be fun to track where I have been and where I am going. To handle this I use various sites like <a href="http://dopplr.com/">Dopplr</a>, <a href="http://tripit.com/">TripIt</a> and <a href="http://fireeagle.com/">fireeagle</a> to keep track of my travels. Dopplr is my favorite, however I use TripIt to overall manage my travels and then push it into Dopplr and fireeagle - so my friends can be alerted as to where I am.

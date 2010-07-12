@@ -2,6 +2,7 @@
 wordpress_id: 1332
 layout: post
 title: why i love chicago
+tags: general, chicago, crobar, house-music, techno, arab, soundbar, smartbar, house, banghra
 wordpress_url: http://www.nata2.org/2006/09/04/why-i-love-chicago/
 ---
 So i have been in chicago barely 12 hours. I slept 5 hours. And went to clubs for 7 hours. It was awesome. But the real reason i love chicago is the strict diversity that is celebrated at every turn. At every stop you see different people doing different things. All rocking it.

@@ -2,6 +2,7 @@
 wordpress_id: 1144
 layout: post
 title: "So weddings. and working. and being poor. "
+tags: general, money, work, sports, white, sox, weddings
 wordpress_url: http://www.nata2.org/2005/10/27/so-weddings-and-working-and-being-poor/
 ---
 So i keep screwing up my money world. I keep paying bills to aggressively or whatever and making myself poor. its stupid. i hate it. i am about to stop being poor. haha. 

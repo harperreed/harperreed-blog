@@ -25,8 +25,15 @@ module Jekyll
 
       db[QUERY].each do |post|
         # Get required fields and construct Jekyll compatible name
+        id = post[:ID]
+        tag_q = "SELECT slug FROM nata3_posts, nata3_term_relationships, nata3_terms, nata3_term_taxonomy where nata3_posts.ID = nata3_term_relationships.object_ID and nata3_term_relationships.term_taxonomy_id = nata3_term_taxonomy.term_taxonomy_id and nata3_terms.term_id = nata3_term_taxonomy.term_id and nata3_posts.ID = '"+id.to_s()+"'"
+        tags_ar = Array.new
+        db[tag_q].each do |tag|
+            tags_ar.push(tag[:slug])
+        end
+        tags = tags_ar * ", "
         title = post[:post_title]
-        slug = post[:post_name]
+        slug = post[:post_name].gsub(/\//,'_')
         date = post[:post_date]
         content = post[:post_content]
         name = "%02d-%02d-%02d-%s.markdown" % [date.year, date.month, date.day,
@@ -39,6 +46,7 @@ module Jekyll
            'title' => title.to_s,
            'excerpt' => post[:post_excerpt].to_s,
            'wordpress_id' => post[:ID],
+           'tags' => tags,
            'wordpress_url' => post[:guid]
          }.delete_if { |k,v| v.nil? || v == ''}.to_yaml
 

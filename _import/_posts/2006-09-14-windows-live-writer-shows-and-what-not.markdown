@@ -2,6 +2,7 @@
 wordpress_id: 1344
 layout: post
 title: "windows live writer. shows. and what not. "
+tags: general, flickr, linksys, wrt54g, muse, windows-live-writer, dd-wrt, wrt54gl
 wordpress_url: http://www.nata2.org/2006/09/14/windows-live-writer-shows-and-what-not/
 ---
 So i have been writing drafts of posts with <a href="http://www.google.com/url?sa=t&ct=res&cd=1&url=http%3A%2F%2Fwindowslivewriter.spaces.live.com%2F&ei=N-AJRajZMaisYa6xkKoK&sig=__afbfj0mODvsePvWxmbodTq1zXAQ=&sig2=wE8nG2tX6cJTFV6lIT_FKA">windows live writer</a>. It does a decent job. It makes blogging a bit more easy for peeps who don't really like working in a browser. I think along with the flickr plugin - it may be a decent blog editor for people like my mom and dad, who are decent at computers but really don't have a care to learn how to update a blog. I liked it. I like having spell checker - even though it was a pretty shitty spell checker. hah.

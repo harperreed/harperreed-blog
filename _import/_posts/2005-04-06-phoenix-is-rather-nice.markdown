@@ -2,6 +2,7 @@
 wordpress_id: 1039
 layout: post
 title: phoenix is rather nice
+tags: general, travel, awesome, work, phoenix, insanity
 wordpress_url: http://www.nata2.org/2005/04/06/phoenix-is-rather-nice/
 ---
 the weather here is excellent. i likey. work is fun. the environment here is much more "low-key" than in chicago. the people are just as nice but everyone seems so much more chill. it is a great work vacation. i think they should send everyone here to recooooop. it rules. oh and it is really nice out. just yesterday i got sunburned. which isn't exactly hard for me - since i get color walking to the train. but i immediately invested in sunscreen. 

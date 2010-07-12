@@ -2,6 +2,7 @@
 wordpress_id: 1322
 layout: post
 title: What happens when open source needs a closed source solution?
+tags: technology, search, applications, wikipedia, software, endeca, open-source, solutions, oss
 wordpress_url: http://www.nata2.org/2006/08/14/what-happens-when-open-source-needs-a-closed-source-solution/
 ---
 <blockquote>

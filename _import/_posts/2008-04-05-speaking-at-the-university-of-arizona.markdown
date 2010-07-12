@@ -2,6 +2,7 @@
 wordpress_id: 1515
 layout: post
 title: Speaking at the University of Arizona
+tags: general, travel, speaking, university-of-arizona, business-school, marketing, sidney-levey, kovinets, etribes
 wordpress_url: http://www.nata2.org/2008/04/05/speaking-at-the-university-of-arizona/
 ---
 <a title="My name tag + our presentation by nata2, on Flickr" href="http://www.flickr.com/photos/natatwo/2372161865/"><img src="http://farm3.static.flickr.com/2010/2372161865_3f20e8892f_m.jpg" alt="My name tag + our presentation" width="240" height="180" align="right" /></a>The other weekend, <a href="http://charlesfesta.com/">Charlie</a> and I, flew to the University of Arizona to speak at their <a href="http://marketing.eller.arizona.edu/thinkingforward/conference.aspx">Thinking Forward Leadership and Innovation in Marketing Conference</a>. It was a cool experience. The people who were involved with the Conference are rather intelligent and they really blew my mind in regards to their thoughts on Threadless/social media/Internet communities. They have words that I have never used that they use to describe the things I do every day. Weird.

@@ -2,6 +2,7 @@
 wordpress_id: 1112
 layout: post
 title: kinda bummed
+tags: general, books, travel, sad, awesome, bummed
 wordpress_url: http://www.nata2.org/2005/08/13/kinda-bummed-2/
 ---
 So i mistakenly packed this swiss army knife that my brother got for me when he went to switzerland years ago in my carry on luggage. I didn't mean to and i had forgotten it was there - cuz i brought it in case i needed it on our road trip. So the airline people took it. Stuff like this always makes me sad. stupid airlines. stupid US being in a fear state. so annoying. I remember in college when a friend of mine brought a 6 inch folding knife on the plane in texas and we were surprised they yelled at him when he tried to bring it back to texas in iowa. 

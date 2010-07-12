@@ -2,6 +2,7 @@
 wordpress_id: 1517
 layout: post
 title: The theme for this spring is travel
+tags: general, travel
 wordpress_url: http://www.nata2.org/?p=1517
 ---
 Man. It has been a long time since I really felt like blogging. Blogging is weird sometimes. I finds myself being VERY busy and not having the time nor energy to blog thoroughly, so i end up forfeiting an entry, when i could have easily whipped up a couple paragraphs describing whats going on. I instead find myself concentrating on twitter or something else. Its pretty cool - but not as important as my blog.

@@ -17,6 +17,7 @@ excerpt: |-
   
   Plus Metal, Punk, and Horror Movies Including:
   Heavy Metal Parking Lot, The Loc...
+tags: video, blood, movies, metal
 wordpress_url: http://new.nata2.org/?p=495
 ---
 Rusty Nails is a mad man.

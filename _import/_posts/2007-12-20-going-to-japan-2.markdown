@@ -2,6 +2,7 @@
 wordpress_id: 1501
 layout: post
 title: Going to Japan!
+tags: general, travel-japan
 wordpress_url: http://www.nata2.org/2007/12/20/going-to-japan-2/
 ---
 This weekend, my family is going to Japan to hang out with Hiromi's friends and family. It should be absolutely madness. I am very excited.

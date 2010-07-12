@@ -2,6 +2,7 @@
 wordpress_id: 1485
 layout: post
 title: Tell him to stay in his tree
+tags: general, family, disease, terrorism, trees, eczema
 wordpress_url: http://www.nata2.org/2007/10/17/tell-him-to-stay-in-his-tree/
 ---
 Today I found out that my dad was placed into the hospital to help him fight his infidel skin. Basically he has what is colloquially known as "extreme eczema," but basically it seems that his skin is attempting to hijack his body and run it into a building. So with that in mind, he went to get himself checked out.

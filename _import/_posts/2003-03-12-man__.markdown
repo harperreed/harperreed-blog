@@ -6,6 +6,7 @@ excerpt: |-
   so I was cleaning out my server and somehow(well I know how.. but I don't want to get into it) I accidently(it was an accident.. but it was scripted and it could have been avoided) deleted a bunch of email accounts of my friends :(. so sad. 
   stupid imap. so handy. so dangerous. 
   don't you think it is interesting that buchana...
+tags: server, insane
 wordpress_url: http://new.nata2.org/?p=461
 ---
 so I was cleaning out my server and somehow(well I know how.. but I don't want to get into it) I accidently(it was an accident.. but it was scripted and it could have been avoided) deleted a bunch of email accounts of my friends :(. so sad. 

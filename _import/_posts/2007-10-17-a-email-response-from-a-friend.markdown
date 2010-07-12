@@ -2,6 +2,7 @@
 wordpress_id: 1486
 layout: post
 title: A email response from a friend
+tags: general, war, fear, sad, email, friends
 wordpress_url: http://www.nata2.org/2007/10/17/a-email-response-from-a-friend/
 ---
 Awhile ago I got this email from a friend. It is about the Medical Marijuana problem with Iraq veterans. I thought you guys might like to read it. So here it is:

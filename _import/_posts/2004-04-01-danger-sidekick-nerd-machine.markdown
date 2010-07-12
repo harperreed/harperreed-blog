@@ -2,6 +2,7 @@
 wordpress_id: 1170
 layout: post
 title: "Danger Sidekick: nerd machine"
+tags: general, nerd, technology, phones, mobile, tmobile, awesome, review, machine
 wordpress_url: http://www.nata2.org/2004/04/01/danger-sidekick-nerd-machine/
 ---
 While i was at home for the holidays i saw my friends Sidekick and he showed me the terminal program on it. at the time i was havinging a hell of a time with my server and was always looking for an SSH client while i was traveling. So when i got back to chicago i started thinking about whether or not a Sidekick would be a good idea. My friend chris got one and i was hooked. it worked well for him and he was able to IM from anywhere. so i decided to go ahead and grab one.

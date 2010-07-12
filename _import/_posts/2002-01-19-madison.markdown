@@ -9,6 +9,7 @@ excerpt: |
   whatever.
   hopefully the show is better than quad citys :)
 
+tags: juggling
 wordpress_url: http://new.nata2.org/?p=184
 ---
 hey hey hey.

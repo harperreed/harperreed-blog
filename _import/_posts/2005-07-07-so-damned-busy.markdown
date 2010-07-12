@@ -2,6 +2,7 @@
 wordpress_id: 1093
 layout: post
 title: so damned busy
+tags: general, books, blogs, coding, projects, hiromi, development, management, ruby, rails, yoyo, agile, engineering, firefox, gtd
 wordpress_url: http://www.nata2.org/?p=1093
 ---
 Yes. it is true. i am freakishly busy. and of course while being freakishly busy i find the most time expensive hobby ever. So matiss and i have been playing <a href="http://www.idsoftware.com/games/quake/quake3-arena/">quake 3</a> again. We were playing the <a href="http://reqoning.com/">requiem mod</a> for hours, but it got kinda boring so we switched to the <a href="http://www.urbanterror.net/">urban terror full conversion</a>. It rules. 

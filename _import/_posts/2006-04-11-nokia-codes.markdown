@@ -2,6 +2,7 @@
 wordpress_id: 1243
 layout: post
 title: "Nokia # Codes"
+tags: general
 wordpress_url: http://www.nata2.org/phone-stuff/nokia-codes/
 ---
 Here are a bundle of # codes for nokia phones. Quite a few of them work for my N70 and my 7610 so i imagine they work on a lot of phones - but use at your own risk.

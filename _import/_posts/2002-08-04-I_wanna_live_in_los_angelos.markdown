@@ -7,6 +7,7 @@ excerpt: |-
   
   
   So I just got done watching arlington road and part of edward scissorhands  on the way to California. My laptop apparently had enough battery life to support almost 2 dvds. It rules. I am ha...
+tags: dylan, chicago, war, video, college, laptop, travel
 wordpress_url: http://new.nata2.org/?p=332
 ---
 I am now in L.A. visiting my brother.. I have wrote the following entries on the road.. and thus they are out of order.. well they are in order.. but not entered seperatly. whatever.. here it goes..

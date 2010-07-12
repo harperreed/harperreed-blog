@@ -2,6 +2,7 @@
 wordpress_id: 1436
 layout: post
 title: The twitter plugin that I wish existed
+tags: technology, technology, broox, status, plugin, laim, derek, twitter, google-code
 wordpress_url: http://www.nata2.org/2007/04/18/the-twitter-plugin-that-i-wish-existed/
 ---
 So I have been using twitter for a minute. I really enjoy it. I got all my friends on it and quite a number of my family using it. Its fun. I love getting updates and what not. However, the one thing I wish I could do with twitter is set the status of my various IM clients by sending a "tweet" to twitter. It would be awesome. You could then have your AIM status or Gtalk status show your latest twitter. Or better yet, you could have a semblance of presence with based on twitter pushed to your various statuses.

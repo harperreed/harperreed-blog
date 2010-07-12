@@ -2,6 +2,7 @@
 wordpress_id: 1310
 layout: post
 title: Why linux isn't mainstream? Bullshit!
+tags: technology, linux, rants
 wordpress_url: http://www.nata2.org/2006/07/22/why-linux-isnt-mainstream-bullshit/
 ---
 AHAHA. i loves swearing.

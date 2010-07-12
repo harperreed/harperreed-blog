@@ -7,6 +7,7 @@ excerpt: |
   Rense.com - kinda sketchy but interesting and fun filled. also a tad bit anti-israel/semitic(kind sketchy).
   Drudge Report - a very simple and effective website. Sometimes it is nonsense.. or stupid poli-fashion shit. but its usually worth the visit. 
 
+tags: fashion
 wordpress_url: http://new.nata2.org/?p=307
 ---
 for news goto:

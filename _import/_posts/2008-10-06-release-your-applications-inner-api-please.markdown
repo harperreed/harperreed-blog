@@ -2,6 +2,7 @@
 wordpress_id: 1567
 layout: post
 title: Release your applications inner API. Please.
+tags: general, internet, javascript, api, web-20
 wordpress_url: http://www.nata2.org/?p=1567
 ---
 I have recently been involved in talking to a local chicago entity about their unofficial API. It has been fun and deserves a blog entry of its own. However, this is not that blog entry - this blog entry is about mashups and the not so public APIs they often create.

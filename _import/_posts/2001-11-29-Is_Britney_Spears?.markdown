@@ -3,6 +3,7 @@ wordpress_id: 138
 layout: post
 title: Is Britney Spears?
 excerpt: Oh boy, oh boy. Last night kstar came up and we went to the Britney Spears concert. We sat in our seats and realized that we were surrounded by screaming 13 year olds. It was insanity. O-town opened for her and they were horrible. They had a hip hop part.. they sang the puff daddy song "wanna be a baller," it was funny the only guys who rapped were the "ethnic" guys. well I guess that isn't...
+tags: women, concerts, design, kstar, dad
 wordpress_url: http://new.nata2.org/?p=138
 ---
 Oh boy, oh boy. Last night kstar came up and we went to the Britney Spears concert. We sat in our seats and realized that we were surrounded by screaming 13 year olds. It was insanity. <br/>O-town opened for her and they were horrible. They had a hip hop part.. they sang the puff daddy song "wanna be a baller," it was funny the only guys who rapped were the "ethnic" guys. well I guess that isn't funny. it is sad to see such a focus group designed band. man.. if you thought visual basic was bad...<br/>

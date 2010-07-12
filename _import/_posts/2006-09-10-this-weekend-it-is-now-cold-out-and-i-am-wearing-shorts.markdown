@@ -2,6 +2,7 @@
 wordpress_id: 1338
 layout: post
 title: "this weekend. it is now cold out. and i am wearing shorts. "
+tags: general, chicago, weekend, clubbing, nightlife
 wordpress_url: http://www.nata2.org/2006/09/10/this-weekend-it-is-now-cold-out-and-i-am-wearing-shorts/
 ---
 I am freezing. Seriously. It suddenly got like 100 below zero up in this piece. But never fear. i have a coat. and i will where it when i go outside. Which doesn't help me while i am cold here in my living room. hah. last night or maybe it was the previous night - i was ready for snow. but now that it is colder than it was, i am not ready for snow. hah.

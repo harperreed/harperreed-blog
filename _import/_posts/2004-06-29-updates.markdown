@@ -2,6 +2,7 @@
 wordpress_id: 1173
 layout: post
 title: Updates
+tags: general
 wordpress_url: http://www.nata2.org/2004/06/29/updates/
 ---
 So i have been really busy with a bunch of random and unrelated things. Basically i haven't engaged in anything mobile technology at all - which is annoying. i need to play more. <a href="http://www.therats.org">matiss</a> just got a phone with a camera. so i imagine i will be creating a simple way to do a photoblog for him. i hope anyway it will go well. i really need to acquire or figure out how to quickly get a sms gateway. i need it. haha. </p>

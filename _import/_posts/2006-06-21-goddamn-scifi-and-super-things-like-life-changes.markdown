@@ -2,6 +2,7 @@
 wordpress_id: 1296
 layout: post
 title: goddamn scifi. and super things... like life changes
+tags: general, books, site, redesign
 wordpress_url: http://www.nata2.org/2006/06/21/goddamn-scifi-and-super-things-like-life-changes/
 ---
 so i accidently spent like 100 hours in the last month reading this goddamn scifi series. It was super annoying. really good stuff. but a really bad author. well not really bad. but not very good. all the reviews said that when reading the series - you can't wait a very long time between books because the plot is so thin. so true. but the story is great. but now i am done. and really pissed. haha.

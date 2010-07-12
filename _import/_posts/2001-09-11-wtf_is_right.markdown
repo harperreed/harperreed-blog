@@ -8,6 +8,7 @@ excerpt: |-
   Look at what we have so far:
   
   "We (members of the german army) have...
+tags: reed, war, bush, watership, security, action, military
 wordpress_url: http://new.nata2.org/?p=102
 ---
 <p>Please check out <a href="http://www.watership.org">http://www.watership.org</a>, <a href="http://indymedia.org/">http://indymedia.org/</a> and <a href="http://slashdot.org">http://slashdot.org</a> for more information on the terrorist attack on the U.S. <br>This is not good. Very much a bad situation. 

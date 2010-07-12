@@ -2,6 +2,7 @@
 wordpress_id: 1278
 layout: post
 title: "DRONE! Flickr, holiday weekends, birthdays and fun. stupid stupid fun. "
+tags: general
 wordpress_url: http://www.nata2.org/2006/05/30/drone-flickr-holiday-weekends-birthdays-and-fun-stupid-stupid-fun/
 ---
 <p><img align="right" src="http://static.flickr.com/35/155394097_11e312e488_m.jpg" />So this weekend was pretty fun. It was god damned hot and full of events. On friday i went out to dinner with matiss (since he was moving out on saturday) and chris. we went to <a href="http://metromix.chicagotribune.com/search/42962,0,1670800.venue">bouna terra</a>. It was good and we had a ncie dinner. After dinner i ran into bunches of friends and eventually made it to the SUNN 0))) show at the logan. Pretty awesome. I took a bunch of <a href="http://www.flickr.com/photos/natatwo/sets/72157594146383496/">pictures</a> and some video(<a href="http://youtube.com/watch?v=0KkUfg0Pdek">1</a>,<a href="http://youtube.com/watch?v=813esokcFRE">2</a>,<a href="http://youtube.com/watch?v=GfoDIUwDYcI">3</a>,<a href="http://youtube.com/watch?v=sJWx_W3iuYw">4</a>). I got really tired of SUNN0))) after awhile - but it was really nice. I am glad kira grabbed tickets.</p>

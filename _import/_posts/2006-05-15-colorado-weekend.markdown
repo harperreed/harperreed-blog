@@ -2,6 +2,7 @@
 wordpress_id: 1268
 layout: post
 title: Colorado weekend
+tags: general, family, colorado, fun, travel, home, reed-family
 wordpress_url: http://www.nata2.org/2006/05/15/colorado-weekend/
 ---
 This weekend was pretty nice. I went to colorado to help my dad with his webpage, visit my family and for mothersday. I always forget how pretty it is in colorado. I am always a bit surprised when i see the mountains or the sunset. Also the <a href="http://flickr.com/photos/natatwo/145761074/">weather is so nice</a>. a lot nicer than chicago. Especially this weekend.

@@ -3,6 +3,7 @@ wordpress_id: 846
 layout: post
 title: my world is weird
 excerpt: the whole thing is so strange. I think I coudl say that right now I am experiencing some of the strangest emotions and experiences I have had in awhile. mostly due to work, india, morgan, friends, general life, real estate, money. yea know. the good stuff. all that stuff just creates such anxiety in my life. it is so so weird. however, as confusing as it is, it isn't bad. in fact a lot...
+tags: blogs, war, india, apple
 wordpress_url: http://new.nata2.org/?p=846
 ---
 the whole thing is so strange. I think I coudl say that right now I am experiencing some of the strangest emotions and experiences I have had in awhile. mostly due to work, india, morgan, friends, general life, real estate, money. yea know. the good stuff. all that stuff just creates such anxiety in my life. it is so so weird. <br/><br/>however, as confusing as it is, it isn't bad. in fact a lot of it is good. a lot of it is also hard though. I hate hard things. but the hard things are not destroying life - nor are they actually hard. they are just different than the simplicity of my usual life. 

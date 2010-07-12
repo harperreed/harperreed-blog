@@ -8,6 +8,7 @@ excerpt: |-
   
   i posted a new versio of the itunesWWW server. check it out here. it is still super super super super alpha. so if it breaks everything - sucka you lose. ;)
   last night was pretty nuts. I went home, changed into tigh...
+tags: phone, server, war, rock, food, crobar, itunes, nokia, ituneswww
 wordpress_url: http://new.nata2.org/?p=905
 ---
 i am getting my hair done today. I am pretty excited. I am looking forward to a big change. we shall see. 

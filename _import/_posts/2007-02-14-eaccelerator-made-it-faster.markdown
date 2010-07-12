@@ -2,6 +2,7 @@
 wordpress_id: 1409
 layout: post
 title: eAccelerator made it faster!
+tags: technology, technology
 wordpress_url: http://www.nata2.org/2007/02/14/eaccelerator-made-it-faster/
 ---
 So my blog has been slow for the past few months. It has been killing me. I run my own server - so I knew it was something that I did. However, I sadly thought that it was probably just the fact that I have a couple rather high bandwidth sites and only one server. I tried a lot of the "speed up wordpress" tricks and even installed and used wp-cache. but nothing worked.

@@ -2,6 +2,7 @@
 wordpress_id: 1487
 layout: post
 title: A vibrant music community has been ended
+tags: general, community, music, torrents, evil
 wordpress_url: http://www.nata2.org/2007/10/23/a-vibrant-music-community-has-been-ended/
 ---
 Pretty insane. <a href="http://torrentfreak.com/oinkcd-servers-raided-admin-arrested/">Oink has been raided and the owner has been arrested</a>.

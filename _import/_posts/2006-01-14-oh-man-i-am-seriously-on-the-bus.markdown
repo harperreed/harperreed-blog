@@ -2,6 +2,7 @@
 wordpress_id: 1159
 layout: post
 title: "oh man. i am seriously on the bus. "
+tags: general, technology, phone, mobile, awesome, bus
 wordpress_url: http://www.nata2.org/2006/01/14/oh-man-i-am-seriously-on-the-bus/
 ---
 its nuts. but i do love bluetooth. connecting to the internet magically while riding uncomfortably in a bus. haha

@@ -3,6 +3,7 @@ wordpress_id: 904
 layout: post
 title: i am hungry for launch.
 excerpt: so we have been workign to launch this search engine for a couple weeks now - and I think we got it. congrats everyone involved. hehe. i have been playing a lot. tonight I made a juke box for some friends, I hooked up my new website, and I slept from 6-10
+tags: phone, search, war, community, hacker, crobar, chris, action, itunes, nokia
 wordpress_url: http://new.nata2.org/?p=904
 ---
 so we have been workign to launch this search engine for a couple weeks now - and I think we got it. congrats everyone involved. hehe. <br/><br/>i have been playing a lot. tonight I made a juke box for some <a href="http://www.killhannah.com">friends</a>, I hooked up <a href="http://www.ituners.com">my new website</a>, and I slept from <a href="http://www.bitboost.com/PS_67-72-207-6-10.gif">6-10</a>. it ruled. oh and I worked. hehe. a lot going on. <br/><br/>check out my <a href="http://nata2.info/pictures/misc/phone_camera/nokia_6600/210720042330/Nokia6600(140).jpg">bruised</a> <a href="http://nata2.info/pictures/misc/phone_camera/nokia_6600/210720042330/Nokia6600(139).jpg">elbow</a>. it is <a href="http://nata2.info/pictures/misc/phone_camera/nokia_6600/210720042330/Nokia6600(143).jpg">madness</a>. hands down one of the biggest bruises I have ever had. I also hurt my thumb - which is a bit more concerning. cuz I want it to be happier. but noooo. has to be sad. I hope they all heal appropriately. 

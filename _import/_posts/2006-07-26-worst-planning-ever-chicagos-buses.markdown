@@ -2,6 +2,7 @@
 wordpress_id: 1313
 layout: post
 title: Worst planning ever. Chicago's buses
+tags: general, chicago, design, cta, public-transportation, planning
 wordpress_url: http://www.nata2.org/2006/07/26/worst-planning-ever-chicagos-buses/
 ---
 <a title="Photo Sharing" href="http://www.flickr.com/photos/natatwo/198606290/"><img align="right" alt="Worst Planning ever" title="Worst Planning ever" src="http://static.flickr.com/62/198606290_4deedc0be5_m.jpg" /></a>So i ride the bus a lot. Maybe 4 times a day. It is quite something. I spend most of that time waiting for the bus and being annoyed. But a small portion of that time is spent boarding various versions of the chicago cta bus. The one pictured on the right is the worst design i have ever seen for public transportation efficiency. Basically the user with the "fast RFID type card" enters the bus through the door and then waits for everyone else to put their card in the slot near the driver. Then the "fast RFID type card" is swiped on the users right - quite after the entry and quite after the place where normal users swipe their cards.

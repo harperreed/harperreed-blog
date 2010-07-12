@@ -5,6 +5,7 @@ title: Producers
 excerpt: |-
   I forgot to mention in my last post that I went and saw the show producers. What a funny show it is. Boy howdy. heh. I hadn't heard anything about it so I was quite surprised. Matthew Broderick was very good as was the understudy for nathan lane(alas he couldn't make it). It was quite funny. some of the jokes caught me quite off guard. heh. 
   being in new york, and seeing a lot of hasidic ...
+tags: internet, business, jokes
 wordpress_url: http://new.nata2.org/?p=216
 ---
 I forgot to mention in my last post that I went and saw the show producers. What a funny show it is. Boy howdy. heh. I hadn't heard anything about it so I was quite surprised. Matthew Broderick was very good as was the understudy for nathan lane(alas he couldn't make it). It was quite funny. some of the jokes caught me quite off guard. heh. 

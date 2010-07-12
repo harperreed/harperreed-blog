@@ -2,6 +2,7 @@
 wordpress_id: 1638
 layout: post
 title: Leaving Threadless
+tags: general, rackspace, threadless, future
 wordpress_url: http://www.nata2.org/?p=1638
 ---
 <a href="http://www.flickr.com/photos/techcocktail/2316615921/"><img align="right" src="http://farm3.static.flickr.com/2411/2316615921_b2cee81590_m.jpg"/></a>I am leaving Threadless after 4 awesome years.

@@ -2,6 +2,7 @@
 wordpress_id: 1458
 layout: post
 title: heh. Crackers just tried to social engineer me
+tags: technology, technology, scary, hilarious, social-engineering, crackers, amazing
 wordpress_url: http://www.nata2.org/2007/06/13/heh-crackers-just-tried-to-social-engineer-me/
 ---
 So. A neat thing happened to night. Crackers just tried to social engineer me out of a ftp passwd based on my whois record. Fun Fun. They called and told me that their had been an incident and they were resetting my ftp password for my server. The only issue was that their research was a bit off. But it was a interesting situation.

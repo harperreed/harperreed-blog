@@ -2,6 +2,7 @@
 wordpress_id: 1319
 layout: post
 title: lollapalooza weekends are always the best/craziest/broken
+tags: general, chicago, crobar, parties, party, lollapalooza
 wordpress_url: http://www.nata2.org/2006/08/07/lollapalooza-weekends-are-always-the-bestcraziestbroken/
 ---
 I am very tired today.

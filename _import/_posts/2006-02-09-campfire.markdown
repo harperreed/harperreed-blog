@@ -2,6 +2,7 @@
 wordpress_id: 1205
 layout: post
 title: "Campfire perl bot hack "
+tags: general, harper, hacking, irc, awesome, web, 37signals, campfire, 20, bot, chat
 wordpress_url: http://www.nata2.org/2006/02/09/campfire/
 ---
 So i was playing around with <a href="http://campfirenow.com">campfire </a>and i noticed that i could easy write a bot for it. so i did. it sucks. but it shows what you could do. how i love www mechanize. and perl. check it out:

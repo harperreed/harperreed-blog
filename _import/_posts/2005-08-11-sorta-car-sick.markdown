@@ -2,6 +2,7 @@
 wordpress_id: 1109
 layout: post
 title: "sorta car sick. "
+tags: general, internet, travel, work, heat, confusion
 wordpress_url: http://www.nata2.org/2005/08/11/sorta-car-sick/
 ---
 its like the rat that has to step on the shocking plate to get the morphine drip to his brain. i am using my laptop and playing on the internet while riding in a car. it is making my stomach uneasy. but i love the internet. so confusing. 

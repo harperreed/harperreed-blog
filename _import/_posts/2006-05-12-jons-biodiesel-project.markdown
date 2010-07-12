@@ -2,6 +2,7 @@
 wordpress_id: 1265
 layout: post
 title: Jon's biodiesel project
+tags: general, biodiesel, renewable, energy, diesel, asu, epa, appalachian, sustainability
 wordpress_url: http://www.nata2.org/2006/05/12/jons-biodiesel-project/
 ---
 <!-- END AREA NAME -->So my friend <a href="http://www.in5anity.org">jon</a> and his "team" of friends went to washington to present their biodiesel project for the EPAs <a href="http://es.epa.gov/ncer/p3/">P3: People, Prosperity and the Planet Student Design Competition for  Sustainability</a> grant. His project was a called <a href="http://cfpub.epa.gov/ncer_abstracts/index.cfm/fuseaction/display.abstractDetail/abstract/7730/report/0">Closing the Biodiesel Loop: Self Sustaining Community Based Biodiesel Production</a>, it was about creating a biodiesel production facility and attempting to make it self sustaining. It was awesome. I have posted some pictures of the <a href="http://www.flickr.com/photos/natatwo/tags/biodiesel/">biodiesel installation</a> on flickr.

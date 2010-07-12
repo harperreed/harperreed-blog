@@ -7,6 +7,7 @@ excerpt: |-
   and trouble was started. we made fun of the channels this one guy was on: 
   
   #ryan1918 #Radio+ #god.hates.fags #concepthosting #whipcream #novascotia #metal #linux-...
+tags: php, hosting, school, metal, linux, corporate, irc
 wordpress_url: http://new.nata2.org/?p=613
 ---
 so today on IRC my friend <a href="http://corp.beercan.com/view.php?channel=corporate&date=1062651600">clock was attacked</a> by a group iof hooligans who flooded her off and stole her nick. they then came back to start trouble. 

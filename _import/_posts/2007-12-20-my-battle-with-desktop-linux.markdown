@@ -2,6 +2,7 @@
 wordpress_id: 1500
 layout: post
 title: My battle with desktop Linux
+tags: technology, linux, ubuntu, desktop-linux, computering, vpn
 wordpress_url: http://www.nata2.org/2007/12/20/my-battle-with-desktop-linux/
 ---
 Awhile ago i decided to switch to Linux on my laptop. It was awesome. I didn't last however - a work emergency occurred and I spent more time getting the openvpn to work up and then getting the Cisco vpn to our servers going than solving the emergency problem. It was indicative that i should have eased into desktop Linux a bit more.

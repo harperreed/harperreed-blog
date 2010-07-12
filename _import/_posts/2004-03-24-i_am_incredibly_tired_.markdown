@@ -3,6 +3,7 @@ wordpress_id: 793
 layout: post
 title: i am incredibly tired.
 excerpt: i feel better. even matt said I looked and acted more chilled out. I really feel more chilled out. morgan and I talked and came to a point where we are in the same space/place. I think it will work out. we obviously have to redefine our relationship. and how we work together. but that is totally fine and completely appropriate. I think she said it best with an analogy to the gears in a car. going...
+tags: juggle, php, phone, blogs, war, juggling, corporate, matiss, nokia, blogger
 wordpress_url: http://new.nata2.org/?p=793
 ---
 i feel better. even matt said I looked and acted more chilled out. I really feel more chilled out. morgan and I talked and came to a point where we are in the same space/place. I think it will work out. we obviously have to redefine our relationship. and how we work together. but that is totally fine and completely appropriate. I think she said it best with an analogy to the gears in a car. going from 3rd gear to 1st. obviously there are some hiccups but we get to keep driving. hahahah. omg. I can't believe I just typed that. must resist urge to modify. haha. 

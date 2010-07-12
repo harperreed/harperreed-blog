@@ -2,6 +2,7 @@
 wordpress_id: 1244
 layout: post
 title: S60 3rd edition app list
+tags: general
 wordpress_url: http://www.nata2.org/s60-3rd-edition-app-list/
 ---
 My friend jacob got a Nokia 3250 on my recommendation and was disappointed that it didn't have as many apps as my N70 did. So while scouring the internet and looking for applications for him i decided that i would create an application list for the Symbian 3rd edition phones.

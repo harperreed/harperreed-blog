@@ -6,6 +6,7 @@ excerpt: |-
   I got an email today from Ars Electronica notifying me that
   my website AudreyHacking.com has been accepted for entry in the 
   Prix Ars Electronica 2002 competition. Whee. I hope I win. That would rule. In other news. I slept a lot last night. it was nice. however.. I slept so much...
+tags: dylan, reed, hacking, audreyhacking, audrey, apple
 wordpress_url: http://new.nata2.org/?p=256
 ---
 I got an email today from <a href="http://www.aec.at">Ars Electronica</a> notifying me that

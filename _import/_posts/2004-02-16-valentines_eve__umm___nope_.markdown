@@ -3,6 +3,7 @@ wordpress_id: 754
 layout: post
 title: valentines eve. umm.. nope.
 excerpt: so this weekend was pretty fun. on friday I hung out with morgan and we went to a art opening at my friend lenores gallery. the opening was fun - but the hanging out was really good. after this event, we went to a party where a pinata filled with cayan pepper was exploded prior to our arrival. it was rather abrasive on my poor nasal passage ;). we hun...
+tags: rock, insane, movies, holidays
 wordpress_url: http://new.nata2.org/?p=754
 ---
 so this weekend was pretty fun. on friday I hung out with morgan and we went to a art opening at my friend <a href="http://www.redrocketgallery.com">lenores gallery</a>. the opening was fun - but the hanging out was really good. after this event, we went to a party where a pinata filled with cayan pepper was exploded prior to our arrival. it was rather abrasive on my poor nasal passage ;). we hung out here and drank rather rough gin drinks until we got hungry enough to leave. we ate at clarks and we acted like we were straightedge. it ruled.<Br><br/>

@@ -6,6 +6,7 @@ excerpt: |-
   Today is weird. I worked from 9 to 5 twice in 24 hours. That is a lot of work. I am totally of the school of thought that you should always pace yourself. 16 hours with a 3 hour break isn't really pacing myself. But whatever - it is the same sxhedule I sometimes have with going out and work - and I don't complain then. Heh.
   
   Today I got a letter from my friend ella from taiwan. It w...
+tags: fear, school, taiwan, cars, ella
 wordpress_url: http://new.nata2.org/?p=917
 ---
 Today is weird. I worked from 9 to 5 twice in 24 hours. That is a lot of work. I am totally of the school of thought that you should always pace yourself. 16 hours with a 3 hour break isn't really pacing myself. But whatever - it is the same sxhedule I sometimes have with going out and work - and I don't complain then. Heh.<br/><br/>

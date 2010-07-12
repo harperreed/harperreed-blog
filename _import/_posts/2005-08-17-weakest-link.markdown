@@ -2,6 +2,7 @@
 wordpress_id: 1113
 layout: post
 title: Weakest link
+tags: general, humor, projects, awesome
 wordpress_url: http://www.nata2.org/2005/08/17/weakest-link/
 ---
 You have GOT to check <a href="http://www.dj-quik.net/main/index.php?option=com_docman&task=down&bid=31">this out</a>. It is absolutely amazing. <a href="http://www.dj-quik.net/main/index.php?option=com_docman&task=down&bid=31">It</a> is a hiphop version of weakest link. So goddamn funny. 

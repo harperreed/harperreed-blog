@@ -2,6 +2,7 @@
 wordpress_id: 1569
 layout: post
 title: Chicago Transit API
+tags: general, chicago, hacking, bus, api, transit
 wordpress_url: http://www.nata2.org/?p=1569
 ---
 <a title="The goddamn damon bus. seriously by nata2, on Flickr" href="http://www.flickr.com/photos/natatwo/264290817/"><img class="alignright" src="http://farm1.static.flickr.com/87/264290817_f5ccf294d0_m.jpg" alt="The goddamn damon bus. seriously" width="240" height="180" align="right" /></a>I have been working hard to release the work that I have been doing to expose some of the more interesting real time data about chicago transit. Currently it is very bus-centric, but that is hopefully changing.

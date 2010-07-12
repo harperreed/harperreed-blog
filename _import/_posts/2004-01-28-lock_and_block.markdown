@@ -3,6 +3,7 @@ wordpress_id: 738
 layout: post
 title: lock and block
 excerpt: I have been workign nigths for WB doing load testing and such - and it is so weird being up from 10-4 or so and then sleeping as much as you can from 4-10 haha. it is hard on me. I get tired real easy and I totally don't have the stamina to run around and be merry today. Luckily last night was one of the last ones for awhile. work is going well. we have a lot of things going on that are fun - an...
+tags: server
 wordpress_url: http://new.nata2.org/?p=738
 ---
 I have been workign nigths for WB doing load testing and such - and it is so weird being up from 10-4 or so and then sleeping as much as you can from 4-10 haha. it is hard on me. I get tired real easy and I totally don't have the stamina to run around and be merry today. Luckily last night was one of the last ones for awhile. work is going well. we have a lot of things going on that are fun - and soem things that are incredibly frustrating. I hate how people scheme. well I guess I don't mind the scheming. I just HATE when people scheme poorly and transparently. it is so dumb. arrrgghh.. but whatever. it will work itself out. it is just lame. it is like the tattletailers in kingdergarten. bastards. haha. <br/><br/>

@@ -2,6 +2,7 @@
 wordpress_id: 1513
 layout: post
 title: Those parties were awesome!
+tags: general, technology, travel, parties, party, friends, sxsw, startups, traveling
 wordpress_url: http://www.nata2.org/2008/03/11/those-parties-were-awesome/
 ---
 I am finally recovered from my flash travel/party tour. Being shuttled around the country going to parties is a rough life - let me tell you. It was awesome. I met some great people and saw some really cool stuff. It was really cool how much overlap occurred between the boulder crowd and SXSW.

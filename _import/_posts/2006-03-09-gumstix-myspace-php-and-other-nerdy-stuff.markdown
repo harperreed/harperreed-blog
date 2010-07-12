@@ -2,6 +2,7 @@
 wordpress_id: 1229
 layout: post
 title: Gumstix, myspace, php and other nerdy stuff.
+tags: general, technology, nerd, php, hiromi, myspace, gumstix, podcasting, ambientagent
 wordpress_url: http://www.nata2.org/2006/03/09/gumstix-myspace-php-and-other-nerdy-stuff/
 ---
 The last couple weeks have been ultra nerdy. It has been great. I got my gumstix and have been rocking that - attempting to get a handle on how i am going to make that work. It doesn't seem like it will be all that hard to theoretically make. I am worried about having to prototype a daughterboard for the gunmstix - since i haven't ever really made a circuit board in real life. i mean - i made stuff in college, but it was all in theory and never left the computer. Check out my progress at <a href="http://www.ambientagent.com">ambientagent.com</a>.

@@ -5,6 +5,7 @@ title: oh yea
 excerpt: |-
   casshern will be an awesome movie. check out the trailer. >my work may send me to india. that would be pretty cool. ahh. I pull so much bandwidth and have such a fast connection. rule.  
   rsync: wrote 5848268254 bytes  read 2629260 bytes  1479554.31...
+tags: nerd, php, server, war, fear, mom, india
 wordpress_url: http://new.nata2.org/?p=817
 ---
 <a href="http://www.casshern.com/">casshern</a> will be an awesome movie. check out the <a href="http://www.universe.tv/projects/project.c/home.qualify/qualify.trailer.php">trailer</a>. >my work may send me to india. that would be pretty cool. ahh. I pull so much bandwidth and have such a fast connection. rule.  <blockquote><small>

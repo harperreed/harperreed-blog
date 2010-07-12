@@ -6,6 +6,7 @@ excerpt: |-
   it seems like it could be different. 
   but it isn't. 
   why?
+tags: php
 wordpress_url: http://new.nata2.org/?p=814
 ---
 it seems like it <a href="http://morgan.attacktexas.com/archives/000045.php">could be different</a>. <br/>

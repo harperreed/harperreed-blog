@@ -3,6 +3,7 @@ wordpress_id: 949
 layout: post
 title: my eyes are dripping tiredness
 excerpt: however, I don't feel very tired. I really don't understand how it is that I am able to lead this weird dual life. my friend adam equated it to the original mods from the 50s and 60s. he said they used to have normal jobs(working 9-5) and look like business people - then after work they would transform into these fashion seeking scene people. right after my friend adam told me this he started s...
+tags: books, job, blogs, war, video, rock, crobar, fashion, aim, business, corporate, games, matiss, india, politic, porn, hiromi
 wordpress_url: http://new.nata2.org/?p=949
 ---
 however, I don't feel very tired. I really don't understand how it is that I am able to lead this weird dual life. my friend adam equated it to the original mods from the 50s and 60s. he said they used to have normal jobs(working 9-5) and look like business people - then after work they would transform into these fashion seeking scene people. right after my friend adam told me this he started shouting "prolatariet." but anyway - I sometimes don't understand how I find my self at work less than 6 hours after I was last "out." regardless of the activity - I am always "out" before going to work. weird. I am lost in my typing. 

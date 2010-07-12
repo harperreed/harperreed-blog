@@ -5,6 +5,7 @@ title: today is awesome
 excerpt: |-
   I saw a post in friendster about sad songs - or songs that make you cry and I thought about making a mood song db. but instead I just reposted the sad song list on ironkungfu. check it out here. please add some of your own. 
   i am going to add a del.icio.us plugin to my site soon. it should rule. then you all can see what...
+tags: books, php, phone, cell, hacking, experiment, kungfu, friendster
 wordpress_url: http://new.nata2.org/?p=719
 ---
 I saw a post in friendster about sad songs - or songs that make you cry and I thought about making a mood song db. but instead I just reposted the sad song list on ironkungfu. check it out <a href="http://ironkungfu.com/wiki/index.php/SadSongsForYou">here</a>. please add some of your own. 

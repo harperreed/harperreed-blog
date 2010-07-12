@@ -2,6 +2,7 @@
 wordpress_id: 1433
 layout: post
 title: Rails woes. The slow that is keeping twitter down.
+tags: technology, technology
 wordpress_url: http://www.nata2.org/2007/04/15/rails-woes-the-slow-that-is-keeping-twitter-down/
 ---
 <img src="http://farm1.static.flickr.com/155/427451213_330f07f72e_m.jpg" align="right" />I have a love and hate relationship with <a href="http://www.rubyonrails.com">Ruby on Rails</a>. I love what it does. I love the activerecord, I love how it makes designers and other non-software engineers into raving MVC lunatics. I really like coding in ruby and seeing how much work can get done by so little code. All of that is really exciting. However, I hate a lot about rails as well. I do not like that it is so slow. I don't like that you use a reverse proxy and mongrel (I can't put a finger on why I don't like this - but for some reason I want to punch it). I really don't like the fan bois who won't listen to any reason when you criticize their first and probably only love. I don't like how hard it is to scale. I really don't like that the best known way to scale a rails app is by throwing more money at it. I am also still bitter about the not so smooth migration from <a href="http://manuals.rubyonrails.com/export/html/19">.95 to 1.0</a>.

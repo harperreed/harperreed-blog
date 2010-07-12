@@ -2,6 +2,7 @@
 wordpress_id: 1228
 layout: post
 title: Talking to a friend last night we came up with 2 things
+tags: general, myspace, web-20, rants
 wordpress_url: http://www.nata2.org/2006/03/03/talking-to-a-friend-last-night-we-came-up-with-2-things/
 ---
 As you probably noticed, i was at work late last night. As usual, My coworker andrew was also here. Often when it is just the two of us - we theorize and talk about everything that is going on like two old stoners in a VW van. Its nuts. We cover everything from office politics to why stars are green. hah. Anyway, last night andrew said a couple of things that made me really think.

@@ -2,6 +2,7 @@
 wordpress_id: 1546
 layout: post
 title: "Mini Hi Fi: The Chase"
+tags: general, stereo, hifi, audio, t-amp, audiophile, preamp-amp
 wordpress_url: http://www.nata2.org/?p=1546
 ---
 <a title="2008-08-27 00:32:37 -0500 by nata2, on Flickr" href="http://www.flickr.com/photos/natatwo/2802479942/"><img class="alignright" src="http://farm4.static.flickr.com/3048/2802479942_2895dcc1d2_m.jpg" alt="My System" width="240" height="180" align="right" /></a> Anyone who hung out with me in the last couple months has probably heard me rant and roll about my new stereo. It is awesome. I can't shut up about it. I am addicted.

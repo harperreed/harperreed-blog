@@ -2,6 +2,7 @@
 wordpress_id: 1520
 layout: post
 title: Speaking at TechCocktail conference on thursday
+tags: general, chicago, techcocktail, speaking, technology-agnosticism
 wordpress_url: http://www.nata2.org/?p=1520
 ---
 <img class="alignright" style="float: right;" src="http://techcocktail.com/home/wp-content/themes/revolution-20/images/logo.gif" alt="" width="260" height="158" />On Thursday the 29th, the TechCocktail Conference is happening at Layola. You should go, and while you are there, you should come check out <a href="http://morefishthanman.com">Scottv</a> and my talk on technology agnosticism. It should be delightful. For those of you that know me - the time slot is hilarious: 9:30 in the morning. Wth. I rarely have an interesting happening that early in the morning. I am usually sleeping.

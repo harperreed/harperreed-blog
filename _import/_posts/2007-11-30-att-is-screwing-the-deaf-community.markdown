@@ -2,6 +2,7 @@
 wordpress_id: 1494
 layout: post
 title: AT&T is screwing the Deaf Community
+tags: general, insane, google, iphone, verizon, att, deaf, accessibility
 wordpress_url: http://www.nata2.org/2007/11/30/att-is-screwing-the-deaf-community/
 ---
 Man. <a href="http://www.tuaw.com/2007/11/29/atandt-puts-the-kibosh-on-voice-free-iphone-plans-for-the-deaf/">This</a> really gets my goat.

@@ -2,6 +2,7 @@
 wordpress_id: 1099
 layout: post
 title: "This weekend rules. "
+tags: general, party, concert, lollapalooza
 wordpress_url: http://www.nata2.org/2005/07/24/this-weekend-rules/
 ---
 I am watching tv and the women on the TV has awesome glasses. they are huge. I am watching a pretty sad documentary about two kids from chicago poor neighborhoods that are trying to get into the NBA. it is good. a bummer. life certainly isn't fair.

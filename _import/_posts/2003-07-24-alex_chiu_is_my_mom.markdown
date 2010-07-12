@@ -9,6 +9,7 @@ excerpt: |-
   
   
   phunktoad : what happened to your rings for eterna...
+tags: war, chris, linux
 wordpress_url: http://new.nata2.org/?p=577
 ---
 <a href="http://www.alexchiu.com/affiliates/clickthru.cgi?id=natatwo">I love alex chiu</a>. he cracks me up so much.

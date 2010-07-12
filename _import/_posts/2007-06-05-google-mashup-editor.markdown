@@ -2,6 +2,7 @@
 wordpress_id: 1452
 layout: post
 title: Google Mashup Editor
+tags: technology, technology, yahoo-pipes, google, yahoo, mashups, google-mashup-editor
 wordpress_url: http://www.nata2.org/2007/06/05/google-mashup-editor/
 ---
 Today I got access to the <a href="http://code.google.com/gme/">Google Mashup Editor</a>. it is really nifty. I like it. The samples are amazing. I can't wait to sit down and play with it comprehensively. its really neat that the data is accessible with the <a href="http://code.google.com/apis/gdata/overview.html">gdata api</a>.

@@ -2,6 +2,7 @@
 wordpress_id: 1069
 layout: post
 title: oh yea. hackathon idea
+tags: general, jobs
 wordpress_url: http://www.nata2.org/2005/05/24/oh-yea-hackathon-idea/
 ---
 i hope i haven't made a mistake. we will soon see. heh. i would feel awfully dumb. 

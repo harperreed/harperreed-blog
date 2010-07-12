@@ -2,6 +2,7 @@
 wordpress_id: 1138
 layout: post
 title: "squidoo "
+tags: general, awesome, squidoo, seth, godin
 wordpress_url: http://www.nata2.org/2005/10/17/squidoo/
 ---
 So <a href="http://sethgodin.com">seth godin's</a> newest project is starting to <a href="http://squidoo.com/blog/"> leak out to the world</a>.  It is quite exciting to see what we worked on all summer become something real and tactile. I was choosen as an intern around the beginning of the summer and worked with the crew for the summer doing architecture and infrastructure design for the project. 

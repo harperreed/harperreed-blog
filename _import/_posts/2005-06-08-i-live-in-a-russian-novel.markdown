@@ -2,6 +2,7 @@
 wordpress_id: 1078
 layout: post
 title: i live in a russian novel.
+tags: general, job, chicago, injured, train, cta, medicine
 wordpress_url: http://www.nata2.org/2005/06/08/i-live-in-a-russian-novel/
 ---
 So i went to the doctor yesterday and was like "what the hell is wrong with my broke ass foot" and the doctor was like "well what have you eaten recently?" heh. wtf. eating and feet are related. apparently if you drink a lot and eat mostly hotdogs - they are. so i guess i have goutted up my big toe and am working on fixing it. its pretty retarded - expecially that it occured right after i consumed more meat and rich food than i had in probably a year. 

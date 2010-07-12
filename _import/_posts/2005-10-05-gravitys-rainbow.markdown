@@ -2,6 +2,7 @@
 wordpress_id: 1135
 layout: post
 title: gravity's rainbow
+tags: general, books, music, literature, singularity, bus, classical
 wordpress_url: http://www.nata2.org/2005/10/05/gravitys-rainbow/
 ---
 <a href="http://www.nata2.org/index.php?s=gravity%27s+rainbow">once again</a> and for real this time i am going to attempt to read and finish <a href="http://en.wikipedia.org/wiki/Gravity%27s_Rainbow">gravity's rainbow</a> by <a href="http://en.wikipedia.org/wiki/Thomas_Pynchon">pynchon</a>. holy jesus - that guy is verbose. man. its like reading a freshman philosophy class without all the poor prosylytizing and nonsense. it is just thick as hell and full of words. its nice though. it makes me remember my first attempt at reading catch-22 - but when i was in 5th grade. hah. 

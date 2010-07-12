@@ -6,6 +6,7 @@ excerpt: |-
   damn violent concerts.. crazy excessive people who are insane.  it was madness - at least dimmu borgir was good and calm.. this was incredulous... ;) huh
   
   i wanted to come home and listen to something without bass. it was tough. I am probably going to order my laptop soon. I really don't know which to get. It is so tough. I don't want to drop 2k on a freaking laptop.. but I don't w...
+tags: war, insane, laptop, concerts, linux, ipod
 wordpress_url: http://new.nata2.org/?p=258
 ---
 damn violent concerts.. crazy excessive people who are insane.  it was madness - at least dimmu borgir was good and calm.. this was incredulous... ;) huh<br/>

@@ -2,6 +2,7 @@
 wordpress_id: 1256
 layout: post
 title: Nokia N80 is released
+tags: general, technology, phones, nokia, voip, sip, n80, e60
 wordpress_url: http://www.nata2.org/2006/04/26/nokia-n80-is-released/
 ---
 I was talking to my "phone connection" and it looks as though the nokia N80 is out in the wild. You can check it out <a href="http://www.welectronics.com/gsm/Nokia/Nokia_N80.HTML">here</a>. The N80 seems like a <a href="http://www.symplification.com/node/333">pretty cool phone</a>. it has all the features that one could possibly want - good camera, good os, good form factor and wifi.

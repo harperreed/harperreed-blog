@@ -2,6 +2,7 @@
 wordpress_id: 1331
 layout: post
 title: today has been a lazy and rainy day.
+tags: general, hiromi, lazy, chilling, rain
 wordpress_url: http://www.nata2.org/2006/09/01/today-has-been-a-lazy-and-rainy-day/
 ---
 Today we just hung around. We are going later to walk around where one of the BAPE stores are and just hang out. then to this awesome italian place in ginza.  I am happy we didn't really do anything crazy today. Its nice to have a normal existance with hiromi again. No running around. No going to crazy things. No government offices. Just hanging out. To the future!

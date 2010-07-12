@@ -2,6 +2,7 @@
 wordpress_id: 1156
 layout: post
 title: upgraded to wordpress 2.0
+tags: general, skinnycorp, wordpress, work, upgrading, extratasty
 wordpress_url: http://www.nata2.org/2006/01/05/upgraded-to-wordpress-20/
 ---
 I upgraded to wordpress 2.0. easy as pie. really. quite easy. hopefully it just works from now on. it took about.. umm.. lets see.. including this blog post: 3min. haha. i love it when things just work.

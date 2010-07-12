@@ -2,6 +2,7 @@
 wordpress_id: 1235
 layout: post
 title: I am either changing habits or still in jet-lag mode.
+tags: general, projects, voip, art, seditionaries, shirts
 wordpress_url: http://www.nata2.org/2006/03/27/i-am-either-changing-habits-or-still-in-the-jet-lag-mode/
 ---
 Man. i got up today at 6:30. WTF. That is not normal. and i am sick. i have a running nose, a stomach ache and my throat is scratchy. Sad. I hope this passes... the getting up early not the sickness.

@@ -2,6 +2,7 @@
 wordpress_id: 1223
 layout: post
 title: Investigating the nabaztag
+tags: general, technology, hacking, diy, make, ambient, embedded, nabaztag, takeapart, wifi, led
 wordpress_url: http://www.nata2.org/2006/02/27/investigating-the-nabaztag/
 ---
 I got my gumstix today and was lauding the fanciness of the smallest comptuer i have EVER seen, explaining to my coworker Dan how i was going to build an <a href="http://www.ambientdevices.com/">ambient orb</a>/<a href="http://nabaztag.com/">nabaztag </a>like device that will integrate with my <a href="http://www.nokia.com/n70">bluetooth phone</a> and my <a href="http://asteriskathome.sourceforge.net/">pbx</a>. he was impressed of course ;) - and told me that our coworker jake already had a <a href="http://nabaztag.com/">nabaztag</a>. I was like "WOAH." Those little punks are hard to get here in the states. So i talked to jake and he brought it in for lunch.

@@ -3,6 +3,7 @@ wordpress_id: 1011
 layout: post
 title: omg. insanity. chicago cops
 excerpt: so tonight I went to crobar. my friend dayle met me. he is crazy. I am crazy. we hung out. he was giving me a ride home and he got pulled over. he may or may not have been driving crazy. I don't know. however we got pulled over. the cops pulled their guns and told us to get out with our hands up. we both did. they made us get out and they searched us rather throughoughly. (that is spelled horrib...
+tags: general, chicago, search, war, crobar, insane, birthday, parties
 wordpress_url: http://new.nata2.org/?p=1011
 ---
 so tonight I went to crobar. my friend dayle met me. he is crazy. I am crazy. we hung out. he was giving me a ride home and he got pulled over. he may or may not have been driving crazy. I don't know. however we got pulled over. the cops pulled their guns and told us to get out with our hands up. we both did. they made us get out and they searched us rather throughoughly. (that is spelled horribly). and then they handcuffed us together. and then they yelled a bunch and acted tough. then they let us go. <br /><br />afterwards I realized that they stole all the money that was in my wallet. it wasn;t much. only about 60 dollars. but still wtf. they stole abotu 120 from my friend. it is insane. I have never been shook down. I guess now my chicago cop experience is compelete. hahahah. or wait.. mwahahaha. 

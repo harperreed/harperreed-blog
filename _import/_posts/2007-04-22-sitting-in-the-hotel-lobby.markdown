@@ -2,6 +2,7 @@
 wordpress_id: 1437
 layout: post
 title: Sitting in the hotel lobby...
+tags: technology, technology, threadless, travel, california, santa-clara, skinnycorp, mysqlconf, mysql
 wordpress_url: http://www.nata2.org/2007/04/22/sitting-in-the-hotel-lobby/
 ---
 Ivan and I are in Santa Clara this week for the <a href="http://mysqlconf.com/">mysql conference</a>. We are going to learn how to make threadless so fast that it breaks hearts. That is really fast. We got here a bit earlier today and have been waiting for our rooms to become ready. The weather is great - about the same as Chicago and I think it will only get better as we stay here.

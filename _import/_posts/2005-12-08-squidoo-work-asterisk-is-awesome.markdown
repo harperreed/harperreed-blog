@@ -2,6 +2,7 @@
 wordpress_id: 1153
 layout: post
 title: "squidoo. work. asterisk is awesome. "
+tags: general, awesome, work, squidoo, asterisk, voip
 wordpress_url: http://www.nata2.org/2005/12/08/squidoo-work-asterisk-is-awesome/
 ---
 So asterisk is amazing. i have been plating with it quite a bit. I recently hooked it up at skinnyCorp and got it to be there PBX. it is quite amusing to have that much control and granularity with the phone system. I am contemplating rolling out a small scale service based on the asterisk platform. It should be interesting. stay tuned. TUNED I SAY.

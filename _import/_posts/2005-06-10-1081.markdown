@@ -2,6 +2,7 @@
 wordpress_id: 1081
 layout: post
 title: haxoring stuff and rails. and i guess some sleep
+tags: general, blogs, hacking, rails, posts, sickness, some
 wordpress_url: http://www.nata2.org/2005/06/10/1081/
 ---
 So i can walk now. that is an improvement. The best part is that it totally left as fast as it came. really weird. or not weird. 

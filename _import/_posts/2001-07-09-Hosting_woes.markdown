@@ -7,6 +7,7 @@ excerpt: |-
   i was like:
   "uhh, what"
   thems fighting words...
+tags: general, friends, server
 wordpress_url: http://new.nata2.org/?p=11
 ---
 So today, after checking up on my server my <a href="http://www.hostpro.com">host</a> told me:<br>"<i>Oh we reburned that server</i>"<br>

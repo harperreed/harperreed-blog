@@ -3,6 +3,7 @@ wordpress_id: 194
 layout: post
 title: requiem
 excerpt: Here are some cool links. first off check out this. Be sure and read the description. heh. then check out this. and finally check out this - http://www.select-media.co...
+tags: php, chicago, tools, source, design
 wordpress_url: http://new.nata2.org/?p=194
 ---
 Here are some cool links. first off check out <a href="http://cgi.ebay.com/aw-cgi/eBayISAPI.dll?ViewItem&item=1313577170">this</a>. Be sure and read the description. heh. then check out <a href="http://entertainment.yahoo.com/entnews/wwn/20020116/101119320009.html">this</a>. and finally check out this - <a href="http://www.select-media.com/version/html/index.php"><small>http://www.select-media.com/version/</small></a>. From the page:<blockquote>

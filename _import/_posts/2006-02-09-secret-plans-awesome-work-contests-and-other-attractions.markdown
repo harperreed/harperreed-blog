@@ -2,6 +2,7 @@
 wordpress_id: 1204
 layout: post
 title: "secret plans. awesome work. contests and other attractions. "
+tags: general, books, threadless, projects, awesome, work, asterisk, voip
 wordpress_url: http://www.nata2.org/2006/02/09/secret-plans-awesome-work-contests-and-other-attractions/
 ---
 Whew.

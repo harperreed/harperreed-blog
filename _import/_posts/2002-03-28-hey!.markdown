@@ -5,6 +5,7 @@ title: hey!
 excerpt: |-
   read this.
   I really don't like war
+tags: war
 wordpress_url: http://new.nata2.org/?p=243
 ---
 read <a href="http://mama.stg.brown.edu/projects/WritingVietnam/readings/tob_true_war.html">this</a>.<br/><br/>

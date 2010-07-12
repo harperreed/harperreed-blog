@@ -2,6 +2,7 @@
 wordpress_id: 1529
 layout: post
 title: YES WE CAN. Obama apparently wins the democratic nomination
+tags: general, politics, obama, barack-obama, democratic, election
 wordpress_url: http://www.nata2.org/?p=1529
 ---
 <img src="http://farm4.static.flickr.com/3095/2550266230_7a54e00363_m.jpg" alt="" align="right" /><a href="http://www.barackobama.com">Barack Obama</a> seems to have won the <a href="http://www.abcnews.go.com/Politics/Vote2008/story?id=4987177&amp;page=1">democratic nomination</a>. After all the time and work we all put into his campaign, I am VERY happy to hear this news.

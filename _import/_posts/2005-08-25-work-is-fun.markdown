@@ -2,6 +2,7 @@
 wordpress_id: 1117
 layout: post
 title: work is fun
+tags: general, technology, hiromi, work, geek
 wordpress_url: http://www.nata2.org/2005/08/25/work-is-fun/
 ---
 i enjoy work. it is fun. the people are nice. i am excited to get relaly involved and spend days and nights here. haha. 

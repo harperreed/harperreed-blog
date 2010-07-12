@@ -2,6 +2,7 @@
 wordpress_id: 1324
 layout: post
 title: "neti pots are rough. well not as rough.. but still a bit rough.. "
+tags: general, sick, neti-pot
 wordpress_url: http://www.nata2.org/2006/08/17/neti-pots-are-rough-well-not-as-rough-but-still-a-bit-rough/
 ---
 So today after running some errands downtown i came home and about died. I slept like a baby until around 10. confused and hungry i awoke. I felt like hell still. which sucked. I was totally (totally dude) supposed to go to a bbq around 7. But i just didn't have it in me. and now its 11:39 and i am still achey and tired.

@@ -2,6 +2,7 @@
 wordpress_id: 1145
 layout: post
 title: I made this tonight
+tags: general, rails, ajax, whotheheck
 wordpress_url: http://www.nata2.org/2005/10/31/i-made-this-tonight/
 ---
 Instead of going clubbing i made this wite with my friend jeffrey:

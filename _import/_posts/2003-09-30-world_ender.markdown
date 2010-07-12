@@ -6,6 +6,7 @@ excerpt: |
   Ted Turner is not doing his part to stop my irrational fear of apocalypse. Someday I hope to start an apocalypse cult. I feel it will be fun. I mean - what is better than living in fear with 75 close friends. You don'thave to worry about silly things like possessions or whatnot. just fear. it will rule. 
   
 
+tags: family, computers, fear, music, irc, lego
 wordpress_url: http://new.nata2.org/?p=633
 ---
 <a href="http://www.ajc.com/news/content/news/0903/29turner.html">Ted Turner</a> is not doing his part to stop my irrational fear of apocalypse. Someday I hope to start an apocalypse cult. I feel it will be fun. I mean - what is better than living in fear with 75 close friends. You don'thave to worry about silly things like possessions or whatnot. just fear. it will rule. <br/><br/>

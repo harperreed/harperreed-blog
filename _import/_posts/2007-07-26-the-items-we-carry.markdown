@@ -2,6 +2,7 @@
 wordpress_id: 1469
 layout: post
 title: The items we carry
+tags: general, flickr, meme, pockets
 wordpress_url: http://www.nata2.org/2007/07/26/the-items-we-carry/
 ---
 <a href="http://www.flickr.com/photos/natatwo/888324150/" title="Photo Sharing"><img src="http://farm2.static.flickr.com/1172/888324150_a1450e61d6_m.jpg" alt="The Items I Carry" align="right" height="166" width="240" /></a>The other day I was on <a href="http://flickr.com">flickr</a> and I happened across a <a href="http://www.flickr.com/photos/thepaperbrigade/887687018/in/pool-theitemswecarry/">friend's picture of things that he carries in his pockets</a>. I thought it was really neat. He had linked to the <a href="http://www.flickr.com/groups/theitemswecarry/pool/">photo pool</a> that had a bundle of people following suit. It is amazing. I immediately took a picture of the things I carry around on me on a daily basis.

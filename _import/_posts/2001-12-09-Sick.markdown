@@ -3,6 +3,7 @@ wordpress_id: 145
 layout: post
 title: Sick
 excerpt: After being rather sick for the last couple days I have decided to cut off my own arms. You should all go by the game set it rules.
+tags: sick
 wordpress_url: http://new.nata2.org/?p=145
 ---
 After being rather sick for the last couple days I have decided to cut off my own arms. You should all go by the game set it rules.

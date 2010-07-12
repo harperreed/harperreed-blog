@@ -3,6 +3,7 @@ wordpress_id: 389
 layout: post
 title: wtf
 excerpt: "Apparently a protest is going down against the Transatlantic Business Dialogue (TABD). The TABD offers an effective framework for enhanced cooperation between the transatlantic business community and the governments of the European Union (EU) and United States (US). Or the "
+tags: job, php, chicago, war, community, food, action, music, business, health, terrorism, politic
 wordpress_url: http://new.nata2.org/?p=389
 ---
 Apparently a <a href="http://www.azone.org/notabd/">protest</a> is going down against the <a href="http://www.tabd.org/">Transatlantic Business Dialogue (TABD)</a>. The TABD offers an effective framework for enhanced cooperation between the transatlantic business community and the governments of the European Union (EU) and United States (US). Or the <a href="http://www.azone.org/notabd/index.php?content=history">TABD</a> is a coalition of U.S. and European CEOs, that is mandated by and gets unlimited access to the U.S. and European governments. It helps boost transatlantic trade for large corporations by promoting the WTO and knocking down "barriers to trade". According to the TABD barriers to trade can be, labor protections, food safety and health laws, and anything that blocks corporations' paths to unlimited profit.<br/><br/>I am guessing it is the latter. Anyway there is a protest party on thursday(7th of NOvember) against the TABD:

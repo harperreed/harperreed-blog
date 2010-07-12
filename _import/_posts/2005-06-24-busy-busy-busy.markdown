@@ -2,6 +2,7 @@
 wordpress_id: 1088
 layout: post
 title: busy busy busy
+tags: general, job, music, travel, mobile, general
 wordpress_url: http://www.nata2.org/2005/06/24/busy-busy-busy/
 ---
 This last couple days have been insane. So obviously i was in nyc working. then i hung out and partied all night in manhatten with amjad. That ended with us eating tater tots at 4 in the morning. and INCREDIBLE idea. seriously. whoever invented that was smart. S M R T.  then the plane fiasco. 

@@ -2,6 +2,7 @@
 wordpress_id: 1232
 layout: post
 title: i made it to tokyo
+tags: general, hiromi, travel, awesome, japan
 wordpress_url: http://www.nata2.org/2006/03/17/i-made-it-to-tokyo/
 ---
 The flight was long. I mean... LONG. I was sleepy so i slept all the way. but i still got bored on the plane. I really needed to bring a book - but it was dark and i didn't want to wake up my neighbors. but i made it. Immigtation was sooo easy. They just said ok.

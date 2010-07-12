@@ -7,6 +7,7 @@ excerpt: |-
   
   
   this is awesome. check it out. GWBush is the w...
+tags: insane, bush
 wordpress_url: http://new.nata2.org/?p=608
 ---
 so my friend angela moved to L.A.  I guess I will have to go and visit. She had a nifty going away party last night. I always look <a href="http://www.nata2.info/?path=pictures%2F%2Fparties%2Fangelas_going_away_party_aug_03">insane in pictures</a>.

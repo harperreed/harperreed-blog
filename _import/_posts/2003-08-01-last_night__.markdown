@@ -4,6 +4,7 @@ layout: post
 title: last night..
 excerpt: "so last night when I went out with bernie, his friend phil and hiromi.. we fire my laser pointer to the top of the john hancock antennae. It was crazy. It totally was visible. Totally. I am a valley girl apparently. I can?t wait for it to get dark. I love the dark. Dark like a wolf.Laser pointer stats:\r\n\
   Standard Red laser pointer: 650nm wavelength; "
+tags: server, hiromi
 wordpress_url: http://new.nata2.org/?p=586
 ---
 so last night when I went out with bernie, his friend phil and hiromi.. we fire my laser pointer to the top of the john hancock antennae. It was crazy. It totally was visible. Totally. I am a valley girl apparently. I can?t wait for it to get dark. I love the dark. Dark like a wolf.<br/><br/>Laser pointer stats:<blockquote><small>

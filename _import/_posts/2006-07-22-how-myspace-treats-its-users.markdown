@@ -2,6 +2,7 @@
 wordpress_id: 1309
 layout: post
 title: How myspace treats its users
+tags: technology, myspace, users, friendly, bad
 wordpress_url: http://www.nata2.org/2006/07/22/how-myspace-treats-its-users/
 ---
 <a title="Photo Sharing" href="http://www.flickr.com/photos/natatwo/193491006/"><img align="right" title="How myspace treats its users.." alt="How myspace treats its users.." src="http://static.flickr.com/64/193491006_227bd5e8b4_m.jpg" /></a>So myspace is annoying. Don't get me wrong. i have two accounts and over a thousand "friends" - but i hate how the site looks, works and exists. It is like the bastion of all i hate on the internet. Bad design, Bad usability and bad user relations. Myspace hates their users. They blame their users on their problems. I don't think this is a good way to maintain their postion in the ever changing social network world.
