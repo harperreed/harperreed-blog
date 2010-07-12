@@ -4,7 +4,7 @@
 #destination: ./_site
 auto:        false 
 lsi:         false # better related posts
-#server_port: 4000
+server_port: 4000
 pygments:    false
 markdown:    maruku
 permalink:   pretty
