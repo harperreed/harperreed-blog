@@ -8,6 +8,9 @@ excerpt: |-
   drudge
 wordpress_url: http://new.nata2.org/?p=350
 ---
-<li><a href="http://www.metafilter.com">metafilter</a>
-<li><a href="http://www.fark.com">fark</a>
-<li><a href="http://www.drudgereport.com">drudge</a>
+<ul>
+<li><a href="http://www.metafilter.com">metafilter</a></li>
+<li><a href="http://www.fark.com">fark</a></li>
+<li><a href="http://www.drudgereport.com">drudge</a></li>
+</ul>
+

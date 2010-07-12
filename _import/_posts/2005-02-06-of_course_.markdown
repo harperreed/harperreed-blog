@@ -7,6 +7,6 @@ excerpt: "so tomorrow is the day. when the site will go live. I am pretty excite
   more later. "
 wordpress_url: http://new.nata2.org/?p=988
 ---
-so tomorrow is the day. when the site will go live. I am pretty excited. ;)
-<br/><Br>
-more later. 
+so tomorrow is the day. when the site will go live. I am pretty excited. ;)<br>
+<br>
+more later.
