@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "I have no idea what is going on"
+tags: general, test, post
+author: harper
+date: 2010-08-11 16:36:33
+---
+This is interesting. i wonder how well it will work out. 
