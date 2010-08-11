@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">   
+  
+<url>
+  <loc>http://www.nata2.org</loc>
+    <lastmod>2010-08-11T15:25:39-05:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  
+  <url>
+    <loc>http://www.nata2.org/2010/08/11/omg-test/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2010/04/05/smitten-by-the-ipad-thoughts-and-complaints/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2010/02/11/musings-about-femtocells-the-futures/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2010/01/17/i-love-phones-designed-for-developing-countries/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2009/12/09/2009-hosting-summary-or-where-does-harper-host-in-20092010/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2009/10/07/leaving-threadless/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2009/03/08/my-thoughts-on-the-kindle/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2009/02/28/python-oauth-client-exclaim/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2009/01/11/seven-things-goddamn-internet-friends/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2009/01/04/2008-retrospectiv/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2008/12/26/happy-holidays/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2008/10/06/release-your-applications-inner-api-please/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2008/10/06/chicago-transit-api/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2008/04/05/speaking-at-the-university-of-arizona/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2008/03/25/social-xmpp/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2008/03/11/those-parties-were-awesome/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2008/01/03/obama-is-winning-iowa/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2007/12/20/my-battle-with-desktop-linux/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2007/12/20/going-to-japan-2/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2007/12/07/chicago-ignite-our-presentation/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2007/11/30/att-is-screwing-the-deaf-community/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2007/11/29/desktop-linux/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2007/11/22/happy-thanksgiving/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2007/11/20/my-servers-are-offline/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2007/11/05/google-contact-manager-hacking-2/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2007/11/05/exciting-news/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2007/10/23/a-vibrant-music-community-has-been-ended/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2007/10/17/tell-him-to-stay-in-his-tree/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2007/10/17/a-email-response-from-a-friend/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2006/12/05/linux-distribution-for-older-folks/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2005/09/09/saddest-movie-ever-jesus/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2005/09/07/photolog-fixored/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2005/09/06/good-long-weekend/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2005/09/03/watch-this/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2005/09/01/man-mardi-gras-is-gunna-suck-this-year/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2005/08/31/new-skinnycorp-site-check-it/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2005/08/27/i-rule/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2005/08/27/goddamn-i-rule/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2005/08/26/tonight-after-juggling-after-a-meeting-and-after-i-attempted-to-goto-bed/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2005/08/26/i-am-going-to-punch-the-cta-in-the-face/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2005/08/25/working/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2005/08/25/work-is-fun/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2005/08/21/long-long-long-long-time/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2004/09/30/I_am_back__although_i_never_left_/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2004/09/24/ogo-review-3/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2004/09/23/whew__finally_updated__for_real_/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2004/09/23/o_m_g__i_am_sooo_busted_/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2004/09/23/busted/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2003/01/17/man_men_woman_women/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2003/01/16/friend_jon/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2003/01/14/trouble__/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2003/01/14/A_simulation__/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2003/01/13/linxor/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2003/01/09/grocery/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2003/01/08/insanity/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2003/01/07/argh/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2003/01/06/Words___words___words/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2003/01/05/man___i_hate_driving/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2003/01/02/Happy_new_years__/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2002/12/30/Week_end_/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2002/12/27/I_am_back___harpers_back/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2002/12/25/Merry_Xmas/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2002/12/24/whooo_haaa/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2002/12/20/Long_Beach__/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2002/12/19/once_again/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2002/12/16/ughhh__/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2002/12/15/stomp/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2002/12/13/Jesus/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2002/12/12/wicked/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2002/12/12/Worked/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2002/12/09/Whoa/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2002/01/04/communication_is_KEY/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2002/01/04/I_like_buildings/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2002/01/03/blows/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2002/01/03/Today___/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2002/01/03/Stunts_/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2002/01/03/It_is_better/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2002/01/02/sunshine/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2002/01/01/hmmm____/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2001/12/31/HAPPY_NEW_YEARS/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2001/12/31/After_some_concern___/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2001/12/30/Happy_Birthday/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2001/01/02/Ireland/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2000/12/27/Hip_Hop_and_you_too/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.nata2.org/2000/11/23/Insanity/</loc>
+    <lastmod>Wed Aug 11 15:25:39 -0500 2010</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+</urlset>

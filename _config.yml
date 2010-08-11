@@ -1,12 +1,15 @@
 #
 # Jekyll configuration
 #
-server: true
+#server: true
 #destination: ./_site
-#auto:        true
-lsi:         false # better related posts
-server_port: 4000
+auto:        true
+#server_port: 4000
 permalink:   pretty
+paginate:    20
+lsi:         true
+pygments:    true
+markdown:    maruku
 
 #
 # Site configuration

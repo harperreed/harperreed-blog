@@ -1,0 +1,13 @@
+handlers:
+- url: '/'
+  static_files: '_site/index.html'
+  upload: '_site/.*'
+- url: '/([^/]+)'
+  static_files: '_site/\1'
+  upload: '_site/.*'
+- url: '/(.*?)/(.*?)/(.*?)/(.*?)/?'
+  static_files: '/_site/\1/\2/\3/\4/index.html'
+  upload: '_site/.*'
+- url: '/(.*)/(.*)'
+  static_files: '_site/\1/\2'
+  upload: '_site/.*'
