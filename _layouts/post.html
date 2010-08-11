@@ -8,16 +8,10 @@ layout: default
             <strong class="day">{{page.date | date: "%d"}}</strong>
             <strong class="month">{{page.date | date: "%b"}}</strong>
         </p>
-        {% if page.author %}
-        <p class="PostInfo">Posted by {{page.author}} at {{page.date | date: "%I:%M %p"}}</p>
-        {%else %}
-        <br />
-        {% endif %}
+        <p class="PostInfo">Written by <a href="/about">harper</a> on {{page.date | date: "%b %d %Y"}}</p
     </div>
     <div class="PostContent">
         {{ content }}
-
-
         <div class="RelatedPosts"> 
             <h3>Related Posts</h3> 
             <ul>

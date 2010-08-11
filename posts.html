@@ -11,11 +11,10 @@ layout: default
                     <strong class="day">{{post.date | date: "%d"}}</strong>
                     <strong class="month">{{post.date | date: "%b"}}</strong>
                 </p>
-                 {% if page.author %}
-                    <p class="PostInfo">Posted by {{page.author}} at {{page.date | date: "%I:%M %p"}}</p>
-                {%else %}
+                <p class="PostInfo">Posted by {{page.author}} at {{page.date | date: "%I:%M %p"}}
                     <br />
-                {% endif %}
+                     Tags: <a href="http://www.nata2.org/tag/apple/" rel="tag">apple</a>, <a href="http://www.nata2.org/tag/ipad/" rel="tag">ipad</a>  
+                </p>
             </div>
             <div class="PostContent">
                 {{ post.content }}

@@ -1,8 +1,0 @@
---- 
-wordpress_id: 950
-layout: post
-title: asleep
-excerpt: "my leg is completely asleep. I am about to walk around and I will most likely fall. "
-wordpress_url: http://new.nata2.org/?p=950
----
-my leg is completely asleep. I am about to walk around and I will most likely fall. 
