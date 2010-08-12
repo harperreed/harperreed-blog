@@ -4,7 +4,7 @@
  <title>Harper Reed: Tech, Mobile, Yo-yoing and Death Metal</title>
  <link href="http://www.nata2.org/atom.xml" rel="self"/>
  <link href="http://www.nata2.org"/>
- <updated>2010-08-12T01:05:39-05:00</updated>
+ <updated>2010-08-12T01:20:04-05:00</updated>
  <id>http://www.nata2.org</id>
 
  
@@ -16,22 +16,13 @@
  
  
  <entry>
-   <title>Going to a movie tonight</title>
-   <link href="http://www.nata2.org/2010/08/12/going-to-a-movie/"/>
-   <updated>2010-08-12T16:36:33-05:00</updated>
-   <id>http://www.nata2.org/2010/08/12/going-to-a-movie</id>
-   <content type="html">&lt;p&gt;haven&amp;#8217;t been to a movie in awhile. excited.&lt;/p&gt;</content>
+   <title>If you see this, this blog is hosted on app engine</title>
+   <link href="http://www.nata2.org/2010/08/12/if-you-see-this/"/>
+   <updated>2010-08-12T00:00:00-05:00</updated>
+   <id>http://www.nata2.org/2010/08/12/if-you-see-this</id>
+   <content type="html">&lt;p&gt;Decided to ditch wordpress for jekyl and drydrop. Let&amp;#8217;s see how it works.&lt;/p&gt;
 
-
-
- </entry>
- 
- <entry>
-   <title>I have no idea what is going on</title>
-   <link href="http://www.nata2.org/2010/08/11/omg-test/"/>
-   <updated>2010-08-11T16:36:33-05:00</updated>
-   <id>http://www.nata2.org/2010/08/11/omg-test</id>
-   <content type="html">&lt;p&gt;This is interesting. i wonder how well it will work out.&lt;/p&gt;</content>
+&lt;p&gt;I will update this post later with more info.&lt;/p&gt;</content>
 
 
 
@@ -406,6 +397,23 @@
 &lt;p&gt;After all the festivities of the event were over, we chilled on the streets of Tucson, and eventually met up some of the staff of the Eller College of Management for dinner. The dinner was great, but even more great was meeting &lt;a href='http://www.drsidneyjlevy.com/'&gt;Sidney Levy&lt;/a&gt;. Sidney is apparently one of the people who &lt;a href='http://books.google.com/books?hl=en&amp;amp;id=IB95hkJczk4C&amp;amp;dq=sidney+levy&amp;amp;printsec=frontcover&amp;amp;source=web&amp;amp;ots=fRR2Nkl7id&amp;amp;sig=7XQtrnSG0b-MaKDq1g4xXxbBDsQ#PPP1,M1'&gt;developed the world of brand marketing&lt;/a&gt;. He was billed as the father of symbolic marketing. This is serious business. However, he was very much not serious business. He was awesome. Charlie and I hung out with him for about an hour, just talking about life, love and all things that occur between. Sidney was quite funny and had a lot to tell us. I am going to attempt to help him get his gullibility project going. Excitement.&lt;/p&gt;
 
 &lt;p&gt;Speaking is pretty awesome. I learned a lot from talking to the people around us. It was awesome to hang out with young people who are excited about something that I am not excited about. Inspiring and hope giving. I hope that Charlie and I get to do it again. Hopefully in Hawaii, or maybe Guam, or possibly some other paradisiacal place.&lt;/p&gt;</content>
+
+
+
+ </entry>
+ 
+ <entry>
+   <title>Social XMPP</title>
+   <link href="http://www.nata2.org/2008/03/25/social-xmpp/"/>
+   <updated>2008-03-25T00:00:00-05:00</updated>
+   <id>http://www.nata2.org/2008/03/25/social-xmpp</id>
+   <content type="html">&lt;p&gt;Last week my friend &lt;a href='http://mark.atwood.name'&gt;Mark&lt;/a&gt; pinged me and mentioned that I should get together with a friend of his who was in town for PYCON. I am always into meeting new people so I had dinner with &lt;a href='http://dorseys.org/'&gt;Brian Dorsey&lt;/a&gt;. It was awesome. I was able to rant and rave about all my ideas, interests and whatnot with new and possibly interested. Brian immediately suggested that he introduce me to a friend of his who he thought I would enjoy talking to. So I was introduced to &lt;a href='http://anders.conbere.org/journal/'&gt;Anders Conbere&lt;/a&gt;. The reason Brian thought we should meet was that we both incessantly talk about XMPP.&lt;/p&gt;
+
+&lt;p&gt;Anders and I talked for a couple hours Friday, and found that we had a lot of similar ideas and thoughts about XMPP and its place in the world of social software, communities and data. Anders explained that we weren&amp;#8217;t the only crazies who thought that XMPP should be used for more than instant messaging. He mentioned that &lt;a href='http://stpeter.im/'&gt;some&lt;/a&gt; &lt;a href='http://romeda.org/'&gt;cool&lt;/a&gt; &lt;a href='http://www.hackdiary.com/'&gt;kids&lt;/a&gt; were also looking into the relationship of XMPP and social software. As Anders was dashing out the door to his flight, we decided that we needed to create or at least foster the growth of a mailing list to collect people.&lt;/p&gt;
+
+&lt;p&gt;Earlier today, Anders introduced me to &lt;a href='http://stpeter.im/'&gt;Peter Saint-Andre&lt;/a&gt; who is the Executive Director of the XMPP Standards Foundation. We chatted a bit and then came to the conclusion that there needed to be a place for people to talk about their ideas, uses, experiences and what not. And thus &lt;a href='mailto:social@xmpp.org'&gt;social@xmpp.org&lt;/a&gt; was &lt;a href='https://stpeter.im/?p=2177'&gt;born as the go to mailing list to discuss these topics&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I have a lot of ideas and hopefully with the help of this group, I can flush them out and really tackle them. I am pretty excited about it.&lt;/p&gt;</content>
 
 
 
