@@ -6,4 +6,4 @@ author: harper
 ---
 Decided to ditch wordpress for jekyl and drydrop. Let's see how it works.
 
-I will update this post later with more info. 
+I will update this post later with more info later.

@@ -1,0 +1,8 @@
+--- 
+wordpress_id: 1049
+layout: post
+title: boooya
+tags: general, design
+wordpress_url: http://www.nata2.org/2005/04/21/boooya/
+---
+new design sucka

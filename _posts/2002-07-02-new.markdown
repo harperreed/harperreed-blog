@@ -1,0 +1,23 @@
+--- 
+wordpress_id: 307
+layout: post
+title: new
+excerpt: |
+  for news goto:
+  Rense.com - kinda sketchy but interesting and fun filled. also a tad bit anti-israel/semitic(kind sketchy).
+  Drudge Report - a very simple and effective website. Sometimes it is nonsense.. or stupid poli-fashion shit. but its usually worth the visit. 
+
+tags: fashion
+wordpress_url: http://new.nata2.org/?p=307
+---
+for news goto:
+<ul>
+<li><a href="http://rense.com/">Rense.com</a> - kinda sketchy but interesting and fun filled. also a tad bit anti-israel/semitic(kind sketchy).</li>
+<li><a href="http://drudgereport.com">Drudge Report</a> - a very simple and effective website. Sometimes it is nonsense.. or stupid poli-fashion shit. but its usually worth the visit.</li>
+<li><a href="http://ratm.com/new2/news/current_events/index.html">RATM current event page</a> - this is a pretty good collection of links, that is seemingly updated daily. It is sanctioned by RATM which is funny.</li>
+<li><a href="http://www.indymedia.org">Indymedia</a> - a democratic media outlet. sometimes good.. sometimes dumb</li>
+<li><a href="http://www.cnn.com">cnn</a> - heh.<br>
+<br>
+so those are the links that make up my every morning. check em out.</li>
+</ul>
+
