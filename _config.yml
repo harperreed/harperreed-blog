@@ -7,7 +7,7 @@ auto:        false
 #server_port: 4000
 permalink:   pretty
 #paginate:    20
-lsi:         true
+lsi:         false
 pygments:    true
 markdown:    maruku
 
