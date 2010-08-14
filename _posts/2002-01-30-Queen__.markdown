@@ -1,9 +1,0 @@
---- 
-wordpress_id: 197
-layout: post
-title: Queen..
-excerpt: hey, you should all come down to rednofive on saturday night. My friend pamala is going to have a fashion show there and I am going to be a model. hehe. punk rock.
-tags: rock, fashion
-wordpress_url: http://new.nata2.org/?p=197
----
-hey, you should all come down to rednofive on saturday night. My friend pamala is going to have a fashion show there and I am going to be a model. hehe. punk rock.

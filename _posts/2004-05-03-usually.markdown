@@ -1,8 +1,0 @@
---- 
-wordpress_id: 839
-layout: post
-title: usually
-excerpt: "i have nothing good to say. but I just type away. "
-wordpress_url: http://new.nata2.org/?p=839
----
-i have nothing good to say. but I just type away. 
