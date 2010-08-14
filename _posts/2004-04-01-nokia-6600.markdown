@@ -1,0 +1,8 @@
+--- 
+wordpress_id: 1171
+layout: post
+title: Nokia 6600
+tags: general, technology, mobile, nokia
+wordpress_url: http://www.nata2.org/2004/04/01/nokia-6600/
+---
+I recently picked up a nokia 6600. i will post my comments shortlly.

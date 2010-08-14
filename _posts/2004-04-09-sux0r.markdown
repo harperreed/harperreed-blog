@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 812
+layout: post
+title: sux0r
+excerpt: so my l33t skills didn't work out today. I totally screwed up my servers. well not really. I am not on my new servers yet. I had to leave my old server in colo - which costs me a lot more money, and I had to use the switch- so I wasn't able to return it. it sucks. I am pretty pissed/upset. mostly cuz I wasn't able to pull it off. I mean. I didn't really prepare as well as I should have. but w...
+tags: server
+wordpress_url: http://new.nata2.org/?p=812
+---
+so my l33t skills didn't work out today. I totally screwed up my servers. well not really. I am not on my new servers yet. I had to leave my old server in colo - which costs me a lot more money, and I had to use the switch- so I wasn't able to return it. it sucks. I am pretty pissed/upset. mostly cuz I wasn't able to pull it off. I mean. I didn't really prepare as well as I should have. but wahtever.<br>
+<br>
+on a different note - I did install a firewall and a new webserver in my colo. so I will begin to migrate web and shit to the new servers. it should be done in a couple days. that is really cool. oar.net is sooo fast. hehe.<br>
+<br>
+i have been on my feet for 6 hours and am really tired. I need a hug/nap/back massage/punch/rc car race.<br>
+<br>
+doh.

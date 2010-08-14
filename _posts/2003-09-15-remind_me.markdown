@@ -1,0 +1,8 @@
+--- 
+wordpress_id: 620
+layout: post
+title: remind me
+excerpt: to  check out eigen radio at home. Stupid firewalls.
+wordpress_url: http://new.nata2.org/?p=620
+---
+to  check out <a href="http://eigenradio.media.mit.edu/">eigen radio</a> at home. Stupid firewalls.
