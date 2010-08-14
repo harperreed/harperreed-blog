@@ -4,7 +4,7 @@
  <title>Harper Reed: Tech, Mobile, Yo-yoing and Death Metal</title>
  <link href="http://www.nata2.org/atom.xml" rel="self"/>
  <link href="http://www.nata2.org"/>
- <updated>2010-08-12T01:20:04-05:00</updated>
+ <updated>2010-08-14T03:39:40+00:00</updated>
  <id>http://www.nata2.org</id>
 
  
@@ -18,11 +18,11 @@
  <entry>
    <title>If you see this, this blog is hosted on app engine</title>
    <link href="http://www.nata2.org/2010/08/12/if-you-see-this/"/>
-   <updated>2010-08-12T00:00:00-05:00</updated>
+   <updated>2010-08-12T00:00:00+00:00</updated>
    <id>http://www.nata2.org/2010/08/12/if-you-see-this</id>
    <content type="html">&lt;p&gt;Decided to ditch wordpress for jekyl and drydrop. Let&amp;#8217;s see how it works.&lt;/p&gt;
 
-&lt;p&gt;I will update this post later with more info.&lt;/p&gt;</content>
+&lt;p&gt;I will update this post later with more info later.&lt;/p&gt;</content>
 
 
 
@@ -31,7 +31,7 @@
  <entry>
    <title>Smitten by the iPad: thoughts and complaints. </title>
    <link href="http://www.nata2.org/2010/04/05/smitten-by-the-ipad-thoughts-and-complaints/"/>
-   <updated>2010-04-05T00:00:00-05:00</updated>
+   <updated>2010-04-05T00:00:00+00:00</updated>
    <id>http://www.nata2.org/2010/04/05/smitten-by-the-ipad-thoughts-and-complaints</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/natatwo/4488064118/' title='The ipad is awesome by nata2, on Flickr'&gt;&lt;img src='http://farm5.static.flickr.com/4052/4488064118_ea9d770433_m.jpg' height='180' align='right' alt='The ipad is awesome' width='240' /&gt;&lt;/a&gt;
 &lt;p&gt;The iPad is a new and very exciting paradigm for computing. I played with it afternoon and it felt very minority report. It felt like the future. no physical keyboard. I was controlling things with my finger/mind. it was awesome. I am smitten.&lt;/p&gt;
@@ -59,7 +59,7 @@
  <entry>
    <title>Musings about femtocells: the futures!</title>
    <link href="http://www.nata2.org/2010/02/11/musings-about-femtocells-the-futures/"/>
-   <updated>2010-02-11T00:00:00-06:00</updated>
+   <updated>2010-02-11T00:00:00+00:00</updated>
    <id>http://www.nata2.org/2010/02/11/musings-about-femtocells-the-futures</id>
    <content type="html">&lt;blockquote&gt;I wrote most of this entry the day before the earthquake in Haiti. It was motivated by the magicJack announcement and my interest in mobile devices within developing nations.  However, the thoughts in this post suddenly seemed more real after I started hearing reports of communication breakdown after the earthquake.&lt;/blockquote&gt;&lt;strong&gt;The femtocell&lt;/strong&gt;
 &lt;p&gt;At the recent CES, the &lt;a href='http://en.wikipedia.org/wiki/MagicJack'&gt;magicJack company&lt;/a&gt; announced that they wanted to release a consumer grade FemtoCell device as an upgrade to their USB FXO/Softphone device.  Note: magicJack is an insane company. You probably have seen them on television commercials while watching USA &amp;#8216;Up All Night&amp;#8217;.  While these commercials almost seem scam-like, they have apparently sold 5 million USB magicJacks.  That&amp;#8217;s a lot of phone calls!&lt;/p&gt;
@@ -85,7 +85,7 @@
  <entry>
    <title>I love phones designed for developing countries. </title>
    <link href="http://www.nata2.org/2010/01/17/i-love-phones-designed-for-developing-countries/"/>
-   <updated>2010-01-17T00:00:00-06:00</updated>
+   <updated>2010-01-17T00:00:00+00:00</updated>
    <id>http://www.nata2.org/2010/01/17/i-love-phones-designed-for-developing-countries</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/natatwo/4283555038/' title='Nokia 1100 and Motorola F3 by nata2, on Flickr'&gt;&lt;img src='http://farm5.static.flickr.com/4039/4283555038_a798542c5f_m.jpg' height='218' align='right' alt='Nokia 1100 and Motorola F3' width='240' /&gt;&lt;/a&gt;
 &lt;p&gt;I love mobile phones. I don&amp;#8217;t know why - but mobile devices represent so much of what I love about technology. The ubiquity, the fascination, all the new technology that pops up and all the different way people use their devices. I also feel like mobile devices will be the future of whatever the internet turns out to be. They will power the internet. With all this in mind - I have started to become interested in the devices that fill the opposite niche. The devices that are SO simple that their are almost NO features.&lt;/p&gt;
@@ -115,7 +115,7 @@
  <entry>
    <title>2009 Hosting Summary (or where does Harper host in 2009/2010)</title>
    <link href="http://www.nata2.org/2009/12/09/2009-hosting-summary-or-where-does-harper-host-in-20092010/"/>
-   <updated>2009-12-09T00:00:00-06:00</updated>
+   <updated>2009-12-09T00:00:00+00:00</updated>
    <id>http://www.nata2.org/2009/12/09/2009-hosting-summary-or-where-does-harper-host-in-20092010</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/natatwo/2581673203/' title='this is mount fuji by nata2, on Flickr'&gt;&lt;img src='http://farm4.static.flickr.com/3192/2581673203_d18270a494_m.jpg' height='180' align='right' alt='this is mount fuji' width='240' /&gt;&lt;/a&gt;&lt;blockquote&gt;&lt;strong&gt;&lt;em&gt;Disclaimer&lt;/em&gt;&lt;/strong&gt;&lt;em&gt;: I am paid money by Rackspace to think about these things. However, I am an equal opportunity hosting consumer. I will try and be as open as possible (but probably a bit biased as well). This is on my personal blog and does not represent Rackspace in the least. These opinions are mine and do not represent Rackspace in anyway.&lt;/em&gt;&lt;/blockquote&gt;
 &lt;p&gt;I guess I will go ahead and jump in. This is based on what I use and would most likely suggest if we were drinking beers and talking about hosting. Your mileage may vary. I am sorry if I end up causing a nuclear war based on these recommendations.&lt;/p&gt;
@@ -163,7 +163,7 @@
  <entry>
    <title>Leaving Threadless</title>
    <link href="http://www.nata2.org/2009/10/07/leaving-threadless/"/>
-   <updated>2009-10-07T00:00:00-05:00</updated>
+   <updated>2009-10-07T00:00:00+00:00</updated>
    <id>http://www.nata2.org/2009/10/07/leaving-threadless</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/techcocktail/2316615921/'&gt;&lt;img src='http://farm3.static.flickr.com/2411/2316615921_b2cee81590_m.jpg' align='right' /&gt;&lt;/a&gt;
 &lt;p&gt;It was super hard to leave a job that taught me so much, helped me grow and was staffed by all of my friends, but I needed to make that leap towards the future. (&lt;a href='http://siliconangle.net/ver2/2009/09/29/exclusive-interview-threadless-cto-harper-reed-heads-to-rackspace-whats-a-nepholologist/' title='here is a nice interview' id='c8k2'&gt;Here is a nice interview&lt;/a&gt; covering all sorts of aspects of my leaving.)&lt;/p&gt;
@@ -187,7 +187,7 @@
  <entry>
    <title>My thoughts on the kindle: 1 vs 2 and the iphone app</title>
    <link href="http://www.nata2.org/2009/03/08/my-thoughts-on-the-kindle/"/>
-   <updated>2009-03-08T00:00:00-06:00</updated>
+   <updated>2009-03-08T00:00:00+00:00</updated>
    <id>http://www.nata2.org/2009/03/08/my-thoughts-on-the-kindle</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/natatwo/3307240832/' title='Kindle2 vs Kindle1 front powered on by nata2, on Flickr'&gt;&lt;img class='alignright' src='http://farm4.static.flickr.com/3429/3307240832_8913af9d4f_m.jpg' align='right' height='180' alt='Kindle2 vs Kindle1 front powered on' width='240' /&gt;&lt;/a&gt;
 &lt;p&gt;I read a lot. I am not like those crazy people who read a book a day or anything, but i have been reading up to about 2 books a week for the past few years. They are not crazy books, mostly science fiction and fantasy, but they are not small books. I read to chill out. My day pattern is to go to work, work, get home, nap, hang out with hiromi, play computer and then read until i fall alseep. The reading part is VERY important to get my mind and body to a place where I can actually sleep. Needless to say, I take my reading seriously.&lt;/p&gt;
@@ -231,7 +231,7 @@
  <entry>
    <title>Python Oauth Client - Excla.im</title>
    <link href="http://www.nata2.org/2009/02/28/python-oauth-client-exclaim/"/>
-   <updated>2009-02-28T00:00:00-06:00</updated>
+   <updated>2009-02-28T00:00:00+00:00</updated>
    <id>http://www.nata2.org/2009/02/28/python-oauth-client-exclaim</id>
    <content type="html">&lt;p&gt;I built &lt;a href='http://excla.im'&gt;Excla.im&lt;/a&gt; quite awhile ago, well before &lt;a href='http://twitter.com/harper'&gt;Twitter&lt;/a&gt; unleased their oauth beta program. Regardless, &lt;a href='http://factoryjoe.com/blog/'&gt;Chris Messina&lt;/a&gt; &lt;a href='http://flickr.com/photos/factoryjoe/2841257703/'&gt;tagged the Excla.im sign up process as an anty pattern&lt;/a&gt; within his flickr stream. I was bummed because i would have loved to use Oauth to authenticate Excla.im. But because of the tagging, i was constantly thinking about how to remove the anti pattern.&lt;/p&gt;
 
@@ -252,7 +252,7 @@
  <entry>
    <title>Seven Things (goddamn internet friends)</title>
    <link href="http://www.nata2.org/2009/01/11/seven-things-goddamn-internet-friends/"/>
-   <updated>2009-01-11T00:00:00-06:00</updated>
+   <updated>2009-01-11T00:00:00+00:00</updated>
    <id>http://www.nata2.org/2009/01/11/seven-things-goddamn-internet-friends</id>
    <content type="html">&lt;p style='clear: both'&gt;I was tagged by both &lt;a href='http://eliw.wordpress.com/2009/01/05/seven-things/'&gt;Eli White&lt;/a&gt; and &lt;a href='http://flinglog.com/text/seven-things/'&gt;Brian Fling&lt;/a&gt; in this dastardly meme regarding 7 things. I am usually a HUGE fan of all things meme - and kind of regard myself as a &lt;a href='http://fukung.net'&gt;certified&lt;/a&gt; meme expert. However this whole meme that requires a lot of work - I.E. blogging is something entirely different. I think i actually like it, but i am not entirely sure yet ;).&lt;/p&gt;&lt;p style='clear: both'&gt;I do find it hilarious that almost every blog post regarding this seven things starts with a bit of self deprecation and surprise at how this meme stumbled upon innocent them. Well, it did come as a surprise - so I guess i understand.&lt;/p&gt;&lt;p style='clear: both'&gt;Well here it goes. Seven things about me:&lt;/p&gt;&lt;p style='clear: both'&gt;&lt;strong&gt;One:&lt;/strong&gt;&lt;/p&gt;&lt;p style='clear: both'&gt;I grew up without a TV. When I was quite young (~3) my parents got rid of their TV. I am not completely sure why. I imagine it had something to do with money (the lack of) and priorities being making sure my brother and I were clothed and fed. My parents got their first TV after getting rid of the previous one when I was about 21. My parents used to rent a TV for big events (war, olympics, etc) and my brother and I would watch the TV manically until it was returned to the rental place. We also used to rent a TV and VCR about once or twice a year to watch all the movies we could in the time alloted. Those were awesome times. I currently don't have a TV.&lt;/p&gt;&lt;p style='clear: both'&gt;&lt;strong&gt;Two:&lt;/strong&gt;&lt;/p&gt;&lt;p style='clear: both'&gt;I have been paid to YoYo and Juggle in front of a LOT of people. I guess that makes me a professional. Heh. In college my two best buddies (&lt;a href='http://therats.org'&gt;Matiss&lt;/a&gt; and Brian) and myself started a &quot;circus&quot; group. We juggled and did shows for all sorts of things. We opened for &lt;a href='http://en.wikipedia.org/wiki/Incubus_(band)'&gt;Incubus&lt;/a&gt;, &lt;a href='http://en.wikipedia.org/wiki/Sir_Mix_A_Lot'&gt;Sir Mix A Lot&lt;/a&gt;, and a few other boring bands. We protest juggled as a group called Jugglers against homophobia - protesting people like &lt;a href='http://en.wikipedia.org/wiki/Elizabeth_Dole'&gt;Elizabeth Dole&lt;/a&gt; and her homophobic antics. After college I continued to support my friends by juggling on the side. It was a really fun time. I don't juggle as much as i would like, but i still try to make it to conventions and what not. It is a lot of fun.&lt;/p&gt;&lt;p style='clear: both'&gt;&lt;strong&gt;Three:&lt;/strong&gt;&lt;/p&gt;&lt;p style='clear: both'&gt;My first computer was an Apple ][c. My dad got it in some trade. My brother and I would build text games in basic. Shortly after that I got in to BBSs. Mostly we called places like &lt;a href='http://www.totse.com/'&gt;&amp;amp;totse&lt;/a&gt; and downloaded things that would get me in trouble. It was an awesome time. I suggest checking out the &lt;a href='http://www.bbsdocumentary.com/'&gt;BBS Documentary&lt;/a&gt; to get an idea of how awesome it actually was.&lt;/p&gt;&lt;p style='clear: both'&gt;&lt;strong&gt;Four:&lt;/strong&gt;&lt;/p&gt;&lt;p style='clear: both'&gt;I met my lovely wife &lt;a href='http://hiromiusagi.com'&gt;Hiromi&lt;/a&gt; while in college in iowa. We moved to Chicago together in 2001 to live together as roommates. Eventually, it became clear that our relationship was much more than that. We got married in 2006 and happily live in Chicago. She is awesome.&lt;/p&gt;&lt;p style='clear: both'&gt;&lt;strong&gt;Five:&lt;/strong&gt;&lt;/p&gt;&lt;p style='clear: both'&gt;I read a lot. I always have. Growing up without a TV will do that to a person. I read mostly fiction, but will stray to the dark side and read non-fiction every once and awhile. I usually read about an hour before going to bed. It helps calm me down and is a good way for me to get into the sleeping groove. I have recently been into ebooks and use a &lt;a href='http://www.amazon.com/gp/product/B000FI73MA?ie=UTF8&amp;amp;tag=nata2productions&amp;amp;link_code=as3&amp;amp;camp=211189&amp;amp;creative=373489&amp;amp;creativeASIN=B000FI73MA'&gt;Amazon Kindle&lt;/a&gt; to read them. I find that I do miss regularly reading paper books, but the convenience of reading ebooks is awesome. I can't wait until the eInk displays and associated readers are smaller, easier to use and cheaper.&lt;/p&gt;&lt;p style='clear: both'&gt;&lt;strong&gt;Six:&lt;/strong&gt;&lt;/p&gt;&lt;p style='clear: both'&gt;I love David Bowie. It isn't a love that requires posters and discussion or anything. It is kind of similar to how people who grew up catholic talk about religion. David Bowie has just always been there for me. My first record I picked for myself was &lt;a href='http://en.wikipedia.org/wiki/The_Rise_and_Fall_of_Ziggy_Stardust_and_the_Spiders_from_Mars'&gt;Ziggy Stardust&lt;/a&gt;. My first concert was the &lt;a href='http://en.wikipedia.org/wiki/Sound_and_Vision_Tour'&gt;Bowie's Sound + Vision tour&lt;/a&gt;. When I was quite younger, my mom took me to get my hair cut and I brought along my &lt;a href='http://en.wikipedia.org/wiki/Labyrinth_(film)'&gt;Labyrinth&lt;/a&gt; LP to show the stylist that I wanted &lt;a href='http://thefanboys.com/wp-content/uploads/2006/11/david_bowie_labyrinth.jpg'&gt;David Bowie hair&lt;/a&gt;. I ended up with a rat tail.&lt;/p&gt;&lt;p style='clear: both'&gt;&lt;strong&gt;Seven:&lt;/strong&gt;&lt;/p&gt;&lt;p style='clear: both'&gt;Although I always knew I would end up with a Computer Science degree - I fought it as long as I could. In college I studied the history of Catholicism for a couple years before actually jumping into computer science. It was awesome. I ended up concentrating on &lt;a href='http://en.wikipedia.org/wiki/Giordano_Bruno'&gt;Giordano Bruno&lt;/a&gt; and the his (untimely) multi-world theory. It was a lot of fun and lead me to have an unnatural interest in the mechanics of theology.&lt;/p&gt;&lt;ol style='clear: both' /&gt;&lt;p style='clear: both'&gt;&lt;strong&gt;That's it!&lt;/strong&gt;&lt;/p&gt;&lt;p style='clear: both'&gt;To make this official, I now have to tag 7 people to make a Seven Things list on their blog.&lt;/p&gt;&lt;p style='clear: both'&gt;Ready? These Seven People please report to the meme office and make a Seven Things entry on your blog:&lt;/p&gt;&lt;ol style='clear: both'&gt;
 &lt;li&gt;&lt;a href='http://dylanreed.com'&gt;Dylan Reed&lt;/a&gt; - my brother - I like involving him in the blogosphere.&lt;/li&gt;
@@ -276,7 +276,7 @@
  <entry>
    <title>2008 Retrospective</title>
    <link href="http://www.nata2.org/2009/01/04/2008-retrospectiv/"/>
-   <updated>2009-01-04T00:00:00-06:00</updated>
+   <updated>2009-01-04T00:00:00+00:00</updated>
    <id>http://www.nata2.org/2009/01/04/2008-retrospectiv</id>
    <content type="html">&lt;p&gt;2008 was a great year.&lt;/p&gt;
 
@@ -311,7 +311,7 @@
  <entry>
    <title>Happy Holidays</title>
    <link href="http://www.nata2.org/2008/12/26/happy-holidays/"/>
-   <updated>2008-12-26T00:00:00-06:00</updated>
+   <updated>2008-12-26T00:00:00+00:00</updated>
    <id>http://www.nata2.org/2008/12/26/happy-holidays</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/natatwo/3119262443/' title='It&amp;apos;s snowing like crazy. by nata2, on Flickr'&gt;&lt;img class='alignright' src='http://farm4.static.flickr.com/3117/3119262443_bf1b6529b3_m.jpg' height='240' align='right' alt='It&amp;apos;s snowing like crazy.' width='180' /&gt;&lt;/a&gt;
 &lt;p&gt;I have been busy. Threadless just ended its &lt;a href='http://www.threadless.com/news/400348/Tees_from_5_at_Threadless_Annual_Holiday_Sale'&gt;annual holiday sale&lt;/a&gt; (went out with a &lt;a href='http://www.threadless.com/news/406990/And_the_final_gift_is_opened_to_reveal'&gt;bang&lt;/a&gt;). &lt;a href='http://hiromiusagi.com'&gt;Hiromi&lt;/a&gt; and I have been busy getting read for our holiday party with my parents on christmas (today!) and i have been hacking on a bunch of stuff in my spare time. Hiromi made an amazing dinner and we ate it. ;) It was a great time. We missed &lt;a href='http://dylanreed.com'&gt;Dylan&lt;/a&gt; and &lt;a href='http://photodork.org/'&gt;Sarah&lt;/a&gt;, but we will hopefully see them soon.&lt;/p&gt;
@@ -327,7 +327,7 @@
  <entry>
    <title>Release your applications inner API. Please.</title>
    <link href="http://www.nata2.org/2008/10/06/release-your-applications-inner-api-please/"/>
-   <updated>2008-10-06T00:00:00-05:00</updated>
+   <updated>2008-10-06T00:00:00+00:00</updated>
    <id>http://www.nata2.org/2008/10/06/release-your-applications-inner-api-please</id>
    <content type="html">&lt;p&gt;I have recently been involved in talking to a local chicago entity about their unofficial API. It has been fun and deserves a blog entry of its own. However, this is not that blog entry - this blog entry is about mashups and the not so public APIs they often create.&lt;/p&gt;
 
@@ -346,7 +346,7 @@
  <entry>
    <title>Chicago Transit API</title>
    <link href="http://www.nata2.org/2008/10/06/chicago-transit-api/"/>
-   <updated>2008-10-06T00:00:00-05:00</updated>
+   <updated>2008-10-06T00:00:00+00:00</updated>
    <id>http://www.nata2.org/2008/10/06/chicago-transit-api</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/natatwo/264290817/' title='The goddamn damon bus. seriously by nata2, on Flickr'&gt;&lt;img class='alignright' src='http://farm1.static.flickr.com/87/264290817_f5ccf294d0_m.jpg' height='180' align='right' alt='The goddamn damon bus. seriously' width='240' /&gt;&lt;/a&gt;
 &lt;p&gt;The genesis for this API is some work I did awhile ago reverse engineering the &lt;a href='http://ctabustracker.com/bustime/map/displaymap.jsp'&gt;CTA Bus Tracker mashup&lt;/a&gt;. I was able to expose the endpoints that powered their google maps mashup. In its original state - you can get some pretty awesome functionality and data. I am attempting to clean it up and make it more robust.&lt;/p&gt;
@@ -381,39 +381,59 @@
  </entry>
  
  <entry>
-   <title>Speaking at the University of Arizona</title>
-   <link href="http://www.nata2.org/2008/04/05/speaking-at-the-university-of-arizona/"/>
-   <updated>2008-04-05T00:00:00-05:00</updated>
-   <id>http://www.nata2.org/2008/04/05/speaking-at-the-university-of-arizona</id>
-   <content type="html">&lt;a href='http://www.flickr.com/photos/natatwo/2372161865/' title='My name tag + our presentation by nata2, on Flickr'&gt;&lt;img src='http://farm3.static.flickr.com/2010/2372161865_3f20e8892f_m.jpg' height='180' align='right' alt='My name tag + our presentation' width='240' /&gt;&lt;/a&gt;
-&lt;p&gt;The trip was hilarious from the get go. On a Thursday, we flew into Phoenix via SouthWest. That airline is a &lt;a href='http://www.google.com/search?q=southwest+sucks'&gt;clusterfuck&lt;/a&gt;. I am not a fan. However, it is much better when we have &amp;#8220;Business Class&amp;#8221; tickets - which apparently means we get a drink ticket to dull the pain, and get to board a bit earlier than the others. It was a mess of annoying drunk middle aged women on a group trip, children and indignant and entitled business men who thought they were all that. We owned them all. Once we landed, we rented a &lt;a href='http://flickr.com/photos/natatwo/2372164187/'&gt;very stupid car&lt;/a&gt;, and then drove the neat/boring drive to Tucson. Once we got to Tucson, we wrote our presentation (luckily &lt;a href='http://callmejeffrey.com'&gt;Jeffrey&lt;/a&gt; has spent countless hours creating legitimate slides for us slackers to pilfer) and got on our way.&lt;/p&gt;
+   <title>Mini Hi Fi: The Chase</title>
+   <link href="http://www.nata2.org/2008/08/30/mini-hi-fi-the-chase/"/>
+   <updated>2008-08-30T00:00:00+00:00</updated>
+   <id>http://www.nata2.org/2008/08/30/mini-hi-fi-the-chase</id>
+   <content type="html">&lt;a href='http://www.flickr.com/photos/natatwo/2802479942/' title='2008-08-27 00:32:37 -0500 by nata2, on Flickr'&gt;&lt;img class='alignright' src='http://farm4.static.flickr.com/3048/2802479942_2895dcc1d2_m.jpg' height='180' align='right' alt='My System' width='240' /&gt;&lt;/a&gt;
+&lt;p&gt;It all started a couple years ago when the SI Tripath Amp emerged on the market. It was a little amp that was reviewed as being MUCH bigger than its cost or its physical size. It was about 40 bucks at target and reviewed the same as amps costing thousands more. Pretty sweet.&lt;/p&gt;
 
-&lt;p&gt;We had some awesome Mexican Food. Went to a couple hilarious bars, met some cool people, and ended up at a lesbian bar. It was pretty different than our times in chicago. ;) The night life in Tucson, near the college, is full of college kids. Weird. Being around so many young people was invigorating. And annoying. haha. GOD I am so old. OMG.&lt;/p&gt;
+&lt;p&gt;I purchased a couple of these and immediately blew at least 2 of them fucking around, recasing and generally attempting to make them sound better than they sound stock. After giving my final one away to a former coworker of Hiromi&amp;#8217;s - I stopped paying attention to the various blogs and audio reviews of the T Amps.&lt;/p&gt;
 
-&lt;p&gt;The next day we went to the event and spoke. It went over well. We got some good feedback. Like: don&amp;#8217;t swear as much, don&amp;#8217;t put up Obama 2008 slides and practice before we actually do it. I thought that was decent feedback. I think if we did it again the only thing I wouldn&amp;#8217;t change is the Obama slide, and it seem that was the most offensive. Apparently, you are not supposed to be political at all on a college campus. I wonder when this happened? It certainly wasn&amp;#8217;t like this when I was in college. Maybe at a &amp;#8220;conservative&amp;#8221; business school, things are different. Regardless, if I were to speak there again - and the political climate is the same as it is now, I would put the same slide up.&lt;/p&gt;
+&lt;p&gt;Until about 1.5 months ago. heh.&lt;/p&gt;
 
-&lt;p&gt;The other people we spoke with were amazing. Particularly Robert V. Kozinets. This dude is awesome. He has written extensively about &lt;a href='http://kozinets.net/archives/97'&gt;tribes on the internets&lt;/a&gt; and &lt;a href='http://www.burningman.com/whatisburningman/2003/03_news_sum4.html'&gt;burning man&lt;/a&gt;. I imagine that you have read about him before (even if you didn&amp;#8217;t notice). We ended up hanging out with him quite a bit. Another person who uses words I have never heard to describe things that we do everyday. I am particularly interested in his work on Burning Man. I guess I will have to read it.&lt;/p&gt;
+&lt;p&gt;I read an article about &lt;a href='http://www.hackaday.com/2008/07/27/build-your-own-speakers/'&gt;building speakers on hackaday&lt;/a&gt;. It lead me to another article about building your own &lt;a href='http://www.hackaday.com/2005/05/26/cat-5-speaker-cables/'&gt;speaker hi-end cables&lt;/a&gt;. Which lead me to an article about &lt;a href='http://www.tnt-audio.com/clinica/t-amp_tweaks_e.html'&gt;reboxing a SI T-Amp&lt;/a&gt;. Full circle.&lt;/p&gt;
 
-&lt;p&gt;After all the festivities of the event were over, we chilled on the streets of Tucson, and eventually met up some of the staff of the Eller College of Management for dinner. The dinner was great, but even more great was meeting &lt;a href='http://www.drsidneyjlevy.com/'&gt;Sidney Levy&lt;/a&gt;. Sidney is apparently one of the people who &lt;a href='http://books.google.com/books?hl=en&amp;amp;id=IB95hkJczk4C&amp;amp;dq=sidney+levy&amp;amp;printsec=frontcover&amp;amp;source=web&amp;amp;ots=fRR2Nkl7id&amp;amp;sig=7XQtrnSG0b-MaKDq1g4xXxbBDsQ#PPP1,M1'&gt;developed the world of brand marketing&lt;/a&gt;. He was billed as the father of symbolic marketing. This is serious business. However, he was very much not serious business. He was awesome. Charlie and I hung out with him for about an hour, just talking about life, love and all things that occur between. Sidney was quite funny and had a lot to tell us. I am going to attempt to help him get his gullibility project going. Excitement.&lt;/p&gt;
+&lt;p&gt;The T-Amp article lead me to start reading &lt;a href='http://diyaudio.com/'&gt;diyaudio.com&lt;/a&gt; for about 2 weeks straight. It was madness. I stopped programming, stopped hacking stuff and just started building out a new HiFi system in my head.&lt;/p&gt;
 
-&lt;p&gt;Speaking is pretty awesome. I learned a lot from talking to the people around us. It was awesome to hang out with young people who are excited about something that I am not excited about. Inspiring and hope giving. I hope that Charlie and I get to do it again. Hopefully in Hawaii, or maybe Guam, or possibly some other paradisiacal place.&lt;/p&gt;</content>
+&lt;p&gt;I read a bunch of reviews about amps, speakers, and all sorts of random topics - until i found this awesome &lt;a href='http://6moons.com/audioreviews/trends/ta10.html'&gt;6moons review&lt;/a&gt; of the &lt;a href='http://www.trendsaudio.com/EN/Product/TA-10_desc.htm'&gt;Trends Audio TA-10.1&lt;/a&gt;. The thing that was interesting about this review is that the &lt;a href='http://6moons.com/audioreviews/trends/ta10_3.html'&gt;3rd page&lt;/a&gt; of the review mentioned some Klipsch speakers that i happen to own and have in my living room. The review mentioned how awesome the TA 10.1 was when matched with the Klipsch speakers, especially in a &lt;a href='http://www.canuckaudiomart.com/forum/viewtopic.php?t=7335'&gt;horizontal bi-amping&lt;/a&gt; configuration.&lt;/p&gt;
+
+&lt;p&gt;So I went ahead and picked up two of them from &lt;a href='http://www.audio-magus.com/'&gt;Audio Magus&lt;/a&gt; to bi-amp my klipsch monsters. I also picked up a &lt;a href='http://www.phonopreamps.com/tc754pp.html'&gt;CHEAP preamp&lt;/a&gt; from &lt;a href='http://www.phonopreamps.com/'&gt;phonopreamps.com&lt;/a&gt;. In total i spent about $325 and picked up 2 amps and 1 preamp.&lt;/p&gt;
+
+&lt;p&gt;After they arrived, i was able to hook everything up and after a bit of burn in really hear how awesome it actually is. I am very happy with the results. I am not going to talk about soundstage or anything like that - just that it sounds awesome.&lt;/p&gt;
+
+&lt;p&gt;Since I am bi-amping my speakers - I went ahead and set both amps as poweramps (by a jumper inside the amp) and am using the preamp as the volume control. This works very well. My only gripe is that there is no remote, but that is a future addition.&lt;/p&gt;
+
+&lt;p&gt;For audio sources, i have an airport express, my turntable and a poor CD player.&lt;/p&gt;
+
+&lt;p&gt;The future of this system is exciting.&lt;/p&gt;
+
+&lt;p&gt;I am planning on getting a solid preamp. Probably a &lt;a href='http://www.dared.gr/display.php?lang=EN&amp;amp;model=SL-2000A'&gt;Dared SL 2000A&lt;/a&gt;. It seems that adding a tube preamp to my &amp;#8220;digital&amp;#8221; amp setup could offer some warmth to the system. It also has a remote for volume control. The only downside is that it only has 2 channels for input - which means that I will have to figure out one source to get rid of (turntable most likely).&lt;/p&gt;
+
+&lt;p&gt;The next thing I would like to add is a couple DACs to do the D/A conversion for my Airport Express and my CD transport. I am looking at the &lt;a href='http://www.audio-magus.com/Super_Pro_DAC707SE_USB_p/dac707usb.htm'&gt;Super Pro DAC707SE&lt;/a&gt;. It is cheap, well reviewed and has USB support if I choose to add the DAC to one of my computers as a source. Having a DAC should make my Airport Express experience better when listening to lossless audio files. It will also make the shitty CD player sound a lot better. Ultimately, I would like to get a better cd player - which leads me to my next plan.&lt;/p&gt;
+
+&lt;p&gt;The CD transport is world is pretty nuts. It seems that every single transport available is in the thousands, and that there isn&amp;#8217;t any really a DIY CD transport option that is accessible. There is one compelling option for DIY - the Shigaclone. It is a direct clone of the &lt;a href='http://www.sakurasystems.com/products/shigacd.html'&gt;Shigaraki Transport&lt;/a&gt;, however the insides are from a JVC boombox (&lt;span class='nf'&gt;&lt;a href='http://www.amazon.com/JVC-RC-EZ31-Portable-Boombox-Cassette/dp/B000FD2AG4'&gt;JVC RC-EZ31&lt;/a&gt;)&lt;/span&gt;. The &lt;a href='http://www.diyaudio.com/forums/showthread.php?threadid=120229'&gt;details are at diyaudio&lt;/a&gt;. Unlike the other clones out there, the Shigaclone seems to be VERY hands on and just a bit past my skill level. I am waiting for a dedicated howto that explains all the various parts of the shigaclone and how I can make one without reading 1800 forum posts. In the meantime, i will have to find an alternative.&lt;/p&gt;
+
+&lt;p&gt;The alternative I have thus far is a 1994 NEC Multispin CDR-401G external CD-ROM. It has play/pause/forward/back buttons and has a digital coax out. It apparently sounds terrible, however once it is hooked to a DAC, it works wonderfully. It is VERY hard to find.&lt;/p&gt;
+
+&lt;p&gt;So for a CD transport, unless i want to spend a million bucks, I have two choices. Build a clone or buy a vintage CDROM.&lt;/p&gt;
+
+&lt;p&gt;I decided that the part of this i liked the best is the chase. I am very happy that I have a good sound system, but I am MORE excited about attempting to find the best system for cheap. Its a GREAT game.&lt;/p&gt;
+
+&lt;p&gt;I just need to make sure that i don&amp;#8217;t fall for the tricks. I don&amp;#8217;t want to spend ANY money on cables, nor money on speaker wire. &lt;a href='http://www.engadget.com/2008/03/03/audiophiles-cant-tell-the-difference-between-monster-cable-and/4'&gt;Metal is metal.&lt;/a&gt;&lt;/p&gt;</content>
 
 
 
  </entry>
  
  <entry>
-   <title>Social XMPP</title>
-   <link href="http://www.nata2.org/2008/03/25/social-xmpp/"/>
-   <updated>2008-03-25T00:00:00-05:00</updated>
-   <id>http://www.nata2.org/2008/03/25/social-xmpp</id>
-   <content type="html">&lt;p&gt;Last week my friend &lt;a href='http://mark.atwood.name'&gt;Mark&lt;/a&gt; pinged me and mentioned that I should get together with a friend of his who was in town for PYCON. I am always into meeting new people so I had dinner with &lt;a href='http://dorseys.org/'&gt;Brian Dorsey&lt;/a&gt;. It was awesome. I was able to rant and rave about all my ideas, interests and whatnot with new and possibly interested. Brian immediately suggested that he introduce me to a friend of his who he thought I would enjoy talking to. So I was introduced to &lt;a href='http://anders.conbere.org/journal/'&gt;Anders Conbere&lt;/a&gt;. The reason Brian thought we should meet was that we both incessantly talk about XMPP.&lt;/p&gt;
+   <title>oh yea. i have a blog</title>
+   <link href="http://www.nata2.org/2008/07/13/oh-yea-i-have-a-blog/"/>
+   <updated>2008-07-13T00:00:00+00:00</updated>
+   <id>http://www.nata2.org/2008/07/13/oh-yea-i-have-a-blog</id>
+   <content type="html">&lt;p&gt;Apparently for the last month or two, I totally forgot that i have a blog. Instead of blogging, i have been hanging out with Hiromi, using twitter,traveling, programming and building things. I didn&amp;#8217;t have time to include blogging into that mix.&lt;/p&gt;
 
-&lt;p&gt;Anders and I talked for a couple hours Friday, and found that we had a lot of similar ideas and thoughts about XMPP and its place in the world of social software, communities and data. Anders explained that we weren&amp;#8217;t the only crazies who thought that XMPP should be used for more than instant messaging. He mentioned that &lt;a href='http://stpeter.im/'&gt;some&lt;/a&gt; &lt;a href='http://romeda.org/'&gt;cool&lt;/a&gt; &lt;a href='http://www.hackdiary.com/'&gt;kids&lt;/a&gt; were also looking into the relationship of XMPP and social software. As Anders was dashing out the door to his flight, we decided that we needed to create or at least foster the growth of a mailing list to collect people.&lt;/p&gt;
-
-&lt;p&gt;Earlier today, Anders introduced me to &lt;a href='http://stpeter.im/'&gt;Peter Saint-Andre&lt;/a&gt; who is the Executive Director of the XMPP Standards Foundation. We chatted a bit and then came to the conclusion that there needed to be a place for people to talk about their ideas, uses, experiences and what not. And thus &lt;a href='mailto:social@xmpp.org'&gt;social@xmpp.org&lt;/a&gt; was &lt;a href='https://stpeter.im/?p=2177'&gt;born as the go to mailing list to discuss these topics&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I have a lot of ideas and hopefully with the help of this group, I can flush them out and really tackle them. I am pretty excited about it.&lt;/p&gt;</content>
+&lt;p&gt;I have a theory, that when my twitter usage goes up, my blogging goes down (I am not &lt;a href='http://www.problogger.net/archives/2008/07/12/does-twitter-distract-from-or-inspire-your-blogging/'&gt;alone in this&lt;/a&gt;). I am a bit annoyed by this. My twitter posts don&amp;#8217;t have as much reach as my blog posts. My interaction with people on twitter is much higher than on my blog. I am so conflicted. haha. Luckily, i think i can do both without sacraficing (much) one or the other.I think i will have to just make my posting smaller and more frequent (like a tumble log - but bigger) and make sure that i don&amp;#8217;t spend myself entirely on twitter.&lt;/p&gt;</content>
 
 
 
