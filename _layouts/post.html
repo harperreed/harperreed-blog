@@ -1,39 +1,47 @@
 ---
 layout: default
 ---
+<!-- post -->
 <div class="Post" style="padding-bottom: 50px;">
-    <div class="PostHead">
-        <h1 class="title"><a title="Permanent Link to {{ page.title }}." href="{{page.url}}" rel="bookmark">{{ page.title }}</a></h1>
-        <p class="PostDate">
-            <strong class="day">{{page.date | date: "%d"}}</strong>
-            <strong class="month">{{page.date | date: "%b"}}</strong>
-        </p>
-        <p class="PostInfo">Written by <a href="/about">harper</a> on {{page.date | date: "%b %d %Y"}}</p
-    </div>
-    <div class="PostContent">
-        {{ content }}
-        <div class="RelatedPosts"> 
-            <h3>Related Posts</h3> 
-            <ul>
-                {% for post in site.related_posts limit:5 %}
-                <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-                {% endfor %}
-            </ul>
-        </div> 
-
-
-        <div id="disqus_thread"></div>
-        <script type="text/javascript">
-            var disqus_identifier= '{{ post.id}}';
-            var disqus_developer = 1;
-          (function() {
-           var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-           dsq.src = 'http://nata2.disqus.com/embed.js';
-           (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-          })();
-        </script>
-        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript=nata2">comments powered by Disqus.</a></noscript>
-
-     </div>
+<!--posthead -->
+<div class="PostHead">
+<h1 class="title"><a title="Permanent Link to {{ page.title }}." href="{{page.url}}" rel="bookmark">{{ page.title }}</a></h1>
+<p class="PostDate">
+<strong class="day">{{page.date | date: "%d"}}</strong>
+<strong class="month">{{page.date | date: "%b"}}</strong>
+</p>
+<p class="PostInfo">Written by <a href="/about">harper</a> on {{page.date | date: "%b %d %Y at %X"}}</p>
 </div>
-
+<!--end posthead -->
+<!-- post content -->
+<div class="PostContent">
+<!-- content -->
+{{ content }}
+<!-- end content -->
+<!-- related posts -->
+<div class="RelatedPosts"> 
+<h3>Related Posts</h3> 
+<ul>
+{% for post in site.related_posts limit:5 %}
+<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
+</div> 
+<!-- end related posts -->
+<!-- discuss -->
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+var disqus_identifier= '{{ post.id}}';
+var disqus_developer = 1;
+(function() {
+var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+dsq.src = 'http://nata2.disqus.com/embed.js';
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript=nata2">comments powered by Disqus.</a></noscript>
+<!-- end discuss -->
+</div>
+ <!-- end post content -->
+</div>
+<!-- end post -->
