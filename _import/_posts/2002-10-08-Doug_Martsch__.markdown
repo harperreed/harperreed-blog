@@ -3,6 +3,7 @@ wordpress_id: 373
 layout: post
 title: Doug Martsch..
 excerpt: Someday I will make it so I can link back to previous articles. If that day were today.. I would link back to the article from over a year ago about how I love built to spill and I really enjoy them in concert. But since it isn't today I won't link to that specific article.. instead I will tell you. I really like built to spill and I really enjoy them in concert.. or more appropriatly I really ...
+date: 2002-10-08 14:53:45 -05:00
 tags: war, bush
 wordpress_url: http://new.nata2.org/?p=373
 ---

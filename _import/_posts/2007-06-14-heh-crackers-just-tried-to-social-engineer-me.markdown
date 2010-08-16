@@ -2,6 +2,7 @@
 wordpress_id: 1458
 layout: post
 title: heh. Crackers just tried to social engineer me
+date: 2007-06-14 03:05:59 -05:00
 tags: technology, technology, scary, hilarious, social-engineering, crackers, amazing
 wordpress_url: http://www.nata2.org/2007/06/13/heh-crackers-just-tried-to-social-engineer-me/
 ---

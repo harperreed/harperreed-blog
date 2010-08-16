@@ -5,6 +5,7 @@ title: fifteen inch imac
 excerpt: |-
   so yesterday at work we watched the movie startup.com. it was pretty good. a quite sad story really. it made me want to be involved in a startup again. haha. I say agan like I was involved in one during the .com wars. I am a liar. I wasn't. in fact I don't even have arms.
   ...
+date: 2004-06-13 02:56:22 -05:00
 tags: phone, cell, war, crobar, india, nokia
 wordpress_url: http://new.nata2.org/?p=882
 ---

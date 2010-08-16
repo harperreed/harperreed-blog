@@ -2,6 +2,7 @@
 wordpress_id: 1441
 layout: post
 title: Which laptop should I get
+date: 2007-05-06 01:06:05 -05:00
 tags: technology, technology, linux, osx, apple, macbook, t60, lenovo, purchase, development, desktop-development, mac, ubuntu, laptops
 wordpress_url: http://www.nata2.org/2007/05/06/which-laptop-should-i-get/
 ---

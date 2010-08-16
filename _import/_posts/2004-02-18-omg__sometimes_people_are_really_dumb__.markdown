@@ -3,6 +3,7 @@ wordpress_id: 756
 layout: post
 title: omg. sometimes people are really dumb..
 excerpt: So.. a friend of mine messaged me and was rather freaked out by the fact that a online celebrity RPG was stalking her. heh. I did a bit of research and I noticed that the entire kill hannah group is enveloped in this stupid internet false world. hehe. weird...
+date: 2004-02-18 19:53:39 -06:00
 tags: php, internet, search, insane, juggling, music, girls, philosophy, kungfu, hiromi
 wordpress_url: http://new.nata2.org/?p=756
 ---

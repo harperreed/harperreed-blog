@@ -3,6 +3,7 @@ wordpress_id: 498
 layout: post
 title: so tired.
 excerpt: So dyaln flew into town on friday morning. We hung out at my work for a bit and then we went to lunch. Dylan then went to my apartment and hung out with matiss and took a nap. I cam e home and it was off to the juggling fest. Whee. as you might or might not know, stevenson juggling festival was this weekend. It is a juggle fest at a northern suburban high school it is a huge highschool.. veyr lar...
+date: 2003-04-28 02:30:14 -05:00
 tags: juggle, dylan, video, school, insane, birthday, movies, juggling, matiss
 wordpress_url: http://new.nata2.org/?p=498
 ---

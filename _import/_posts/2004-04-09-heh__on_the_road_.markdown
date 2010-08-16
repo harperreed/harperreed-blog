@@ -7,6 +7,7 @@ excerpt: |-
   
   
   The drive is fun. I forgot how bogan indiana is. It reminds how fun the indy 500 is. Haha. I gotta find me some race fans. Flourescent colored shirts and all. Hah.maybe I will drive ...
+date: 2004-04-09 03:05:23 -05:00
 tags: dylan, reed, server, food, india
 wordpress_url: http://new.nata2.org/?p=811
 ---

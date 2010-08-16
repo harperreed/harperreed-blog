@@ -2,6 +2,7 @@
 wordpress_id: 1063
 layout: post
 title: "whale. big. boat. little. "
+date: 2005-05-18 16:56:44 -05:00
 tags: general, sick, ella, claudia, bbq, picture
 wordpress_url: http://www.nata2.org/2005/05/18/1063/
 ---

@@ -3,6 +3,7 @@ wordpress_id: 745
 layout: post
 title: i think i am allergic to my shirt.
 excerpt: my shirt is causing my neck to turn red. usually this isn't a good thing. but today it is awesome. !!! i got up so early today. it is weird to be up so damn early. nobody is out and around - but somehow I still managed to come to work barely by nine. I don't quite understand how this works. I leave my house anywhere from 8-8:30ish and get here everyday at nine. it is insane. I hate getting...
+date: 2004-02-04 18:16:10 -06:00
 tags: php, insane, juggling, music, matiss
 wordpress_url: http://new.nata2.org/?p=745
 ---

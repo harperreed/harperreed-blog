@@ -3,6 +3,7 @@ wordpress_id: 780
 layout: post
 title: ghosts
 excerpt: i got my new phone. it is quite something. I am unable to post pictures with it yet.. I don't know why. but I imagine soon. I just have to experiment. heh. experiment. yesterday I hleped scott with a surprise party after he closed on his house and asked his girlfriend beth to marry him. weird. it was pretty fun. I had too much sushi and too much alcohol and ended up going to bed around twelve - ...
+date: 2004-03-20 19:48:08 -06:00
 tags: phone, cell, girlfriend, birthday, experiment, sushi
 wordpress_url: http://new.nata2.org/?p=780
 ---

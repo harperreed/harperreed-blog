@@ -3,6 +3,7 @@ wordpress_id: 210
 layout: post
 title: Happy Valentines day everyone
 excerpt: "Today, I was almost hit by a car. I mean real close. It wasn't my fault either. I was just walking in the cross walk and this taxi tried to hit me. I didn't flinch at all. Which in retrospect I think is quite wierd. the car just slammed on its brakes and I kept walking and didn't think anything wierd was going on. heh. whatever.Today is such a wierd day. "
+date: 2002-02-14 11:02:40 -06:00
 tags: nerd, girlfriend
 wordpress_url: http://new.nata2.org/?p=210
 ---

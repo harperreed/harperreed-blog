@@ -2,6 +2,7 @@
 wordpress_id: 1026
 layout: post
 title: Day two try 1 billion
+date: 2005-03-23 14:46:50 -06:00
 tags: general, php, blogs, wordpress, content, management, trackbacks, xml, xslt, mvc, smarty
 wordpress_url: http://www.nata2.org/2005/03/23/day-two-try-1-billion/
 ---

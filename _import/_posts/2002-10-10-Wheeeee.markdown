@@ -12,6 +12,7 @@ excerpt: |-
   cynthesizer (2:22:08 PM): I know.
   linuxKILLa (2:22:16 PM): what exactly does that mean
   cynthesizer (2:22:50 PM...
+date: 2002-10-10 19:23:16 -05:00
 tags: war, linux, iraq, screensaver
 wordpress_url: http://new.nata2.org/?p=374
 ---

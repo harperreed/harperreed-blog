@@ -2,6 +2,7 @@
 wordpress_id: 1258
 layout: post
 title: May 1st Immigration Rally/Parade
+date: 2006-05-04 03:08:47 -05:00
 tags: general, chicago, rights, protest, immigration, rally, hr4437, 1mayhuelga
 wordpress_url: http://www.nata2.org/2006/05/04/may-1st-immigration-rallyparade/
 ---

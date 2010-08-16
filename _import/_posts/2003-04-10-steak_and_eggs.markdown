@@ -3,6 +3,7 @@ wordpress_id: 485
 layout: post
 title: steak and eggs
 excerpt: whoa. I hope nothing like that ever happens to me. that would not be as fun. I would be said. especially if we were juggling and I caught a knife with my eye or something. we would probably have to stop the performance. I am sad.. iron maiden is touring in europe. I only hope that they swing by chicago.. :( hopefully.. my dream...
+date: 2003-04-10 14:45:10 -05:00
 tags: chicago, war, insane, juggling
 wordpress_url: http://new.nata2.org/?p=485
 ---

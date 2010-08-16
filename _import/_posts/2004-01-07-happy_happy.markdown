@@ -3,6 +3,7 @@ wordpress_id: 717
 layout: post
 title: happy happy
 excerpt: today is good. I went to bed somewhat early last night(1am) and I got a lot of sleep. I of course had strange sleep dreams and somehow ended up tieingmy self in my blankets but that is totally normal. Last night brad, erica, matiss and myself all hung out and talked. it was fun. well the subject matter left a little to be desired.. but it wasn't hte fault of the participants. we then played 16 t...
+date: 2004-01-07 15:47:35 -06:00
 tags: php, insane, coding, matiss
 wordpress_url: http://new.nata2.org/?p=717
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 1164
 layout: post
 title: Community &amp; Digital Rights
+date: 2002-11-01 12:11:20 -06:00
 tags: general, community, awesome, drm, digital, rights
 wordpress_url: http://www.nata2.org/2002/11/01/community-digital-rights/
 ---

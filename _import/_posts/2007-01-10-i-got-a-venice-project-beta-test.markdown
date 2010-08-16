@@ -2,6 +2,7 @@
 wordpress_id: 1404
 layout: post
 title: I got a Venice Project beta test
+date: 2007-01-10 11:39:20 -06:00
 tags: technology, social, technology, projects, interesting, television, web-20, beta, p2p, venice-project
 wordpress_url: http://www.nata2.org/2007/01/10/i-got-a-venice-project-beta-test/
 ---

@@ -3,6 +3,7 @@ wordpress_id: 204
 layout: post
 title: wierd
 excerpt: Hey check this out. I am so mad. I worked for hours to make my web site XHTML compliant and then goddamn links break it always... If anyone knows how to make links like that XHTML compliant.. please let me kno...
+date: 2002-02-06 16:13:37 -06:00
 tags: xhtml
 wordpress_url: http://new.nata2.org/?p=204
 ---

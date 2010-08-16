@@ -2,6 +2,7 @@
 wordpress_id: 1447
 layout: post
 title: My thoughts on the OLPC.
+date: 2007-05-27 12:07:43 -05:00
 tags: technology, technology, linux, disruptive, compelling-technology, digital-divide, sugar, vmware, children, laptoporg, olpc
 wordpress_url: http://www.nata2.org/2007/05/27/the-olpc-and-the-fascination-it-creates/
 ---

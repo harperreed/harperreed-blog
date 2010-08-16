@@ -3,6 +3,7 @@ wordpress_id: 916
 layout: post
 title: cool shoes..
 excerpt: "i got new shoes. I am excited. I also posted some new pictures. they are awesome. first I posted pictures of my cousin showing his steer off. it was pretty cool. he got "
+date: 2004-08-13 19:27:50 -05:00
 tags: birthday
 wordpress_url: http://new.nata2.org/?p=916
 ---

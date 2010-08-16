@@ -2,6 +2,7 @@
 wordpress_id: 1323
 layout: post
 title: "oh yea. "
+date: 2006-08-15 04:54:41 -05:00
 tags: general, hosting, rackspace, movies, work, news
 wordpress_url: http://www.nata2.org/2006/08/15/oh-yea/
 ---

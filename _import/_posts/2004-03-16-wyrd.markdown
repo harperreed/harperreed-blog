@@ -3,6 +3,7 @@ wordpress_id: 778
 layout: post
 title: wyrd
 excerpt: umm. soo.. yea.. umm.. uhh.. I am like.. uhh.. this weekend was great. we had a fun time. it was wonderful to have jon visit. we hadn't really hung out in recent times and we were able to spend some real quality time chillin. it is interestig to see how wwe each our growing up and going our separate ways. this combined with the blog wars ...
+date: 2004-03-16 20:08:13 -06:00
 tags: books, social, php, blogs, internet, war, insane, birthday, bush, watership, robots, humor, iraq, hiromi, messaging
 wordpress_url: http://new.nata2.org/?p=778
 ---

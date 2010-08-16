@@ -3,6 +3,7 @@ wordpress_id: 543
 layout: post
 title: links.. links.. links.. i am tired
 excerpt: "i am so sleepy. so here are some links for yall. First I have an interesting article about Russell's Paradox. and then the related article about how SUVs are not really safe. which of course leads us to the "
+date: 2003-06-17 19:49:27 -05:00
 tags: job, humor, business, matiss
 wordpress_url: http://new.nata2.org/?p=543
 ---

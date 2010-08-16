@@ -3,6 +3,7 @@ wordpress_id: 327
 layout: post
 title: outkast.. the roots..
 excerpt: "Last night, Kinnera, matiss and myself all went to the smoking grooves tour. It was ok. the tweeter center sux0rs. It has such bad acoustics. horrible. sounds like hell. I got better acoustics in my leg.  We saw the outkast, the roots, Lauryn Hill and "
+date: 2002-07-25 15:44:13 -05:00
 tags: kinnera, search, war, matiss, cars
 wordpress_url: http://new.nata2.org/?p=327
 ---

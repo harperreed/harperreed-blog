@@ -2,6 +2,7 @@
 wordpress_id: 1363
 layout: post
 title: Finally. I am back in the real world
+date: 2006-10-10 17:18:16 -05:00
 tags: general, skinnycorp, work, update
 wordpress_url: http://www.nata2.org/2006/10/10/finally-i-am-back-in-the-real-world/
 ---

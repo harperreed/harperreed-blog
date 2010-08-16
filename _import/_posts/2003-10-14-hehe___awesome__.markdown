@@ -3,6 +3,7 @@ wordpress_id: 642
 layout: post
 title: hehe. .awesome..
 excerpt: The other day a friend lent me one of the CKY videos. I watched it.. and laughed.. and whatever.. so I thought today that I should do a little searching about cky and all related info. so I came accross bam's page. I was browsing it.. and came accross the inte...
+date: 2003-10-14 17:28:41 -05:00
 tags: dylan, php, search, sites, video, rock, fashion, source, kstar, cripple, smash, kungfu, google
 wordpress_url: http://new.nata2.org/?p=642
 ---

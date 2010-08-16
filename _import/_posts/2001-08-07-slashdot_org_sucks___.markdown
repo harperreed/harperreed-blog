@@ -3,6 +3,7 @@ wordpress_id: 24
 layout: post
 title: slashdot.org sucks...
 excerpt: So somehow, a site that I host got slashdotted on monday. It was crazy, I was working on the site around 5:30. I left work and went home, arriving around 6:00. My audrey said that she couldn't connect to my mail server around 6:10. So i am ...
+date: 2001-08-07 21:34:38 -05:00
 tags: server, hacking, audreyhacking, audrey
 wordpress_url: http://new.nata2.org/?p=24
 ---

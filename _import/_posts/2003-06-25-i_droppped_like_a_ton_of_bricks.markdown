@@ -3,6 +3,7 @@ wordpress_id: 553
 layout: post
 title: i droppped like a ton of bricks
 excerpt: "so my \"wake up early\" high has left and the tiredness has worn through. doh. Religion is a must for these poor folks. But I know the secret handshake - so I am "
+date: 2003-06-25 16:09:08 -05:00
 tags: blood, chris, religion
 wordpress_url: http://new.nata2.org/?p=553
 ---

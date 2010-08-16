@@ -2,6 +2,7 @@
 wordpress_id: 1046
 layout: post
 title: "one thousandth post. "
+date: 2005-04-15 10:00:42 -05:00
 tags: general, dylan, blogs, ella, google, one, thousandth, post, resume, jon, riottech
 wordpress_url: http://www.nata2.org/2005/04/13/one-thousandth-post/
 ---

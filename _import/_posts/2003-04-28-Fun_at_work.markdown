@@ -3,6 +3,7 @@ wordpress_id: 499
 layout: post
 title: Fun at work
 excerpt: Today work is fun. well sorta. we got smoe good stuff done. but now I am ready to go home. Some friends and coworkers sent me some good links. Noel sent this gayness test in.. I am apparently 46% gay. wow surprise there huh ;) one of my coworkers sent this "Starship Dimensions" site to me. It is rathe...
+date: 2003-04-28 21:25:58 -05:00
 tags: video, rock
 wordpress_url: http://new.nata2.org/?p=499
 ---

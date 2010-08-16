@@ -3,6 +3,7 @@ wordpress_id: 502
 layout: post
 title: Yo Yo YO
 excerpt: So hiromi is curating an art show that opens tonight. check it out:Plastic FantasticMay 2-18, 2003Opening Reception May 2, 7:00-10:00 p.m1926 Exhibition Studies Space1926 North Halsted, Chicago, il 60614Did you guys know that yesterday was Loyalty Day
+date: 2003-05-02 16:27:18 -05:00
 tags: php, chicago, college, music, hiromi
 wordpress_url: http://new.nata2.org/?p=502
 ---

@@ -7,6 +7,7 @@ excerpt: |
   stupid pictures... 
   
 
+date: 2003-08-07 20:43:59 -05:00
 tags: friendster
 wordpress_url: http://new.nata2.org/?p=594
 ---

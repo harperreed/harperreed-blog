@@ -3,6 +3,7 @@ wordpress_id: 353
 layout: post
 title: Addition
 excerpt: Check out me.. build one for yourself... I found some chicago based design kids. It is neat to see the internet that I know and love suddenly appear in a physical for...
+date: 2002-09-12 16:15:19 -05:00
 tags: chicago, internet, rock, mom, music, design
 wordpress_url: http://new.nata2.org/?p=353
 ---

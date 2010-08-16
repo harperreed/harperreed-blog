@@ -2,6 +2,7 @@
 wordpress_id: 1393
 layout: post
 title: Twapp - a quick hack to update and view twitter
+date: 2006-12-07 20:40:00 -06:00
 tags: technology, technology
 wordpress_url: http://www.nata2.org/2006/12/07/twapp-a-quick-hack-to-update-and-view-twitter/
 ---

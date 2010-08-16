@@ -3,6 +3,7 @@ wordpress_id: 202
 layout: post
 title: Lots of pictures and a crazy face
 excerpt: I posted lots and lots of pictures today. About 50mb of pictures. hehe. Check em out here, here and here. Oh check me
+date: 2002-02-04 22:51:38 -06:00
 tags: fashion, juggling, health
 wordpress_url: http://new.nata2.org/?p=202
 ---

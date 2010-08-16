@@ -2,6 +2,7 @@
 wordpress_id: 1394
 layout: post
 title: Watching Lost.
+date: 2006-12-10 23:34:37 -06:00
 tags: general, television, lost, entertainment, addiction
 wordpress_url: http://www.nata2.org/2006/12/10/watching-lost/
 ---

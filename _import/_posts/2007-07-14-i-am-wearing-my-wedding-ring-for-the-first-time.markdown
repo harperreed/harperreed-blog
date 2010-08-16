@@ -2,6 +2,7 @@
 wordpress_id: 1465
 layout: post
 title: I am wearing my wedding ring for the first time.
+date: 2007-07-14 01:20:36 -05:00
 tags: general, marriage, wedding
 wordpress_url: http://www.nata2.org/2007/07/14/i-am-wearing-my-wedding-ring-for-the-first-time/
 ---

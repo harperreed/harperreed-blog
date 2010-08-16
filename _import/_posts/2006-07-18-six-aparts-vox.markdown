@@ -2,6 +2,7 @@
 wordpress_id: 1308
 layout: post
 title: "Six Apart's Vox - nice work.. good aggregation... but i don't want another blog. "
+date: 2006-07-18 03:57:50 -05:00
 tags: technology, technology
 wordpress_url: http://www.nata2.org/2006/07/18/six-aparts-vox/
 ---

@@ -3,6 +3,7 @@ wordpress_id: 894
 layout: post
 title: i drove my bike all around.
 excerpt: last night I got home from work. went to the mega mall and got my yoyo case. it rules. so insane. haha. I will take a picture. matiss got a cell phone. haha. ;) i rode my bike a bunch yesterday. apparently around 15 miles. I haven't rode a bike in years. it was interesting to find myself getting back in to the hang of it. I can now ride for a long time with no hands. it is pr...
+date: 2004-06-30 16:08:47 -05:00
 tags: juggle, dylan, phone, cell, war, fear, crobar, insane, chris, juggling, matiss, nyc
 wordpress_url: http://new.nata2.org/?p=894
 ---

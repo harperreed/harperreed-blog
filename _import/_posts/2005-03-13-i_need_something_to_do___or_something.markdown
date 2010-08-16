@@ -3,6 +3,7 @@ wordpress_id: 1005
 layout: post
 title: i need something to do.. or something
 excerpt: so I was trying to learn how use cookies in csharp and I noticed that I always needed a cookie displayer - not one that shows what cookies are residing on the client - ut one that shows the cookies the page is sending to the client. so anyway. so I made one. it is called cookie destroyer:check it out here
+date: 2005-03-13 21:07:16 -06:00
 tags: general, fashion, design, csharp, cookies, skull
 wordpress_url: http://new.nata2.org/?p=1005
 ---

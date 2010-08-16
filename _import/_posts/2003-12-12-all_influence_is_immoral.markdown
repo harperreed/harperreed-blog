@@ -3,6 +3,7 @@ wordpress_id: 696
 layout: post
 title: all influence is immoral
 excerpt: I am watching wonder boys right now. it is so good. three movies I really enjoy are pirates of the caribbeans, wonder boys and o brother, where art thou. those movies are so good. I love them. heh. I LOVE johnny depp. heh. so good. I wish I could...
+date: 2003-12-12 09:09:54 -06:00
 tags: phone, movies, mom
 wordpress_url: http://new.nata2.org/?p=696
 ---

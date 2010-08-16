@@ -2,6 +2,7 @@
 wordpress_id: 1367
 layout: post
 title: A fun Ghostbusters easter egg in FireFox/Mozilla
+date: 2006-10-15 17:25:16 -05:00
 tags: general, fun, firefox, mozilla, easter-eggs, opensource, ghostbusters
 wordpress_url: http://www.nata2.org/2006/10/15/a-fun-ghostbusters-reference-in-firefoxmozilla/
 ---

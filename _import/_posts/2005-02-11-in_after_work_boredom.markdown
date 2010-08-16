@@ -7,6 +7,7 @@ excerpt: |
   awesomenessok
   sleep time. well at home. that is. peace ;)
 
+date: 2005-02-11 20:22:33 -06:00
 tags: watership
 wordpress_url: http://new.nata2.org/?p=992
 ---

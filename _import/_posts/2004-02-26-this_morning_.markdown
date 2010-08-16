@@ -3,6 +3,7 @@ wordpress_id: 762
 layout: post
 title: this morning.
 excerpt: I woke up and attempted my hardest to not make it to work. however, much to my chagrin, I now find myself at work. on the way in - I listened to midnight oil's diesel and dust. I have been listening to music from my past lately. it is pretty fun. yesterday I purchased a bunch of crosby and nash and then a b...
+date: 2004-02-26 15:56:26 -06:00
 tags: war, food, movies, music, broox, apple
 wordpress_url: http://new.nata2.org/?p=762
 ---

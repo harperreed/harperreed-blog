@@ -2,6 +2,7 @@
 wordpress_id: 1152
 layout: post
 title: "wow. flickr. work. umm... holidays. etc. "
+date: 2005-12-03 19:39:47 -06:00
 tags: general, books, crobar, politics, travel, holidays, awesome, party
 wordpress_url: http://www.nata2.org/2005/12/03/wow-flickr-work-umm-holidays-etc/
 ---

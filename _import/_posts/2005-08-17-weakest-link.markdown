@@ -2,6 +2,7 @@
 wordpress_id: 1113
 layout: post
 title: Weakest link
+date: 2005-08-17 00:29:53 -05:00
 tags: general, humor, projects, awesome
 wordpress_url: http://www.nata2.org/2005/08/17/weakest-link/
 ---

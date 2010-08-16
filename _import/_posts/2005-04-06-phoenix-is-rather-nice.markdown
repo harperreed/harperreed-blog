@@ -2,6 +2,7 @@
 wordpress_id: 1039
 layout: post
 title: phoenix is rather nice
+date: 2005-04-06 12:42:13 -05:00
 tags: general, travel, awesome, work, phoenix, insanity
 wordpress_url: http://www.nata2.org/2005/04/06/phoenix-is-rather-nice/
 ---

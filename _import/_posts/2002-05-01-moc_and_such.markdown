@@ -3,6 +3,7 @@ wordpress_id: 271
 layout: post
 title: moc and such
 excerpt: "I have a strange hobby where I look at people peronal home pages. I really enjoy reading peoples blogs and learning all sorts of interesting things about them. heh. it is a strange voyeuristic hobby I guess, however it passes the time. I used to look primarily at slashdot comments. But lately I have been playing on moc, I recently "
+date: 2002-05-01 15:27:51 -05:00
 tags: juggle, greeley, chicago, blogs, search, women, war, sick, juggling, design, games, girls, porn
 wordpress_url: http://new.nata2.org/?p=271
 ---

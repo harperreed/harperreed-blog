@@ -2,6 +2,7 @@
 wordpress_id: 1032
 layout: post
 title: cecil. word
+date: 2005-03-28 11:10:52 -06:00
 tags: general, blogs, college, movies, humor, awesome
 wordpress_url: http://www.nata2.org/2005/03/28/cecil-word-2/
 ---

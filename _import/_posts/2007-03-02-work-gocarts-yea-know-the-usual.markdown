@@ -2,6 +2,7 @@
 wordpress_id: 1414
 layout: post
 title: Work gocarts. yea know. the usual.
+date: 2007-03-02 17:18:53 -06:00
 tags: general
 wordpress_url: http://www.nata2.org/2007/03/02/work-gocarts-yea-know-the-usual/
 ---

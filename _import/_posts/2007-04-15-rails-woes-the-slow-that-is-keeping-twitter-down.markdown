@@ -2,6 +2,7 @@
 wordpress_id: 1433
 layout: post
 title: Rails woes. The slow that is keeping twitter down.
+date: 2007-04-15 23:50:17 -05:00
 tags: technology, technology
 wordpress_url: http://www.nata2.org/2007/04/15/rails-woes-the-slow-that-is-keeping-twitter-down/
 ---

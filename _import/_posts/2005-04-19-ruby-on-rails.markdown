@@ -2,6 +2,7 @@
 wordpress_id: 1047
 layout: post
 title: ruby on rails
+date: 2005-04-19 23:35:58 -05:00
 tags: general, domains, dylan, php, blogs, community, ruby, rails, alliedmovements, stigmata
 wordpress_url: http://www.nata2.org/2005/04/19/ruby-on-rails/
 ---

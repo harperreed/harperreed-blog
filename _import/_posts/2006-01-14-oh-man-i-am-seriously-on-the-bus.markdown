@@ -2,6 +2,7 @@
 wordpress_id: 1159
 layout: post
 title: "oh man. i am seriously on the bus. "
+date: 2006-01-14 02:13:00 -06:00
 tags: general, technology, phone, mobile, awesome, bus
 wordpress_url: http://www.nata2.org/2006/01/14/oh-man-i-am-seriously-on-the-bus/
 ---

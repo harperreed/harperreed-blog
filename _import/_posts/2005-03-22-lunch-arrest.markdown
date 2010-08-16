@@ -2,6 +2,7 @@
 wordpress_id: 1022
 layout: post
 title: lunch arrest
+date: 2005-03-22 13:16:47 -06:00
 tags: general, crime, lunch
 wordpress_url: http://www.nata2.org/2005/03/22/lunch-arrest/
 ---

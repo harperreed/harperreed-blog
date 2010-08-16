@@ -3,6 +3,7 @@ wordpress_id: 773
 layout: post
 title: nobody must know my secret...
 excerpt: so today I got home from work and took a nap UNTIL 9:50pm. wtf. from 5:20 to 9:50. that is a long nap. that is a nights sleep for some people. those peole being me. seriously. I have to control this. heh. morgan called at like 7:30 and was like.. "hey why don't you meet me at my work at 9:30." I was late. haha. I slept through a 9:30pm appointment. hahah. seriously. so anywy. tonight w...
+date: 2004-03-11 07:44:15 -06:00
 tags: food
 wordpress_url: http://new.nata2.org/?p=773
 ---

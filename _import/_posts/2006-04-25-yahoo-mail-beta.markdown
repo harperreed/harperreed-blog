@@ -2,6 +2,7 @@
 wordpress_id: 1253
 layout: post
 title: Yahoo mail beta
+date: 2006-04-25 01:21:01 -05:00
 tags: technology, mail, yahoo, beta
 wordpress_url: http://www.nata2.org/2006/04/25/yahoo-mail-beta/
 ---

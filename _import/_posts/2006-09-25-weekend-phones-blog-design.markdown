@@ -2,6 +2,7 @@
 wordpress_id: 1353
 layout: post
 title: Weekend. Phones. blog design.
+date: 2006-09-25 00:52:32 -05:00
 tags: general, books, chicago, sites, fun, weekend, reading, nightlife, soundbar, dune, tornado
 wordpress_url: http://www.nata2.org/2006/09/25/weekend-phones-blog-design/
 ---

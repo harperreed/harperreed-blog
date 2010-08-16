@@ -3,6 +3,7 @@ wordpress_id: 512
 layout: post
 title: Weekend Smeekend
 excerpt: So the weekend is over.. well almost. tonight I think we are going to see the matrix. I am rather excited. whee. matrix. On friday I went out with my friend katie to see the faint. We left rather quickly.. the faint sucked it up.. haha. not really.. but I didn't really enjoy them as much as I had in the past.. so I was done with it rather quickly.. heh. Then last night we went to an underwear pa...
+date: 2003-05-18 16:43:17 -05:00
 tags: phone, ipod
 wordpress_url: http://new.nata2.org/?p=512
 ---

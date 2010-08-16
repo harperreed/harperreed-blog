@@ -2,6 +2,7 @@
 wordpress_id: 1430
 layout: post
 title: "Haxoring the Chumby: My first thoughts"
+date: 2007-04-10 22:41:58 -05:00
 tags: technology, technology, hacking, audrey, linux, chumby, hardware, python, flash, widget
 wordpress_url: http://www.nata2.org/2007/04/10/first-thoughts-on-the-chumby/
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 1331
 layout: post
 title: today has been a lazy and rainy day.
+date: 2006-09-01 02:36:34 -05:00
 tags: general, hiromi, lazy, chilling, rain
 wordpress_url: http://www.nata2.org/2006/09/01/today-has-been-a-lazy-and-rainy-day/
 ---

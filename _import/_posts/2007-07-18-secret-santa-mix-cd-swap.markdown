@@ -2,6 +2,7 @@
 wordpress_id: 1467
 layout: post
 title: Secret Santa Mix CD Swap
+date: 2007-07-18 18:22:57 -05:00
 tags: general, threadless, music, fun, secret-santa, mixtape, mixcd
 wordpress_url: http://www.nata2.org/2007/07/18/secret-santa-mix-cd-swap/
 ---

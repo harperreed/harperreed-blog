@@ -2,6 +2,7 @@
 wordpress_id: 1426
 layout: post
 title: Sad Google day.
+date: 2007-03-28 14:20:54 -05:00
 tags: technology, technology, google, sad, seo
 wordpress_url: http://www.nata2.org/2007/03/28/sad-google-day/
 ---

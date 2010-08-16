@@ -3,6 +3,7 @@ wordpress_id: 837
 layout: post
 title: my oh my
 excerpt: tonight was good. I hung out with morgan a bunch. it was pretty weird. honestly. very strange. but it was also great. it is pretty strange - cuz we didn't break up with an absolute reason. it just didn't work out. so. are feelings are pretty much intact. just 3.5 weeks detatched. so yea. it was relaly great to see her and hang out. she hasn't changed in the couple weeks. no missing arms. haha....
+date: 2004-05-03 06:24:06 -05:00
 tags: phone, internet, food, india, phones
 wordpress_url: http://new.nata2.org/?p=837
 ---

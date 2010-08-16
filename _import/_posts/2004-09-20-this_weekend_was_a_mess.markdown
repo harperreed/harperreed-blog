@@ -3,6 +3,7 @@ wordpress_id: 939
 layout: post
 title: this weekend was a mess
 excerpt: "probably more later. seriously. to describe the nonsense would be impossible. it was rough. I made it. barely. much much much much more later. I promise. for now: pictures - pictures - "
+date: 2004-09-20 07:00:45 -05:00
 tags: phone, rock, nokia
 wordpress_url: http://new.nata2.org/?p=939
 ---

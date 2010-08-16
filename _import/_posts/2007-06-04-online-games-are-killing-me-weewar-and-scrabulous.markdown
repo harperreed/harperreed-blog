@@ -2,6 +2,7 @@
 wordpress_id: 1449
 layout: post
 title: "Online games are killing me: weewar and scrabulous"
+date: 2007-06-04 20:49:41 -05:00
 tags: general, fun, online, games, scrabulous, scrabble, weewar, weewarcom
 wordpress_url: http://www.nata2.org/2007/06/04/online-games-are-killing-me-weewar-and-scrabulous/
 ---

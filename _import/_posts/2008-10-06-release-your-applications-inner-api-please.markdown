@@ -2,6 +2,7 @@
 wordpress_id: 1567
 layout: post
 title: Release your applications inner API. Please.
+date: 2008-10-06 00:54:53 -05:00
 tags: general, internet, javascript, api, web-20
 wordpress_url: http://www.nata2.org/?p=1567
 ---

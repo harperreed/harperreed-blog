@@ -2,6 +2,7 @@
 wordpress_id: 1389
 layout: post
 title: stuff.harperreed.org. Last nights web-dev itch
+date: 2006-11-24 20:30:41 -06:00
 tags: technology, technology
 wordpress_url: http://www.nata2.org/2006/11/24/stuffharperreedorg-last-nights-web-dev-itch/
 ---

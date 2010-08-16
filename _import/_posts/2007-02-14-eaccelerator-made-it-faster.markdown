@@ -2,6 +2,7 @@
 wordpress_id: 1409
 layout: post
 title: eAccelerator made it faster!
+date: 2007-02-14 13:44:57 -06:00
 tags: technology, technology
 wordpress_url: http://www.nata2.org/2007/02/14/eaccelerator-made-it-faster/
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 1476
 layout: post
 title: "My new fascination: Sachs Madass"
+date: 2007-09-05 00:54:54 -05:00
 tags: general, motorcycle, madass, sachs, moped
 wordpress_url: http://www.nata2.org/2007/09/05/my-new-fascination-sachs-madass/
 ---

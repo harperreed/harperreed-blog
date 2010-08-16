@@ -3,6 +3,7 @@ wordpress_id: 705
 layout: post
 title: happy xmas and such
 excerpt: So we had a great xmas. I am glad to be back but I was really happy to be able to spend christmas with my family. my cat had a hole in it. it was gross. but apparently it is getting filled in or has gotten filled in. it was ...
+date: 2003-12-27 22:51:14 -06:00
 tags: dylan, family, chris, christmas, holidays, xmas
 wordpress_url: http://new.nata2.org/?p=705
 ---

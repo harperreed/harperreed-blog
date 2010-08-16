@@ -2,6 +2,7 @@
 wordpress_id: 1350
 layout: post
 title: Goddamn fancy phones
+date: 2006-09-24 00:45:28 -05:00
 tags: general, phones, nokia, sad, sim-card, toasted, puk, pin
 wordpress_url: http://www.nata2.org/2006/09/24/goddamn-fancy-phones/
 ---

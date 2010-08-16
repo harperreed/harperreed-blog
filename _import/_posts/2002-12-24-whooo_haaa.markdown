@@ -3,6 +3,7 @@ wordpress_id: 420
 layout: post
 title: whooo haaa
 excerpt: "Just in time for christmas: N. korea threatens to \"destroy the earth..\" Boy I am excited.. this destruction to go along with the horrific terror attacks on the US - that the government has been promising for months.. anyday now.. and once ag..."
+date: 2002-12-24 09:10:19 -06:00
 tags: colorado, chris, christmas
 wordpress_url: http://new.nata2.org/?p=420
 ---

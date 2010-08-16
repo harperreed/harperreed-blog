@@ -2,6 +2,7 @@
 wordpress_id: 1257
 layout: post
 title: I made a google calendar shared calendar of juggling festivals
+date: 2006-05-04 02:36:02 -05:00
 tags: general
 wordpress_url: http://www.nata2.org/2006/05/04/i-made-a-google-calendar-shared-calendar-of-juggling-festivals/
 ---

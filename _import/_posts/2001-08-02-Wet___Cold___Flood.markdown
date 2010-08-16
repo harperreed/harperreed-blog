@@ -3,6 +3,7 @@ wordpress_id: 23
 layout: post
 title: Wet.. Cold.. Flood
 excerpt: Remember that TMBG album.. well it happened to chicago today. It was crazy. I was awoke at 7:50 by my X10 lights reacting to thunder and lightning(maybe static electricity?) and then i looked outside and noticed... apocalypse!!! So i got dressed, started my chi...
+date: 2001-08-02 21:38:50 -05:00
 tags: friends, chicago
 wordpress_url: http://new.nata2.org/?p=23
 ---

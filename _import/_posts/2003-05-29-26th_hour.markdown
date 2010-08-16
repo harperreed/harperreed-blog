@@ -3,6 +3,7 @@ wordpress_id: 524
 layout: post
 title: 26th hour
 excerpt: Last night I was possibly supposed to hang out with this friend/aquaintence. it didn't happen so I went to lula and ate dinner with my laptop. I was able to get a bunch of work done, eat a really incredible meal(salmon with rubarb and parschnips.. heh.) and get desert and all that. Since I was all by myself at the resturant I was sitting up at the front bar area, so when another person came by t...
+date: 2003-05-29 14:39:07 -05:00
 tags: women, war, insane, laptop
 wordpress_url: http://new.nata2.org/?p=524
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 1325
 layout: post
 title: I thought you guys should watch this.
+date: 2006-08-17 16:12:11 -05:00
 tags: general, music, mos-def, hip-hop, chappelles-show
 wordpress_url: http://www.nata2.org/2006/08/17/i-thought-you-guys-should-watch-this/
 ---

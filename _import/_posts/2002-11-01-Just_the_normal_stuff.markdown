@@ -3,6 +3,7 @@ wordpress_id: 388
 layout: post
 title: Just the normal stuff
 excerpt: So isreal has decided that war with iraq is no longer imminent. That seems like a good thing.. And of course celebrities can all rejoice.. The democrats made a sequal to their nice granny cartoo...
+date: 2002-11-01 16:50:14 -06:00
 tags: social, war, security, iraq
 wordpress_url: http://new.nata2.org/?p=388
 ---

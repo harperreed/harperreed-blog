@@ -3,6 +3,7 @@ wordpress_id: 732
 layout: post
 title: apparently i am teh r0x0r
 excerpt: well maybe not quite that extreme - but a bunch of cool/fun things happened today. first I was attacked on a juggling b board about my rattail - so I defended... a bit unsuccessfully - but I tried. then I am going to be helping with a secret project. which is going to rule. last night I yoyoed a bunch ...
+date: 2004-01-22 21:19:36 -06:00
 tags: kinnera, rock, juggling, nyc
 wordpress_url: http://new.nata2.org/?p=732
 ---

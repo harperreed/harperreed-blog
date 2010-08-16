@@ -2,6 +2,7 @@
 wordpress_id: 1246
 layout: post
 title: Mobile
+date: 2006-04-11 13:52:33 -05:00
 tags: general
 wordpress_url: http://www.nata2.org/mobile/
 ---

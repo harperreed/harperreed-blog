@@ -3,6 +3,7 @@ wordpress_id: 248
 layout: post
 title: earlier today
 excerpt: "this morning whilst I was in the shower, I got to thinking about how anoying our media and its relationship with the government is. In one particular example: the whole enron thing. It seems that when clinton ran into some women problems, he was crucified - however when bush, cheney and the like get involved in a complicated financial scam the ..."
+date: 2002-04-04 16:00:09 -06:00
 tags: women, bush
 wordpress_url: http://new.nata2.org/?p=248
 ---

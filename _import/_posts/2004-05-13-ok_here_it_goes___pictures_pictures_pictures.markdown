@@ -4,6 +4,7 @@ layout: post
 title: "ok here it goes:: pictures pictures pictures"
 excerpt: "so I finally put the pictures up and here is the \"annotated\" guide to my photos. there are a bunch that I didn't include. check them out here. I am not done. so I will be adding or modifying this entry soon. haha. word. \r\n\
   so on sunday we drove from delhi to agra. on the way I saw a "
+date: 2004-05-13 10:30:46 -05:00
 tags: technology, insane, india
 wordpress_url: http://new.nata2.org/?p=859
 ---

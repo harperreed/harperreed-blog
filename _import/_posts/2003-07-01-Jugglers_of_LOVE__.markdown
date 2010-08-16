@@ -3,6 +3,7 @@ wordpress_id: 557
 layout: post
 title: Jugglers of LOVE..
 excerpt: so for the past week or so I have been arrivign at work a lot earlier than I have in the past 2 years. I usaually arrive on time or about 15-30 minutes before 9. it is insane. cuz by 10, I am already like.. dang.. I have been here a long time. heh. whatever. .. so anyway. this morning. I arrived at work and lost my ability to use punctuation.. what the fuck. hehe. anyway. I really just arrived at...
+date: 2003-07-01 15:01:17 -05:00
 tags: juggle, insane, matiss
 wordpress_url: http://new.nata2.org/?p=557
 ---

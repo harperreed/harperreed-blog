@@ -2,6 +2,7 @@
 wordpress_id: 1298
 layout: post
 title: holy damn tired. Juggling for Pride. intonation
+date: 2006-06-26 03:01:29 -05:00
 tags: general, juggling, fun, weekend, tired, intonation, tommie-sunshine
 wordpress_url: http://www.nata2.org/2006/06/26/holy-damn-tired-juggling-for-pride-intonation/
 ---

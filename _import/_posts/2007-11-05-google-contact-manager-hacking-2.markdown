@@ -2,6 +2,7 @@
 wordpress_id: 1489
 layout: post
 title: Google Contact Manager Hacking
+date: 2007-11-05 16:10:03 -06:00
 tags: general, hacking, google, gmail, xml, javascript, ajax, contacts, isync, contact-manager
 wordpress_url: http://www.nata2.org/2007/11/05/google-contact-manager-hacking-2/
 ---

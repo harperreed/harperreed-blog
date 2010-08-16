@@ -3,6 +3,7 @@ wordpress_id: 688
 layout: post
 title: T610 Themes...
 excerpt: So I made a bunch of themes last nigth waiting for my laundry to get done. you can find them here. This phone is fun and dope ;)here are some posts about my themes.so I get home at 5:30 - tired. annoying.. wanting somethign fun to happen. I ga...
+date: 2003-12-04 06:57:50 -06:00
 tags: php, phone, kungfu
 wordpress_url: http://new.nata2.org/?p=688
 ---

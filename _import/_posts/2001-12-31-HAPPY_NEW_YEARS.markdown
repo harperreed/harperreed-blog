@@ -5,6 +5,7 @@ title: HAPPY NEW YEARS
 excerpt: |-
   Everyone have a safe and fun new years eve/ new years. Hopefully not everything is full/closed or dumb.. 
   well peace and hopefully we won't see nuclear war soon. speaking of  which.. my new years resolution is to not press the shiny red button :). Also.. I fixed harperreed.org/media/ so now the pictures wor...
+date: 2001-12-31 14:32:03 -06:00
 tags: books, harper, reed, war
 wordpress_url: http://new.nata2.org/?p=158
 ---

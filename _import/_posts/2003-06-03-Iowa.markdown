@@ -11,6 +11,7 @@ excerpt: |-
   phunktoad (9:38:30 AM): stop wasting my falafel
   linuxKILLa (9:38:34 AM): sorry
   linuxKILLa (9:38:41...
+date: 2003-06-03 14:42:28 -05:00
 tags: metal, music, linux, matiss, ipod, ella, mobile
 wordpress_url: http://new.nata2.org/?p=529
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 1356
 layout: post
 title: Some quick youtube hackings
+date: 2006-10-02 01:22:51 -05:00
 tags: technology, php, code, api, youtube, classes
 wordpress_url: http://www.nata2.org/2006/10/02/some-quick-youtube-hackings/
 ---

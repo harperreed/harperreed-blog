@@ -2,6 +2,7 @@
 wordpress_id: 1468
 layout: post
 title: Harry Potter 7 was good.
+date: 2007-07-23 01:26:52 -05:00
 tags: general, books, done, harry-potter
 wordpress_url: http://www.nata2.org/2007/07/23/harry-potter-7-was-good/
 ---

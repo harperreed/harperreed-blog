@@ -2,6 +2,7 @@
 wordpress_id: 1058
 layout: post
 title: eep and roll.
+date: 2005-05-12 16:19:32 -05:00
 tags: general, books, social, websites, friendster, networks
 wordpress_url: http://www.nata2.org/2005/05/12/eep-and-roll/
 ---

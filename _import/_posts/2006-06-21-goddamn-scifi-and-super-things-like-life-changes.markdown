@@ -2,6 +2,7 @@
 wordpress_id: 1296
 layout: post
 title: goddamn scifi. and super things... like life changes
+date: 2006-06-21 01:51:52 -05:00
 tags: general, books, site, redesign
 wordpress_url: http://www.nata2.org/2006/06/21/goddamn-scifi-and-super-things-like-life-changes/
 ---

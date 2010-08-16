@@ -7,6 +7,7 @@ excerpt: |-
   
   [14:17] (xygoat) but I will note it. 
   [14:17] (ryan19188) at least say, #ryan1918 had nothing to do with the packeting or somethin...
+date: 2003-10-07 19:28:52 -05:00
 tags: irc
 wordpress_url: http://new.nata2.org/?p=638
 ---

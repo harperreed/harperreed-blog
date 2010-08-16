@@ -3,6 +3,7 @@ wordpress_id: 234
 layout: post
 title: Mr. roboto
 excerpt: "I really want a robot. I always have. I would love to have one of the AIBOs, or any number of iterations. I think, however I really want one of the new sony 'bots. they seem to be real cool and "
+date: 2002-03-19 16:59:14 -06:00
 tags: video
 wordpress_url: http://new.nata2.org/?p=234
 ---

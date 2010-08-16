@@ -2,6 +2,7 @@
 wordpress_id: 1243
 layout: post
 title: "Nokia # Codes"
+date: 2006-04-11 13:22:35 -05:00
 tags: general
 wordpress_url: http://www.nata2.org/phone-stuff/nokia-codes/
 ---

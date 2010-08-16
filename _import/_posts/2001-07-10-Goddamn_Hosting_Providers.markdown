@@ -8,6 +8,7 @@ excerpt: |-
   "well, it had a kernal problem.. it needed a reburn"
   "have you heard of a boot disk?"
   I guess not huh... well damnit.. heh i guess everything is OK. i didn't lose anything special - just 40hrs of fresh php virtual host admin tools, about 30hrs of mysql w...
+date: 2001-07-10 04:23:12 -05:00
 tags: friends
 wordpress_url: http://new.nata2.org/?p=13
 ---

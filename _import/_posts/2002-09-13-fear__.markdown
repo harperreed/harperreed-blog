@@ -3,6 +3,7 @@ wordpress_id: 354
 layout: post
 title: fear..
 excerpt: I have a cynical view on terrorism. I feel that a lot of what we hear and see form the media.. could be government propaganda. I mean it also could be real. you really never know. Today is a good example. Sen. Patrick Leahy is investigating whether west nile virus is p...
+date: 2002-09-13 16:36:57 -05:00
 tags: search, war, terrorism, iraq
 wordpress_url: http://new.nata2.org/?p=354
 ---

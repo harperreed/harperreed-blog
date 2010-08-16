@@ -3,6 +3,7 @@ wordpress_id: 303
 layout: post
 title: K M F D M
 excerpt: heh. I am a dork. so matiss and I went to the KMFDM concert like 1 hour early so we could get good seats. We showed up adn there was a block long line. we pushed and pulled our way through it and got seats right in the center of the stage. We stood and waited through two not very good bands(kidney thieves and 16 volt) and suddenly right before 16 Volt came on - the kids in front of us left. it wa...
+date: 2002-06-27 14:32:57 -05:00
 tags: rock, matiss
 wordpress_url: http://new.nata2.org/?p=303
 ---

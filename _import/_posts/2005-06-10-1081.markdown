@@ -2,6 +2,7 @@
 wordpress_id: 1081
 layout: post
 title: haxoring stuff and rails. and i guess some sleep
+date: 2005-06-10 03:52:15 -05:00
 tags: general, blogs, hacking, rails, posts, sickness, some
 wordpress_url: http://www.nata2.org/2005/06/10/1081/
 ---

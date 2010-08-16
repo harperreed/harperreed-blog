@@ -2,6 +2,7 @@
 wordpress_id: 1493
 layout: post
 title: "Desktop Linux.... "
+date: 2007-11-29 01:15:08 -06:00
 tags: general, linux, osx, ubuntu, unix, desktop-linux
 wordpress_url: http://www.nata2.org/2007/11/29/desktop-linux/
 ---

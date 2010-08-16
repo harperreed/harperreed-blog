@@ -2,6 +2,7 @@
 wordpress_id: 1320
 layout: post
 title: Concert tickets from the past
+date: 2006-08-12 05:21:18 -05:00
 tags: general, concerts, tickets, concert, shows, past, history, personal
 wordpress_url: http://www.nata2.org/2006/08/12/concert-tickets-from-the-past/
 ---

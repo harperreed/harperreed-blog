@@ -2,6 +2,7 @@
 wordpress_id: 1378
 layout: post
 title: Halloween! harperreed.org update. I missed the day.
+date: 2006-10-29 19:23:50 -06:00
 tags: general, chicago, halloween, skinnycorp, harperreedorg, mark-the-knife, costumes, debonair-social-club
 wordpress_url: http://www.nata2.org/2006/10/29/halloween-harperreedorg-update-i-missed-the-day/
 ---

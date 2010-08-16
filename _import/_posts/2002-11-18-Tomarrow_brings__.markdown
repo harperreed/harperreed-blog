@@ -8,6 +8,7 @@ excerpt: "one of three choices:\r\n\
   War!\r\n\
   Nuclear War\r\n\
   Bush's "
+date: 2002-11-18 07:26:02 -06:00
 tags: job, harper, reed, war, bush, corporate, politics, politic, asia, screensaver
 wordpress_url: http://new.nata2.org/?p=402
 ---

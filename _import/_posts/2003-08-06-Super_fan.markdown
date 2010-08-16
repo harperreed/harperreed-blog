@@ -3,6 +3,7 @@ wordpress_id: 591
 layout: post
 title: Super fan
 excerpt: "SO my friend ella finally finished her website. It is pretty good. I like it. I am proud of her. check it out here. it is in chinese. so good luck. today I weird. I am tired. but full of energy. so many friends are visiting and hanging out. it is weird that it is all happening now. but.. yea know.. "
+date: 2003-08-06 20:25:16 -05:00
 tags: ella
 wordpress_url: http://new.nata2.org/?p=591
 ---

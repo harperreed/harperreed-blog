@@ -3,6 +3,7 @@ wordpress_id: 341
 layout: post
 title: the Last night
 excerpt: last night we went to go and see the movie signs. it was wonderful. I liked it. The first time I asw it.. it was at that crazy chimaman theatre in LA. I wish that was pronounced laa. like I live in laa.. heh. too bad. stupid cars. After the movie.. hiromi "dragged" us to a bar.. I say dragged... because we didn't really know anyone.. but I wanted to go anyway. I saw some friends there.. whi...
+date: 2002-08-13 14:55:57 -05:00
 tags: social, internet, cars, hiromi
 wordpress_url: http://new.nata2.org/?p=341
 ---

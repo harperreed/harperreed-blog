@@ -3,6 +3,7 @@ wordpress_id: 255
 layout: post
 title: rocker
 excerpt: so true. I am a rocker..
+date: 2002-04-10 03:28:24 -05:00
 tags: rock
 wordpress_url: http://new.nata2.org/?p=255
 ---

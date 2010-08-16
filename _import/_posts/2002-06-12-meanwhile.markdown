@@ -4,6 +4,7 @@ layout: post
 title: meanwhile
 excerpt: "tonight.. I didn't meant o go out. I went to get my haircut.. and ended up going out with my stylist.. severn and a lot of his friends. we went to some place called inn joy. heh. it was great. I met a lot of friends there and ended up hanging out something fierce. it was a great time. \r\n\
   it looks like my state is gunna "
+date: 2002-06-12 07:14:00 -05:00
 tags: php, colorado, irc, kungfu
 wordpress_url: http://new.nata2.org/?p=294
 ---

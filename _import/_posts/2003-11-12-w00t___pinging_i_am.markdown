@@ -3,6 +3,7 @@ wordpress_id: 675
 layout: post
 title: w00t.. pinging i am
 excerpt: This morning was awesome. I really feel that getting up leisurely at 10:30 is a healthy way to live. last night I attempted to stay up late to help with work stuff. but I onlly made it to about 3:30ish.. I was bummed out. I had planned to stay up late. but I didn't get a chance to take my much needed afternoon nap. I suppose I could have used this opportunity to start doing cocaine ;) hahah. umm...
+date: 2003-11-12 18:53:31 -06:00
 tags: nerd, php, blogs, war, sites, school, health
 wordpress_url: http://new.nata2.org/?p=675
 ---

@@ -3,6 +3,7 @@ wordpress_id: 240
 layout: post
 title: This world is a wierd place..   no really it is..
 excerpt: "So a friend sent me here and then here. Which normally wouldn't be wierd.. but for some reason, it was super sketchy. I am almost done with my taxes.. which is wierd as well. and to top it "
+date: 2002-03-25 19:58:45 -06:00
 tags: rock, movies, kstar, cars
 wordpress_url: http://new.nata2.org/?p=240
 ---

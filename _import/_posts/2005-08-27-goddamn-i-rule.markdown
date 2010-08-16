@@ -2,6 +2,7 @@
 wordpress_id: 1121
 layout: post
 title: "goddamn i rule. "
+date: 2005-08-27 19:40:26 -05:00
 tags: general, awesome, ruling, dork
 wordpress_url: http://www.nata2.org/2005/08/27/goddamn-i-rule/
 ---

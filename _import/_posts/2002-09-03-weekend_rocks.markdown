@@ -3,6 +3,7 @@ wordpress_id: 348
 layout: post
 title: weekend rocks
 excerpt: This weekend I worked. I ended a 14 day streak of working 8 hours or more a day. it was rough. but I finally had a one day vacation. suxor. my projet goes live tomarrow. I am gettign sick. I need caffiene. I need to learn how to spell. I got a new phone.. 3G.. in da house. it is cool. col...
+date: 2002-09-03 14:17:14 -05:00
 tags: nerd, phone, war, sick, bush, source, vacation, iraq, applications
 wordpress_url: http://new.nata2.org/?p=348
 ---

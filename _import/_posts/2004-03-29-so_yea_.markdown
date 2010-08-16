@@ -3,6 +3,7 @@ wordpress_id: 798
 layout: post
 title: so yea.
 excerpt: tonight was nice. we played games. ate some food. hung out. it was nice. I finally got to spend time with all my friends - in a more chill out way. it was nice...
+date: 2004-03-29 08:15:44 -06:00
 tags: phone, food, games, nokia
 wordpress_url: http://new.nata2.org/?p=798
 ---

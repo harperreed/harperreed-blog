@@ -3,6 +3,7 @@ wordpress_id: 614
 layout: post
 title: nyc nyc
 excerpt: So yesterday was nuts. I got up made sure I was packed for nyc and went to work. at work - I was whisked away on a cruise around lake michigan for employee appreciation day. We got free food - expensive drinks and generally had a nice time. I got to meet some of the new young people. I think we are going to start a young person club. it will be pretty dope I think... then at 2:00 or so we left.. ...
+date: 2003-09-06 17:55:59 -05:00
 tags: job, phone, chicago, food, chris, worldbook, matiss, nyc, hiromi, amjad
 wordpress_url: http://new.nata2.org/?p=614
 ---

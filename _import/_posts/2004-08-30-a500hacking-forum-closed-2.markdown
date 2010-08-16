@@ -2,6 +2,7 @@
 wordpress_id: 1194
 layout: post
 title: a500hacking forum closed
+date: 2004-08-30 02:58:25 -05:00
 tags: general, technology, hacking, sites, mobile, web, forums, mine, a500hacking
 wordpress_url: http://www.nata2.org/2004/08/30/a500hacking-forum-closed-2/
 ---

@@ -3,6 +3,7 @@ wordpress_id: 434
 layout: post
 title: man men woman women
 excerpt: "Man - I have been writing this entry for so long. I keep reading this post on fark about exam/test taking stories. Some of them are very funny. I wish I was in college again. so much fun was had. I found this to be humorous. and "
+date: 2003-01-17 21:49:57 -06:00
 tags: php, war, insane, college, humor, taiwan, ella
 wordpress_url: http://new.nata2.org/?p=434
 ---

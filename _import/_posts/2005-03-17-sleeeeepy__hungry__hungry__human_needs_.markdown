@@ -9,6 +9,7 @@ excerpt: |-
   and my eyes are sleepy. and I am hungry. and and andlast night
   we went to the science and industry museum - it was closed. suxor.
   hah.&nbsp; so I think I am going to go tomorrow with h...
+date: 2005-03-17 13:08:15 -06:00
 tags: general, books, war, sites, college, birthday, tools, games, matiss, irc, hiromi, work, museums
 wordpress_url: http://new.nata2.org/?p=1008
 ---

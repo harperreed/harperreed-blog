@@ -2,6 +2,7 @@
 wordpress_id: 1355
 layout: post
 title: Keith Olbermann is pretty awesome.
+date: 2006-10-08 21:36:31 -05:00
 tags: general, bush, politics, annoying, youtube, olbermann, liberal, kieth
 wordpress_url: http://www.nata2.org/2006/10/09/keith-olbermann-is-pretty-awesome/
 ---

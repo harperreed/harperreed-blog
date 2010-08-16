@@ -3,6 +3,7 @@ wordpress_id: 432
 layout: post
 title: A simulation..
 excerpt: A simulation of war with IRAQ. RULE. I have always loved propaganda, but the whitehouse is dumb as rocks when it comes to this stupid wa...
+date: 2003-01-14 23:16:12 -06:00
 tags: war, rock, politics, politic, iraq, ipod
 wordpress_url: http://new.nata2.org/?p=432
 ---

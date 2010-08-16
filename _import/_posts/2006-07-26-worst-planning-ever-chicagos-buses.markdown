@@ -2,6 +2,7 @@
 wordpress_id: 1313
 layout: post
 title: Worst planning ever. Chicago's buses
+date: 2006-07-26 04:30:00 -05:00
 tags: general, chicago, design, cta, public-transportation, planning
 wordpress_url: http://www.nata2.org/2006/07/26/worst-planning-ever-chicagos-buses/
 ---

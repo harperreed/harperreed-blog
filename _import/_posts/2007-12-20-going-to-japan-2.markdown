@@ -2,6 +2,7 @@
 wordpress_id: 1501
 layout: post
 title: Going to Japan!
+date: 2007-12-20 13:00:41 -06:00
 tags: general, travel-japan
 wordpress_url: http://www.nata2.org/2007/12/20/going-to-japan-2/
 ---

@@ -3,6 +3,7 @@ wordpress_id: 908
 layout: post
 title: figured it out
 excerpt: "the past couple days have been real chill. I have listened to front 242 exclusively. it is nice. I am a fan of head hunter. of course. i remembered again how to use multiple irc servers with scrollz:/window new hide[esc 2]/window server irc.whatever.org/join #irule"
+date: 2004-07-28 18:46:27 -05:00
 tags: server, coding, irc, wedding, hiromi, itunes
 wordpress_url: http://new.nata2.org/?p=908
 ---

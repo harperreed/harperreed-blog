@@ -3,6 +3,7 @@ wordpress_id: 249
 layout: post
 title: whew
 excerpt: it was close for awhile. now I feel safe. oh wait.. I mean now...
+date: 2002-04-04 16:08:21 -06:00
 tags: search, war, health, terrorism
 wordpress_url: http://new.nata2.org/?p=249
 ---

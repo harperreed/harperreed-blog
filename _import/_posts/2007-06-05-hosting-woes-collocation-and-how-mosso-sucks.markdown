@@ -2,6 +2,7 @@
 wordpress_id: 1453
 layout: post
 title: Hosting woes. Collocation and how Mosso sucks
+date: 2007-06-05 13:50:53 -05:00
 tags: technology, technology, oarnet, hosting, collocation, rackspace, mosso
 wordpress_url: http://www.nata2.org/2007/06/05/hosting-woes-collocation-and-how-mosso-sucks/
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 1038
 layout: post
 title: ohhh... stuff got insane
+date: 2005-04-03 21:52:04 -05:00
 tags: general, job, travel, sad, javascript, hacks
 wordpress_url: http://www.nata2.org/2005/04/03/ohhh-stuff-got-insane/
 ---

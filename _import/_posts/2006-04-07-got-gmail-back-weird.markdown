@@ -2,6 +2,7 @@
 wordpress_id: 1239
 layout: post
 title: "got gmail back. weird... "
+date: 2006-04-07 12:29:17 -05:00
 tags: general, google, gmail, email
 wordpress_url: http://www.nata2.org/2006/04/07/got-gmail-back-weird/
 ---

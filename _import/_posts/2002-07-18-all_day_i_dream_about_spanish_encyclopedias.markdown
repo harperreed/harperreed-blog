@@ -3,6 +3,7 @@ wordpress_id: 324
 layout: post
 title: all day i dream about spanish encyclopedias
 excerpt: so all day.. everyday.. for the last couple weeks, I have been developing a spanish site for my employer. heh. it rules. and I don't even know spanish.last night we went to puffy ami yumi. it was so much fun. they are veyr sarcastic and humorous. I caught the water bottle they threw at the crowd, but gave it to the women in fron tof me who wanted it so much better. this is the second c...
+date: 2002-07-18 16:10:42 -05:00
 tags: nerd, chicago, women, war, bush, humor, music, business, taiwan
 wordpress_url: http://new.nata2.org/?p=324
 ---

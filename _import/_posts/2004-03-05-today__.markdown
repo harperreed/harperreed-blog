@@ -3,6 +3,7 @@ wordpress_id: 769
 layout: post
 title: today..
 excerpt: so my accupunture last night was cool. it strangely seemed to effect my mood - which I was not quite ready for. I was totally a irrational, tired and emotional mess. haha. but I knew it while it was happening - so I just acted weird a couple times and was mostly quiet. I wonder if it was the actual accupunture that put me into a funk or if it was just the fact that I was tired and the pushing mys...
+date: 2004-03-05 14:25:24 -06:00
 tags: humor
 wordpress_url: http://new.nata2.org/?p=769
 ---

@@ -3,6 +3,7 @@ wordpress_id: 205
 layout: post
 title: a lot has happened
 excerpt: since I last updated this page. On thursday.. I found out that I would be accompanying a bunch of servers to vienna, virginia in an emergency server upgrade. So I went and rented a car, got servers from one colo facility and brought them to virginia. We drove a bundle of hours.. went through indiana, ohio, pennsylvania, maryland, virginia and Washington DC. We ended up staying right across from t...
+date: 2002-02-11 14:30:01 -06:00
 tags: server, insane, india
 wordpress_url: http://new.nata2.org/?p=205
 ---

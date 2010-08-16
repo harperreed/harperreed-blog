@@ -2,6 +2,7 @@
 wordpress_id: 1332
 layout: post
 title: why i love chicago
+date: 2006-09-04 05:14:35 -05:00
 tags: general, chicago, crobar, house-music, techno, arab, soundbar, smartbar, house, banghra
 wordpress_url: http://www.nata2.org/2006/09/04/why-i-love-chicago/
 ---

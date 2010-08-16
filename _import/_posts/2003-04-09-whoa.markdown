@@ -5,6 +5,7 @@ title: whoa
 excerpt: |-
   ever wondered how to make a One Atmosphere Plasmoid? me neither.. but I have wondered what happens when you put a bunch of stuff in to a microwave.. it seems nifty.. i am also going to start playing more scrabble...
   do you want to ...
+date: 2003-04-09 19:00:53 -05:00
 tags: csharp
 wordpress_url: http://new.nata2.org/?p=484
 ---

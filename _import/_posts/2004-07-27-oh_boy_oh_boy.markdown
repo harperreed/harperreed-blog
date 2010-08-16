@@ -3,6 +3,7 @@ wordpress_id: 907
 layout: post
 title: oh boy oh boy
 excerpt: so my computer broke. so I tested all the parts I could and detirmined that it is the power supply. which totally sucks. so I have to get a new one. this woudln't be that big of deal - but my laptop is also down. I somehow broke tcp/ip on it. totally blown. so I am stuck booting knoppix on the laptop and using my desktop keyboard, mouse and monitor with it. it is kinda funny. totally weird. I sh...
+date: 2004-07-27 05:06:50 -05:00
 tags: war, laptop, movies
 wordpress_url: http://new.nata2.org/?p=907
 ---

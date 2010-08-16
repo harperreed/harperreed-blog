@@ -2,6 +2,7 @@
 wordpress_id: 1226
 layout: post
 title: My ambient agent project
+date: 2006-03-01 05:15:41 -06:00
 tags: general, ambientagent
 wordpress_url: http://www.nata2.org/2006/03/01/my-ambient-agent-project/
 ---

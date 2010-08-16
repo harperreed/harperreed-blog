@@ -5,6 +5,7 @@ title: "stupid sick :: jokesareawesome.com"
 excerpt: |-
   i hate being sick. it totally blows. I love black metal. I really don't know how they are related. but I have listened to black metal for the last couple months. and it rules. today was all emporer.
   i got bored of choosign music for my ipod - so I let itunes do it this time. it did a pretty good job. I am proud. anyway. last night I played yoyo and cleaned my room. it was co...
+date: 2004-06-24 20:40:56 -05:00
 tags: job, server, sites, sick, rock, crobar, programming, metal, sex, music, jokes, ipod, yoyoing, itunes, clubbing
 wordpress_url: http://new.nata2.org/?p=891
 ---

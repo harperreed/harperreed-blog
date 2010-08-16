@@ -3,6 +3,7 @@ wordpress_id: 944
 layout: post
 title: I am back. although i never left.
 excerpt: so i accidently broke my webserver. haha. well by accidently i mean i am in the process of moving all my important and not so important sites to my new webserver so in the process i broke it. it sucked. but now it is mostly back to normal. everything is pretty much the same except i am unable to officially do my photolog right now. but i still update the master "
+date: 2004-09-30 01:21:10 -05:00
 tags: books, php, server, sites, laptop, asia, porn, hiromi
 wordpress_url: http://new.nata2.org/?p=944
 ---

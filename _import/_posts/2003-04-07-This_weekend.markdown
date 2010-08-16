@@ -3,6 +3,7 @@ wordpress_id: 479
 layout: post
 title: This weekend
 excerpt: so this weekend was nice. Friday we went to redno and just hung out. the music wasn't thrilling.. but it was entertaining. a bunch of old house and club music.. always entertaining. I think I even heard nelly.. which is funny. I ended up getting a bit drunk do to the long island ice tea that was purchased for me. The best part about the night was the company.. some of my good new friends and som...
+date: 2003-04-07 07:02:51 -05:00
 tags: chicago, war, computers, food, music, irc
 wordpress_url: http://new.nata2.org/?p=479
 ---

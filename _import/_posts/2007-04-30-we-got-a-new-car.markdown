@@ -2,6 +2,7 @@
 wordpress_id: 1439
 layout: post
 title: We got a new car
+date: 2007-04-30 13:59:11 -05:00
 tags: general, work, nissan, car
 wordpress_url: http://www.nata2.org/2007/04/30/we-got-a-new-car/
 ---

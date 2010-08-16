@@ -2,6 +2,7 @@
 wordpress_id: 1135
 layout: post
 title: gravity's rainbow
+date: 2005-10-05 11:13:24 -05:00
 tags: general, books, music, literature, singularity, bus, classical
 wordpress_url: http://www.nata2.org/2005/10/05/gravitys-rainbow/
 ---

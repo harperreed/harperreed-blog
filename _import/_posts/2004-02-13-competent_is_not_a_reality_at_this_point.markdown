@@ -3,6 +3,7 @@ wordpress_id: 752
 layout: post
 title: competent is not a reality at this point
 excerpt: "So I lost reality the other night. I was sittign at work - going live with this product (FINALLY) amd I noticed reality slinking out the door(1, 2, "
+date: 2004-02-13 16:56:05 -06:00
 tags: social, phone, rock, movies, hiromi
 wordpress_url: http://new.nata2.org/?p=752
 ---

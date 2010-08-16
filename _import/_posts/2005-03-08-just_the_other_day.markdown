@@ -9,6 +9,7 @@ excerpt: |-
   together. and then I come back to chicago. everything breaks and BAM it
   becomes 20 degress. wtf. this is not allowed. i am ready for
   summer. I am ready for something exciting. this proj...
+date: 2005-03-08 14:18:01 -06:00
 tags: general, family, colorado, chicago, insane
 wordpress_url: http://new.nata2.org/?p=1002
 ---

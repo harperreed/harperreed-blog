@@ -2,6 +2,7 @@
 wordpress_id: 1514
 layout: post
 title: Social XMPP
+date: 2008-03-25 22:26:16 -05:00
 tags: technology, jabber, awesome, lists, communities, xmpp, social-software
 wordpress_url: http://www.nata2.org/2008/03/25/social-xmpp/
 ---

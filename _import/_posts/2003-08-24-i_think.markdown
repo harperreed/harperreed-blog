@@ -3,6 +3,7 @@ wordpress_id: 604
 layout: post
 title: i think
 excerpt: that the saddest song in the world is Samuel Barber's Adagio for strings. It is used in 'Amelie', 'platoon', 'elephant man' and 'Lorenzo's ...
+date: 2003-08-24 16:17:11 -05:00
 tags: phone, war, music
 wordpress_url: http://new.nata2.org/?p=604
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 1334
 layout: post
 title: Marriage. TOKYO.
+date: 2006-09-13 20:46:05 -05:00
 tags: general, harper, family, marriage, fun, hiromi, travel, life, amazing, japan, tokyo, yamanashi, big
 wordpress_url: http://www.nata2.org/2006/09/13/marriage-tokyo/
 ---

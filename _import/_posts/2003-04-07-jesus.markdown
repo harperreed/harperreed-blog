@@ -10,6 +10,7 @@ excerpt: |-
   -model name : Dual Pentium III (Coppermine)
   New Server
   -bogomips : 4784.26
+date: 2003-04-07 06:56:07 -05:00
 tags: server, linux
 wordpress_url: http://new.nata2.org/?p=478
 ---

@@ -3,6 +3,7 @@ wordpress_id: 789
 layout: post
 title: yo!
 excerpt: this is pretty funny. as is this. I made a bunch of entries today. this is nice.i talked to morgan a couple tiems today on aim. it is kinda weird. with every conversation my feelngs and emotion...
+date: 2004-03-22 20:59:18 -06:00
 tags: sick, girlfriend, aim, nyc
 wordpress_url: http://new.nata2.org/?p=789
 ---

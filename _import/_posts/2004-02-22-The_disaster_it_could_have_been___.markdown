@@ -3,6 +3,7 @@ wordpress_id: 758
 layout: post
 title: The disaster it could have been...
 excerpt: Last night was so dope. We, the J.O.D. juggled at chris holmes' electro shw at te metro. it was sooo much fun. all my friends were there - and it was great to juggle with matt, matiss and brad. so much fun. here are pictures. The show was insane. first we started wit...
+date: 2004-02-22 20:07:42 -06:00
 tags: juggle, jugglers, phone, rock, insane, chris, juggling, matiss, amjad, holmes
 wordpress_url: http://new.nata2.org/?p=758
 ---

@@ -3,6 +3,7 @@ wordpress_id: 412
 layout: post
 title: Whoa
 excerpt: "Last night we watched the first full length movie on my new TV. It was nice.. especially with my new receiver. heh. I really don't know what to do about my old receiver.. but whatever - we watched the new Lord of the Rings: Fellowshi..."
+date: 2002-12-09 16:29:46 -06:00
 tags: juggle, php, chris, christmas, movies, juggling
 wordpress_url: http://new.nata2.org/?p=412
 ---

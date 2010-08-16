@@ -2,6 +2,7 @@
 wordpress_id: 1466
 layout: post
 title: Harry Potter is coming.
+date: 2007-07-16 05:07:06 -05:00
 tags: general, books, harry-potter, reading
 wordpress_url: http://www.nata2.org/2007/07/16/harry-potter-is-coming/
 ---

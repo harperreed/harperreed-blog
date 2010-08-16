@@ -2,6 +2,7 @@
 wordpress_id: 1229
 layout: post
 title: Gumstix, myspace, php and other nerdy stuff.
+date: 2006-03-09 04:24:54 -06:00
 tags: general, technology, nerd, php, hiromi, myspace, gumstix, podcasting, ambientagent
 wordpress_url: http://www.nata2.org/2006/03/09/gumstix-myspace-php-and-other-nerdy-stuff/
 ---

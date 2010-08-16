@@ -47,6 +47,7 @@ module Jekyll
            'excerpt' => post[:post_excerpt].to_s,
            'wordpress_id' => post[:ID],
            'tags' => tags,
+           'date' => date,
            'wordpress_url' => post[:guid]
          }.delete_if { |k,v| v.nil? || v == ''}.to_yaml
 

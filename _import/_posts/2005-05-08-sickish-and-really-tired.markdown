@@ -2,6 +2,7 @@
 wordpress_id: 1053
 layout: post
 title: sickish.. and really tired.  clubbing
+date: 2005-05-08 23:22:27 -05:00
 tags: general, blogs, hiromi, clubbing, wordpress, cole
 wordpress_url: http://www.nata2.org/2005/05/08/sickish-and-really-tired/
 ---

@@ -8,6 +8,7 @@ excerpt: |
   here is the first one
   and here is the secondOh yea... I am bored. maybe I should go home. stupid after work curiosity.
 
+date: 2003-03-07 00:22:50 -06:00
 tags: php
 wordpress_url: http://new.nata2.org/?p=459
 ---

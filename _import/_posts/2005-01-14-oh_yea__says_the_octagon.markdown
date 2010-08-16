@@ -6,6 +6,7 @@ excerpt: |-
   i really like yoyoing. I made up a couple trick. I am calling it harper rolls. haha. I really can't do it yet. soon. then video. then RULING?!
   there is a HUGE juggling convention this weekend. but I am sadly going to have to stay home nad work. it sucks. stupid work. always getting in the way. I am going to punch it. right in the head. PUNCH PUNCH PUNCH. 
   i picked up a surp...
+date: 2005-01-14 15:09:12 -06:00
 tags: harper, phone, video, juggling, business, apple, yoyoing
 wordpress_url: http://new.nata2.org/?p=979
 ---

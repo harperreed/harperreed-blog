@@ -2,6 +2,7 @@
 wordpress_id: 1425
 layout: post
 title: hmm.
+date: 2007-03-28 00:42:45 -05:00
 tags: general, blogging, updates
 wordpress_url: http://www.nata2.org/2007/03/28/hmm-2/
 ---

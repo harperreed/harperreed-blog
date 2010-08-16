@@ -3,6 +3,7 @@ wordpress_id: 764
 layout: post
 title: party
 excerpt: "so my party was fun. I had a good time. it was great fun to see everyone. I was disappointed that some people didn't get a chance to show up. but whatever. I now know who my real friends are. haha. umm jk. or am I ;) we had a huge number of people turn out and we ended up drinking all my beers and wines. it was quite nice. john from "
+date: 2004-02-29 07:30:35 -06:00
 tags: social, phone, food, concerts, worldbook, matiss, hiromi, restaurant, nokia
 wordpress_url: http://new.nata2.org/?p=764
 ---

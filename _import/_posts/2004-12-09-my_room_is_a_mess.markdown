@@ -3,6 +3,7 @@ wordpress_id: 968
 layout: post
 title: my room is a mess
 excerpt: seriously. it is a crazy mess. it just exploded the other day and I haven't had a chance or ...
+date: 2004-12-09 03:26:29 -06:00
 tags: books, phone, vacation, apple, ipod, porn, phones, nokia
 wordpress_url: http://new.nata2.org/?p=968
 ---

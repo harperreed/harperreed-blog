@@ -2,6 +2,7 @@
 wordpress_id: 1368
 layout: post
 title: Relaxing weekend
+date: 2006-10-15 17:46:40 -05:00
 tags: general
 wordpress_url: http://www.nata2.org/2006/10/15/relaxing-weekend/
 ---

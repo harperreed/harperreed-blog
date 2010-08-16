@@ -2,6 +2,7 @@
 wordpress_id: 1101
 layout: post
 title: "nyc. gay porn again. "
+date: 2005-07-31 00:00:37 -05:00
 tags: general, travel, work, yoyo
 wordpress_url: http://www.nata2.org/2005/07/31/nyc-gay-porn-again/
 ---

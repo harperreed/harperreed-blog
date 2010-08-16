@@ -3,6 +3,7 @@ wordpress_id: 510
 layout: post
 title: Valley of Wind
 excerpt: hehe. Yesterday ruled. I got up at around 1:30 or so and called my mom. w00t. then I went to lula with matiss, beck, eleni and silvia. We hung out until around 3:30 and had an incredible meal. I think I had catfish and eggs and then shared a bunch of desert with my friends. so so good. we then went back to my apartment and watched a studio ghibli movie c...
+date: 2003-05-12 15:23:29 -05:00
 tags: mom, matiss
 wordpress_url: http://new.nata2.org/?p=510
 ---

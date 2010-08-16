@@ -3,6 +3,7 @@ wordpress_id: 920
 layout: post
 title: NOTHING is working
 excerpt: "seriously. it is pretty annoying. however I have a totally sweet setup for passing time. unfortunantly I am unable to pass the time - because the stupid tests are not working. "
+date: 2004-08-25 08:39:58 -05:00
 tags: phone, nokia
 wordpress_url: http://new.nata2.org/?p=920
 ---

@@ -7,6 +7,7 @@ excerpt: |
   
   
 
+date: 2000-03-28 04:16:22 -06:00
 tags: friends, school
 wordpress_url: http://new.nata2.org/?p=36
 ---

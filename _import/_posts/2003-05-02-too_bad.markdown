@@ -7,6 +7,7 @@ excerpt: |-
   
   tee hee
   worldbookjason (3:40:47 PM): how the hell d...
+date: 2003-05-02 20:14:40 -05:00
 tags: worldbook, linux
 wordpress_url: http://new.nata2.org/?p=503
 ---

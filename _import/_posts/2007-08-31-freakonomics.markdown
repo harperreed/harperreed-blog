@@ -2,6 +2,7 @@
 wordpress_id: 1472
 layout: post
 title: Freakonomics
+date: 2007-08-31 15:31:01 -05:00
 tags: general, books, interesting, economics, freakonomics
 wordpress_url: http://www.nata2.org/2007/08/31/freakonomics/
 ---

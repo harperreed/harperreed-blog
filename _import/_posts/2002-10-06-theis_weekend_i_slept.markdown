@@ -5,6 +5,7 @@ title: theis weekend i slept
 excerpt: "i made a couple new webpages.. I hung out with some friends.. that is all\r\n\
   actually what I did do is a lot cooler than what I could have done. I was supposed to go dancing.. instead I slept.. that ruled.. I did go out friday night but just to go and hang with a friend.. not \"we be clubbin\" style.. \r\n\
   i did make the chicago reader early warning list look better.. check it out "
+date: 2002-10-06 21:32:07 -05:00
 tags: php, chicago, hacking, war, fear
 wordpress_url: http://new.nata2.org/?p=371
 ---

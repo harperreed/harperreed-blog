@@ -2,6 +2,7 @@
 wordpress_id: 1362
 layout: post
 title: A nice sad video
+date: 2006-10-10 00:22:50 -05:00
 tags: general, video, apple, phones, sad, mythtv, torrentocracy
 wordpress_url: http://www.nata2.org/2006/10/10/a-nice-sad-video/
 ---

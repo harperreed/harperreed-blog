@@ -2,6 +2,7 @@
 wordpress_id: 1638
 layout: post
 title: Leaving Threadless
+date: 2009-10-07 21:52:50 -05:00
 tags: general, rackspace, threadless, future
 wordpress_url: http://www.nata2.org/?p=1638
 ---

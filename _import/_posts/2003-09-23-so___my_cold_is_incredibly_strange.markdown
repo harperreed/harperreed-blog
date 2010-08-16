@@ -3,6 +3,7 @@ wordpress_id: 623
 layout: post
 title: so.. my cold is incredibly strange
 excerpt: today I coked myself up on cold medicine and pain killers and made it to work on time.. did work fine.. maybe a little less conscious.. but for the most part fine. and as soon as I got home I crashed like a drunk driver. I guess that makes since. but now at 1 in the morning I am wired off my head and listening to classic rock. all I want to do is sleep. seriously. nothing else. but no. stupid god...
+date: 2003-09-23 06:09:55 -05:00
 tags: sick, rock, insane, bush, music, politics, politic
 wordpress_url: http://new.nata2.org/?p=623
 ---

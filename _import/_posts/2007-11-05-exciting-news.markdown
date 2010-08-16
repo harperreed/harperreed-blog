@@ -2,6 +2,7 @@
 wordpress_id: 1490
 layout: post
 title: Exciting News!
+date: 2007-11-05 16:35:32 -06:00
 tags: general, threadless, skinnycorp, jobs, employment
 wordpress_url: http://www.nata2.org/2007/11/05/exciting-news/
 ---

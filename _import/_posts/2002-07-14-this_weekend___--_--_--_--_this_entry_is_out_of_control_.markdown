@@ -3,6 +3,7 @@ wordpress_id: 319
 layout: post
 title: this weekend.. -- -- -- -- this entry is out of control.
 excerpt: heh. hah. hoh. Yea. so this weekend was great. it really was. Quite something. On friday, I got up a little late. Not too late. but late enough to feel like a rebel.. and I went to work. I was able to wear jeans.. cuz friday is casual.. hah. so I worked.. and then I got home... and went to a couple art openings..  The one that was memorable was A ...
+date: 2002-07-14 17:34:18 -05:00
 tags: war, birthday, metal, humor, games, irc, cars, hiromi
 wordpress_url: http://new.nata2.org/?p=319
 ---

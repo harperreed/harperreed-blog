@@ -3,6 +3,7 @@ wordpress_id: 787
 layout: post
 title: i feel the need to update this thing.
 excerpt: well. basically I feel right now that when you get down it is pretty easy to look up. I just had a meeting. it was really dumb. I stopped listening months ago. hah. just kidding ;) I stopped listening soemtime in the meeting. and then realized that they were talking about something I needed to listen to . so I attempted to replay what had happaned in my mind. it was hard. however. somehow in the ...
+date: 2004-03-22 17:37:00 -06:00
 tags: chris, coding
 wordpress_url: http://new.nata2.org/?p=787
 ---

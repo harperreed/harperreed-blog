@@ -2,6 +2,7 @@
 wordpress_id: 1104
 layout: post
 title: "damn i am tired. but i scored some speaker equipment. "
+date: 2005-08-03 18:34:09 -05:00
 tags: general, music, electronics, stereo, computer, hot, heat, weather
 wordpress_url: http://www.nata2.org/?p=1104
 ---

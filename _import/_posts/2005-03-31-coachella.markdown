@@ -2,6 +2,7 @@
 wordpress_id: 1036
 layout: post
 title: coachella
+date: 2005-03-31 00:59:02 -06:00
 tags: general, concerts, travel, hope
 wordpress_url: http://www.nata2.org/2005/03/31/coachella/
 ---

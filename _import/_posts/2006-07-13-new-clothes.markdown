@@ -2,6 +2,7 @@
 wordpress_id: 1303
 layout: post
 title: New clothes
+date: 2006-07-13 20:17:41 -05:00
 tags: general, insane, fashion, tokyo, clothing, bape
 wordpress_url: http://www.nata2.org/2006/07/13/new-clothes/
 ---

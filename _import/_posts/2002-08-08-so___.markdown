@@ -3,6 +3,7 @@ wordpress_id: 335
 layout: post
 title: so...
 excerpt: tonight was kinda fun. it is the third night in a stint of going out.. and drinking too much.. not really too much.. but more than I should on a school night. I imagine the weekend will be very nice to have happen. right right.. anyway.. so tonight some friends and myself went to smartbar.. where moby was hanging out. it is funny to hang out with moby. I mean we didn't chill or an...
+date: 2002-08-08 07:09:20 -05:00
 tags: war, school, fashion, aim
 wordpress_url: http://new.nata2.org/?p=335
 ---

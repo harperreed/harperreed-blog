@@ -2,6 +2,7 @@
 wordpress_id: 1035
 layout: post
 title: "man. "
+date: 2005-03-31 00:02:12 -06:00
 tags: general, php, rock, frameworks, cryptic, frustration, photoshop
 wordpress_url: http://www.nata2.org/2005/03/31/man/
 ---

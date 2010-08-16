@@ -3,6 +3,7 @@ wordpress_id: 923
 layout: post
 title: ahh sadness
 excerpt: so my friend from work, lakshmi, is leaving on monday to go back to india. it is kinda sad. she is one of my favorite coworkers. I really didn't realize it was truely happening until I read her entry about work and the disengagement from sait work. apparently I swear. but it is kinda weird to think about. becau...
+date: 2004-08-27 10:01:55 -05:00
 tags: blogs, internet, sites, websites, aim, girls, india
 wordpress_url: http://new.nata2.org/?p=923
 ---

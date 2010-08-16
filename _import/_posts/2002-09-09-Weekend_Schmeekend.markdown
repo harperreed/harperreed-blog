@@ -3,6 +3,7 @@ wordpress_id: 351
 layout: post
 title: Weekend Schmeekend
 excerpt: So this weekend was the weekend of roomate house warming parties. It was fun. On friday I went and saw my friends band.. winnie. heh.. which is both the band and my friends name. They played with some other friends of mine.. Tallulah. heh. what a surprise. but anyway. so then after that I went to a friends house warming party. what a night. a bunch of people got naked and ran around.. mostly danc...
+date: 2002-09-09 05:12:36 -05:00
 tags: juggle, war
 wordpress_url: http://new.nata2.org/?p=351
 ---

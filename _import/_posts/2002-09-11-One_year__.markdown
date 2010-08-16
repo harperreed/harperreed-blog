@@ -3,6 +3,7 @@ wordpress_id: 352
 layout: post
 title: One year..
 excerpt: So one year ago about now I was arriving at work and noticed how everyone was leaving. a friend had woke me up early to tell me about the first plane.. and then the second. it was weird.. I learned about most of this on AIM. So I then went to work. Like I said.. all I remember was all the people streaming out of buildings. I came to my office sat there. noticed th...
+date: 2002-09-11 14:19:16 -05:00
 tags: job, colorado, chicago, war, sites, bush, aim
 wordpress_url: http://new.nata2.org/?p=352
 ---

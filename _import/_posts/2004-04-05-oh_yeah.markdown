@@ -5,6 +5,7 @@ title: oh yeah
 excerpt: |-
   i forgot to post some links: 
   i love misinformation. I think it is one of my favorite things. I often don't liek seinfield - however the superman and seinfield commercials are pretty funny. apparently this d...
+date: 2004-04-05 21:02:40 -05:00
 tags: php, internet, linux
 wordpress_url: http://new.nata2.org/?p=807
 ---

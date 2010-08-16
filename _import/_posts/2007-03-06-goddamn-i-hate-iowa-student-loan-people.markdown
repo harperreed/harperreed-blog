@@ -2,6 +2,7 @@
 wordpress_id: 1416
 layout: post
 title: Goddamn. I hate Iowa Student loan people.
+date: 2007-03-06 21:20:07 -06:00
 tags: general
 wordpress_url: http://www.nata2.org/2007/03/06/goddamn-i-hate-iowa-student-loan-people/
 ---

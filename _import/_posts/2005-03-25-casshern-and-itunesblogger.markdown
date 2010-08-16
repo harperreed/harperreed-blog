@@ -2,6 +2,7 @@
 wordpress_id: 1029
 layout: post
 title: casshern and itunesblogger
+date: 2005-03-25 12:14:47 -06:00
 tags: general, sites, movies, hong, kong, itunes, itunesblogger, kung, fu
 wordpress_url: http://www.nata2.org/2005/03/25/casshern-and-itunesblogger/
 ---

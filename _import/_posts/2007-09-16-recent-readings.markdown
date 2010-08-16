@@ -2,6 +2,7 @@
 wordpress_id: 1478
 layout: post
 title: Recent readings. All the books in the past few weeks
+date: 2007-09-16 19:55:01 -05:00
 tags: general, books, reading, lists
 wordpress_url: http://www.nata2.org/2007/09/16/recent-readings/
 ---

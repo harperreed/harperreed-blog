@@ -2,6 +2,7 @@
 wordpress_id: 1268
 layout: post
 title: Colorado weekend
+date: 2006-05-15 18:12:26 -05:00
 tags: general, family, colorado, fun, travel, home, reed-family
 wordpress_url: http://www.nata2.org/2006/05/15/colorado-weekend/
 ---

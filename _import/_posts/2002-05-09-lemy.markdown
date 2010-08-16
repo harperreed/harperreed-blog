@@ -3,6 +3,7 @@ wordpress_id: 278
 layout: post
 title: lemy
 excerpt: I saw motorhead last night. It was so so loud and my head wanted to die. Morbid angel and Today is the Day also played. Morbid angel is one of those bands that creates a sound that shouldn't be coming from humans. It is so rough. The drummer is insane. They all had the requisite metal hair, however they used big fans to blow it past their faces ...
+date: 2002-05-09 14:56:56 -05:00
 tags: video, insane, metal
 wordpress_url: http://new.nata2.org/?p=278
 ---

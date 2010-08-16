@@ -2,6 +2,7 @@
 wordpress_id: 1390
 layout: post
 title: "Thanksgiving'd: Rockets, Capes and family"
+date: 2006-11-28 01:06:21 -06:00
 tags: general, family, colorado, vacation, holidays, insanity, thanksgiving, rockets, capes
 wordpress_url: http://www.nata2.org/2006/11/28/thanksgivingd-rockets-capes-and-family/
 ---

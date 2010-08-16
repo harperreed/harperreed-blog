@@ -2,6 +2,7 @@
 wordpress_id: 1372
 layout: post
 title: Marking up a magazine - interaction with the editors
+date: 2006-10-16 21:19:03 -05:00
 tags: general, help, heath-row, magazine, interaction, compassion
 wordpress_url: http://www.nata2.org/2006/10/16/marking-up-a-magazine-interaction-with-the-editors/
 ---

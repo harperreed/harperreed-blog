@@ -3,6 +3,7 @@ wordpress_id: 444
 layout: post
 title: TDD for ALL States
 excerpt: I need to fix my car. when I say fix - I really mean register and insure it in chicago. I also need to get a chicago license. I have been skirting the law for awhile now and I can no longer do it(btw I am insured.. just not registered.. ugh). heh. last night matiss and I invited some cats to come over and watch the spooky michael jackson interview. boy that d00d is a weirdo. jesus. it is all very...
+date: 2003-02-07 16:40:32 -06:00
 tags: php, chicago, tools, bush, action, matiss, politics, politic, iraq
 wordpress_url: http://new.nata2.org/?p=444
 ---

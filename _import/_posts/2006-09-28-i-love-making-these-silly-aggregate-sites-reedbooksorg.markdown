@@ -2,6 +2,7 @@
 wordpress_id: 1354
 layout: post
 title: I love making these silly aggregate sites - reedbooks.org
+date: 2006-09-28 03:01:20 -05:00
 tags: general, family, blogs, money, rss, aggregation, mashup
 wordpress_url: http://www.nata2.org/2006/09/28/i-love-making-these-silly-aggregate-sites-reedbooksorg/
 ---

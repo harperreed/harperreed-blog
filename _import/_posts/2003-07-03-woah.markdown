@@ -3,6 +3,7 @@ wordpress_id: 559
 layout: post
 title: woah
 excerpt: "here is a picture from the other night.. heheh.. "
+date: 2003-07-03 14:41:43 -05:00
 tags: friendster
 wordpress_url: http://new.nata2.org/?p=559
 ---

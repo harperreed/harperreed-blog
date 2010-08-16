@@ -2,6 +2,7 @@
 wordpress_id: 1170
 layout: post
 title: "Danger Sidekick: nerd machine"
+date: 2004-04-01 04:04:55 -06:00
 tags: general, nerd, technology, phones, mobile, tmobile, awesome, review, machine
 wordpress_url: http://www.nata2.org/2004/04/01/danger-sidekick-nerd-machine/
 ---

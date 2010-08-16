@@ -3,6 +3,7 @@ wordpress_id: 869
 layout: post
 title: congratulations hiromi
 excerpt: "hiromi graduated from the art institute on saturday. good job. here are the pictures. "
+date: 2004-05-24 03:46:47 -05:00
 tags: job, war, rock, crobar, matiss, hiromi
 wordpress_url: http://new.nata2.org/?p=869
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 1205
 layout: post
 title: "Campfire perl bot hack "
+date: 2006-02-09 22:54:15 -06:00
 tags: general, harper, hacking, irc, awesome, web, 37signals, campfire, 20, bot, chat
 wordpress_url: http://www.nata2.org/2006/02/09/campfire/
 ---

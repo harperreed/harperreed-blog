@@ -2,6 +2,7 @@
 wordpress_id: 1167
 layout: post
 title: Porting from sprint to t-mobile
+date: 2003-12-05 01:12:04 -06:00
 tags: general
 wordpress_url: http://www.nata2.org/2003/12/05/porting-from-sprint-to-t-mobile/
 ---

@@ -3,6 +3,7 @@ wordpress_id: 713
 layout: post
 title: weekend rocks
 excerpt: This weekend was fun. besides having the craziest of sleep patterns I was able to hang with some away cool cats. first on friday I hung out with morgan. we went and got dinnera nd then came back to my place and drank and talked with matiss and hiromi. we ended up watchin a korean remake of ringu called the ring virus. it was ok. not wonderful. I should have pushed for fun sai yuk. but nooooo... ;...
+date: 2004-01-05 06:09:03 -06:00
 tags: books, cell, war, matiss, hiromi
 wordpress_url: http://new.nata2.org/?p=713
 ---

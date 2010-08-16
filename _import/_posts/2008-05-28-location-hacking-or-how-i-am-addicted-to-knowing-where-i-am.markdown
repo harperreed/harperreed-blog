@@ -2,6 +2,7 @@
 wordpress_id: 1518
 layout: post
 title: Location hacking. Or how I am addicted to knowing where I am
+date: 2008-05-28 00:51:39 -05:00
 tags: technology, hacking, fun, twitter, location, fireaeagle, dopplr, tripit
 wordpress_url: http://www.nata2.org/?p=1518
 ---

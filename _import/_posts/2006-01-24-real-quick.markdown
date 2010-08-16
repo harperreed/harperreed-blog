@@ -2,6 +2,7 @@
 wordpress_id: 1200
 layout: post
 title: "real quick. "
+date: 2006-01-24 05:14:24 -06:00
 tags: general, awe
 wordpress_url: http://www.nata2.org/2006/01/24/real-quick/
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 1196
 layout: post
 title: Tmobile WAP 2.0 Settings for 6600
+date: 2004-04-21 02:53:19 -05:00
 tags: general, technology, phones, mobile, tmobile, settings, help, tutorial
 wordpress_url: http://www.nata2.org/2004/04/21/tmobile-wap-20-settings-for-6600-2/
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 1082
 layout: post
 title: "mr. & mrs. "
+date: 2005-06-13 13:46:33 -05:00
 tags: general, movies, websites, matiss, wedding, hiromi, mark, hungry
 wordpress_url: http://www.nata2.org/2005/06/13/mr-mrs/
 ---

@@ -3,6 +3,7 @@ wordpress_id: 414
 layout: post
 title: wicked
 excerpt: Soo.. I just wrote this entry and I clicked on a really fucked up link and broke it. heh. it was funny. it was also pornographic and I was also at work.. all on accident. .hehe. whoa.. I had to kill explorer.. stupid explorer. ;)I am currently listening to tusk.. which is quite loud and angry. for some reason I am rather in to it right now.. I really wanted to listen to elliot smith.. b...
+date: 2002-12-12 16:32:39 -06:00
 tags: books, nerd, server, war, rock, insane, chris, fashion, action, aim, porn, wittgenstein
 wordpress_url: http://new.nata2.org/?p=414
 ---

@@ -4,6 +4,7 @@ layout: post
 title: head kick
 excerpt: "i just made a 3ft x 4ft picture of my head. it is pretty funny. especially when it is printed out. \r\n\
   so. umm. yea. here is a "
+date: 2004-04-20 20:35:40 -05:00
 tags: harper, phone, nokia
 wordpress_url: http://new.nata2.org/?p=826
 ---

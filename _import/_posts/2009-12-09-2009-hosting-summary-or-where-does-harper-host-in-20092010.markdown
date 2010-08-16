@@ -2,6 +2,7 @@
 wordpress_id: 1655
 layout: post
 title: 2009 Hosting Summary (or where does Harper host in 2009/2010)
+date: 2009-12-09 19:29:06 -06:00
 tags: general, hosting, rackspace, google, infrastructure, cloud, amazon, cloud-hosting
 wordpress_url: http://www.nata2.org/?p=1655
 ---

@@ -3,6 +3,7 @@ wordpress_id: 424
 layout: post
 title: Happy new years..
 excerpt: well.. I guss that was supposed to happen yesterday. but whatever. So last night was quite fun.. or should I say two nights ago.. whener the 31st was. I had a good time. we went to a party with some friends of a friend and had really good food. then we went to a rocker party.. here are the pictures... i am excited...
+date: 2003-01-02 07:51:03 -06:00
 tags: war, rock, food
 wordpress_url: http://new.nata2.org/?p=424
 ---

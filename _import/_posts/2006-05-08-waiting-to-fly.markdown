@@ -2,6 +2,7 @@
 wordpress_id: 1260
 layout: post
 title: waiting to fly
+date: 2006-05-08 19:32:18 -05:00
 tags: general, flickr, travel, jon, airports-books
 wordpress_url: http://www.nata2.org/2006/05/08/waiting-to-fly/
 ---

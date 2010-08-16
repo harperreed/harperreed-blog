@@ -3,6 +3,7 @@ wordpress_id: 337
 layout: post
 title: This dude totally flips out
 excerpt: whooo. And the reason he lost it.
+date: 2002-08-12 14:32:32 -05:00
 tags: php
 wordpress_url: http://new.nata2.org/?p=337
 ---

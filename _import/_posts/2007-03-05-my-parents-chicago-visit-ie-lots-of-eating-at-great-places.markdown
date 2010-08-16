@@ -2,6 +2,7 @@
 wordpress_id: 1415
 layout: post
 title: My parents Chicago visit. Lots of amazing dining...
+date: 2007-03-05 01:50:12 -06:00
 tags: general, family, chicago, food, travel, dining, green-zebra, hard-rock-hotel, avec, eating
 wordpress_url: http://www.nata2.org/2007/03/05/my-parents-chicago-visit-ie-lots-of-eating-at-great-places/
 ---

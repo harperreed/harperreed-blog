@@ -2,6 +2,7 @@
 wordpress_id: 1444
 layout: post
 title: WTF TicketMaster
+date: 2007-05-19 14:56:20 -05:00
 tags: general, stupid, costs, expensive, money, annoying, fraud, ticketmaster, events, tickets
 wordpress_url: http://www.nata2.org/2007/05/19/wtf-ticketmaster/
 ---

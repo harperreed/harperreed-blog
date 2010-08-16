@@ -5,6 +5,7 @@ title: allegiance pledge
 excerpt: |-
   I pledge allegiance to the flag of the United States of America, and to the Republic for which it stands, one nation under God, indivisible, with liberty and justice for all. 
   the U.S. has proven what a dumb ass country we are:"The Pledge, as currently codified, is an impermissible government endorsement of religion because it sends a message to unbelievers that they are outsid...
+date: 2002-06-27 15:12:33 -05:00
 tags: search, community, chris, bush, irc, politic, religion
 wordpress_url: http://new.nata2.org/?p=304
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 1440
 layout: post
 title: "The Digg Rebellion: a breaking of the covenant"
+date: 2007-05-01 22:43:42 -05:00
 tags: technology, technology, online, web-20, users, communities, digg
 wordpress_url: http://www.nata2.org/2007/05/01/the-digg-rebellion-a-breaking-of-the-covenant/
 ---

@@ -3,6 +3,7 @@ wordpress_id: 547
 layout: post
 title: i am amazed
 excerpt: Last night I went to this electro party. it was OK. it was a HUGE space and their was not enough people to fill it up. However - it was rather well executed and overall it did a good job as a party. my friend Chris DJ'd and that ruled.. but some cats were pissed.. cuz his headphones were similiar to their previously stolen ones. wtf. speaking of headph...
+date: 2003-06-21 19:33:13 -05:00
 tags: job, phone, food, chris, ipod, phones, hiromi
 wordpress_url: http://new.nata2.org/?p=547
 ---

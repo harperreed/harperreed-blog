@@ -2,6 +2,7 @@
 wordpress_id: 1398
 layout: post
 title: Old timey music...
+date: 2006-12-19 02:01:39 -06:00
 tags: general, music, bluegrass, mountain-music, stanley-brothers, old-timey-music
 wordpress_url: http://www.nata2.org/2006/12/19/old-timey-music/
 ---

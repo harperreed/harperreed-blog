@@ -2,6 +2,7 @@
 wordpress_id: 1358
 layout: post
 title: "More youTube stuff: I made a youTube badge. "
+date: 2006-10-05 00:02:13 -05:00
 tags: technology, php, flickr, youtube, classes, badge, flashandburn
 wordpress_url: http://www.nata2.org/2006/10/05/more-youtube-stuff-i-made-a-youtube-badge/
 ---

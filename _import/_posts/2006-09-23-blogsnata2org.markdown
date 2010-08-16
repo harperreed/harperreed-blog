@@ -2,6 +2,7 @@
 wordpress_id: 1349
 layout: post
 title: blogs.nata2.org
+date: 2006-09-23 21:18:07 -05:00
 tags: general, blogs, sites, smarty, magpie-rss
 wordpress_url: http://www.nata2.org/2006/09/23/blogsnata2org/
 ---

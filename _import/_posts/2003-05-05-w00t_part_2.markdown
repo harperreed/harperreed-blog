@@ -3,6 +3,7 @@ wordpress_id: 505
 layout: post
 title: w00t part 2
 excerpt: saturday night we went to this resturant called mas where we were meeting some friends. As soon as we arrived this guy started talkign to us and eventually purchased each of us (Thom, Chris and myself) many MAS MARGARITA then some...
+date: 2003-05-05 11:24:25 -05:00
 tags: harper, reed, chris, watership, restaurant
 wordpress_url: http://new.nata2.org/?p=505
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 1064
 layout: post
 title: Grocery Grocery
+date: 2005-05-18 22:05:19 -05:00
 tags: general, books, food, matiss, aliens
 wordpress_url: http://www.nata2.org/2005/05/18/grocery-grocery/
 ---

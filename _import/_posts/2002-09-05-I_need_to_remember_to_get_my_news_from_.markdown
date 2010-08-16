@@ -6,11 +6,9 @@ excerpt: |-
   metafilter
   fark
   drudge
+date: 2002-09-05 09:46:08 -05:00
 wordpress_url: http://new.nata2.org/?p=350
 ---
-<ul>
-<li><a href="http://www.metafilter.com">metafilter</a></li>
-<li><a href="http://www.fark.com">fark</a></li>
-<li><a href="http://www.drudgereport.com">drudge</a></li>
-</ul>
-
+<li><a href="http://www.metafilter.com">metafilter</a>
+<li><a href="http://www.fark.com">fark</a>
+<li><a href="http://www.drudgereport.com">drudge</a>

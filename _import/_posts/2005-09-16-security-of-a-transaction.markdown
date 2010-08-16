@@ -2,6 +2,7 @@
 wordpress_id: 1131
 layout: post
 title: Security of a transaction
+date: 2005-09-16 14:15:37 -05:00
 tags: general, security, money, privilege
 wordpress_url: http://www.nata2.org/2005/09/16/security-of-a-transaction/
 ---

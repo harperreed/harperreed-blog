@@ -2,6 +2,7 @@
 wordpress_id: 1094
 layout: post
 title: guess what
+date: 2005-07-14 17:51:54 -05:00
 tags: general, job, travel, work, yoyo
 wordpress_url: http://www.nata2.org/2005/07/14/guess-what/
 ---

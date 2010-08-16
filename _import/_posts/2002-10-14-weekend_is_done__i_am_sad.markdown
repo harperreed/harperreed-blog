@@ -7,6 +7,7 @@ excerpt: |-
   
   
   One of the most interesting things about this weekend was the strange occurance of people asking us which one of us is older. I guess it is because we are now similarly sized and full grown.. or there about.  it was interesting. It is ...
+date: 2002-10-14 06:45:28 -05:00
 tags: dylan
 wordpress_url: http://new.nata2.org/?p=375
 ---

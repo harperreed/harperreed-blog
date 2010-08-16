@@ -3,6 +3,7 @@ wordpress_id: 489
 layout: post
 title: Dell rules!
 excerpt: So today I went to a building that was a little over two blocks away to pick up a dell server(~$alot of money) that was mis-delievered to another company. heh. Like fed-ex "accidently" dropped it off at a completly unrelated place. wtf. and the best part is that the other company totally signed for it ;)hehehe.. I giggled the whole way. the best part was that we were totally incompentent at ...
+date: 2003-04-16 21:13:17 -05:00
 tags: harper, server, irc, friendster
 wordpress_url: http://new.nata2.org/?p=489
 ---

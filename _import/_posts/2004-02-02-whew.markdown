@@ -3,6 +3,7 @@ wordpress_id: 742
 layout: post
 title: whew
 excerpt: So on Thursday night - I accidentally went and bought some clothes. It was ridiculous. I should never be allowed in to certain far too expensive stores. However I got a hot pair of pants.. not a pair of hot pants mind you.. but yea. So I gotta return some stuff and keep some stuff. I really can?t deal with pants without belt loops ? I just feel insane when I am not wearing a belt. Heh. Yea about ...
+date: 2004-02-02 18:10:14 -06:00
 tags: phone, chicago, server, rock, food, crobar, insane, chris, mom, games, politic, hong
 wordpress_url: http://new.nata2.org/?p=742
 ---

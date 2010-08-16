@@ -2,6 +2,7 @@
 wordpress_id: 1223
 layout: post
 title: Investigating the nabaztag
+date: 2006-02-27 20:45:43 -06:00
 tags: general, technology, hacking, diy, make, ambient, embedded, nabaztag, takeapart, wifi, led
 wordpress_url: http://www.nata2.org/2006/02/27/investigating-the-nabaztag/
 ---

@@ -3,6 +3,7 @@ wordpress_id: 932
 layout: post
 title: trout. i mean lobster.
 excerpt: i really want to go dancing - big band style. all of a sudden. or just watch triplets of belleville. something. just not be up or at work. I am tired of wearing "business casual" clothing. I really want to just wear jeans. or whatever. just something that isn't "business casual." I suppose I will get over it. ;) I go through these...
+date: 2004-09-13 16:42:01 -05:00
 tags: phone, video, rock, college, action, metal, business, hong, kong, nokia
 wordpress_url: http://new.nata2.org/?p=932
 ---

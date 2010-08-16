@@ -2,6 +2,7 @@
 wordpress_id: 1163
 layout: post
 title: 3gscreensaver.com
+date: 2002-10-10 12:10:20 -05:00
 tags: general, technology, community, mobile, forum
 wordpress_url: http://www.nata2.org/2002/10/10/3gscreensavercom/
 ---

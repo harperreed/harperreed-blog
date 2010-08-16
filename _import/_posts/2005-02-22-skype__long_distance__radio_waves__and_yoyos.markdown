@@ -3,6 +3,7 @@ wordpress_id: 996
 layout: post
 title: skype. long distance. radio waves. and yoyos
 excerpt: this weekend was a good time. I flew to minneapolis to engage in a juggling festival. it ruled. I saw lots of cool friends. sadly tomorrow is work. hey all my far away friends (i.e. bec, miriam and ella) I am n...
+date: 2005-02-22 05:34:18 -06:00
 tags: php, phone, internet, sites, juggling, phones, ella
 wordpress_url: http://new.nata2.org/?p=996
 ---

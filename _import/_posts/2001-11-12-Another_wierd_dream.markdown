@@ -8,6 +8,7 @@ excerpt: |-
    I was one of the head guys at a mental institution and I was in charge of combating all communicable diseases. So I got an alert of a breakout of this scary disease that turns ordinary people into shape shifters on a killing rampage.
   
   S...
+date: 2001-11-12 16:40:25 -06:00
 tags: job, war, insane, action, disease
 wordpress_url: http://new.nata2.org/?p=129
 ---

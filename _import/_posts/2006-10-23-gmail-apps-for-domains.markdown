@@ -2,6 +2,7 @@
 wordpress_id: 1376
 layout: post
 title: Gmail Apps for Domains
+date: 2006-10-23 01:49:58 -05:00
 tags: technology, google, skinnycorp, gmail, microsoft, email, google-hosted-apps, gmail-for-domains, exchange, outlook
 wordpress_url: http://www.nata2.org/2006/10/23/gmail-apps-for-domains/
 ---

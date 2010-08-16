@@ -3,6 +3,7 @@ wordpress_id: 482
 layout: post
 title: dream...
 excerpt: last night I had another apocalyptic dream.. I really shouldn't say another.. it isn't like they are repeating.. the last one was two years ago or so. but they are insane and kinda fun. this one started out with me being in a symphonic band practice. I was playing bari-sax.. I was not good - so the band director yelled at me. I was sad. but for some reason I didn't have the music we were attem...
+date: 2003-04-08 14:55:37 -05:00
 tags: phone, insane, music
 wordpress_url: http://new.nata2.org/?p=482
 ---

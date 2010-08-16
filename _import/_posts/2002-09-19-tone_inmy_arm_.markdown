@@ -5,6 +5,7 @@ title: tone inmy arm.
 excerpt: |-
   I agree, I do think that Bush's resolution about iraq will be nukes.jesus
   Apparently Yuen Wo Ping will be...
+date: 2002-09-19 14:38:15 -05:00
 tags: bush, iraq
 wordpress_url: http://new.nata2.org/?p=358
 ---

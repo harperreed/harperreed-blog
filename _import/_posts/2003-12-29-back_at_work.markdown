@@ -3,6 +3,7 @@ wordpress_id: 707
 layout: post
 title: back at work
 excerpt: "so work is going wellish. I guess as well as work always goes. I am excited to be back. all the silliness and problems beware - I am prepared to attack ;)so I really enjoy reading peoples blogs and now that I have discovered the love of the rss aggregators and the wonders of OPML I really appreciate all that it does for me. I was reading my morning blogs when I stumbled upon "
+date: 2003-12-29 17:14:53 -06:00
 tags: blogs, search, war, community, video, chris, christmas, brooks
 wordpress_url: http://new.nata2.org/?p=707
 ---

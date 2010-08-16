@@ -3,6 +3,7 @@ wordpress_id: 600
 layout: post
 title: i am reading an incredibly rough book
 excerpt: it isn't hard per se. it is just rough. it is called Into That Darkness. it is about the Franz Stangl the commandant of treblinka. When I first started reading the book - I thought "oh.. I can handle this.. it won't be rought.. I have read about this st...
+date: 2003-08-19 06:16:11 -05:00
 tags: job
 wordpress_url: http://new.nata2.org/?p=600
 ---

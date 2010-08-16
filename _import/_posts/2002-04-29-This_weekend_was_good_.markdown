@@ -3,6 +3,7 @@ wordpress_id: 270
 layout: post
 title: This weekend was good.
 excerpt: I was in another fasion show on friday. IT was at a crazy little place called le passage. The scene was silly, however Art and science did hair and I love them. haha. Then on saturday and sunday We went to the toss up juggling festival. It was great as well. We came in second in numerous competitions, including 7 club endur...
+date: 2002-04-29 20:34:37 -05:00
 tags: fashion, juggling
 wordpress_url: http://new.nata2.org/?p=270
 ---

@@ -6,6 +6,7 @@ excerpt: |-
   today I installed my new router, looked over my taxes, accidently watched a really dumb movie and discussed white privilege with a friend. it was a good day. 
   
   check out t...
+date: 2004-03-21 02:09:34 -06:00
 tags: php, chris, birthday
 wordpress_url: http://new.nata2.org/?p=781
 ---

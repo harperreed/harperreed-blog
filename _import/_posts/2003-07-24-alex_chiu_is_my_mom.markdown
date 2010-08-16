@@ -9,6 +9,7 @@ excerpt: |-
   
   
   phunktoad : what happened to your rings for eterna...
+date: 2003-07-24 21:45:24 -05:00
 tags: war, chris, linux
 wordpress_url: http://new.nata2.org/?p=577
 ---

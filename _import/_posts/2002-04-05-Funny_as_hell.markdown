@@ -5,6 +5,7 @@ title: Funny as hell
 excerpt: |-
   heh. you have got ot check this out. My favorite is the dance contest. that furry guy can get down. 
   i wonder if this is nice or funny looking? In other news(;)) it seems that people are ...
+date: 2002-04-05 16:47:03 -06:00
 tags: military
 wordpress_url: http://new.nata2.org/?p=251
 ---

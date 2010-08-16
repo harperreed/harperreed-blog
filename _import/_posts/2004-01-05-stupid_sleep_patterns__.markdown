@@ -3,6 +3,7 @@ wordpress_id: 714
 layout: post
 title: stupid sleep patterns..
 excerpt: so I couldn't sleep again. I ended up finishng the book I started - which is always a good feeling. I ended up starting a second book.. but I put it away with fear that if I didn't I woudl finish it too and it would be 8 in the morning. I suppose this is one of those days where I coudl afford to not sleep. but it would really wear on me. I don't want that much. so I solved the problem by getti...
+date: 2004-01-05 08:42:37 -06:00
 tags: phone, fear, food, hiromi
 wordpress_url: http://new.nata2.org/?p=714
 ---

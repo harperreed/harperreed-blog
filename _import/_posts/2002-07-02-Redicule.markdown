@@ -3,6 +3,7 @@ wordpress_id: 306
 layout: post
 title: Redicule
 excerpt: I laughed when I heard that the U.S. "finally" bombed a civilian target. I did not laugh because I find the killing of civilians to be funny, I laughed because of the ridiculousness of the entire situation. Of course we were bombing civilian targets. Of course we have killed thousands of afghans. this...
+date: 2002-07-02 14:27:01 -05:00
 tags: war, bush, irc, terrorism, asia, wedding
 wordpress_url: http://new.nata2.org/?p=306
 ---

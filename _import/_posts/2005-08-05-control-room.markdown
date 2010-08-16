@@ -2,6 +2,7 @@
 wordpress_id: 1106
 layout: post
 title: Control Room
+date: 2005-08-05 15:22:06 -05:00
 tags: general, war, fear, movies, documentary
 wordpress_url: http://www.nata2.org/2005/08/05/control-room/
 ---

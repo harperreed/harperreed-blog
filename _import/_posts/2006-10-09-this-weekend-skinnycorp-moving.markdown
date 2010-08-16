@@ -2,6 +2,7 @@
 wordpress_id: 1361
 layout: post
 title: This weekend. skinnyCorp Moving
+date: 2006-10-09 01:44:13 -05:00
 tags: general, chicago, skinnycorp, clubbing, partying, going-out, moving
 wordpress_url: http://www.nata2.org/2006/10/09/this-weekend-skinnycorp-moving/
 ---

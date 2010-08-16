@@ -3,6 +3,7 @@ wordpress_id: 881
 layout: post
 title: supersize
 excerpt: last night hiromi and I went to go see the movie called supersize me. It was made by some guy named Morgan Spurlock. he ate mcdonalds everyday for one month. it totally destroyed him. heh. he was broken. it scared me. are country is so broke...
+date: 2004-06-10 18:52:54 -05:00
 tags: job, phone, hiromi, nokia
 wordpress_url: http://new.nata2.org/?p=881
 ---

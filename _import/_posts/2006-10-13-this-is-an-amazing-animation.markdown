@@ -2,6 +2,7 @@
 wordpress_id: 1365
 layout: post
 title: This is an amazing animation
+date: 2006-10-13 12:52:23 -05:00
 tags: general, awesome, weird, greed, animation
 wordpress_url: http://www.nata2.org/2006/10/13/this-is-an-amazing-animation/
 ---

@@ -3,6 +3,7 @@ wordpress_id: 587
 layout: post
 title: crunk hop.. ahh yea.. tuesday
 excerpt: i love Lil Jon & the Eastside Boyz. it is so fun to listen to . the energy level is very high. I wish I had a low rider or an escalade with dubs... serious. I would love to roll hard in an escalade listening to crunked up dirty south.. that is one of my many dreams. another one is to have an M5 and roll with maiden everywhere I went. someday I suppose. i love sitting at work listening t...
+date: 2003-08-05 20:31:58 -05:00
 tags: search, insane, music, asia, iraq, kungfu
 wordpress_url: http://new.nata2.org/?p=587
 ---

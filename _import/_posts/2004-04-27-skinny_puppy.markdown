@@ -3,6 +3,7 @@ wordpress_id: 831
 layout: post
 title: skinny puppy
 excerpt: so when I was little. skinny puppy was my favorite band. now they are apparently back and touring. I discovered this when I woke up on sunday and had a shiny metal urge to chekc the readers early warning list. much to my amaze - skinny puppy was playing at the vic. so I immediately attempted to secure tickets. no luck. all sold out. in fact I think they were SOLD OUT. like in caps. pixies style. ...
+date: 2004-04-27 18:34:08 -05:00
 tags: phone, chicago, search, war, metal, matiss, nokia
 wordpress_url: http://new.nata2.org/?p=831
 ---

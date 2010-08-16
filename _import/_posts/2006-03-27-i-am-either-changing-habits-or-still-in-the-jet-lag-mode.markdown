@@ -2,6 +2,7 @@
 wordpress_id: 1235
 layout: post
 title: I am either changing habits or still in jet-lag mode.
+date: 2006-03-27 10:09:06 -06:00
 tags: general, projects, voip, art, seditionaries, shirts
 wordpress_url: http://www.nata2.org/2006/03/27/i-am-either-changing-habits-or-still-in-the-jet-lag-mode/
 ---

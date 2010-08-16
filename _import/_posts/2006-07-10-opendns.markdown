@@ -2,6 +2,7 @@
 wordpress_id: 1300
 layout: post
 title: testing out openDNS
+date: 2006-07-10 15:18:23 -05:00
 tags: technology, opendns-dns-everydns-phishing-hacking
 wordpress_url: http://www.nata2.org/2006/07/10/opendns/
 ---

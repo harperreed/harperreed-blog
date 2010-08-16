@@ -3,6 +3,7 @@ wordpress_id: 834
 layout: post
 title: mass
 excerpt: "today I went downtown and picked up  voltage converter and some clothes. everyone has been telling me to go and get light colored clothing so that I don't A) burn up and B) get attacked by bugs. apparently there are a lot of bugs. I am not a fan of disease so I guess I will head their suggestions. stupid disease. so I got some clothes. mostly brown pants and nice "
+date: 2004-05-01 22:23:40 -05:00
 tags: phone, metal, music, disease, girls, nokia
 wordpress_url: http://new.nata2.org/?p=834
 ---

@@ -3,6 +3,7 @@ wordpress_id: 572
 layout: post
 title: my friend.. this is the end..
 excerpt: woah. I wish I was good at flash!i would probably end up a stoner. ;)friendster still is growing in popularity. it is insane. I wish one of m...
+date: 2003-07-21 21:15:41 -05:00
 tags: sites, insane, friendster
 wordpress_url: http://new.nata2.org/?p=572
 ---

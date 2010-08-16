@@ -2,6 +2,7 @@
 wordpress_id: 1485
 layout: post
 title: Tell him to stay in his tree
+date: 2007-10-17 01:18:47 -05:00
 tags: general, family, disease, terrorism, trees, eczema
 wordpress_url: http://www.nata2.org/2007/10/17/tell-him-to-stay-in-his-tree/
 ---

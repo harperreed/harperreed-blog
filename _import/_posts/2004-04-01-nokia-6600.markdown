@@ -2,6 +2,7 @@
 wordpress_id: 1171
 layout: post
 title: Nokia 6600
+date: 2004-04-01 04:04:29 -06:00
 tags: general, technology, mobile, nokia
 wordpress_url: http://www.nata2.org/2004/04/01/nokia-6600/
 ---

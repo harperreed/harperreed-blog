@@ -2,6 +2,7 @@
 wordpress_id: 1375
 layout: post
 title: I got a new Nokia N73
+date: 2006-10-23 01:08:00 -05:00
 tags: technology, phones, mobile, nokia, awesome, e61, n70, n73, import
 wordpress_url: http://www.nata2.org/2006/10/23/i-got-a-new-nokia-n73/
 ---

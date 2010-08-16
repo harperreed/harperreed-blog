@@ -2,6 +2,7 @@
 wordpress_id: 1262
 layout: post
 title: Ubuntu
+date: 2006-05-09 14:50:29 -05:00
 tags: general, technology
 wordpress_url: http://www.nata2.org/2006/05/09/ubuntu/
 ---

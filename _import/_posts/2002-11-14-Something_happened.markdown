@@ -3,6 +3,7 @@ wordpress_id: 400
 layout: post
 title: Something happened
 excerpt: So I guess reality is stranger than fiction.In other news, I got t...
+date: 2002-11-14 08:26:05 -06:00
 tags: google, screensaver
 wordpress_url: http://new.nata2.org/?p=400
 ---

@@ -7,6 +7,7 @@ excerpt: |-
   and trouble was started. we made fun of the channels this one guy was on: 
   
   #ryan1918 #Radio+ #god.hates.fags #concepthosting #whipcream #novascotia #metal #linux-...
+date: 2003-09-04 15:57:18 -05:00
 tags: php, hosting, school, metal, linux, corporate, irc
 wordpress_url: http://new.nata2.org/?p=613
 ---

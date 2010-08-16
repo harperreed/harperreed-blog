@@ -2,6 +2,7 @@
 wordpress_id: 1463
 layout: post
 title: Google Talk group chat integration with Jabber Chat
+date: 2007-07-06 06:23:53 -05:00
 tags: technology, technology, jabber, google, awesome, tricks, multi-user-chat, google-talk, gtalk, talk
 wordpress_url: http://www.nata2.org/2007/07/06/google-talk-group-chat-integration-with-jabber-chat/
 ---

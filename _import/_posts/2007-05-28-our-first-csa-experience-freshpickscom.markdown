@@ -2,6 +2,7 @@
 wordpress_id: 1448
 layout: post
 title: "Our first CSA experience: Freshpicks.com"
+date: 2007-05-28 22:39:28 -05:00
 tags: general, chicago, agriculture, organic, freshpickscom, csa
 wordpress_url: http://www.nata2.org/2007/05/28/our-first-csa-experience-freshpickscom/
 ---

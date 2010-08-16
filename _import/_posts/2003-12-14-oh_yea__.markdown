@@ -3,6 +3,7 @@ wordpress_id: 699
 layout: post
 title: oh yea..
 excerpt: wtf.. saddam got caught. this is stupid. now this war will seem justified. ohhh.. lets villianify someone.. then "lose" him.. then catch him admidst crisis about the war to strengthen ou...
+date: 2003-12-14 19:59:10 -06:00
 tags: reed, php, search, war, bush, military, source, terrorism, iraq, google
 wordpress_url: http://new.nata2.org/?p=699
 ---

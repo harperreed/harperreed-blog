@@ -3,6 +3,7 @@ wordpress_id: 551
 layout: post
 title: friendster
 excerpt: So while friendster is sucking it up.. cacheing everything.. and taking a long time for shit to work.. I did some research. this guy started it.. he has apparently been around for awhile. check out the growth. it is obvious t...
+date: 2003-06-24 21:16:45 -05:00
 tags: search, friendster
 wordpress_url: http://new.nata2.org/?p=551
 ---

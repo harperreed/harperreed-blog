@@ -3,6 +3,7 @@ wordpress_id: 797
 layout: post
 title: looky here
 excerpt: so this weekend has been nice. on friday my coworkers and myself went to the hard rock cafe bar and met my friend winnie for drinks. she works there and was able to hook us up a bit which offset the billion dollars the drinks normally would have cost. it was a nice place. pretty chilled out - however around 5:30 - it started to get pretty full and crazy. after that I went and picked up some butto...
+date: 2004-03-29 02:34:44 -06:00
 tags: phone, cell, blogs, war, video, rock, crobar, insane, chris, birthday, business, perl, matiss, politics, politic, hiromi, sushi
 wordpress_url: http://new.nata2.org/?p=797
 ---

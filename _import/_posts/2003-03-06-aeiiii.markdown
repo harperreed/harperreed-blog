@@ -3,6 +3,7 @@ wordpress_id: 458
 layout: post
 title: aeiiii
 excerpt: "So for the past week or so I kept seeing this guy in newspapers, on websites and on tv and I thought ron jeremy had gotten arrested. I guess I never actually "
+date: 2003-03-06 20:26:52 -06:00
 tags: sites, bush, websites, juggling, humor, music, asia, ipod
 wordpress_url: http://new.nata2.org/?p=458
 ---

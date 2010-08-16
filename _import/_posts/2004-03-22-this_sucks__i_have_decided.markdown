@@ -3,6 +3,7 @@ wordpress_id: 785
 layout: post
 title: this sucks. i have decided
 excerpt: so last night after morgan left I felt pretty good. like. "ok this will be fine. I understand. it is all good. I look forward to being her friend." today. I wake up. it is not easier. it is not fun. I really don't want this to be happening. honestly. I am really sad. I don't really want to goto work. I don't really want to hang out. I look to checking my email in case she sent me one. I am afr...
+date: 2004-03-22 14:20:58 -06:00
 tags: internet, war, girlfriend, aim
 wordpress_url: http://new.nata2.org/?p=785
 ---

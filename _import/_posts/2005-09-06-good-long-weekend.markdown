@@ -2,6 +2,7 @@
 wordpress_id: 1125
 layout: post
 title: "good long weekend. "
+date: 2005-09-06 13:24:45 -05:00
 tags: general, hacking, birthday, movies, fun, money, parties, work, psp, rani
 wordpress_url: http://www.nata2.org/?p=1125
 ---

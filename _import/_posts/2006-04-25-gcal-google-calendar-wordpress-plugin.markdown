@@ -2,6 +2,7 @@
 wordpress_id: 1255
 layout: post
 title: "gcal: google calendar wordpress plugin"
+date: 2006-04-25 05:49:37 -05:00
 tags: general, technology, technology
 wordpress_url: http://www.nata2.org/2006/04/25/gcal-google-calendar-wordpress-plugin/
 ---

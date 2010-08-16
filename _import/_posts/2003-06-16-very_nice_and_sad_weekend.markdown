@@ -3,6 +3,7 @@ wordpress_id: 541
 layout: post
 title: very nice and sad weekend
 excerpt: So this weekend was erally great. So much nice stuff happened and went down.. but all because of a very sad reason.. Yesterday bec left for miami.. :( - hopefully we will see her again. I really enjoyed hangin...
+date: 2003-06-16 15:54:20 -05:00
 tags: juggle, chicago, war, food, matiss, hiromi
 wordpress_url: http://new.nata2.org/?p=541
 ---

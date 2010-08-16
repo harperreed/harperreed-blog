@@ -3,6 +3,7 @@ wordpress_id: 226
 layout: post
 title: The last night
 excerpt: last night I watched rosemary's baby. hehe. how fun. I like tha movie. You all have to check out this game. It is quite nice. Also check out this site for some fun puzzles. heh. i am so sleepy. I stayed up wyay late last night. I shouldn't have. hehe. I had an oppurtunity to hit the sack quite ea...
+date: 2002-03-07 20:19:12 -06:00
 tags: college, action, perl
 wordpress_url: http://new.nata2.org/?p=226
 ---

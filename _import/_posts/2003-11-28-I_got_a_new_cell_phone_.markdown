@@ -3,6 +3,7 @@ wordpress_id: 684
 layout: post
 title: I got a new cell phone.
 excerpt: It is a lot of fun. I got a Sony Ericsson T610 from tmobile. as you probably know I was way into sprint phones for awhile. and I recently used the new number portability rule to switch from sprint to tmobile. it was relatively painless - but I spent to much on the phone. btw. bluetooth RULES. I have it so I always sync my phone when I walk into my room. I also have made it turn off my computer wh...
+date: 2003-11-28 10:50:51 -06:00
 tags: greeley, phone, colorado, war, crobar, laptop, perl, sprint, phones, mobile, tmobile
 wordpress_url: http://new.nata2.org/?p=684
 ---

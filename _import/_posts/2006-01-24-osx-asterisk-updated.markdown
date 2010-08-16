@@ -2,6 +2,7 @@
 wordpress_id: 1199
 layout: post
 title: OSX Asterisk updated
+date: 2006-01-24 03:56:01 -06:00
 tags: technology, technology, source, osx, apple, asterisk, telephony, pbx, open
 wordpress_url: http://www.nata2.org/2006/01/24/osx-asterisk-updated/
 ---

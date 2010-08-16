@@ -3,6 +3,7 @@ wordpress_id: 454
 layout: post
 title: Wired Audrey
 excerpt: "heh.Here is a scan. it is rather big. so here is a smaller version. It is interesting. I want to be in wired for real. "
+date: 2003-02-21 22:29:25 -06:00
 tags: hacking, audreyhacking, audrey
 wordpress_url: http://new.nata2.org/?p=454
 ---

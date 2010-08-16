@@ -3,6 +3,7 @@ wordpress_id: 222
 layout: post
 title: yeser day
 excerpt: yesterday was great. I slept till 12:30, woke up hung out with good friends.. learned to ride buses.. heh.. ruled. then I went to a incredible black metal show. It was so funny. ha. crazy swedes. The funniest part, was when they went off for the second encore we paper scissors rocked it to make the decision whether we would stay or go home. we lost and h...
+date: 2002-03-04 14:58:25 -06:00
 tags: rock, metal
 wordpress_url: http://new.nata2.org/?p=222
 ---

@@ -6,6 +6,7 @@ excerpt: |-
   it seems like it could be different. 
   but it isn't. 
   why?
+date: 2004-04-12 04:54:44 -05:00
 tags: php
 wordpress_url: http://new.nata2.org/?p=814
 ---

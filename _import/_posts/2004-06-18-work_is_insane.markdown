@@ -10,6 +10,7 @@ excerpt: |-
   tellerific x: hahah dorxor?
   
   my life rules. apparently the shins are tonight. it should be fun. I like them. but currently - cradle of filth is ...
+date: 2004-06-18 19:50:11 -05:00
 tags: phone, rock, linux
 wordpress_url: http://new.nata2.org/?p=888
 ---

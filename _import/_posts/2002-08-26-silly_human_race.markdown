@@ -3,6 +3,7 @@ wordpress_id: 347
 layout: post
 title: silly human race
 excerpt: So I pretty much finished my project for work. I am done and now it is sent to another group to test it. Wooha. this weekend was nice. I finally got some sleep. but for some reason I wasted all of my sleep by staying up til like 4 last night. ugh. I need to stop doing that. hopefully tonight will be super calm. laundry.. chillin.. maybe audrey hacking. .yea knowSo friday.. matiss, ...
+date: 2002-08-26 14:50:24 -05:00
 tags: hacking, war, audrey, college, bush, metal, matiss, girls, experiment, iraq
 wordpress_url: http://new.nata2.org/?p=347
 ---

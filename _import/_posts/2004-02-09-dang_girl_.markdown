@@ -3,6 +3,7 @@ wordpress_id: 748
 layout: post
 title: dang girl.
 excerpt: so this weekend was really weird. on friday I hung out and went to bed early because I had to take a practive lsat on saturday. the lsat turned out to be hard. weird. wtf. haha. the logic games were a bit trickier than I previously thought. it was nice to be challenged in a way that I haven't been challenged in a long long time. go school. so then on saturday I slept off and on and eve...
+date: 2004-02-09 03:43:39 -06:00
 tags: family, school, insane, games
 wordpress_url: http://new.nata2.org/?p=748
 ---

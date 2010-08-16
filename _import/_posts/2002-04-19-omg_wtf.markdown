@@ -3,6 +3,7 @@ wordpress_id: 267
 layout: post
 title: omg wtf
 excerpt: "So a a friend found one of the most bizarre collection of pictures in awhile: here. It seems that this dude mike(as far as I can tell that is him) likes "
+date: 2002-04-19 21:19:51 -05:00
 tags: women
 wordpress_url: http://new.nata2.org/?p=267
 ---

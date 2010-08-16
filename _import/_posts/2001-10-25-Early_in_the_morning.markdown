@@ -3,6 +3,7 @@ wordpress_id: 120
 layout: post
 title: Early in the morning
 excerpt: So. Today has been great so far. My girlfriend is visiting later, I have a BIG meeting and presentation for work in a couple hours. and to top it all off, while I was reading my favorite new source, I noticed this article which linked to my website. It is rather ex...
+date: 2001-10-25 08:32:47 -05:00
 tags: server, hacking, community, audreyhacking, audrey, girlfriend, source
 wordpress_url: http://new.nata2.org/?p=120
 ---

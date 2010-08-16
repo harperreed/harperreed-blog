@@ -2,6 +2,7 @@
 wordpress_id: 1153
 layout: post
 title: "squidoo. work. asterisk is awesome. "
+date: 2005-12-08 04:28:17 -06:00
 tags: general, awesome, work, squidoo, asterisk, voip
 wordpress_url: http://www.nata2.org/2005/12/08/squidoo-work-asterisk-is-awesome/
 ---

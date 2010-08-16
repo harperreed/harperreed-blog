@@ -5,6 +5,7 @@ title: Rule
 excerpt: |-
   Sony lost my tv. I hope they find it :(.
   This rules.
+date: 2002-11-22 22:31:42 -06:00
 wordpress_url: http://new.nata2.org/?p=405
 ---
 Sony lost my tv. I hope they find it :(.<br/>

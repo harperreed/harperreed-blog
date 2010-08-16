@@ -2,6 +2,7 @@
 wordpress_id: 1505
 layout: post
 title: "Putting the blame on your vendors for the win. "
+date: 2008-01-22 17:08:41 -06:00
 tags: technology, rackspace, rails, 37signals, web20, tumblr, infrastructure, network, downtime
 wordpress_url: http://www.nata2.org/?p=1505
 ---

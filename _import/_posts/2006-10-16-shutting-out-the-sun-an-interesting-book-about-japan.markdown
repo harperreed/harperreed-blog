@@ -2,6 +2,7 @@
 wordpress_id: 1371
 layout: post
 title: "Shutting out the Sun: an interesting book about Japan"
+date: 2006-10-16 12:01:26 -05:00
 tags: general
 wordpress_url: http://www.nata2.org/2006/10/16/shutting-out-the-sun-an-interesting-book-about-japan/
 ---

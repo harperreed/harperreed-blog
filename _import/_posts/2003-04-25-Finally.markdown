@@ -7,6 +7,7 @@ excerpt: |-
   
   sixtysevenprimi (2:00:50 PM): woah...that wreck you saw the other day...that was horrible..it was a bike messenger that works for On Time, he didnt have any brakes on his track bike and ran into a woman
   I love my bike messenger friends - but I find that often the bike messenging kids are wreckless. They can be just as bad as cars... which I had ...
+date: 2003-04-25 19:00:52 -05:00
 tags: cars
 wordpress_url: http://new.nata2.org/?p=497
 ---

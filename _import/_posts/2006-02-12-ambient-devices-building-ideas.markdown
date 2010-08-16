@@ -2,6 +2,7 @@
 wordpress_id: 1206
 layout: post
 title: "Ambient devices. building ideas. "
+date: 2006-02-12 21:14:54 -06:00
 tags: general, linux, diy, ambient, gumstix, qee, embedded
 wordpress_url: http://www.nata2.org/2006/02/12/ambient-devices-building-ideas/
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 1360
 layout: post
 title: How to get and watch free TV
+date: 2006-10-09 00:24:46 -05:00
 tags: technology, awesome, television, p2p, rss, democracy, torrents, bittorrent, download
 wordpress_url: http://www.nata2.org/2006/10/09/get-and-watch-free-tv/
 ---

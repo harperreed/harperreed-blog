@@ -3,6 +3,7 @@ wordpress_id: 544
 layout: post
 title: i don't know what has gotten into me
 excerpt: "I have been waking up earlier lately. it is rather strange. I am still a bit late to work(9:10/15), but I am up longer and feel better. weird. maybe it is cuz I don't go out EVERY NIGHT. heh. umm.. yea.. well I have been workign a lot on this ringtone stuff.. it is fun. but I have to plan a lot to make sure it is robust. stupid robustness. I hate you so much ;). Today I ordered a "
+date: 2003-06-18 16:24:35 -05:00
 tags: phone, war, sites, school, bush, metal, music, ipod, phones, screensaver, screensavers
 wordpress_url: http://new.nata2.org/?p=544
 ---

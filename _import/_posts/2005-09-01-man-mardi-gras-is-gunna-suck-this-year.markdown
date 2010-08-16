@@ -2,6 +2,7 @@
 wordpress_id: 1123
 layout: post
 title: "man... mardi gras is gunna suck this year. "
+date: 2005-09-01 02:53:31 -05:00
 tags: general, skinnycorp, awesome, work, photolog, destruction
 wordpress_url: http://www.nata2.org/?p=1123
 ---

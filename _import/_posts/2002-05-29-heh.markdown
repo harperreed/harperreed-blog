@@ -7,6 +7,7 @@ excerpt: |-
   fischer spooner rocks...
   linuxkilla (3:42:32 PM): http://www.alexchiu.com/affiliates/clickthru.cgi?id=natatwo
   eatabloodyfetus (3:42:33 PM): soon
+date: 2002-05-29 20:04:18 -05:00
 tags: fear, rock, blood, linux
 wordpress_url: http://new.nata2.org/?p=288
 ---

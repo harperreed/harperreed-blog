@@ -3,6 +3,7 @@ wordpress_id: 827
 layout: post
 title: i spent some time.
 excerpt: today has been pretty good so far. last night was fun. I went to juggling club. yoyoed a bunch and then went to see the stare play at  the mutiny. god I hate the mutiny. but the ...
+date: 2004-04-21 16:47:04 -05:00
 tags: phone, juggling, india, hiromi, travel, nokia
 wordpress_url: http://new.nata2.org/?p=827
 ---

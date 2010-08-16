@@ -2,6 +2,7 @@
 wordpress_id: 1387
 layout: post
 title: Mac telephony mailing list
+date: 2006-11-21 18:28:33 -06:00
 tags: technology, osx, apple, mac, asterisk, voip
 wordpress_url: http://www.nata2.org/2006/11/21/mac-telephony-mailing-list/
 ---

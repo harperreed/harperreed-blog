@@ -2,6 +2,7 @@
 wordpress_id: 1236
 layout: post
 title: so.. my experience in tokyo
+date: 2006-04-01 20:00:28 -06:00
 tags: general, food, hiromi, travel, japan, tokyo, trips
 wordpress_url: http://www.nata2.org/2006/04/01/so-my-experience-in-tokyo/
 ---

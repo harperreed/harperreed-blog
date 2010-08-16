@@ -2,6 +2,7 @@
 wordpress_id: 1099
 layout: post
 title: "This weekend rules. "
+date: 2005-07-24 06:34:38 -05:00
 tags: general, party, concert, lollapalooza
 wordpress_url: http://www.nata2.org/2005/07/24/this-weekend-rules/
 ---

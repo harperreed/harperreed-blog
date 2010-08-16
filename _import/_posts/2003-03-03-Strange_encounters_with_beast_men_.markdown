@@ -3,6 +3,7 @@ wordpress_id: 456
 layout: post
 title: Strange encounters with beast men.
 excerpt: So this weekend was incredible. It was also INSANE. seriously. on friday I hung out with a bunch of friends at the ladytron show. Which btw, was really great. ladytron did a remarkable job of representing their sound exactly how it is on the record. Dayum.. that concert was such a fashion show.. heh. so fun. my friend rachel c...
+date: 2003-03-03 17:05:29 -06:00
 tags: job, war, insane, chris, fashion, india
 wordpress_url: http://new.nata2.org/?p=456
 ---

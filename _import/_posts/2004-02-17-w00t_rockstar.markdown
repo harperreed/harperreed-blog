@@ -3,6 +3,7 @@ wordpress_id: 755
 layout: post
 title: w00t rockstar
 excerpt: morgan got picture of her fancy stuffed animal on a website. moses is pretty cool.so on saturday matiss, matt and myself are juggling at the metro for the chris holmes show. it will be fun. you should all go. we will roxor.
+date: 2004-02-17 02:16:42 -06:00
 tags: chris, juggling, matiss, holmes
 wordpress_url: http://new.nata2.org/?p=755
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 1330
 layout: post
 title: p2ptv client for osx
+date: 2006-08-31 05:06:16 -05:00
 tags: general, movies, osx, television, p2ptv, p2p
 wordpress_url: http://www.nata2.org/2006/08/31/p2ptv-client-for-osx/
 ---

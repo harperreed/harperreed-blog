@@ -2,6 +2,7 @@
 wordpress_id: 1146
 layout: post
 title: "A pseudo long time "
+date: 2005-11-04 00:50:41 -06:00
 tags: general, crobar, christmas, halloween, wedding, travel, weekend, tired, hifi, audio, dreams
 wordpress_url: http://www.nata2.org/2005/11/04/a-pseudo-long-time/
 ---

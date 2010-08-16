@@ -8,6 +8,7 @@ excerpt: |-
   
   anyway..
   check out my new website a500hacking.com. It is getting pretty ...
+date: 2002-10-03 00:26:02 -05:00
 tags: chicago, hacking, sites, food, college, websites
 wordpress_url: http://new.nata2.org/?p=369
 ---

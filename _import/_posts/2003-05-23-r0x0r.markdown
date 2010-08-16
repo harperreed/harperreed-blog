@@ -6,6 +6,7 @@ excerpt: |
   a good gamei got my picture phone.
   w00t
 
+date: 2003-05-23 05:34:16 -05:00
 tags: phone
 wordpress_url: http://new.nata2.org/?p=519
 ---

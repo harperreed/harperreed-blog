@@ -12,6 +12,7 @@ excerpt: |-
   
   
   i hope he stays safe.
+date: 2004-09-16 22:52:23 -05:00
 tags: iraq
 wordpress_url: http://new.nata2.org/?p=938
 ---

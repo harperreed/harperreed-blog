@@ -3,6 +3,7 @@ wordpress_id: 970
 layout: post
 title: woooooooooooo hooooooo
 excerpt: this weekend was really fun. I liked it. basically I just hung out and played video games, went to clubs and drank vodka. yea know. the usual. it all started on thrusday (as it always does)... so thursday I went to sushi wabi with claudia. then to sonotech. and I saw elisa. I was so excited.  I hadn't seen her in ages. I lke my friends. then we went to bungalow to see jordan and chad -...
+date: 2004-12-12 17:05:35 -06:00
 tags: video, chris, christmas, music, games, matiss, sushi
 wordpress_url: http://new.nata2.org/?p=970
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 1073
 layout: post
 title: certainly not work related
+date: 2005-06-01 18:13:05 -05:00
 tags: general, humor, aim, work
 wordpress_url: http://www.nata2.org/2005/06/01/certainly-not-work-related/
 ---

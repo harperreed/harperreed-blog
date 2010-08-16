@@ -11,6 +11,7 @@ excerpt: |-
   i am maybe drunk. it sucks. cuz I have to work. I thought I didn't have to work. and now I do. I am not real drunk. but a little. LAME. stupid sake. ;) 
   
   i am in trouble. so much trouble. I need to figure out what is happening. figure out and make...
+date: 2004-08-10 06:57:56 -05:00
 wordpress_url: http://new.nata2.org/?p=913
 ---
 One you lock the target,<br/>

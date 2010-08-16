@@ -2,6 +2,7 @@
 wordpress_id: 1210
 layout: post
 title: "can't sleep. stupid cold. "
+date: 2006-02-13 06:56:02 -06:00
 tags: general, cold, sick, google, hacks, diy, ambient, future
 wordpress_url: http://www.nata2.org/2006/02/13/cant-sleep-stupid-cold/
 ---

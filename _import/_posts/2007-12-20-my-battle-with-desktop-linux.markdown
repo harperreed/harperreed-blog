@@ -2,6 +2,7 @@
 wordpress_id: 1500
 layout: post
 title: My battle with desktop Linux
+date: 2007-12-20 12:52:15 -06:00
 tags: technology, linux, ubuntu, desktop-linux, computering, vpn
 wordpress_url: http://www.nata2.org/2007/12/20/my-battle-with-desktop-linux/
 ---

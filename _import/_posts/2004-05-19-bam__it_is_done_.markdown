@@ -3,6 +3,7 @@ wordpress_id: 867
 layout: post
 title: bam. it is done.
 excerpt: Ok Ok. so I have been reading Anna Karenina. It is amazing. seriously - possibly one of the better books I have ever read. I am fascinated with how thorough Tolstoy covers the story. and how the story seemingly covers everything. it is soo good. I love the feeling of want that is associated with re...
+date: 2004-05-19 21:36:34 -05:00
 tags: books, reed, family, war, fear, rock, food, security, action, terrorism, india, hiromi, itunes
 wordpress_url: http://new.nata2.org/?p=867
 ---

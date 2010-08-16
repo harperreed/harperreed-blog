@@ -2,6 +2,7 @@
 wordpress_id: 1475
 layout: post
 title: I am not excited for the US to attack Iran
+date: 2007-09-02 20:57:44 -05:00
 tags: general, war, fear, bush, annoying, iran, sad
 wordpress_url: http://www.nata2.org/2007/09/02/i-am-not-excited-for-the-us-to-attack-iran/
 ---

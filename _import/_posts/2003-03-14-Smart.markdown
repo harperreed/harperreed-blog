@@ -3,6 +3,7 @@ wordpress_id: 463
 layout: post
 title: Smart
 excerpt: The situation with that girl that was abducted in salt lake city is poised to become very very strange. I mean she was gone for quite a long time. anything can happen in that ime - including befriending ones abductors.. thus patty hearst.. I guess it is probably psychological. but it still makes for a insane story. I think that the US should lo...
+date: 2003-03-14 07:30:25 -06:00
 tags: job, insane, marriage, vacation, asia, travel, friendster
 wordpress_url: http://new.nata2.org/?p=463
 ---

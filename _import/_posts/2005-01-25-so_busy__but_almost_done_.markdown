@@ -3,6 +3,7 @@ wordpress_id: 984
 layout: post
 title: so busy. but almost done.
 excerpt: "check it out. the first step: yeknom industries. w00t. you will have to wait until later to see what comes next. being so busy I have barely had enough time to notice the insanely smart people who \"hang\" on the internet. basically I mean.. google employees. heh. for some starters - Chris Wetherell seems to be quite..."
+date: 2005-01-25 03:05:38 -06:00
 tags: domains, php, blogs, internet, server, insane, chris, design, taiwan, google, travel, wordpress
 wordpress_url: http://new.nata2.org/?p=984
 ---

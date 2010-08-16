@@ -2,6 +2,7 @@
 wordpress_id: 1232
 layout: post
 title: i made it to tokyo
+date: 2006-03-17 07:32:14 -06:00
 tags: general, hiromi, travel, awesome, japan
 wordpress_url: http://www.nata2.org/2006/03/17/i-made-it-to-tokyo/
 ---

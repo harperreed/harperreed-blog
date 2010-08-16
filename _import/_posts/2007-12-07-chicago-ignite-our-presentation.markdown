@@ -2,6 +2,7 @@
 wordpress_id: 1498
 layout: post
 title: Chicago Ignite! Our presentation
+date: 2007-12-07 00:11:21 -06:00
 tags: technology, chicago, humor, fun, ignite, ignite-chicago, tech-community, giraffes, mustaches
 wordpress_url: http://www.nata2.org/2007/12/07/chicago-ignite-our-presentation/
 ---

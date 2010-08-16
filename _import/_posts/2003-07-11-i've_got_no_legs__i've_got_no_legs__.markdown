@@ -3,6 +3,7 @@ wordpress_id: 564
 layout: post
 title: i've got no legs. i've got no legs..
 excerpt: "So there is this new movie out called whole which is about Body Integrity Identity Disorder -  or the want to become a amputee. I haven't seen it - however it will probably be interesting. we have seen this stuff before, but not to such an extent as outlined in the movie or in "
+date: 2003-07-11 14:38:45 -05:00
 tags: social, war, programming, insane, bush, health
 wordpress_url: http://new.nata2.org/?p=564
 ---

@@ -7,6 +7,7 @@ excerpt: |-
   
   
   this is awesome. check it out. GWBush is the w...
+date: 2003-08-27 19:55:17 -05:00
 tags: insane, bush
 wordpress_url: http://new.nata2.org/?p=608
 ---

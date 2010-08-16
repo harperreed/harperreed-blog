@@ -2,6 +2,7 @@
 wordpress_id: 1452
 layout: post
 title: Google Mashup Editor
+date: 2007-06-05 13:39:32 -05:00
 tags: technology, technology, yahoo-pipes, google, yahoo, mashups, google-mashup-editor
 wordpress_url: http://www.nata2.org/2007/06/05/google-mashup-editor/
 ---

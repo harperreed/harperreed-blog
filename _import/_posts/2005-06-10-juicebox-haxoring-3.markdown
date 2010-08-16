@@ -2,6 +2,7 @@
 wordpress_id: 1187
 layout: post
 title: Juicebox haxoring
+date: 2005-06-10 00:35:50 -05:00
 tags: general, hacking, juicebox, haxoring, make
 wordpress_url: http://www.nata2.org/2005/06/10/juicebox-haxoring-3/
 ---

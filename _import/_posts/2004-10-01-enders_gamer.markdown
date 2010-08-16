@@ -8,6 +8,7 @@ excerpt: |
   well now it is off to my "party"
   
 
+date: 2004-10-01 16:36:34 -05:00
 tags: job
 wordpress_url: http://new.nata2.org/?p=945
 ---

@@ -3,6 +3,7 @@ wordpress_id: 603
 layout: post
 title: online communities
 excerpt: i guess I still need to write that paper on online communities and the socialization of online relationships. Especially in light of friendster and the development of virtual "ubermensch." heh. I guess I wasn't clear in what I was saying. I am naive enough to jump to the conclusion that I can use the idea of the ubermensch when ...
+date: 2003-08-21 15:58:41 -05:00
 tags: social, war, community, tones, development, friendster
 wordpress_url: http://new.nata2.org/?p=603
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 1119
 layout: post
 title: I am going to punch the CTA in the face
+date: 2005-08-26 11:47:13 -05:00
 tags: general, chicago, cta
 wordpress_url: http://www.nata2.org/2005/08/26/i-am-going-to-punch-the-cta-in-the-face/
 ---

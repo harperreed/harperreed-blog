@@ -2,6 +2,7 @@
 wordpress_id: 1048
 layout: post
 title: insanity for sure
+date: 2005-04-20 01:22:26 -05:00
 tags: general, blogs, insanity, depervation
 wordpress_url: http://www.nata2.org/2005/04/20/insanity-for-sure/
 ---

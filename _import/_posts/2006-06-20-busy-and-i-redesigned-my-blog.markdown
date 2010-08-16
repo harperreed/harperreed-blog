@@ -2,6 +2,7 @@
 wordpress_id: 1295
 layout: post
 title: "busy.. and i redesigned my blog. "
+date: 2006-06-20 04:29:54 -05:00
 tags: general
 wordpress_url: http://www.nata2.org/2006/06/20/busy-and-i-redesigned-my-blog/
 ---

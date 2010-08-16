@@ -2,6 +2,7 @@
 wordpress_id: 1673
 layout: post
 title: "Smitten by the iPad: thoughts and complaints. "
+date: 2010-04-05 00:14:42 -05:00
 tags: general, apple, ipad
 wordpress_url: http://www.nata2.org/?p=1673
 ---

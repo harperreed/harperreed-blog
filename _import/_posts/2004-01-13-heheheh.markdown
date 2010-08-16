@@ -10,6 +10,7 @@ excerpt: |-
   NaTa22aTaN: internet lesson #1: always click the links
   NaTa22aTaN: internet lesson #2: don't click links having to do with http://www.goatse.cx
   q is not a name: AAAAA...
+date: 2004-01-13 02:02:24 -06:00
 tags: internet, video, rock, juggling
 wordpress_url: http://new.nata2.org/?p=726
 ---

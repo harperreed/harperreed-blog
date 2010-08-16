@@ -2,6 +2,7 @@
 wordpress_id: 1189
 layout: post
 title: Nokia 7610
+date: 2005-02-01 11:55:39 -06:00
 tags: general, technology, phones, mobile, nokia
 wordpress_url: http://www.nata2.org/2005/02/01/nokia-7610-3/
 ---

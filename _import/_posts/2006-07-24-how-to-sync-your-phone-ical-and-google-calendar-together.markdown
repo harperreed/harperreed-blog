@@ -2,6 +2,7 @@
 wordpress_id: 1249
 layout: post
 title: How to sync your phone, iCal and Google Calendar together.
+date: 2006-07-24 04:04:18 -05:00
 tags: technology, technology
 wordpress_url: http://www.nata2.org/2006/07/24/how-to-sync-your-phone-ical-and-google-calendar-together/
 ---

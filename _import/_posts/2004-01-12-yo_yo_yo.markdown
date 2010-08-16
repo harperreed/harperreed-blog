@@ -3,6 +3,7 @@ wordpress_id: 723
 layout: post
 title: yo yo yo
 excerpt: for the love of god it was a great weekend. Work has been interesting. a lot of drama and going forwards-ness. it is nice. finally stuff is getting done. but at the expense of a lot of comfortability and weird weird situations. anyway..On friday I came home and took a nap. I talked with ladawn a bunch on the phone which was awesome, she seems to be doing wonderful. I decided that my roo...
+date: 2004-01-12 03:18:46 -06:00
 tags: phone, war, video, food, crobar, insane, chris, mom, experiment, sushi, amjad
 wordpress_url: http://new.nata2.org/?p=723
 ---

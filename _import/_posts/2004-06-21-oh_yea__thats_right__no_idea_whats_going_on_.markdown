@@ -3,6 +3,7 @@ wordpress_id: 889
 layout: post
 title: oh yea. thats right. no idea whats going on.
 excerpt: i woke up this morning with both a strange sickness in my throat and an feeling that I had lost all ability to type. it was weird. this weekend was pretty good. I basically just hung out with some friends, saw some good shows and all that nonsense. It all started on thrusday. oh yea. crobar. we all hung out. hiromi was drinking a little more than she usually  does so that was hilarious....
+date: 2004-06-21 15:11:48 -05:00
 tags: juggle, jugglers, sick, food, crobar, metal, juggling, music, matiss, girls, hiromi
 wordpress_url: http://new.nata2.org/?p=889
 ---

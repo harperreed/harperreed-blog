@@ -7,6 +7,7 @@ excerpt: |-
   i was like:
   "uhh, what"
   thems fighting words...
+date: 2001-07-09 20:46:26 -05:00
 tags: general, friends, server
 wordpress_url: http://new.nata2.org/?p=11
 ---

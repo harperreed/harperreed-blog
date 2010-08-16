@@ -4,6 +4,7 @@ layout: post
 title: today is kinda weird
 excerpt: "something is strangely off about today. maybe it is the cloud cover.. maybe the temp. maybe the wind.. maybe the lack of reality within my already pallid life.. maybe the drama I make up in sentences like the last one. ;).. but no matter what it is.. it looks like bush and his iraq issue is coming to a head.\r\n\
   apparently a outspoken and often-ally of bush is making statements about how "
+date: 2002-08-16 20:40:00 -05:00
 tags: war, insane, bush, security, action, military, mom, terrorism, india, politics, politic, iraq
 wordpress_url: http://new.nata2.org/?p=343
 ---

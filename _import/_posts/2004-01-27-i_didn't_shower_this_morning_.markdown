@@ -3,6 +3,7 @@ wordpress_id: 737
 layout: post
 title: i didn't shower this morning.
 excerpt: "in fact I really didn't do much. I honestly barely made it to work. but on;y because I was so tired from working last night. I don't know what the deal was.. I was dieing. I drank soo much pop and candy  - I think I surpassed the point of it being helpfuland it became a method of sedation. stupid sedation. I am sitll in love however with wireless internet. so before any asks.. yea I like it. "
+date: 2004-01-27 21:56:39 -06:00
 tags: internet, server, bush, kstar, health, experiment, hiromi
 wordpress_url: http://new.nata2.org/?p=737
 ---

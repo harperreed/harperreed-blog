@@ -3,6 +3,7 @@ wordpress_id: 460
 layout: post
 title: oh boy oh boy.
 excerpt: I have needed to update this site for so long. I guess really since last thursday. So last thursday I went out with some friends.. maybe a little too late.. it was all my poor little body could handle. I was horribly sick the next day and had to stay home from work.. which sucks.. cuz work is cool right now.. but whatever. so I slept most of the day - but was supposed to drive to Champaign/urbana...
+date: 2003-03-10 23:33:14 -06:00
 tags: juggle, jugglers, chicago, war, sick, insane, watership, juggling, games, matiss, ipod
 wordpress_url: http://new.nata2.org/?p=460
 ---

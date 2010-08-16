@@ -2,6 +2,7 @@
 wordpress_id: 1231
 layout: post
 title: Wow. this weekend was frantic and full of sleep.
+date: 2006-03-13 01:41:11 -06:00
 tags: general, work, crazy, steam, verbos
 wordpress_url: http://www.nata2.org/2006/03/13/wow-this-weekend-was-frantic-and-full-of-sleep/
 ---

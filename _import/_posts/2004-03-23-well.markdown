@@ -3,6 +3,7 @@ wordpress_id: 791
 layout: post
 title: well
 excerpt: this is an incredible headline. maybe the best fark headline I have ever seen. today I stumbled accross banksy's site. his stencil work is out of control. it was really busy this mornign so i mirrore...
+date: 2004-03-23 22:04:53 -06:00
 tags: phone, war, rock, laptop, action, phones, mobile, tmobile, nokia
 wordpress_url: http://new.nata2.org/?p=791
 ---

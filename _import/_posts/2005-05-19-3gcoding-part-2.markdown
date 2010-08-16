@@ -2,6 +2,7 @@
 wordpress_id: 1161
 layout: post
 title: 3gcoding part 2
+date: 2005-05-19 01:05:33 -05:00
 tags: general
 wordpress_url: http://www.nata2.org/2005/05/19/3gcoding-part-2/
 ---

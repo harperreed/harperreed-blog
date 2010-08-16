@@ -2,6 +2,7 @@
 wordpress_id: 1311
 layout: post
 title: Weekend Update! Tokyo soon. Work excitement.
+date: 2006-07-24 04:21:54 -05:00
 tags: general, juggling, travel, weekend, tokyo
 wordpress_url: http://www.nata2.org/2006/07/24/weekend-update-tokyo-soon-work-excitement/
 ---

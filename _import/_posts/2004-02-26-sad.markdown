@@ -3,6 +3,7 @@ wordpress_id: 761
 layout: post
 title: sad
 excerpt: "A week and a half ago chris saathoff was killed by a drunk driver. It is pretty sad (of course) - but watching his blog stop and his friends react. the news story is "
+date: 2004-02-26 15:48:10 -06:00
 tags: chicago, chris
 wordpress_url: http://new.nata2.org/?p=761
 ---

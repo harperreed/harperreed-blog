@@ -2,6 +2,7 @@
 wordpress_id: 1219
 layout: post
 title: I redid jokesareawesome.com
+date: 2006-02-24 02:14:37 -06:00
 tags: general, harper, sites, humor, jokes, funny, me
 wordpress_url: http://www.nata2.org/2006/02/24/i-redid-jokesareawesomecom/
 ---

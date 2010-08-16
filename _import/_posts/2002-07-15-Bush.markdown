@@ -3,6 +3,7 @@ wordpress_id: 320
 layout: post
 title: Bush
 excerpt: "bush and cheney get to have a good time justifiing their actions soon. It looks as though cheney knew about some of the sketchy business practices that he questioned. It also is strange that the person that bush picked to be the head of corporate task force was "
+date: 2002-07-15 21:32:15 -05:00
 tags: books, chicago, coding, bush, action, business, corporate
 wordpress_url: http://new.nata2.org/?p=320
 ---

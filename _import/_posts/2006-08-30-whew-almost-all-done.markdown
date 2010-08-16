@@ -2,6 +2,7 @@
 wordpress_id: 1329
 layout: post
 title: "whew.. almost all done.. "
+date: 2006-08-30 09:35:05 -05:00
 tags: general, marriage, hiromi, japan, tokyo
 wordpress_url: http://www.nata2.org/2006/08/30/whew-almost-all-done/
 ---

@@ -3,6 +3,7 @@ wordpress_id: 565
 layout: post
 title: anger
 excerpt: So today I got up.. got right to work. did a little bit of financial planning.. played with bank statements and suddenly noticed a very large charge from sprintpcs. so I called them and they suck. really. they suck so so much. they alleged that I received two phones, started a new service contract and then canceled. thus invoking about $600 of charges. So I talked to them and they have a differen...
+date: 2003-07-14 05:52:47 -05:00
 tags: phone, girlfriend, vacation, sprint, phones
 wordpress_url: http://new.nata2.org/?p=565
 ---

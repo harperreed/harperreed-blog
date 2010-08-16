@@ -2,6 +2,7 @@
 wordpress_id: 1139
 layout: post
 title: t-amp hacking
+date: 2005-10-17 16:58:00 -05:00
 tags: general, hacking, stereo, hifi, t-amp
 wordpress_url: http://www.nata2.org/2005/10/17/t-amp-hacking/
 ---

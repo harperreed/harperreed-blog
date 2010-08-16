@@ -2,6 +2,7 @@
 wordpress_id: 1429
 layout: post
 title: The whole blogging code of conduct thing.
+date: 2007-04-10 09:45:45 -05:00
 tags: technology, technology, stupid, life, decency, code, conduct, feelings
 wordpress_url: http://www.nata2.org/2007/04/10/the-whole-blogging-code-of-conduct-thing/
 ---

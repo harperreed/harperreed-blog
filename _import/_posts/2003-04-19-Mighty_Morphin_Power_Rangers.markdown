@@ -9,6 +9,7 @@ excerpt: |-
   [15:25 - Saturday] NaTa22aTaN: wew you surprised
   [15:25 - Saturday] quantazelle: totally
   [15:25 - Saturday] quantazelle: that was hilariou...
+date: 2003-04-19 20:35:02 -05:00
 wordpress_url: http://new.nata2.org/?p=491
 ---
 So the other day a friend of mine and myself were perusing ebay for some fine goods.. and we came accross a box of mighty morphin power ranger soap. so I purchased it and had it sent to a friend of mine:

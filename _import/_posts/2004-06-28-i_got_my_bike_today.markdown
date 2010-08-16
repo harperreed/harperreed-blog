@@ -3,6 +3,7 @@ wordpress_id: 892
 layout: post
 title: i got my bike today
 excerpt: this weekend was awesome. on thursday I hung out with a dope friend - we got dinner and drinks - it was pretty nice. I went home for a quick stop to say hi to my friends who were staying and then went to crobar - where a bunch of friends were. we somehow made it to vips. hahah. wh...
+date: 2004-06-28 07:08:35 -05:00
 tags: dylan, phone, sick, school, food, crobar, insane, movies, bush, action, matiss, wedding, nokia
 wordpress_url: http://new.nata2.org/?p=892
 ---

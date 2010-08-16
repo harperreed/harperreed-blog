@@ -2,6 +2,7 @@
 wordpress_id: 1374
 layout: post
 title: Hiromi got her visa!
+date: 2006-10-23 00:25:59 -05:00
 tags: general, family, marriage, hiromi, immigration, visa, happy
 wordpress_url: http://www.nata2.org/2006/10/23/hiromi-got-her-visa/
 ---

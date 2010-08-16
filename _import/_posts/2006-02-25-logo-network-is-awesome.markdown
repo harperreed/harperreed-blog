@@ -2,6 +2,7 @@
 wordpress_id: 1221
 layout: post
 title: LOGO network is awesome
+date: 2006-02-25 23:30:33 -06:00
 tags: general, movies, logo, lesbian, grill, tnt, crap, gay
 wordpress_url: http://www.nata2.org/2006/02/25/logo-network-is-awesome/
 ---

@@ -3,6 +3,7 @@ wordpress_id: 329
 layout: post
 title: blueberry soup..
 excerpt: "yep its true.  ihad blueberry soup last night. I cannot lie. it was tasty. a little out of control.Do you want to be a Rock Star Scenester?Bush warns CEOs: 'You'll be exposed' - I wonder if they will expose bush in the process of bush exposing them. I also wonder if "
+date: 2002-07-30 14:41:08 -05:00
 tags: php, war, rock, bush, kstar, kungfu
 wordpress_url: http://new.nata2.org/?p=329
 ---

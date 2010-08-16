@@ -2,6 +2,7 @@
 wordpress_id: 1078
 layout: post
 title: i live in a russian novel.
+date: 2005-06-08 12:49:25 -05:00
 tags: general, job, chicago, injured, train, cta, medicine
 wordpress_url: http://www.nata2.org/2005/06/08/i-live-in-a-russian-novel/
 ---

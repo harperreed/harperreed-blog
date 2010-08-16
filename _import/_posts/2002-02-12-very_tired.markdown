@@ -3,6 +3,7 @@ wordpress_id: 206
 layout: post
 title: very tired
 excerpt: I am so tired today. I wish I was a simple web app designer. Soemtimes I don't really like my job. This is the first time I have used this blog to vent about my employment. I feel bad venting. But I don't have anywhere else to go.. ;). I am frustrated at what I see as unprogressive movement. It isn't necessarily anything that happened today. it is just that I get frustrated when certain a...
+date: 2002-02-12 17:52:20 -06:00
 tags: job, action, design
 wordpress_url: http://new.nata2.org/?p=206
 ---

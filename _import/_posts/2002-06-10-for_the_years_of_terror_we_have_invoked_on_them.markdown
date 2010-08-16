@@ -4,6 +4,7 @@ layout: post
 title: for the years of terror we have invoked on them
 excerpt: "This is a rant:\r\n\
   I do not like that we are at war right now. I think it is really ridiculous. I mean, our enemy is a group of militants that we don?t officially know exists, they use weapons that are more powerful than what we use, they are scare mongered into inhuman monsters. And it seems that "
+date: 2002-06-10 21:53:55 -05:00
 tags: war, bush, security
 wordpress_url: http://new.nata2.org/?p=291
 ---

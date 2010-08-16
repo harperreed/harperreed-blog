@@ -2,6 +2,7 @@
 wordpress_id: 1050
 layout: post
 title: "ajaxed up on ruby on rails. seriously this time. "
+date: 2005-04-30 00:20:00 -05:00
 tags: general, music, osx, apple, applications, mac, ruby, rails, on, ajax, application, web, tiger, jack, spade
 wordpress_url: http://www.nata2.org/2005/04/30/ajaxed-up-on-ruby-on-rails-seriously-this-time/
 ---

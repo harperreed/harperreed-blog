@@ -2,6 +2,7 @@
 wordpress_id: 1156
 layout: post
 title: upgraded to wordpress 2.0
+date: 2006-01-05 13:17:59 -06:00
 tags: general, skinnycorp, wordpress, work, upgrading, extratasty
 wordpress_url: http://www.nata2.org/2006/01/05/upgraded-to-wordpress-20/
 ---

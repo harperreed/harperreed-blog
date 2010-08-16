@@ -2,6 +2,7 @@
 wordpress_id: 1321
 layout: post
 title: spiders are apparently good luck
+date: 2006-08-13 19:48:34 -05:00
 tags: general, movies, juggling, spiders
 wordpress_url: http://www.nata2.org/2006/08/13/spiders-are-apparently-good-luck/
 ---

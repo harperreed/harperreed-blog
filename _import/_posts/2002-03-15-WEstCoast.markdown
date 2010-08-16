@@ -3,6 +3,7 @@ wordpress_id: 230
 layout: post
 title: WEstCoast
 excerpt: so I think I got a playstation. It should come soon. I am excited to play GTA3. hehe. it should rule. Nobody will know whoever if it actually will. the graphics better be dope. or I am returning it. haha. Check this out. ;). So work cancelled casual fridays. Which is a rather small deal. However.. I hat edressing up in busines...
+date: 2002-03-15 20:12:42 -06:00
 tags: cell, computers, action, business, playstation
 wordpress_url: http://new.nata2.org/?p=230
 ---

@@ -3,6 +3,7 @@ wordpress_id: 282
 layout: post
 title: high voltage fun!!
 excerpt: "Once when I was little, I was playing with my jacobs ladder, when my arm got stuck in it. This burnt me real bad and made me a littl ebit sad. however, since that moment I have always enjoyed high voltage equipment. SO check out this for all your antigravity needs or "
+date: 2002-05-14 20:10:05 -05:00
 tags: mom, humor
 wordpress_url: http://new.nata2.org/?p=282
 ---

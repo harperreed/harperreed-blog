@@ -2,6 +2,7 @@
 wordpress_id: 1030
 layout: post
 title: weekend oh yea
+date: 2005-03-28 02:29:32 -06:00
 tags: general, blogs, food, crobar, flickr, hong, kong, sushi, itunes, awesome, party
 wordpress_url: http://www.nata2.org/2005/03/28/weekend-oh-yea/
 ---

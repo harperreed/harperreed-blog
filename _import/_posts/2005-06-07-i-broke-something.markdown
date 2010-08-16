@@ -2,6 +2,7 @@
 wordpress_id: 1077
 layout: post
 title: i broke something
+date: 2005-06-07 12:30:46 -05:00
 tags: general, sick, pain, doctors, foot
 wordpress_url: http://www.nata2.org/2005/06/07/i-broke-something/
 ---

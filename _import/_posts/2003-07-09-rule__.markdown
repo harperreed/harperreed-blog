@@ -7,6 +7,7 @@ excerpt: |
   this is not as cool.. but maybe if you are 
   angry enough.. you can get some 
 
+date: 2003-07-09 15:25:32 -05:00
 tags: php, movies, sex, juggling, humor, politics, politic, apple, ipod
 wordpress_url: http://new.nata2.org/?p=562
 ---

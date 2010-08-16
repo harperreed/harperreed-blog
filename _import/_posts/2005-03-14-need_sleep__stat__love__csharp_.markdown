@@ -9,6 +9,7 @@ excerpt: |-
   released their &amp;quot;upgrade&amp;quot; which is significantly better than what they
   had, and rather similar to what I have done. doh! I guess I have to
   redo and make mine a lot bett...
+date: 2005-03-14 05:48:07 -06:00
 tags: general, sites, rock, websites
 wordpress_url: http://new.nata2.org/?p=1006
 ---

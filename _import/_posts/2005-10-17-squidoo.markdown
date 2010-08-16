@@ -2,6 +2,7 @@
 wordpress_id: 1138
 layout: post
 title: "squidoo "
+date: 2005-10-17 15:50:59 -05:00
 tags: general, awesome, squidoo, seth, godin
 wordpress_url: http://www.nata2.org/2005/10/17/squidoo/
 ---

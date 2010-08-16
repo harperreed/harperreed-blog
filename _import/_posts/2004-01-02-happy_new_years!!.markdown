@@ -3,6 +3,7 @@ wordpress_id: 710
 layout: post
 title: happy new years!!
 excerpt: "here are some pictures of the haps from last night. it was fun. First I went and had a great dinner with some friends. and then "
+date: 2004-01-02 00:45:17 -06:00
 tags: juggle, php, matiss, irc
 wordpress_url: http://new.nata2.org/?p=710
 ---

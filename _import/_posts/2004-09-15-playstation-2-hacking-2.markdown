@@ -2,6 +2,7 @@
 wordpress_id: 1193
 layout: post
 title: Playstation 2 hacking
+date: 2004-09-15 22:30:31 -05:00
 tags: general, hacking, awesome, sony, haxoring, ps2
 wordpress_url: http://www.nata2.org/2004/09/15/playstation-2-hacking-2/
 ---

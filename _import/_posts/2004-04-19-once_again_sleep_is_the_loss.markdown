@@ -3,6 +3,7 @@ wordpress_id: 823
 layout: post
 title: once again sleep is the loss
 excerpt: i can't seem to sleep. I mean. I did take a nap from 10:00-12:00 haha. it wasn't so much as a nap as much as it was an alcohol enforced sleep. heh. the plan was to have all of our friends meet us at the bar that is really close to my house. it worked very well. we got there arou...
+date: 2004-04-19 06:59:31 -05:00
 tags: dylan, reed, php, phone, cell, video, rock, crobar, juggling, business, yoyos, nokia
 wordpress_url: http://new.nata2.org/?p=823
 ---

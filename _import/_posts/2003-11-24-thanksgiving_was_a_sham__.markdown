@@ -3,6 +3,7 @@ wordpress_id: 683
 layout: post
 title: thanksgiving was a sham..
 excerpt: "So I just got back.. well not just but recently got back from my parents house in colorful colorado and we had our fake thanksgiving. it was really nice. a bunch of people came and had fun with us. the best was watching kile and the crew "
+date: 2003-11-24 21:14:56 -06:00
 tags: colorado, holidays
 wordpress_url: http://new.nata2.org/?p=683
 ---

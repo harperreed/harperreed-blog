@@ -3,6 +3,7 @@ wordpress_id: 527
 layout: post
 title: whoo ha
 excerpt: so this weekend ruled. my friend marica took me to tango heh. yep. that is correct. I had forgotten how much I enjoy to dance ballroom style. it is a lot of fun. so on saturday I slept a bit, did laundry and watched a movie called gia. It was quite sad...
+date: 2003-06-02 16:07:24 -05:00
 tags: social, job, juggle, chicago, women, war, rock, food, fashion, action, matiss, irc, hiromi, drugs, yoyoing
 wordpress_url: http://new.nata2.org/?p=527
 ---

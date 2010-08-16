@@ -3,6 +3,7 @@ wordpress_id: 898
 layout: post
 title: anaglyph
 excerpt: so I took a break today at work and looked at red/blue 3d pictures with these super fancy three d glasses that a coworker has. it rules. it rules so much I have a bitching headache right now. work is very serious currently. it kinda sucks. I have a so much stuff to do and so little time. and it is all stuff that is fun - but not when the pressure is so high. all I really want to do is p...
+date: 2004-07-07 21:54:12 -05:00
 tags: dylan, phone, war, sites, insane, jokes, cars, amjad, nokia
 wordpress_url: http://new.nata2.org/?p=898
 ---

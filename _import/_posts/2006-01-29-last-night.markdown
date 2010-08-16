@@ -2,6 +2,7 @@
 wordpress_id: 1202
 layout: post
 title: "last night. "
+date: 2006-01-29 16:12:19 -06:00
 tags: general, reading, vinge, simmons, fantasy
 wordpress_url: http://www.nata2.org/2006/01/29/last-night/
 ---

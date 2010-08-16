@@ -5,6 +5,7 @@ title: Hehe...
 excerpt: |-
   So SmartFilter is apparently blocking my site nata2.org. My friend sent me this message:
   This site (http://www.nata2.org/) is categorized as: 'Crim. Skills' and has been blocked by SmartFilter. Please contact Data Security at xxx-xxx-xxxx if you have a business need to access this site....
+date: 2002-02-01 11:29:16 -06:00
 tags: security, business, terrorism
 wordpress_url: http://new.nata2.org/?p=198
 ---

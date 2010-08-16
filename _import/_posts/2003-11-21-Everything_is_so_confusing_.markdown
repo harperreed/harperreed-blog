@@ -5,6 +5,7 @@ title: Everything is so confusing.
 excerpt: |
   So work got hard again. everyone is super stressed and really getting down about this project. I am confident it will be resolved soon enough. we just have to do it ;)in the meantime, we shoudl all be playing NES and then download GTA and go killin. 
 
+date: 2003-11-21 21:11:07 -06:00
 tags: phone, colorado, rock, kstar, games, phones
 wordpress_url: http://new.nata2.org/?p=682
 ---

@@ -3,6 +3,7 @@ wordpress_id: 180
 layout: post
 title: tonight..
 excerpt: Tonight I went out with a good friend of mine. it is wierd because they are originally k*star's friend. but somehow I grafted them over to be my friend as well. They are real nice. I don't know how k*star doesn it. but she certainly picks god friends. all of her friends are nice. Unfortunantly I got a little ferschnickered tonight and wasn't able to be a big help to k*star when she called me. ...
+date: 2002-01-16 02:44:40 -06:00
 tags: war
 wordpress_url: http://new.nata2.org/?p=180
 ---

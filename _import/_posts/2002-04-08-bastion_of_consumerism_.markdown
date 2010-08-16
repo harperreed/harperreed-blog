@@ -3,6 +3,7 @@ wordpress_id: 253
 layout: post
 title: bastion of consumerism.
 excerpt: I just finished watching ghost world. I am not sure if my time has been wasted or not. I don't think so. But you never know. heh. this weekend was quite good. I had a lot of friends over and went out to a lot of clubs. I also spent far too much money for the amount of return I got.  But that is OK. It was really funa dn I was able to lose all of my worries for one weekend. It was really great to...
+date: 2002-04-08 06:13:07 -05:00
 tags: kinnera, crobar
 wordpress_url: http://new.nata2.org/?p=253
 ---

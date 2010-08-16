@@ -2,6 +2,7 @@
 wordpress_id: 1601
 layout: post
 title: Seven Things (goddamn internet friends)
+date: 2009-01-11 16:05:55 -06:00
 tags: general, harper, meme, seven-things, about-me
 wordpress_url: http://www.nata2.org/2009/01/11/seven-things-goddamn-internet-friends/
 ---
@@ -22,25 +23,30 @@ wordpress_url: http://www.nata2.org/2009/01/11/seven-things-goddamn-internet-fri
 <p style="clear: both">I love David Bowie. It isn't a love that requires posters and discussion or anything. It is kind of similar to how people who grew up catholic talk about religion. David Bowie has just always been there for me. My first record I picked for myself was <a href="http://en.wikipedia.org/wiki/The_Rise_and_Fall_of_Ziggy_Stardust_and_the_Spiders_from_Mars">Ziggy Stardust</a>. My first concert was the <a href="http://en.wikipedia.org/wiki/Sound_and_Vision_Tour">Bowie's Sound + Vision tour</a>. When I was quite younger, my mom took me to get my hair cut and I brought along my <a href="http://en.wikipedia.org/wiki/Labyrinth_(film)">Labyrinth</a> LP to show the stylist that I wanted <a href="http://thefanboys.com/wp-content/uploads/2006/11/david_bowie_labyrinth.jpg">David Bowie hair</a>. I ended up with a rat tail.</p>
 <p style="clear: both"><strong>Seven:</strong></p>
 <p style="clear: both">Although I always knew I would end up with a Computer Science degree - I fought it as long as I could. In college I studied the history of Catholicism for a couple years before actually jumping into computer science. It was awesome. I ended up concentrating on <a href="http://en.wikipedia.org/wiki/Giordano_Bruno">Giordano Bruno</a> and the his (untimely) multi-world theory. It was a lot of fun and lead me to have an unnatural interest in the mechanics of theology.</p>
+
 <ol style="clear: both"></ol>
-<p style="clear: both"><strong>That's it!</strong></p>
+<p style="clear: both"><strong>That's it!
+</strong>
 <p style="clear: both">To make this official, I now have to tag 7 people to make a Seven Things list on their blog.</p>
 <p style="clear: both">Ready? These Seven People please report to the meme office and make a Seven Things entry on your blog:</p>
+
 <ol style="clear: both">
-<li><a href="http://dylanreed.com">Dylan Reed</a> - my brother - I like involving him in the blogosphere.</li>
-<li><a href="http://morefishthanman.com/">Scott Van Den Plas</a> - crazy person - He has a great blog and I love including him in meme parties.</li>
-<li><a href="http://blog.localkinegrinds.com/">Ryan Kanno</a> - hawaii nerd - Ryan is hilarious. Hopefully all seven things will be about a Ukulele.</li>
-<li><a href="http://prestosamo.blogspot.com/">Cole Pierce</a> - art nerd - Cole is one of my favorite artists. I used to make him go to terrible iowan raves.</li>
-<li><a href="http://lakshvivek.com/">Lakshmi Nagarajan</a> - friend and pro blogger - Lakshmi is an awesome "mommy" blogger who learned to drive a car in 2008. heh.</li>
-<li><a href="http://anders.conbere.org/journal/">Anders Conbere</a> - xmpp nerd - Anders is awesome. I hope he picks this meme up.</li>
-<li><a href="http://www.joevw.com/blog/">Speedy Joe</a> - awesome designer - Speedy just set up his blog. I wanted to give him some blogosphere love. ;)</li>
+	<li><a href="http://dylanreed.com">Dylan Reed</a> - my brother - I like involving him in the blogosphere.</li>
+	<li><a href="http://morefishthanman.com/">Scott Van Den Plas</a> - crazy person - He has a great blog and I love including him in meme parties.</li>
+	<li><a href="http://blog.localkinegrinds.com/">Ryan Kanno</a> - hawaii nerd - Ryan is hilarious. Hopefully all seven things will be about a Ukulele.</li>
+	<li><a href="http://prestosamo.blogspot.com/">Cole Pierce</a> - art nerd - Cole is one of my favorite artists. I used to make him go to terrible iowan raves.</li>
+	<li><a href="http://lakshvivek.com/">Lakshmi Nagarajan</a> - friend and pro blogger - Lakshmi is an awesome "mommy" blogger who learned to drive a car in 2008. heh.</li>
+	<li><a href="http://anders.conbere.org/journal/">Anders Conbere</a> - xmpp nerd - Anders is awesome. I hope he picks this meme up.</li>
+	<li><a href="http://www.joevw.com/blog/">Speedy Joe</a> - awesome designer - Speedy just set up his blog. I wanted to give him some blogosphere love. ;)</li>
 </ol>
-<p style="clear: both">The rules of this &acirc;&euro;&tilde;game&acirc;&euro;&trade; for those that I have tagged:</p>
+<p style="clear: both">The rules of this ‘game’ for those that I have tagged:</p>
+
 <ul style="clear: both">
-<li>Link your original tagger(s), and list these rules on your blog.</li>
-<li>Share seven facts about yourself in the post - some random, some weird.</li>
-<li>Tag seven people at the end of your post by leaving their names and the links to their blogs.</li>
-<li>Let them know they&acirc;&euro;&trade;ve been tagged by leaving a comment on their blogs and/or Twitter</li>
+	<li>Link your original tagger(s), and list these rules on your blog.</li>
+	<li>Share seven facts about yourself in the post - some random, some weird.</li>
+	<li>Tag seven people at the end of your post by leaving their names and the links to their blogs.</li>
+	<li>Let them know they’ve been tagged by leaving a comment on their blogs and/or Twitter</li>
 </ul>
 <p style="clear: both">There yea have it. I continued the meme. I am not one to be a meme killer ;) This was fun. Thanks to Eli and Brian for making it happen!</p>
-<br class="final-break" style="clear: both">
+
+<br class="final-break" style="clear: both" />

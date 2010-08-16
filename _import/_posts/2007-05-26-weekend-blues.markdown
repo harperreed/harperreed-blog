@@ -2,6 +2,7 @@
 wordpress_id: 1445
 layout: post
 title: Weekend blues
+date: 2007-05-26 14:31:55 -05:00
 tags: general, hacking, chumby
 wordpress_url: http://www.nata2.org/2007/05/26/weekend-blues/
 ---

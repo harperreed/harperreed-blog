@@ -2,6 +2,7 @@
 wordpress_id: 1129
 layout: post
 title: "some ideas. "
+date: 2005-09-15 02:10:46 -05:00
 tags: general, food, crobar, fun, ideas, travel, bike
 wordpress_url: http://www.nata2.org/2005/09/15/some-ideas/
 ---

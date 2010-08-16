@@ -3,6 +3,7 @@ wordpress_id: 490
 layout: post
 title: hohowhwhaahahahah
 excerpt: "So today around 2:00 I talked to this dude from cnn about his site.. which I found posted to some random page.. and I was browsing through when I noticed some of the strangest stuff on there... so I immediately mirrored it.. ;) and now it is posted to "
+date: 2003-04-16 21:43:52 -05:00
 tags: watership, aim
 wordpress_url: http://new.nata2.org/?p=490
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 1110
 layout: post
 title: "Radio Fame. "
+date: 2005-08-12 21:11:35 -05:00
 tags: general, travel, hungry, geek, sun, tired
 wordpress_url: http://www.nata2.org/2005/08/12/radio-fame/
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 1177
 layout: post
 title: Ipod Mini, Mac Mini and padded rooms.
+date: 2005-02-01 10:02:29 -06:00
 tags: general
 wordpress_url: http://www.nata2.org/2005/02/01/ipod-mini-mac-mini-and-padded-rooms/
 ---

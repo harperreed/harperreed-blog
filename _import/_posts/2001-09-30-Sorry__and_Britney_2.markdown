@@ -6,6 +6,7 @@ excerpt: |-
   So I got britney spears tickets. Wee Hee. I am excited. I hope they are good. I used the "secret" presale password to purchase the tickets from ticketmaster. god I hate that company.
   
   I am also sorry that I haven't been concentrating on this site very much. I have been putting a lot of my time into watership.o...
+date: 2001-09-30 18:55:05 -05:00
 tags: hacking, audreyhacking, audrey, watership
 wordpress_url: http://new.nata2.org/?p=112
 ---

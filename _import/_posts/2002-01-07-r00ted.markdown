@@ -3,6 +3,7 @@ wordpress_id: 167
 layout: post
 title: r00ted
 excerpt: Today a dumb ass cracker rooted one of my boxes. It was a cobalt RaQ and was running sendmail and an old version of sshd, so it "deserved it." I had done a lot to make it more secure, however the default web admin tools that my clients use relied on sendmail and telnet and such. it was super sketchy. So anyway, the reason I say that it was a dumb ass cracker, was because they tried to install a r...
+date: 2002-01-07 02:05:03 -06:00
 tags: hosting, hacker, tools
 wordpress_url: http://new.nata2.org/?p=167
 ---

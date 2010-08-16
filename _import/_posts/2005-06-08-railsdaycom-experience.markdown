@@ -2,6 +2,7 @@
 wordpress_id: 1079
 layout: post
 title: railsday.com experience
+date: 2005-06-08 18:50:11 -05:00
 tags: general, food, projects, ruby, rails, on, railsday, andy
 wordpress_url: http://www.nata2.org/2005/06/08/railsdaycom-experience/
 ---

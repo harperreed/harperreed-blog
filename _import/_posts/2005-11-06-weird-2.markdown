@@ -2,6 +2,7 @@
 wordpress_id: 1147
 layout: post
 title: weird...
+date: 2005-11-06 02:25:48 -06:00
 tags: general, sick, movies, travel, weather
 wordpress_url: http://www.nata2.org/2005/11/06/weird-2/
 ---

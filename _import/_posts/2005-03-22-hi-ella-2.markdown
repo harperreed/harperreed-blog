@@ -2,6 +2,7 @@
 wordpress_id: 1021
 layout: post
 title: hi ella
+date: 2005-03-22 11:20:17 -06:00
 tags: general, ella
 wordpress_url: http://www.nata2.org/2005/03/22/hi-ella-2/
 ---

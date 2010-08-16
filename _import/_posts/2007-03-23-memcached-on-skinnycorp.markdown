@@ -2,6 +2,7 @@
 wordpress_id: 1424
 layout: post
 title: Memcached on skinnyCorp
+date: 2007-03-23 15:24:07 -05:00
 tags: technology, technology, php, threadless, skinnycorp, memcached
 wordpress_url: http://www.nata2.org/2007/03/23/memcached-on-skinnycorp/
 ---

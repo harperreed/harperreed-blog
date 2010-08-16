@@ -2,6 +2,7 @@
 wordpress_id: 1128
 layout: post
 title: hahaha. hiromi rules
+date: 2005-09-11 02:10:46 -05:00
 tags: general, humor
 wordpress_url: http://www.nata2.org/2005/09/11/hahaha-hiromi-rules/
 ---

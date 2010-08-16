@@ -2,6 +2,7 @@
 wordpress_id: 1422
 layout: post
 title: Watch this Frank Zappa interview
+date: 2007-03-22 14:02:47 -05:00
 tags: general, music, youtube, great, interview, frank-zappa
 wordpress_url: http://www.nata2.org/2007/03/22/watch-this-frank-zappa-interview/
 ---

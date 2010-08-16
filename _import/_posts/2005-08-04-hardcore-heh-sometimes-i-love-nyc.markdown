@@ -2,6 +2,7 @@
 wordpress_id: 1105
 layout: post
 title: HARDCORE! heh. sometimes i love nyc
+date: 2005-08-04 22:41:37 -05:00
 tags: general, music, hardcore, gabber
 wordpress_url: http://www.nata2.org/2005/08/04/hardcore-heh-sometimes-i-love-nyc/
 ---

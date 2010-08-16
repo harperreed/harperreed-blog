@@ -2,6 +2,7 @@
 wordpress_id: 1417
 layout: post
 title: Wesabe is neat
+date: 2007-03-07 11:34:07 -06:00
 tags: general, money, finances, budget, savings, wesabe
 wordpress_url: http://www.nata2.org/2007/03/07/wesabe-is-neat/
 ---

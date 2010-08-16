@@ -3,6 +3,7 @@ wordpress_id: 878
 layout: post
 title: even the misfits are misfits
 excerpt: "This weekend was pretty nice. I just hung out. watched movies. went to a bbq on saturday at my friend cole's house. it was fun. met some cool cats. after the bbq I went with elaine to "
+date: 2004-06-07 19:42:32 -05:00
 tags: dylan, phone, crobar, movies, india, hiromi, sushi, nokia
 wordpress_url: http://new.nata2.org/?p=878
 ---

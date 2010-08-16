@@ -3,6 +3,7 @@ wordpress_id: 221
 layout: post
 title: Sometimes..
 excerpt: This weekend was good, my friend from high school, megan, came and visited. It was fun to be around her again.. ever since friday my life has been very very surreal. After I got home from work - I immediately got a huge headache. HUGE. it was horrible. I stumbled around and then a firned picked me up. I passed out in her car and awoke to find myself in a nice indian resturant. ahh.. how nice. I a...
+date: 2002-03-03 03:19:59 -06:00
 tags: chicago, war, school, metal, tones, india
 wordpress_url: http://new.nata2.org/?p=221
 ---

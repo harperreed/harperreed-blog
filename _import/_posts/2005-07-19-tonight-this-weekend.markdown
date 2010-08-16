@@ -2,6 +2,7 @@
 wordpress_id: 1095
 layout: post
 title: tonight / this weekend
+date: 2005-07-19 03:19:51 -05:00
 tags: general, movies, music, hiromi, clubbing, awesome, party, nightlife
 wordpress_url: http://www.nata2.org/?p=1095
 ---

@@ -3,6 +3,7 @@ wordpress_id: 468
 layout: post
 title: ROAR
 excerpt: tonight I am going to see cursive. it should be fun. I really like that band. but what I like more is this. It is very funny. ;) ;)So we are at war. but at what cost? I imagine it will cost a lot of people their lives. Check out this blog ...
+date: 2003-03-20 16:52:09 -06:00
 tags: blogs, war, dad
 wordpress_url: http://new.nata2.org/?p=468
 ---

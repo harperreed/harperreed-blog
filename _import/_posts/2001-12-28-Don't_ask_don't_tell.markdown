@@ -3,6 +3,7 @@ wordpress_id: 153
 layout: post
 title: Don't ask don't tell
 excerpt: Today is nerve racking. My brother is driving to california to begin what could be his career. He is actually going to go an dbe a commercial diver. He starts the vcational commercial diving achool on the 7th of january. It is pretty exciting. It reflects on me as being grown up. I don't want to grow up. Things are also hard right now. I think that my relationship is slipping. The dist...
+date: 2001-12-28 19:26:41 -06:00
 tags: family, health, perl
 wordpress_url: http://new.nata2.org/?p=153
 ---

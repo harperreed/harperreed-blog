@@ -2,6 +2,7 @@
 wordpress_id: 1102
 layout: post
 title: "harry potter rules. "
+date: 2005-07-31 21:56:19 -05:00
 tags: general, books, travel, work
 wordpress_url: http://www.nata2.org/2005/07/31/harry-potter-rules/
 ---

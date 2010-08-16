@@ -3,6 +3,7 @@ wordpress_id: 941
 layout: post
 title: whew. finally updated. for real.
 excerpt: it has been a weird couple days. It all started last wednesday. tommie called me to alert me of his presence and invite me to scissor sisters. that ruled. we hung out then. and then we went to crobar and I broke myself. i hadn't been feeling good. so I stayed in bed friday. then we...
+date: 2004-09-23 16:39:06 -05:00
 tags: phone, war, rock, crobar, insane, movies, fashion, action, music, hong, kong, nokia
 wordpress_url: http://new.nata2.org/?p=941
 ---

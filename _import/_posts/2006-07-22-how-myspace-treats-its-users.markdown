@@ -2,6 +2,7 @@
 wordpress_id: 1309
 layout: post
 title: How myspace treats its users
+date: 2006-07-22 20:37:00 -05:00
 tags: technology, myspace, users, friendly, bad
 wordpress_url: http://www.nata2.org/2006/07/22/how-myspace-treats-its-users/
 ---

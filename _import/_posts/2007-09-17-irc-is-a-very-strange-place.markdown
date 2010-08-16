@@ -2,6 +2,7 @@
 wordpress_id: 1479
 layout: post
 title: IRC is a very strange place
+date: 2007-09-17 01:20:36 -05:00
 tags: general, humor, irc, nerds, breaking-up
 wordpress_url: http://www.nata2.org/2007/09/17/irc-is-a-very-strange-place/
 ---

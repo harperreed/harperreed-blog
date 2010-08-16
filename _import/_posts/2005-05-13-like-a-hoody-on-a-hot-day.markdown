@@ -2,6 +2,7 @@
 wordpress_id: 1061
 layout: post
 title: like a hoody on a hot day
+date: 2005-05-13 10:09:20 -05:00
 tags: general, taiwan, hiromi, ella, yoyos, party, amara
 wordpress_url: http://www.nata2.org/2005/05/13/like-a-hoody-on-a-hot-day/
 ---

@@ -8,6 +8,7 @@ excerpt: "is when you lose a blog entry mid creation. ohhhhh. I hate that a lot.
   bonded with matt\r\n\
   morgan invited us to hang out at watusi\r\n\
   was "
+date: 2004-03-04 18:00:02 -06:00
 tags: social, phone, blogs, server, war, insane, chris, birthday, humor
 wordpress_url: http://new.nata2.org/?p=768
 ---

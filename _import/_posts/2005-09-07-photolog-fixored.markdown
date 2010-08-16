@@ -2,6 +2,7 @@
 wordpress_id: 1126
 layout: post
 title: Photolog fixored
+date: 2005-09-07 13:52:45 -05:00
 tags: general, awesome, hack, geek
 wordpress_url: http://www.nata2.org/2005/09/07/photolog-fixored/
 ---

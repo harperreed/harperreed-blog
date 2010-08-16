@@ -3,6 +3,7 @@ wordpress_id: 840
 layout: post
 title: wheee
 excerpt: i got my tickets to india today. it is pretty funny how every little step makes it more and more real. I imagien I iwll be writing on the plane "i am in the air, it now seems real." haha. I leave in 5 days. I can barely believe that 3 weeks ago - I had no idea this was to be h...
+date: 2004-05-03 15:31:37 -05:00
 tags: harper, phone, india, philosophy, nokia
 wordpress_url: http://new.nata2.org/?p=840
 ---

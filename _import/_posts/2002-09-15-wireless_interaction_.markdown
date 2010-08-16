@@ -3,6 +3,7 @@ wordpress_id: 355
 layout: post
 title: wireless interaction.
 excerpt: check out my new site.. a500hacking. I know I am a big dork. but... umm.. yea.. I am bored.. and I want to know a lot about my new phone. so what better way then start a website dedicated to learning all I can about my new phone..  So last night I went to a couple parties. It was fun. One was a "indie rocker house party" that I was invited to by my f...
+date: 2002-09-15 21:47:51 -05:00
 tags: phone, hacking, women, rock, birthday
 wordpress_url: http://new.nata2.org/?p=355
 ---

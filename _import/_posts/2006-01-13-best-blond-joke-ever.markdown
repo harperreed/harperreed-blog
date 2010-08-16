@@ -2,6 +2,7 @@
 wordpress_id: 1158
 layout: post
 title: best blond joke ever
+date: 2006-01-13 17:05:29 -06:00
 tags: general, blogs, jokes, awesome
 wordpress_url: http://www.nata2.org/2006/01/13/best-blond-joke-ever/
 ---

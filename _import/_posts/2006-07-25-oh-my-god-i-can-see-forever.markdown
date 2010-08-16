@@ -2,6 +2,7 @@
 wordpress_id: 1312
 layout: post
 title: Oh my god. I can see forever
+date: 2006-07-25 04:10:45 -05:00
 tags: general, phone, metal, humor, awesome, pranks, cartoons, stoner
 wordpress_url: http://www.nata2.org/2006/07/25/oh-my-god-i-can-see-forever/
 ---

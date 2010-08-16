@@ -3,6 +3,7 @@ wordpress_id: 679
 layout: post
 title: crobar.. weekend at marks.. yoyos.. etc..
 excerpt: So on friday I went out to eat with my friend hilary and my roomie hiromi. we went to irazu. it was great. we then went to mark's gallery opening. it was nice and small. chris called and we then went to sushi wabi to meet felix and friends for food. I lvoe sushi wabi. jill was worki...
+date: 2003-11-17 06:37:01 -06:00
 tags: video, food, crobar, insane, chris, matiss, hiromi, sushi
 wordpress_url: http://new.nata2.org/?p=679
 ---

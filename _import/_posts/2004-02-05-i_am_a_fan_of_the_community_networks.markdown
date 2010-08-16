@@ -3,6 +3,7 @@ wordpress_id: 746
 layout: post
 title: i am a fan of the community networks
 excerpt: it is true. recently a google employees side/personal project relaly took off. orkut is honestly what I felt friendster could have been . it doesn't limit communication to on site. it lets you see the contact info for all your friends and maintain some form of community without limiting yourself to some shoddy infrastructure. I really like how you can create su...
+date: 2004-02-05 15:47:24 -06:00
 tags: php, community, bush, politics, politic, hiromi, google, friendster
 wordpress_url: http://new.nata2.org/?p=746
 ---

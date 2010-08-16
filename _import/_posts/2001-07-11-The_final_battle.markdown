@@ -3,6 +3,7 @@ wordpress_id: 15
 layout: post
 title: The final battle
 excerpt: While finalizing all of my hosting problems i made a Write Up of the experience. Check it out. Also i made a solution. HeHe tell me what you think...
+date: 2001-07-11 16:04:42 -05:00
 tags: friends, harper, reed, hosting
 wordpress_url: http://new.nata2.org/?p=15
 ---

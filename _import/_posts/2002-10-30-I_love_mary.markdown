@@ -3,6 +3,7 @@ wordpress_id: 387
 layout: post
 title: I love mary
 excerpt: This is so true. check out my new page. I am really interested in atom and his package - I used to love hearing about people named adam that referred to themselves as atom. I always wanted my name to ...
+date: 2002-10-30 16:58:36 -06:00
 tags: php
 wordpress_url: http://new.nata2.org/?p=387
 ---

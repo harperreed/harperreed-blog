@@ -2,6 +2,7 @@
 wordpress_id: 1109
 layout: post
 title: "sorta car sick. "
+date: 2005-08-11 17:15:38 -05:00
 tags: general, internet, travel, work, heat, confusion
 wordpress_url: http://www.nata2.org/2005/08/11/sorta-car-sick/
 ---

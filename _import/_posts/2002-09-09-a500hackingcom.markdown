@@ -2,6 +2,7 @@
 wordpress_id: 1162
 layout: post
 title: A500Hacking.com
+date: 2002-09-09 12:09:48 -05:00
 tags: general, hacking, sites, sprint, forums, mine, samsung
 wordpress_url: http://www.nata2.org/2002/09/09/a500hackingcom/
 ---

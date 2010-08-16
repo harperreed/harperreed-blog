@@ -11,6 +11,7 @@ excerpt: |-
    I posted the referer info to nata2.info ( a pretty high bandwidth site) and a lot of people signed up and no one completed the offer.
    I waited 6 months
    I...
+date: 2004-12-09 12:24:02 -06:00
 tags: chris, christmas, ipod
 wordpress_url: http://new.nata2.org/?p=969
 ---

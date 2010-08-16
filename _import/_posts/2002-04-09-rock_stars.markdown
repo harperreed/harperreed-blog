@@ -3,6 +3,7 @@ wordpress_id: 254
 layout: post
 title: rock stars
 excerpt: so I went and saw the faint.. it was great. they were good a little bit canned. however I saw one of my friends who let me in on the secret of the "indie rock undrworld" a little joint called watusi.. where even I can pass as a suceeding or not suceeding musician.. underground or whatnot. heh. "when I released my record i...
+date: 2002-04-09 07:08:29 -05:00
 tags: rock, music
 wordpress_url: http://new.nata2.org/?p=254
 ---

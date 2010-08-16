@@ -3,6 +3,7 @@ wordpress_id: 677
 layout: post
 title: tivo oh my tivo.
 excerpt: soemthing happened that made me think.. "blog this!"  but I don't remember what it was. bummer. maybe I will remember. i got the tivo working. it is pretty fun. I have yet to get the wireless inet working for it. stupid /dev/wlan isn't there. I don't understand why. the driver just doesn't do it. damned USB. I thought about going and buying a shittier one today at compusa. maybe I w...
+date: 2003-11-13 18:04:29 -06:00
 tags: porn
 wordpress_url: http://new.nata2.org/?p=677
 ---

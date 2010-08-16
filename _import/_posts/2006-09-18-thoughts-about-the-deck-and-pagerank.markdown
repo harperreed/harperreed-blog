@@ -2,6 +2,7 @@
 wordpress_id: 1346
 layout: post
 title: Thoughts about The DECK and PageRank.
+date: 2006-09-18 16:46:14 -05:00
 tags: technology, technology
 wordpress_url: http://www.nata2.org/2006/09/18/thoughts-about-the-deck-and-pagerank/
 ---

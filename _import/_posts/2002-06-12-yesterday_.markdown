@@ -5,6 +5,7 @@ title: yesterday.
 excerpt: "\"A person is being detained on information -- the value of which, the credibility of which, and the reliability of which, we don't know,\" - Donna Newman\r\n\
   \r\n\
   so I was listening to NPR the last night during dinner.. and they mentioned how some people were critical of the Bush administrations label of "
+date: 2002-06-12 17:08:50 -05:00
 tags: war, sites, video, fear, bush, security, politics, politic
 wordpress_url: http://new.nata2.org/?p=295
 ---

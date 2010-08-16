@@ -2,6 +2,7 @@
 wordpress_id: 1116
 layout: post
 title: working
+date: 2005-08-25 09:58:14 -05:00
 tags: general, skinnycorp, work, hungry, summer
 wordpress_url: http://www.nata2.org/2005/08/25/working/
 ---

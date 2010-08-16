@@ -2,6 +2,7 @@
 wordpress_id: 1071
 layout: post
 title: Musicblogger launched. Billy Corgan show. etcetc
+date: 2005-05-27 15:43:43 -05:00
 tags: general, concerts, music, google, itunes, musicblogger, viral
 wordpress_url: http://www.nata2.org/2005/05/27/musicblogger-launched-billy-corgan-show-etcetc/
 ---

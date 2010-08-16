@@ -3,6 +3,7 @@ wordpress_id: 929
 layout: post
 title: yea. a different color altogether. Wedding Story
 excerpt: So this weekend was pretty cool. I am reading another good japanese book. I have no idea why I am reading all the japanese dark ficiton I can get my hands on. I am currently reading Goodbye Tsugumi. it is pretty bleak. I like it. next I  got like 3 murak...
+date: 2004-09-07 21:20:10 -05:00
 tags: books, dylan, greeley, family, phone, school, insane, dad, wedding, hiromi, travel, grandpa, nokia
 wordpress_url: http://new.nata2.org/?p=929
 ---

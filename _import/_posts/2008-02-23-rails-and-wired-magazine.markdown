@@ -2,6 +2,7 @@
 wordpress_id: 1507
 layout: post
 title: Rails and Wired magazine
+date: 2008-02-23 16:54:30 -06:00
 tags: technology, community, rails, wired, rant
 wordpress_url: http://www.nata2.org/2008/02/23/rails-and-wired-magazine/
 ---

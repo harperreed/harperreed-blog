@@ -7,6 +7,7 @@ excerpt: |
   
   check this out. I (as well as soem others) rule.some escitment is at our feetand. I am sleepy. 
 
+date: 2005-02-09 03:14:50 -06:00
 tags: business
 wordpress_url: http://new.nata2.org/?p=989
 ---

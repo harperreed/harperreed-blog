@@ -6,6 +6,7 @@ excerpt: |-
   happy xmas.
   
   i made my photo frame ibook work. it rules. I just mounted it into a picture frame shadow box, and BAM. fanciness. it rules that you can remove EVERYTHING from an ibook and still h...
+date: 2004-12-25 18:24:16 -06:00
 tags: phone, perl, xmas, nokia
 wordpress_url: http://new.nata2.org/?p=976
 ---

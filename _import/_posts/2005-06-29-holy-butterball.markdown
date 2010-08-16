@@ -2,6 +2,7 @@
 wordpress_id: 1089
 layout: post
 title: "holy butterball "
+date: 2005-06-29 00:16:22 -05:00
 tags: general, travel, work, ruby, rails, on
 wordpress_url: http://www.nata2.org/2005/06/29/holy-butterball/
 ---

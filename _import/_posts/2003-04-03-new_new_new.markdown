@@ -4,6 +4,7 @@ layout: post
 title: new new new
 excerpt: "so awhile ago I ordered some new servers.. and here they are.. weee\r\n\
   the biggin, the littlin and the "
+date: 2003-04-03 20:38:05 -06:00
 tags: server, action
 wordpress_url: http://new.nata2.org/?p=477
 ---

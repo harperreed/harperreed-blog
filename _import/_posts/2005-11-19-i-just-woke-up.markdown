@@ -2,6 +2,7 @@
 wordpress_id: 1150
 layout: post
 title: i just woke up
+date: 2005-11-19 21:21:54 -06:00
 tags: general, food, websites, weekend
 wordpress_url: http://www.nata2.org/2005/11/19/i-just-woke-up/
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 1537
 layout: post
 title: oh yea. i have a blog
+date: 2008-07-13 22:32:51 -05:00
 tags: general, twitter, life, blogging
 wordpress_url: http://www.nata2.org/?p=1537
 ---

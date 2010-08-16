@@ -3,6 +3,7 @@ wordpress_id: 281
 layout: post
 title: A great way to paper the city.
 excerpt: Some activists have papered the city of chicago. It is great. My boss came into one of our offices and pointed out the thousands and thousands of little papers that said "George W. Wants War!" Someone obviously dropped them by aeroplane or by building top. This is a great way to get people to notice. I only hope that it is covered by the papers. I hope that the people get arrested and a big stick...
+date: 2002-05-13 19:29:53 -05:00
 tags: reed, chicago, women, war, fear, insane, bush, windows, politics, politic
 wordpress_url: http://new.nata2.org/?p=281
 ---

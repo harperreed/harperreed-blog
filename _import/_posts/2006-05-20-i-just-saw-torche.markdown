@@ -2,6 +2,7 @@
 wordpress_id: 1270
 layout: post
 title: "I just saw torche. "
+date: 2006-05-20 02:11:18 -05:00
 tags: general, metal, yoyo, torche
 wordpress_url: http://www.nata2.org/2006/05/20/i-just-saw-torche/
 ---

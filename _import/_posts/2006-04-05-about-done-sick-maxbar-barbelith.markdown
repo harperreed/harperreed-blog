@@ -2,6 +2,7 @@
 wordpress_id: 1237
 layout: post
 title: About done. sick. maxbar. barbelith.
+date: 2006-04-05 00:48:36 -05:00
 tags: general
 wordpress_url: http://www.nata2.org/2006/04/05/about-done-sick-maxbar-barbelith/
 ---

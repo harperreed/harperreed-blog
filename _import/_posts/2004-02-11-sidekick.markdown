@@ -3,6 +3,7 @@ wordpress_id: 751
 layout: post
 title: sidekick
 excerpt: So I got my sidekick last night - and it has already proven to be a good deal. I got it through a place called simplycells.com for around $79 with activation and rebates. but I just added it to my...
+date: 2004-02-11 17:53:17 -06:00
 tags: php, phone, cell, server, aim, irc, mobile, tmobile
 wordpress_url: http://new.nata2.org/?p=751
 ---

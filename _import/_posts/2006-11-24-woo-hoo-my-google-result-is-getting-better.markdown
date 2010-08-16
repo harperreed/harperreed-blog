@@ -2,6 +2,7 @@
 wordpress_id: 1388
 layout: post
 title: Woo Hoo. My Google result is getting better
+date: 2006-11-24 20:11:23 -06:00
 tags: general, nerd, harper, google, web, seo, search-engines, harper-reed
 wordpress_url: http://www.nata2.org/2006/11/24/woo-hoo-my-google-result-is-getting-better/
 ---

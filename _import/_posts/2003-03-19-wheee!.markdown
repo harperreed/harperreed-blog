@@ -3,6 +3,7 @@ wordpress_id: 467
 layout: post
 title: wheee!
 excerpt: "i got my new glasses. I hope they work. i need to stop spending money. that is the truth. "
+date: 2003-03-19 22:12:26 -06:00
 tags: harper
 wordpress_url: http://new.nata2.org/?p=467
 ---

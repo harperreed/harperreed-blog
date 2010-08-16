@@ -2,6 +2,7 @@
 wordpress_id: 1379
 layout: post
 title: Wikipedia is hard to use. WTF Search.
+date: 2006-10-31 16:19:32 -06:00
 tags: technology, content, users, wikipedia, endeca, usability
 wordpress_url: http://www.nata2.org/2006/10/31/wikipedia-is-hard-to-use-wtf-search/
 ---

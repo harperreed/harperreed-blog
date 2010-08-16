@@ -5,6 +5,7 @@ title: today
 excerpt: |-
   today was strange. I slept in too long. I have been playing quak eand legos. both of which cause me to stay up far far too late. it sucks. I ended up sleeping at around 4:00. but whatever. my crane is almost done. ha.
   Recently the Honerary Mentions for the Prix Ars Electroni...
+date: 2002-05-21 20:54:33 -05:00
 tags: lego
 wordpress_url: http://new.nata2.org/?p=285
 ---

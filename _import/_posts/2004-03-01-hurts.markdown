@@ -3,6 +3,7 @@ wordpress_id: 766
 layout: post
 title: hurts
 excerpt: so apparently paris hiltons birthday was on friday. she turned 23. hah. i turn 26 soon. that is really weird. I am almost 30. haha. I am sitting here listening to the cash money records platinum hits.. bouncing in my chair.. looking like a fool as usual. yea know.. the...
+date: 2004-03-01 20:01:37 -06:00
 tags: phone, insane, college, birthday, bush, juggling, matiss, india, hiromi
 wordpress_url: http://new.nata2.org/?p=766
 ---

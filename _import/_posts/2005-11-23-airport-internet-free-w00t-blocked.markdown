@@ -2,6 +2,7 @@
 wordpress_id: 1151
 layout: post
 title: Airport internet. Free. W00t. Blocked.
+date: 2005-11-23 19:18:17 -06:00
 tags: general, travel, awesome, airport, lynx, unix
 wordpress_url: http://www.nata2.org/2005/11/23/airport-internet-free-w00t-blocked/
 ---

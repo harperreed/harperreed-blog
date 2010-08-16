@@ -2,6 +2,7 @@
 wordpress_id: 1040
 layout: post
 title: heh. dichotomy. wtf
+date: 2005-04-10 16:15:15 -05:00
 tags: general, family, colorado, fun, travel, snow
 wordpress_url: http://www.nata2.org/2005/04/10/heh-dicotomy-wtf/
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 1168
 layout: post
 title: mms 2 blog
+date: 2003-12-10 12:12:26 -06:00
 tags: general
 wordpress_url: http://www.nata2.org/2003/12/10/mms-2-blog/
 ---

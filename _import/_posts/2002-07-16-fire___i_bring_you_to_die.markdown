@@ -3,6 +3,7 @@ wordpress_id: 322
 layout: post
 title: fire.. i bring you to die
 excerpt: what up.. haha. here is a good picture. heh. anyway. tonight was great. I guess I have a lot of great nights.  I went to a friends b-day party. all sorts of fun. dancing.. and trancing.. music is the answer... anyway.. all of the girls I have crushes on were at the party.. and I danced with ...
+date: 2002-07-16 06:48:00 -05:00
 tags: harper, dylan, reed, music, girls
 wordpress_url: http://new.nata2.org/?p=322
 ---

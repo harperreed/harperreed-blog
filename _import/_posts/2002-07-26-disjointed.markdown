@@ -5,6 +5,7 @@ title: disjointed
 excerpt: |-
   Today has been weird. I am almost done with my encyclopedia. like pretty much finished. so I am in a rut.. trying top find all of the little things to do.. and to clean up. I am excited to see how it does.. but I spent a small amount of time looking at some links I found.. 
   britPOP fans unite. this is a very very strange flash movie. derige...
+date: 2002-07-26 16:25:13 -05:00
 tags: reed, php, school, design, games, girls, experiment, lego
 wordpress_url: http://new.nata2.org/?p=328
 ---

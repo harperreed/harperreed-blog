@@ -2,6 +2,7 @@
 wordpress_id: 1224
 layout: post
 title: OMG. Using flash is the worst way to make a website.
+date: 2006-02-28 17:24:18 -06:00
 tags: general, flash-sucks
 wordpress_url: http://www.nata2.org/2006/02/28/omg-using-flash-is-the-worst-way-to-make-a-website/
 ---

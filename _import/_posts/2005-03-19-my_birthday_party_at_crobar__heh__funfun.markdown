@@ -9,6 +9,7 @@ excerpt: |-
   exhibit. it was hand down the craziest thing I have EVER seen. EVER.
   totally insane. real people. dead. and made into plastic. totally
   crazy. I don't relaly know what to think....
+date: 2005-03-19 20:27:28 -06:00
 tags: general, juggle, crobar, insane, birthday, juggling, party
 wordpress_url: http://new.nata2.org/?p=1010
 ---

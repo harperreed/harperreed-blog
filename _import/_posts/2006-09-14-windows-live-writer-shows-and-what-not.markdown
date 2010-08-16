@@ -2,6 +2,7 @@
 wordpress_id: 1344
 layout: post
 title: "windows live writer. shows. and what not. "
+date: 2006-09-14 18:04:13 -05:00
 tags: general, flickr, linksys, wrt54g, muse, windows-live-writer, dd-wrt, wrt54gl
 wordpress_url: http://www.nata2.org/2006/09/14/windows-live-writer-shows-and-what-not/
 ---

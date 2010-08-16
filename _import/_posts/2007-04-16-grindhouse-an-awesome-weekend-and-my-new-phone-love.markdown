@@ -2,6 +2,7 @@
 wordpress_id: 1435
 layout: post
 title: Grindhouse. An awesome weekend and my new phone love!
+date: 2007-04-16 19:42:03 -05:00
 tags: general, concerts, phones, annoying, home, fox-news, vonnegut, nokia-e61i, e61i, nokia, blonde-redhead, grindhouse
 wordpress_url: http://www.nata2.org/2007/04/16/grindhouse-an-awesome-weekend-and-my-new-phone-love/
 ---

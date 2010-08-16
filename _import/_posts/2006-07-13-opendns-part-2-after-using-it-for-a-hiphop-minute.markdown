@@ -2,6 +2,7 @@
 wordpress_id: 1304
 layout: post
 title: "OpenDNS Part 2: after using it for a hiphop minute"
+date: 2006-07-13 20:33:55 -05:00
 tags: technology, skinnycorp, opendns, enterprise
 wordpress_url: http://www.nata2.org/2006/07/13/opendns-part-2-after-using-it-for-a-hiphop-minute/
 ---

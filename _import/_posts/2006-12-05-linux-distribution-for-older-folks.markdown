@@ -2,6 +2,7 @@
 wordpress_id: 1392
 layout: post
 title: Linux distribution for older folks.
+date: 2006-12-05 00:21:39 -06:00
 tags: technology, technology
 wordpress_url: http://www.nata2.org/2006/12/05/linux-distribution-for-older-folks/
 ---

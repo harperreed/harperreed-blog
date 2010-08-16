@@ -2,6 +2,7 @@
 wordpress_id: 1586
 layout: post
 title: 2008 Retrospective
+date: 2009-01-04 20:01:28 -06:00
 tags: general, flickr, twitter, 2008, blog
 wordpress_url: http://www.nata2.org/?p=1586
 ---

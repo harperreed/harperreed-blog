@@ -7,6 +7,7 @@ excerpt: |-
   i am enjoying the word invariably right now. it rules
   
   you all should come to the NYE party at my friends house. it will be awesome. check out the info watership.org. fun fun. lots of...
+date: 2004-12-29 18:09:47 -06:00
 tags: watership, humor
 wordpress_url: http://new.nata2.org/?p=977
 ---

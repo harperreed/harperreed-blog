@@ -2,6 +2,7 @@
 wordpress_id: 1469
 layout: post
 title: The items we carry
+date: 2007-07-26 20:20:36 -05:00
 tags: general, flickr, meme, pockets
 wordpress_url: http://www.nata2.org/2007/07/26/the-items-we-carry/
 ---

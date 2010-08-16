@@ -3,6 +3,7 @@ wordpress_id: 596
 layout: post
 title: MAIDEN
 excerpt: this weekend ruled. On friday I got my hair done and hung out with severn and some friends.. we got tacos and generally chilled. I then went to bed. it was awesome I love sleeping. So saturday we went to six flags to  juggle for the mardi gras event. I don't understand how mardi gras happens in august.. but whatever. the show was pretty laid back. just matiss and I juggling.. doing our general s...
+date: 2003-08-11 06:00:10 -05:00
 tags: juggle, food, juggling, matiss
 wordpress_url: http://new.nata2.org/?p=596
 ---

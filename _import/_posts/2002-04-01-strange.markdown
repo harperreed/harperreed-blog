@@ -6,6 +6,7 @@ excerpt: |-
   today is a wierd day at work. Nobody knows whats going on any longer. 
   
   heh
+date: 2002-04-01 19:09:10 -06:00
 wordpress_url: http://new.nata2.org/?p=246
 ---
 today is a wierd day at work. Nobody knows whats going on any longer. <br/><br/>

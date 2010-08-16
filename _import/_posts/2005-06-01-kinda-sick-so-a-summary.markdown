@@ -2,6 +2,7 @@
 wordpress_id: 1072
 layout: post
 title: kinda sick. so a summary
+date: 2005-06-01 15:11:14 -05:00
 tags: general, google, weekend, jobs, hack
 wordpress_url: http://www.nata2.org/2005/06/01/kinda-sick-so-a-summary/
 ---

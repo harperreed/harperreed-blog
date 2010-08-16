@@ -2,6 +2,7 @@
 wordpress_id: 1052
 layout: post
 title: "blogs smogs. "
+date: 2005-05-03 21:55:06 -05:00
 tags: general, blogs, hiromi, wordpress, ruby
 wordpress_url: http://www.nata2.org/2005/05/03/blogs-smogs/
 ---

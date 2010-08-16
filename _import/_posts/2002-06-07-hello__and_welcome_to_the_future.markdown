@@ -10,6 +10,7 @@ excerpt: "\r\n\
   \r\n\
   \r\n\
   So this week has been interesting... it was fun, crazy and rather interesting. check out "
+date: 2002-06-07 05:50:01 -05:00
 wordpress_url: http://new.nata2.org/?p=290
 ---
 <small>

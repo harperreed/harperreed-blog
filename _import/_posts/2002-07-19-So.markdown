@@ -3,6 +3,7 @@ wordpress_id: 325
 layout: post
 title: So
 excerpt: i guess conagra, the company behind the beef industry in my home town, recently recalled 18.6 million pounds of ground beef. wtf. it is insanity. I ...
+date: 2002-07-19 18:49:36 -05:00
 tags: greeley, php, military, business
 wordpress_url: http://new.nata2.org/?p=325
 ---

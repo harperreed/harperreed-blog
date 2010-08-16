@@ -2,6 +2,7 @@
 wordpress_id: 1122
 layout: post
 title: new skinnyCorp site... check it
+date: 2005-08-31 03:35:35 -05:00
 tags: general, food, skinnycorp, awesome, work
 wordpress_url: http://www.nata2.org/2005/08/31/new-skinnycorp-site-check-it/
 ---

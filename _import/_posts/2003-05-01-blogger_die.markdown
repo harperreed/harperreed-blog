@@ -3,6 +3,7 @@ wordpress_id: 501
 layout: post
 title: blogger die
 excerpt: I made this cuz I was bored. It takes all my friends blogs(if you want to be included - all you have to do is make an RSS feed of your blog) and makes it pretty. Recently I have had a bunch of friends break up/have trauma within their relationsihps. it is screwed up. I don't understand it. spring is here. well sorta. it isn't really in chicag...
+date: 2003-05-01 21:45:30 -05:00
 tags: php, chicago, blogs, war, metal, juggling
 wordpress_url: http://new.nata2.org/?p=501
 ---

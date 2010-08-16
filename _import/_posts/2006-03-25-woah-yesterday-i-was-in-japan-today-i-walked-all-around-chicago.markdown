@@ -2,6 +2,7 @@
 wordpress_id: 1233
 layout: post
 title: woah.. yesterday i was in japan. today i walked all around chicago.
+date: 2006-03-25 20:02:11 -06:00
 tags: general, hiromi, travel, tokyo
 wordpress_url: http://www.nata2.org/2006/03/25/woah-yesterday-i-was-in-japan-today-i-walked-all-around-chicago/
 ---

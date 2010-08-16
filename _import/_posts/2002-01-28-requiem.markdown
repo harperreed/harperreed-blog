@@ -3,6 +3,7 @@ wordpress_id: 194
 layout: post
 title: requiem
 excerpt: Here are some cool links. first off check out this. Be sure and read the description. heh. then check out this. and finally check out this - http://www.select-media.co...
+date: 2002-01-28 15:29:18 -06:00
 tags: php, chicago, tools, source, design
 wordpress_url: http://new.nata2.org/?p=194
 ---

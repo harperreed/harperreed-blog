@@ -3,6 +3,7 @@ wordpress_id: 624
 layout: post
 title: my friend scott.
 excerpt: "is such a hippie that he is concerned about that \"fad\" called global warming. apparently some big chuck of ice broke and now everyone is all scared. it is supposed to be some proof that "
+date: 2003-09-23 15:32:03 -05:00
 tags: social, harper, reed, phone, war, school, rock, bush, marriage, security, business, health, terrorism, iraq, drugs
 wordpress_url: http://new.nata2.org/?p=624
 ---

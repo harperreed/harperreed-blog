@@ -3,6 +3,7 @@ wordpress_id: 471
 layout: post
 title: error
 excerpt: So I went to an oscar party tonight. I showed up and suddenly realized that my rocker charade was not going to cut it at the formal party I found my self at. Heh. my friend carl was like.. are you the hot guy or the weird guy.. well I was the weird guy.. but soon I became the hot guy.. oh so hot..  so the oscars.. I am so glad michael moore said what he said. it is imaportant to get that mes...
+date: 2003-03-24 07:20:47 -06:00
 tags: php, war, rock, watership, iraq, cars
 wordpress_url: http://new.nata2.org/?p=471
 ---

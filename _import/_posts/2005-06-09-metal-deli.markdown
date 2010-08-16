@@ -2,6 +2,7 @@
 wordpress_id: 1080
 layout: post
 title: Metal Deli
+date: 2005-06-09 12:25:47 -05:00
 tags: general, chicago, metal, iron, maiden, lake, rocker
 wordpress_url: http://www.nata2.org/2005/06/09/metal-deli/
 ---

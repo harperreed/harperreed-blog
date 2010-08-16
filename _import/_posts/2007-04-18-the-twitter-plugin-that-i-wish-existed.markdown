@@ -2,6 +2,7 @@
 wordpress_id: 1436
 layout: post
 title: The twitter plugin that I wish existed
+date: 2007-04-18 14:20:42 -05:00
 tags: technology, technology, broox, status, plugin, laim, derek, twitter, google-code
 wordpress_url: http://www.nata2.org/2007/04/18/the-twitter-plugin-that-i-wish-existed/
 ---

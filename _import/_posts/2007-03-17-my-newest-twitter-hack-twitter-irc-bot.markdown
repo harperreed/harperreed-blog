@@ -2,6 +2,7 @@
 wordpress_id: 1419
 layout: post
 title: "My newest twitter hack: Twitter IRC bot"
+date: 2007-03-17 19:19:35 -05:00
 tags: general, hacking, perl, irc, plugin, twitter, make, blogging, source-code
 wordpress_url: http://www.nata2.org/2007/03/17/my-newest-twitter-hack-twitter-irc-bot/
 ---

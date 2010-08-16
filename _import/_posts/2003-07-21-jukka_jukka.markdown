@@ -3,6 +3,7 @@ wordpress_id: 571
 layout: post
 title: jukka jukka
 excerpt: "oh yea. this weekend. hmm.. well one of the past three days.. I fell asleep listening to Sunn 0)) (a very sludge doom metal sound). anyway.. I was listening to them.. well really sleeping to them.. and my dreams were infused with chaos. I had three "
+date: 2003-07-21 16:09:31 -05:00
 tags: php, war, metal, matiss
 wordpress_url: http://new.nata2.org/?p=571
 ---

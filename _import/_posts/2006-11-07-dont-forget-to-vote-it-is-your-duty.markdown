@@ -2,6 +2,7 @@
 wordpress_id: 1381
 layout: post
 title: Don't forget to vote.
+date: 2006-11-07 01:34:51 -06:00
 tags: general, politics, voting, government
 wordpress_url: http://www.nata2.org/2006/11/07/dont-forget-to-vote-it-is-your-duty/
 ---

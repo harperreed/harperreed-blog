@@ -2,6 +2,7 @@
 wordpress_id: 1428
 layout: post
 title: New theme
+date: 2007-04-05 00:59:04 -05:00
 tags: general, design, wordpress, blogging-pro, theme
 wordpress_url: http://www.nata2.org/2007/04/05/new-theme/
 ---

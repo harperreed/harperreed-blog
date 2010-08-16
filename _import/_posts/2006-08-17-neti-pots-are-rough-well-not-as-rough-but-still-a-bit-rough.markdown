@@ -2,6 +2,7 @@
 wordpress_id: 1324
 layout: post
 title: "neti pots are rough. well not as rough.. but still a bit rough.. "
+date: 2006-08-17 02:37:54 -05:00
 tags: general, sick, neti-pot
 wordpress_url: http://www.nata2.org/2006/08/17/neti-pots-are-rough-well-not-as-rough-but-still-a-bit-rough/
 ---

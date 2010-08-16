@@ -2,6 +2,7 @@
 wordpress_id: 1314
 layout: post
 title: Kile and my Mom visited this weekend. eeek tourism!
+date: 2006-07-31 13:27:34 -05:00
 tags: general, family, vacation, fun, visits, navy-pier, kile
 wordpress_url: http://www.nata2.org/2006/07/31/kile-and-my-mom-visited-this-weekend-eeek-tourism/
 ---

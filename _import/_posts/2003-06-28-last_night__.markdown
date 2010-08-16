@@ -3,6 +3,7 @@ wordpress_id: 556
 layout: post
 title: last night..
 excerpt: "after work I went to the apple store opening. it was interesting. nothing like sitting outside in a line for 2 hours with a bunch of people who are waiting to get into a computer store. I took three rather poor pictures: 1-"
+date: 2003-06-28 17:51:09 -05:00
 tags: phone, chicago, insane, fashion, music, corporate, girls, apple, sushi
 wordpress_url: http://new.nata2.org/?p=556
 ---

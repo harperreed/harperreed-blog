@@ -3,6 +3,7 @@ wordpress_id: 431
 layout: post
 title: trouble..
 excerpt: all these troubles with N. Korea.. and it was all funded by the U.S.. Bush rules...
+date: 2003-01-14 15:45:06 -06:00
 tags: bush, asia
 wordpress_url: http://new.nata2.org/?p=431
 ---

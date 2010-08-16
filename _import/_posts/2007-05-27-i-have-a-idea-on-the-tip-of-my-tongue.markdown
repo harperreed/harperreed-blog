@@ -2,6 +2,7 @@
 wordpress_id: 1446
 layout: post
 title: I have a idea on the tip of my tongue
+date: 2007-05-27 11:32:19 -05:00
 tags: technology, technology, hacking, ideas, jabber, projects, thinking
 wordpress_url: http://www.nata2.org/2007/05/27/i-have-a-idea-on-the-tip-of-my-tongue/
 ---

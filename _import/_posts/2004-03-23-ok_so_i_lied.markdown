@@ -3,6 +3,7 @@ wordpress_id: 792
 layout: post
 title: ok so i lied
 excerpt: i was able to fix my photolog in like 3 minutes. it worked out FINE. hah. the pictures from the phone are 640x480 so quite a bit bigger than the previous demensions. however. I think the next step will be hooking GD into the photolog software to create thumbnails. heh. I think it will be worth it. and it will rule. RULE I say. i am able to bypass MMS and use t...
+date: 2004-03-23 22:52:51 -06:00
 tags: php, phone, war, design
 wordpress_url: http://new.nata2.org/?p=792
 ---

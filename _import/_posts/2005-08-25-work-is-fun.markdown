@@ -2,6 +2,7 @@
 wordpress_id: 1117
 layout: post
 title: work is fun
+date: 2005-08-25 16:37:30 -05:00
 tags: general, technology, hiromi, work, geek
 wordpress_url: http://www.nata2.org/2005/08/25/work-is-fun/
 ---

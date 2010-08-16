@@ -6,6 +6,7 @@ excerpt: |-
   Today I purchased a brief case of diamonds from ebay. I can't wait to get them. Hopefully I will become very wealthy from this investment.. 
   phunktoad (11:31:50 AM): *these diamonds are actually little cubes of glass from broken car windows.
   linuxKILLa (11:31:59 AM)...
+date: 2003-04-24 16:33:08 -05:00
 tags: juggling, linux, windows
 wordpress_url: http://new.nata2.org/?p=496
 ---

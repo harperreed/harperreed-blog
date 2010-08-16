@@ -2,6 +2,7 @@
 wordpress_id: 1263
 layout: post
 title: If you guys were really my friends
+date: 2006-05-10 14:49:05 -05:00
 tags: general, technology, phones, nokia, wifi, e60
 wordpress_url: http://www.nata2.org/2006/05/10/if-you-guys-were-really-my-friends/
 ---

@@ -3,6 +3,7 @@ wordpress_id: 686
 layout: post
 title: stuff.. phones.
 excerpt: I have been playing with my phone for awhile and looking for great sites at the same time.. so my friend mike found and sent me this which is really exciting. that site led me to this one which has some good info. i will be submitting stuff to it soon. wheee!tonight I am cleaning. i...
+date: 2003-12-04 00:11:37 -06:00
 tags: phone, sites, mobile
 wordpress_url: http://new.nata2.org/?p=686
 ---

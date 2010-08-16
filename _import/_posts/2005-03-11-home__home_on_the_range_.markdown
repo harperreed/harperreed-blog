@@ -3,6 +3,7 @@ wordpress_id: 1003
 layout: post
 title: home. home on the range.
 excerpt: where the deer and the antelope play. where seldom is heard a discouraging word. and the eyes eat cowboys all day. Oh yea. it is the weekend. I am soooo sleepy. I am going to have a meet and greet. and then have a meet and sleep. and t...
+date: 2005-03-11 19:09:24 -06:00
 tags: general, harper, reed, php, blogs, internet, hacking, search, war, sites, audreyhacking, audrey, coding, source, design, osx, apple, google, wordpress, work, wiki, adsense, mambo
 wordpress_url: http://new.nata2.org/?p=1003
 ---

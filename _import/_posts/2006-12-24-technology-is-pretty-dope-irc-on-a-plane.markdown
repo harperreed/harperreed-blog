@@ -2,6 +2,7 @@
 wordpress_id: 1400
 layout: post
 title: Technology is pretty dope. IRC on a plane.
+date: 2006-12-24 18:44:26 -06:00
 tags: general, internet, irc, travel, plane, ana, connexion, boeing
 wordpress_url: http://www.nata2.org/2006/12/24/technology-is-pretty-dope-irc-on-a-plane/
 ---

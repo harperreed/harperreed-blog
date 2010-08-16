@@ -2,6 +2,7 @@
 wordpress_id: 1474
 layout: post
 title: Our unofficial official wedding party
+date: 2007-08-31 21:19:31 -05:00
 tags: general, colorado, marriage, fun, hiromi, travel, parties
 wordpress_url: http://www.nata2.org/2007/08/31/our-unofficial-official-wedding-party/
 ---

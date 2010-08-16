@@ -3,6 +3,7 @@ wordpress_id: 801
 layout: post
 title: so i woke up
 excerpt: and freaked out a bit. I finally calmed down and found out that it will all be ok. I wasn't freaking out about anything in particular. just freaking out. more of a nervous situation than anything. it was pretty weird. it is funny when you create scenerios in your head and they matter SOOO much - yet 15 minutes later you are like.. "ehh whatever." basically I woke up, went home, saw that my serve...
+date: 2004-03-30 19:43:17 -06:00
 tags: technology, server, insane, humor, ipod, itunes
 wordpress_url: http://new.nata2.org/?p=801
 ---

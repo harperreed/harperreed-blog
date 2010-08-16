@@ -6,6 +6,7 @@ excerpt: |-
   makes me really happy. although there is nothing I hate more than to walk to work in the rain. hah. well hate is a rather STRONG word. I like the rain a lot actually. I just don't like getting ready for work and then getting wet. normality is near!
   
   i am a magic man!
+date: 2004-03-24 15:38:35 -06:00
 tags: php, kungfu
 wordpress_url: http://new.nata2.org/?p=794
 ---

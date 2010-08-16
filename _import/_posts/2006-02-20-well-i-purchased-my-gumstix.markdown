@@ -2,6 +2,7 @@
 wordpress_id: 1213
 layout: post
 title: "Well i purchased my gumstix. "
+date: 2006-02-20 23:35:25 -06:00
 tags: general, technology, technology, hacking
 wordpress_url: http://www.nata2.org/2006/02/20/well-i-purchased-my-gumstix/
 ---

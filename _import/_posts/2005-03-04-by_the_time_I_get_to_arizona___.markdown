@@ -3,6 +3,7 @@ wordpress_id: 1001
 layout: post
 title: by the time I get to arizona...
 excerpt: Those are my cousins. of course they are awesome. and I will be hanging out with them tomorrow. it should be fun. I am flying out tonight....
+date: 2005-03-04 18:56:47 -06:00
 tags: general, harper, dylan, reed, family, phone, war, watership, screensaver, development, itunes, blogger, itunesblogger, wordpress, symbian
 wordpress_url: http://new.nata2.org/?p=1001
 ---

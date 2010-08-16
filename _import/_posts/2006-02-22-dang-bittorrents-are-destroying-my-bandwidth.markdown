@@ -2,6 +2,7 @@
 wordpress_id: 1216
 layout: post
 title: DANG. Bittorrents are destroying my bandwidth.
+date: 2006-02-22 00:56:13 -06:00
 tags: general, hiromi, ramble, add, tv, apartment, roommate
 wordpress_url: http://www.nata2.org/2006/02/22/dang-bittorrents-are-destroying-my-bandwidth/
 ---

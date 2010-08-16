@@ -2,6 +2,7 @@
 wordpress_id: 1256
 layout: post
 title: Nokia N80 is released
+date: 2006-04-26 01:48:47 -05:00
 tags: general, technology, phones, nokia, voip, sip, n80, e60
 wordpress_url: http://www.nata2.org/2006/04/26/nokia-n80-is-released/
 ---

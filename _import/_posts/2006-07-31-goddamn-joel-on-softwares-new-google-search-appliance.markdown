@@ -2,6 +2,7 @@
 wordpress_id: 1315
 layout: post
 title: "Goddamn Joel on software's new google search appliance. "
+date: 2006-07-31 13:16:16 -05:00
 tags: technology, search, web-20, wikipedia, joel-on-software, joel, software, endeca, encycopedia
 wordpress_url: http://www.nata2.org/2006/07/31/goddamn-joel-on-softwares-new-google-search-appliance/
 ---

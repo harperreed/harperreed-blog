@@ -2,6 +2,7 @@
 wordpress_id: 1442
 layout: post
 title: I am once again a bad blogger.
+date: 2007-05-18 12:18:58 -05:00
 tags: general, stuff, blogging, slacker
 wordpress_url: http://www.nata2.org/2007/05/18/i-am-once-again-a-bad-blogger/
 ---

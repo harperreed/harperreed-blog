@@ -2,6 +2,7 @@
 wordpress_id: 1473
 layout: post
 title: "I got a new chair: Herman Miller Mirra"
+date: 2007-08-31 15:48:43 -05:00
 tags: general, skymall, awesome, herman-miller, mirra, chairs, purchases
 wordpress_url: http://www.nata2.org/2007/08/31/i-got-a-new-chair-herman-miller-mirra/
 ---

@@ -3,6 +3,7 @@ wordpress_id: 1000
 layout: post
 title: mapper of evil
 excerpt: "so I have been thinking about going to des moines to see my friend derek and I was talkign to him and he was all surprised that I woudl be coming out:(11:42:00) Derek Brooks: just to hang out?(11:42:02) Work Aim: yea(11:42:06) Derek Brooks: cool(11:42:27) "
+date: 2005-03-03 13:34:57 -06:00
 tags: general, nerd, watership, aim, dad, broox, travel, brooks, subversion
 wordpress_url: http://new.nata2.org/?p=1000
 ---

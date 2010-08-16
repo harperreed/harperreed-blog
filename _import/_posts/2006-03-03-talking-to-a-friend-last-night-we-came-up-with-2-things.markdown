@@ -2,6 +2,7 @@
 wordpress_id: 1228
 layout: post
 title: Talking to a friend last night we came up with 2 things
+date: 2006-03-03 14:48:34 -06:00
 tags: general, myspace, web-20, rants
 wordpress_url: http://www.nata2.org/2006/03/03/talking-to-a-friend-last-night-we-came-up-with-2-things/
 ---

@@ -3,6 +3,7 @@ wordpress_id: 893
 layout: post
 title: "importing your old mail into gmail :: go cart action"
 excerpt: "so today over lunch I decided it would be a good idea to import my old  email into gmail. it rules. check out the tool that I am using. written by mark lyon. it works pretty well - albeit very slow. but whatever. I will just have it go in the background. my server has a "
+date: 2004-06-28 17:13:30 -05:00
 tags: server, movies, humor, gmail
 wordpress_url: http://new.nata2.org/?p=893
 ---

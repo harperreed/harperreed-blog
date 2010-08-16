@@ -2,6 +2,7 @@
 wordpress_id: 1093
 layout: post
 title: so damned busy
+date: 2005-07-07 17:32:05 -05:00
 tags: general, books, blogs, coding, projects, hiromi, development, management, ruby, rails, yoyo, agile, engineering, firefox, gtd
 wordpress_url: http://www.nata2.org/?p=1093
 ---

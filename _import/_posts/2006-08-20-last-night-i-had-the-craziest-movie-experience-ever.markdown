@@ -2,6 +2,7 @@
 wordpress_id: 1327
 layout: post
 title: last night i had the craziest movie experience ever
+date: 2006-08-20 20:32:12 -05:00
 tags: general, chicago, sad, insanity, movie, experience, comedy, visitors
 wordpress_url: http://www.nata2.org/2006/08/21/last-night-i-had-the-craziest-movie-experience-ever/
 ---

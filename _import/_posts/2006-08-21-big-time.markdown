@@ -2,6 +2,7 @@
 wordpress_id: 1328
 layout: post
 title: "Big Time! "
+date: 2006-08-21 00:15:31 -05:00
 tags: general, family, marriage, hiromi, travel, life, weddings, excitment
 wordpress_url: http://www.nata2.org/2006/08/21/big-time/
 ---

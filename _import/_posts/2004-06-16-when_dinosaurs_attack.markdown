@@ -3,6 +3,7 @@ wordpress_id: 885
 layout: post
 title: when dinosaurs attack
 excerpt: so this day has been weird already and it is barely 9:30. first last night I got home from juggling club and was notified that my paypal account was terminated due to 3gscreensaver having porn on it. I actually don't know if that was the reason they just sent me a terse email with this link. so I am...
+date: 2004-06-16 14:37:17 -05:00
 tags: harper, dylan, php, programming, chris, action, metal, juggling, porn, screensaver, weownthesun
 wordpress_url: http://new.nata2.org/?p=885
 ---

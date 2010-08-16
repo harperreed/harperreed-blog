@@ -2,6 +2,7 @@
 wordpress_id: 1230
 layout: post
 title: I just uploaded a bundle of photos to flickr
+date: 2006-03-09 06:26:20 -06:00
 tags: general, pictures-flickr-uploading
 wordpress_url: http://www.nata2.org/2006/03/09/i-just-uploaded-a-bundle-of-photos-to-flickr/
 ---

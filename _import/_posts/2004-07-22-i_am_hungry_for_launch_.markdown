@@ -3,6 +3,7 @@ wordpress_id: 904
 layout: post
 title: i am hungry for launch.
 excerpt: so we have been workign to launch this search engine for a couple weeks now - and I think we got it. congrats everyone involved. hehe. i have been playing a lot. tonight I made a juke box for some friends, I hooked up my new website, and I slept from 6-10
+date: 2004-07-22 06:47:46 -05:00
 tags: phone, search, war, community, hacker, crobar, chris, action, itunes, nokia
 wordpress_url: http://new.nata2.org/?p=904
 ---

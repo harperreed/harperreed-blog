@@ -3,6 +3,7 @@ wordpress_id: 174
 layout: post
 title: I am so tired.
 excerpt: Man this server really wiped me out. However, it was/is quite the resume builder and it saved me around $200/month. RULE. I really can't tell if it is wednesday or thursday. hmm.. I wonder. Today marks the fourteenth month that k*star and I have dated. what a wonderful time. it was sad when we almost broke up... hopefully not for ahile yet will that happen.. anyway.. I have a big weekend in...
+date: 2002-01-10 20:02:58 -06:00
 tags: server, laptop, matiss
 wordpress_url: http://new.nata2.org/?p=174
 ---

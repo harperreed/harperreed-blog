@@ -3,6 +3,7 @@ wordpress_id: 975
 layout: post
 title: fixed
 excerpt: "i am fixed. but now I need a new book. I imagine I will wait until tomorrow - when I am in colorado. or maybe I will get one tonight. and then I can read it tomorrow. on my way to colorado. here are some pictures: y bar a week ago, and "
+date: 2004-12-20 12:42:54 -06:00
 tags: harper, reed, colorado
 wordpress_url: http://new.nata2.org/?p=975
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 1461
 layout: post
 title: The iPhone is nifty
+date: 2007-06-30 22:53:22 -05:00
 tags: technology, technology, apple, phones, iphone
 wordpress_url: http://www.nata2.org/2007/06/30/the-iphone-is-nifty/
 ---

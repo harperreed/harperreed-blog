@@ -6,6 +6,7 @@ excerpt: "man. I am sooo sleepy. so so so tired. I just worked from 9:45am until
   my new design is gunna be cool. I think I amgoing to use a bunch of javascript ot make it super fancy. like xmlhttp and such. wheeee ;)\r\n\
   \r\n\
   *sleep* "
+date: 2005-01-28 05:41:37 -06:00
 tags: design
 wordpress_url: http://new.nata2.org/?p=985
 ---

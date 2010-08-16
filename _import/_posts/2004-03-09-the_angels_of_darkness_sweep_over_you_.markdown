@@ -3,6 +3,7 @@ wordpress_id: 772
 layout: post
 title: the angels of darkness sweep over you.
 excerpt: "i fixed it. well I thought I did. until it wouldn't reload. I think that our internet here is really slow. I can't even ssh to my boxen. weird. and dumb. wierd and dumb. together at last. man it has been a long caffiene drenched day. umm. yea. so anyway. my original post was going to be like this: so I modified my photolog recently - I made it so the most ..."
+date: 2004-03-09 22:08:30 -06:00
 tags: internet, movies, juggling, worldbook, perl, india, travel
 wordpress_url: http://new.nata2.org/?p=772
 ---

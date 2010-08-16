@@ -2,6 +2,7 @@
 wordpress_id: 1103
 layout: post
 title: "hahah.  doh. i mean.. umm.. "
+date: 2005-07-31 22:16:15 -05:00
 tags: general, books
 wordpress_url: http://www.nata2.org/2005/07/31/hahah-doh-i-mean-umm/
 ---

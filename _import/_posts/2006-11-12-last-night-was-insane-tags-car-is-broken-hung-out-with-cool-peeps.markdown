@@ -2,6 +2,7 @@
 wordpress_id: 1382
 layout: post
 title: "Last night was insane: tags car is broken, hung out with cool peeps"
+date: 2006-11-12 17:59:17 -06:00
 tags: general
 wordpress_url: http://www.nata2.org/2006/11/12/last-night-was-insane-tags-car-is-broken-hung-out-with-cool-peeps/
 ---

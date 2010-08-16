@@ -2,6 +2,7 @@
 wordpress_id: 1112
 layout: post
 title: kinda bummed
+date: 2005-08-13 20:57:27 -05:00
 tags: general, books, travel, sad, awesome, bummed
 wordpress_url: http://www.nata2.org/2005/08/13/kinda-bummed-2/
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 1088
 layout: post
 title: busy busy busy
+date: 2005-06-24 15:23:32 -05:00
 tags: general, job, music, travel, mobile, general
 wordpress_url: http://www.nata2.org/2005/06/24/busy-busy-busy/
 ---

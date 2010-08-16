@@ -2,6 +2,7 @@
 wordpress_id: 1380
 layout: post
 title: fukung.net - a new face to nata2.info
+date: 2006-11-04 16:48:08 -06:00
 tags: technology, sites, humor, fukung
 wordpress_url: http://www.nata2.org/2006/11/04/fukungnet-a-new-face-to-nata2info/
 ---

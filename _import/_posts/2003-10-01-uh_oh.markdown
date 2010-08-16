@@ -3,6 +3,7 @@ wordpress_id: 635
 layout: post
 title: uh oh
 excerpt: my head is going to be broken.. err.. wait - sprints phones are 2.5g. whew. ;) This morning I got up and came to work listening to paul's boutique. I love the production....i am getting the final touchup done on my tattoo tonight. I hate the pain. stupid pain. I guess I should have thought of that before I got 22 hou...
+date: 2003-10-01 14:43:46 -05:00
 tags: phone, sprint, phones
 wordpress_url: http://new.nata2.org/?p=635
 ---

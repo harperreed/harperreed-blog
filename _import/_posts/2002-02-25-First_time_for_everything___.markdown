@@ -5,6 +5,7 @@ title: First time for everything...
 excerpt: |-
   I really need a new computer. I would really like a laptop.. with a UXGA screen. For the last 1.5 weeks I have been using my cell phone as an instant messenger client. It is kinda cumbersome and not exactly convienient. however. it works. ugh
   So a friend came over tonight.. she is nice. I would like to get to know her better. heh. however.. all her stuff was stolen out of her car whils...
+date: 2002-02-25 01:28:43 -06:00
 tags: phone, cell, laptop
 wordpress_url: http://new.nata2.org/?p=217
 ---

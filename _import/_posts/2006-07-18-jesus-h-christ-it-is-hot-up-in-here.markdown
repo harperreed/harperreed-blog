@@ -2,6 +2,7 @@
 wordpress_id: 1307
 layout: post
 title: "jesus h christ. it is hot up in here. "
+date: 2006-07-18 03:07:43 -05:00
 tags: general, chicago, fun, ideas, skinnycorp, heat, weather, squidoo, eating, dumb, irazu, drinking
 wordpress_url: http://www.nata2.org/2006/07/18/jesus-h-christ-it-is-hot-up-in-here/
 ---

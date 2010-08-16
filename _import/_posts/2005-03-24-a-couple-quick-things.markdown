@@ -2,6 +2,7 @@
 wordpress_id: 1027
 layout: post
 title: a couple quick things
+date: 2005-03-24 14:22:48 -06:00
 tags: general, movies, religion, weird, spam
 wordpress_url: http://www.nata2.org/2005/03/24/a-couple-quick-things/
 ---

@@ -3,6 +3,7 @@ wordpress_id: 126
 layout: post
 title: Flash
 excerpt: Well, after the last couple humorous flash things I decided to dog up a coupl ereal good ones. The first is one my friend mike showed me. actually, now that I think of it - he should me this one as well. My friend adam show me this one. it i...
+date: 2001-11-06 15:25:32 -06:00
 tags: humor
 wordpress_url: http://new.nata2.org/?p=126
 ---

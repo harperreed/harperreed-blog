@@ -2,6 +2,7 @@
 wordpress_id: 1137
 layout: post
 title: homecoming college 2005!!
+date: 2005-10-17 15:19:24 -05:00
 tags: general, cornell, college, fun, travel
 wordpress_url: http://www.nata2.org/2005/10/17/homecoming-college-2005/
 ---

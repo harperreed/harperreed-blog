@@ -2,6 +2,7 @@
 wordpress_id: 1391
 layout: post
 title: Sometimes blogs are sad
+date: 2006-12-03 19:39:28 -06:00
 tags: general, dylan, family, humor, finances
 wordpress_url: http://www.nata2.org/2006/12/03/sometimes-blogs-are-sad/
 ---

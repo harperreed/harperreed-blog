@@ -2,6 +2,7 @@
 wordpress_id: 1529
 layout: post
 title: YES WE CAN. Obama apparently wins the democratic nomination
+date: 2008-06-04 01:00:16 -05:00
 tags: general, politics, obama, barack-obama, democratic, election
 wordpress_url: http://www.nata2.org/?p=1529
 ---

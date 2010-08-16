@@ -2,6 +2,7 @@
 wordpress_id: 1267
 layout: post
 title: "Thanks liz... "
+date: 2006-05-15 17:57:39 -05:00
 tags: general, chicago, awesome, fractalspin, liz, quantazelle, fasihon
 wordpress_url: http://www.nata2.org/2006/05/15/thanks-liz/
 ---

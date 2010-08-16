@@ -2,6 +2,7 @@
 wordpress_id: 1086
 layout: post
 title: in nyc
+date: 2005-06-19 21:18:33 -05:00
 tags: general, job, colorado, nyc, yoyo
 wordpress_url: http://www.nata2.org/2005/06/19/in-nyc/
 ---

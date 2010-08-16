@@ -3,6 +3,7 @@ wordpress_id: 310
 layout: post
 title: i liked tonight.. heh.. haha..
 excerpt: So tonight.. I played neverwinter nights with matiss... for quite awhile. it was fun.. then at around 10.. hiromi, cole and myself took the bus to the prodigal son. It was a good time. we hung out. I traded in some of my dvds. they will enjoy thenm I think. My friend pam came over. we hung out for a bit.. and then went to liars club. heh. and we got in for a reduced price because pam is a rocksta...
+date: 2002-07-06 09:21:48 -05:00
 tags: women, rock, kstar, matiss, hiromi
 wordpress_url: http://new.nata2.org/?p=310
 ---

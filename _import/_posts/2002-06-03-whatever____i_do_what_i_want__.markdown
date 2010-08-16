@@ -3,6 +3,7 @@ wordpress_id: 289
 layout: post
 title: whatever... i do what i want..
 excerpt: So I have been reading a lot of african literature. it is so nice. I really needed somethign that would make me smile again. all my books had gotten stale. so it was a nice change.. This weekend was strangely lonely. I just sat around. even when I was out.. it wasn't exactly thrilling. I did get my project done. which was cool.. and received good word from its recepients. but.. for som...
+date: 2002-06-03 21:54:39 -05:00
 tags: books, phone, war, birthday, dad, phones
 wordpress_url: http://new.nata2.org/?p=289
 ---

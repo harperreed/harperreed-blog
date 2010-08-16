@@ -2,6 +2,7 @@
 wordpress_id: 1515
 layout: post
 title: Speaking at the University of Arizona
+date: 2008-04-05 14:54:35 -05:00
 tags: general, travel, speaking, university-of-arizona, business-school, marketing, sidney-levey, kovinets, etribes
 wordpress_url: http://www.nata2.org/2008/04/05/speaking-at-the-university-of-arizona/
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 1220
 layout: post
 title: "Whew. How i hate PXE. "
+date: 2006-02-25 23:23:36 -06:00
 tags: general, technology, unix, freebsd, soekris, stompbox, pxe, booting, linksys, wrt54g, monowall
 wordpress_url: http://www.nata2.org/2006/02/25/whew-how-i-hate-pxe/
 ---

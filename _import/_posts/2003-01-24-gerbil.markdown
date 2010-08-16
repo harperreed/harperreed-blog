@@ -3,6 +3,7 @@ wordpress_id: 436
 layout: post
 title: gerbil
 excerpt: i don't know what that means. does anyone remember the realgerbil page that mocked the realdoll page? remember the picture of the gerbil being violated.. heh. I wish I had saved that. what genius.. anyway.. at the Middle East Web Log there is a nifty article about how saddam is hidi...
+date: 2003-01-24 17:40:21 -06:00
 tags: juggle, blogs, women, war, bush, sex, aim, disease, matiss, iraq
 wordpress_url: http://new.nata2.org/?p=436
 ---

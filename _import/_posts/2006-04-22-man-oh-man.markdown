@@ -2,6 +2,7 @@
 wordpress_id: 1248
 layout: post
 title: "Man. Oh. Man. "
+date: 2006-04-22 18:44:28 -05:00
 tags: general, sick, hiromi, work
 wordpress_url: http://www.nata2.org/2006/04/22/man-oh-man/
 ---

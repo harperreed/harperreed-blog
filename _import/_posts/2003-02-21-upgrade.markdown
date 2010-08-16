@@ -5,6 +5,7 @@ title: upgrade
 excerpt: |-
   i really need to upgrade servers. I need like 3 more. One for a firewall, one for web hosting and one for backups. That would rule. 
   i price them at around 4k. So if anyone wants to give me 4k. I would be happy ;)So apparently audreyhacking.com is in wired this month. Somewhere around page 75. I really need to g...
+date: 2003-02-21 07:22:14 -06:00
 tags: job, server, hacking, hosting, war, community, video, audreyhacking, audrey, movies, bush, action, humor, music, iraq
 wordpress_url: http://new.nata2.org/?p=452
 ---

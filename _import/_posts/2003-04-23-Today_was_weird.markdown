@@ -3,6 +3,7 @@ wordpress_id: 494
 layout: post
 title: Today was weird
 excerpt: So I sit her at almost three in the morning with one show off and one shoe on. I have not been home since eight this morning and I have just arrived. I realize that doesn't really make sense.. but whatever. Anyway.. today was weird - I had two rather pivotal meeting at work and about other work.. as well as really got some good stuff done at work.. I then left work to go to the ministry show whi...
+date: 2003-04-23 07:53:28 -05:00
 tags: internet, blood, food, matiss
 wordpress_url: http://new.nata2.org/?p=494
 ---

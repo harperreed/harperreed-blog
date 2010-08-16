@@ -3,6 +3,7 @@ wordpress_id: 866
 layout: post
 title: itunes.. automagic updating of recent listened to songs
 excerpt: recently apple released a pretty good COM sdk for its itunes program. my friend ajc created some sample code that would post whatever song you are listening to currently to a webpage. I found this pretty cool. and quite handy. so I implement my own v...
+date: 2004-05-19 17:24:57 -05:00
 tags: programming, apple, itunes, myspace
 wordpress_url: http://new.nata2.org/?p=866
 ---

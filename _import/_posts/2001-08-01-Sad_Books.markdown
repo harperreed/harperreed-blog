@@ -3,6 +3,7 @@ wordpress_id: 22
 layout: post
 title: Sad Books
 excerpt: So I am reading Native Son by Richard Wright and it is real real hard. I don't like it. But it is so hard to just give up on. I like his writing style. it is just the harrowing...
+date: 2001-08-01 03:56:31 -05:00
 tags: friends, search
 wordpress_url: http://new.nata2.org/?p=22
 ---

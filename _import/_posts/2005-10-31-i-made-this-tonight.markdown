@@ -2,6 +2,7 @@
 wordpress_id: 1145
 layout: post
 title: I made this tonight
+date: 2005-10-31 05:59:23 -06:00
 tags: general, rails, ajax, whotheheck
 wordpress_url: http://www.nata2.org/2005/10/31/i-made-this-tonight/
 ---

@@ -10,6 +10,7 @@ excerpt: |-
   phunktoad (2:05:15 PM): have you watched the little kid one
   phunktoad (2:06:12 PM): jesus
   phunktoad (2:06:21 PM): I c...
+date: 2003-09-02 19:14:12 -05:00
 tags: linux
 wordpress_url: http://new.nata2.org/?p=611
 ---

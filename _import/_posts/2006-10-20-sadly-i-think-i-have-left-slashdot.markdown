@@ -2,6 +2,7 @@
 wordpress_id: 1373
 layout: post
 title: Sadly I think I have left slashdot...
+date: 2006-10-20 20:53:09 -05:00
 tags: general, sites, community, digg, slashdot, delicious, web20
 wordpress_url: http://www.nata2.org/2006/10/20/sadly-i-think-i-have-left-slashdot/
 ---

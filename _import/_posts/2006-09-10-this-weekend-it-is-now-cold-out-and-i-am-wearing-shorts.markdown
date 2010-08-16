@@ -2,6 +2,7 @@
 wordpress_id: 1338
 layout: post
 title: "this weekend. it is now cold out. and i am wearing shorts. "
+date: 2006-09-10 15:40:06 -05:00
 tags: general, chicago, weekend, clubbing, nightlife
 wordpress_url: http://www.nata2.org/2006/09/10/this-weekend-it-is-now-cold-out-and-i-am-wearing-shorts/
 ---

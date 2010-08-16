@@ -3,6 +3,7 @@ wordpress_id: 528
 layout: post
 title: Winamp cracks me up..
 excerpt: "First off.. they wrote a good piece of software. They wrote the original gnutella client and leaked enough info out for it to be easily reverse engineered and propagated. but AOL pulled it. they recently released a program called waste that was "
+date: 2003-06-02 18:46:22 -05:00
 tags: war, mom, humor, dad, ella
 wordpress_url: http://new.nata2.org/?p=528
 ---

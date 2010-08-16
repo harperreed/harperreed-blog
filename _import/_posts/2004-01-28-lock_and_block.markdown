@@ -3,6 +3,7 @@ wordpress_id: 738
 layout: post
 title: lock and block
 excerpt: I have been workign nigths for WB doing load testing and such - and it is so weird being up from 10-4 or so and then sleeping as much as you can from 4-10 haha. it is hard on me. I get tired real easy and I totally don't have the stamina to run around and be merry today. Luckily last night was one of the last ones for awhile. work is going well. we have a lot of things going on that are fun - an...
+date: 2004-01-28 22:03:48 -06:00
 tags: server
 wordpress_url: http://new.nata2.org/?p=738
 ---

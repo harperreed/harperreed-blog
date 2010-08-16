@@ -3,6 +3,7 @@ wordpress_id: 728
 layout: post
 title: yoyo website
 excerpt: the last couple days I have been working in all my spare time to finish this yoyo website. I think it is going to be really fun. I will be doing a bunch of fancy things to make it good. I am excited to attempt a new website. I haven't made one in a couple of weeks. video editing is different. I think we need to eventually reshoot a bunch of stuff. but that is...
+date: 2004-01-15 17:52:52 -06:00
 tags: phone, sites, video, computers, websites, metal, mom, juggling, matiss, phones
 wordpress_url: http://new.nata2.org/?p=728
 ---

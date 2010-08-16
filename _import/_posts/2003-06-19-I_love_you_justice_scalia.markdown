@@ -3,6 +3,7 @@ wordpress_id: 545
 layout: post
 title: I love you justice scalia
 excerpt: "remember to watch out. Bush is about to make a nomination to the supreme. The proposed \"man\" is William Pryor, a young attorney general from alabama who has some alarming views; most alarming is his stance on minority voting rights, disabled person rights, "
+date: 2003-06-19 15:31:57 -05:00
 tags: reed, video, insane, chris, bush
 wordpress_url: http://new.nata2.org/?p=545
 ---

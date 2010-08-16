@@ -2,6 +2,7 @@
 wordpress_id: 1018
 layout: post
 title: Ecto!! w00t. nee blog software.
+date: 2005-03-22 00:08:00 -06:00
 tags: general, food, birthday, wordpress, ecto
 wordpress_url: http://www.nata2.org/2005/03/22/ecto-w00t-nee-blog-software/
 ---

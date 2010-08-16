@@ -3,6 +3,7 @@ wordpress_id: 516
 layout: post
 title: yipppeee
 excerpt: So I was rather sick yesterday.. I felt like hell. so I slept from 6-10 and then hung out from 10-11 and then went back to bed. but I couldn't sleep. all I could do was become delerious. so after imagining ghosts and thinking of horror movie plots I finally managed to goto bed around 2am. suxor. I had crazy dreams. sometimes being sick is fun. I lov ethe side effects. the crazy dreams, the irrat...
+date: 2003-05-20 16:33:49 -05:00
 tags: phone, internet, sick, insane, music, taiwan, ella
 wordpress_url: http://new.nata2.org/?p=516
 ---

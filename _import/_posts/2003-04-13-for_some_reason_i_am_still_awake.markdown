@@ -3,6 +3,7 @@ wordpress_id: 486
 layout: post
 title: for some reason i am still awake
 excerpt: This weekend was fun. it also passed in a blur. on friday night I went to the silliest party I have been to in a long time. It was for a movie casting - however none of my friends or myself new that it was a movie casting - so we just hung out and got free drinks.. such a silly thing.. so dumb. everyone with their head shots.. trying to impress no one in particular.. hopeing they would be seen.. ...
+date: 2003-04-13 11:22:47 -05:00
 tags: server, insane, music
 wordpress_url: http://new.nata2.org/?p=486
 ---

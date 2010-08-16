@@ -8,6 +8,7 @@ excerpt: "So the offending lines are:\r\n\
   Jan 23 11:39:26 dopeman sshd: /etc/ssh/sshd_config: terminating, 1 bad configuration options\r\n\
   Jan 23 11:39:26 dopeman sshd: sshd startup failed\r\n\
   Jan 23 11:39:27 dopeman sshd: "
+date: 2002-01-24 13:35:32 -06:00
 tags: war
 wordpress_url: http://new.nata2.org/?p=188
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 1347
 layout: post
 title: the most insane thing happened today on the train
+date: 2006-09-18 20:09:59 -05:00
 tags: general
 wordpress_url: http://www.nata2.org/2006/09/18/the-most-insane-thing-happened-today-on-the-train/
 ---

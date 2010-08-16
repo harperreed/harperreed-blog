@@ -3,6 +3,7 @@ wordpress_id: 225
 layout: post
 title: metal.
 excerpt: I really think its funny that I like metal. Sometimes its the greatest joke of all times. heh. I went to a rocking death metal show the other day. It was great. I got tickets for cannibal corpse and motorhead/morbid angel. I am so excited. also - the dimmu borgir disc ru...
+date: 2002-03-06 14:46:14 -06:00
 tags: rock, metal
 wordpress_url: http://new.nata2.org/?p=225
 ---

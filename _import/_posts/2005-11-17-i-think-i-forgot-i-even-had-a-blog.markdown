@@ -2,6 +2,7 @@
 wordpress_id: 1149
 layout: post
 title: I think i forgot i even had a blog
+date: 2005-11-17 02:58:01 -06:00
 tags: general, computers, work
 wordpress_url: http://www.nata2.org/2005/11/17/i-think-i-forgot-i-even-had-a-blog/
 ---

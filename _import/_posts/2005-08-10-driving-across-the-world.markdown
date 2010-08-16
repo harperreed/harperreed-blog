@@ -2,6 +2,7 @@
 wordpress_id: 1108
 layout: post
 title: "driving across the world. "
+date: 2005-08-10 00:10:19 -05:00
 tags: general, family, hiromi, travel, yoyo
 wordpress_url: http://www.nata2.org/2005/08/10/driving-across-the-world/
 ---

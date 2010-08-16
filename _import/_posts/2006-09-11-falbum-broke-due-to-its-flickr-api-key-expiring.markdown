@@ -2,6 +2,7 @@
 wordpress_id: 1342
 layout: post
 title: "falbum broke due to its flickr API key expiring. "
+date: 2006-09-11 16:32:18 -05:00
 tags: technology, flickr, plugin, wordpress, api, key, falbum
 wordpress_url: http://www.nata2.org/2006/09/11/falbum-broke-due-to-its-flickr-api-key-expiring/
 ---

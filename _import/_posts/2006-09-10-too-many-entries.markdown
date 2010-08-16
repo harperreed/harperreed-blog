@@ -2,6 +2,7 @@
 wordpress_id: 1339
 layout: post
 title: "too many entries... "
+date: 2006-09-10 14:00:57 -05:00
 tags: general, update, entries
 wordpress_url: http://www.nata2.org/2006/09/10/too-many-entries/
 ---

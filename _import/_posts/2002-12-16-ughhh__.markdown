@@ -3,6 +3,7 @@ wordpress_id: 417
 layout: post
 title: ughhh..
 excerpt: My computer at work is dieing a slow and painful death. The dell bios diagnostic screen pops up on boot and tells me that my hard drive is going to fail very soon. Ugh.. I am sad. I don't want to lose everything. I mean I have it all backed up.. for the most part ;) - the thing I am most sad about is my music.. I have ripped so many of my cds so I don't have to keep them here.. and now i...
+date: 2002-12-16 16:42:26 -06:00
 tags: kinnera, war, video, bush, music, iraq
 wordpress_url: http://new.nata2.org/?p=417
 ---

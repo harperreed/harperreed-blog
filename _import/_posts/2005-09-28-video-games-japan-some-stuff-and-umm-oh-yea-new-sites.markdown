@@ -2,6 +2,7 @@
 wordpress_id: 1132
 layout: post
 title: video games, japan some stuff.. and umm.. oh yea. new sites
+date: 2005-09-28 01:38:03 -05:00
 tags: general, chicago, hacking, games, hiromi, skinnycorp, awesome, psp, jpan, console, emulation
 wordpress_url: http://www.nata2.org/?p=1132
 ---

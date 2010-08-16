@@ -2,6 +2,7 @@
 wordpress_id: 1062
 layout: post
 title: yeppers
+date: 2005-05-16 09:47:20 -05:00
 tags: general, parties, sleepy, yoyo, bling
 wordpress_url: http://www.nata2.org/2005/05/16/yeppers/
 ---

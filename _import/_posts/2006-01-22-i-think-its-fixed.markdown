@@ -2,6 +2,7 @@
 wordpress_id: 1198
 layout: post
 title: I think its fixed
+date: 2006-01-22 06:14:12 -06:00
 tags: general, travel, awesome, work
 wordpress_url: http://www.nata2.org/2006/01/22/i-think-its-fixed/
 ---

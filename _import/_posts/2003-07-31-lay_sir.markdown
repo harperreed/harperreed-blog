@@ -3,6 +3,7 @@ wordpress_id: 584
 layout: post
 title: lay sir
 excerpt: "here are some pics I took with my cameraphone and my laser. the first one is me in my bedroom the laser is being scanned across my chest. the second is a swirl being projected on my book shelf. "
+date: 2003-07-31 17:24:30 -05:00
 tags: harper, phone, server, insane
 wordpress_url: http://new.nata2.org/?p=584
 ---

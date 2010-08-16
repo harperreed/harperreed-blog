@@ -2,6 +2,7 @@
 wordpress_id: 1606
 layout: post
 title: Python Oauth Client - Excla.im
+date: 2009-02-28 17:04:04 -06:00
 tags: technology, twitter, python, oauth, appengine
 wordpress_url: http://www.nata2.org/?p=1606
 ---

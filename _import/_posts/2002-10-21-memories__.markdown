@@ -3,6 +3,7 @@ wordpress_id: 379
 layout: post
 title: memories..
 excerpt: I was listening to smoe john zorn minding my own business when outta no where Silent Lucidity by Queensryche comes on. this was a song that was played at a friend of mines funeral in high school. He died of alcohol posioning.. in some nieghbors lawn. It was really fuxored up. However, the song was incredible sad and appropriate.. and it spawned a nice conversation with a friend about artists and ...
+date: 2002-10-21 17:08:44 -05:00
 tags: job, school, bush, metal, business
 wordpress_url: http://new.nata2.org/?p=379
 ---

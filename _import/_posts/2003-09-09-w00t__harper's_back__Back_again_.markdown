@@ -3,6 +3,7 @@ wordpress_id: 615
 layout: post
 title: "w00t: harper's back. Back again."
 excerpt: This time with a twist. So today sucked. seriously. nothing went rigth. stupid script kiddies were attacking my servers. syn flooding my mail server, flooding my IRC clients. etc. etc. I got bad news from every corner.. lalala. and I was without sleep. I figured that I had got about 8 hours of sleep since last thursday. well looks like tonight I am gunna be a winner - and not get any sleep AGAIN....
+date: 2003-09-09 02:05:42 -05:00
 tags: server, insane, irc, nyc, amjad
 wordpress_url: http://new.nata2.org/?p=615
 ---

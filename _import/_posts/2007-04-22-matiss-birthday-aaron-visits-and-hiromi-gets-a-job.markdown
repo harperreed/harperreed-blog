@@ -2,6 +2,7 @@
 wordpress_id: 1438
 layout: post
 title: Matiss' birthday, Aaron visits and Hiromi gets a job
+date: 2007-04-22 16:48:44 -05:00
 tags: general, chicago, matiss, brithdays, dining, weekend
 wordpress_url: http://www.nata2.org/2007/04/22/matiss-birthday-aaron-visits-and-hiromi-gets-a-job/
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 1456
 layout: post
 title: Fixing my internet.
+date: 2007-06-10 19:14:30 -05:00
 tags: general
 wordpress_url: http://www.nata2.org/2007/06/10/fixing-my-internet/
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 1284
 layout: post
 title: kinda tired
+date: 2006-06-05 14:02:07 -05:00
 tags: general, hiromi
 wordpress_url: http://www.nata2.org/2006/06/05/kinda-tired/
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 1410
 layout: post
 title: Adsense results and website performance
+date: 2007-02-16 10:52:13 -06:00
 tags: technology, technology, money, adsense, tips, performance, ad-revenue, eaccelerator
 wordpress_url: http://www.nata2.org/2007/02/16/adsense-results-and-website-performance/
 ---

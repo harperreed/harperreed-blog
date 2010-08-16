@@ -3,6 +3,7 @@ wordpress_id: 703
 layout: post
 title: colorado again
 excerpt: tonight I fly out to colorado. it will be a lot of fun. hiromi will be coming which will rule. I really don't know what we will do for the week. but I imagine it will be entertainmentfull ;).i am wearing my new fancy boots. I am attempting to decide whether I am going to w...
+date: 2003-12-19 21:21:21 -06:00
 tags: phone, colorado, hiromi
 wordpress_url: http://new.nata2.org/?p=703
 ---

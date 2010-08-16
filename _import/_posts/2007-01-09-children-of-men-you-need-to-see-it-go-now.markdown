@@ -2,6 +2,7 @@
 wordpress_id: 1403
 layout: post
 title: Children of Men. You need to see it. Go Now!
+date: 2007-01-09 02:32:00 -06:00
 tags: general, movies, scary, children-of-men, suggestions
 wordpress_url: http://www.nata2.org/2007/01/09/children-of-men-you-need-to-see-it-go-now/
 ---

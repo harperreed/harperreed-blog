@@ -2,6 +2,7 @@
 wordpress_id: 1069
 layout: post
 title: oh yea. hackathon idea
+date: 2005-05-24 12:44:32 -05:00
 tags: general, jobs
 wordpress_url: http://www.nata2.org/2005/05/24/oh-yea-hackathon-idea/
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 1543
 layout: post
 title: Excla.im - a replacement jabber bot
+date: 2008-07-13 23:51:24 -05:00
 tags: general, jabber, twitter, python, bot, xmpp, django, google-app-engine, sleekxmpp
 wordpress_url: http://www.nata2.org/?p=1543
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 1214
 layout: post
 title: Campfire bot framework v.2 released
+date: 2006-02-20 23:58:42 -06:00
 tags: general, technology, perl, hacks, 37signals, campfire, bot, chat, campfirenow, flood, exploit
 wordpress_url: http://www.nata2.org/2006/02/20/campfire-v2-released/
 ---

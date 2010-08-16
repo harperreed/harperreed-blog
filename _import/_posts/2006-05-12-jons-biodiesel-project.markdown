@@ -2,6 +2,7 @@
 wordpress_id: 1265
 layout: post
 title: Jon's biodiesel project
+date: 2006-05-12 19:58:51 -05:00
 tags: general, biodiesel, renewable, energy, diesel, asu, epa, appalachian, sustainability
 wordpress_url: http://www.nata2.org/2006/05/12/jons-biodiesel-project/
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 1227
 layout: post
 title: "Worked to death. "
+date: 2006-03-03 10:22:52 -06:00
 tags: general, work
 wordpress_url: http://www.nata2.org/2006/03/03/worked-to-death/
 ---

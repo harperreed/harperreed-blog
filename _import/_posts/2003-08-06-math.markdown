@@ -3,6 +3,7 @@ wordpress_id: 592
 layout: post
 title: math
 excerpt: this stuff is insane. really. I don't understand.
+date: 2003-08-06 21:37:46 -05:00
 tags: insane
 wordpress_url: http://new.nata2.org/?p=592
 ---

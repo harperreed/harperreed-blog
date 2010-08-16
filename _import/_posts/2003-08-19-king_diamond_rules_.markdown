@@ -5,6 +5,7 @@ title: king diamond rules.
 excerpt: |-
   seriously.. awesome.. you should check it out.
   herei am currently listening to kind diamond and lali puna on shuffle.balthus spooks  me out.i need to get SOOOO much work done. it sucks. but I am trucki...
+date: 2003-08-19 06:28:19 -05:00
 tags: music
 wordpress_url: http://new.nata2.org/?p=601
 ---

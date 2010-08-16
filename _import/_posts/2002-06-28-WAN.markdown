@@ -8,6 +8,7 @@ excerpt: |-
   this one is so small and tiny.
   i am happy. 
   as soon as I get my case in the mail I will be able to introduce it to the world. weee.
+date: 2002-06-28 03:50:30 -05:00
 tags: computers
 wordpress_url: http://new.nata2.org/?p=305
 ---

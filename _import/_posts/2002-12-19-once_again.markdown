@@ -3,6 +3,7 @@ wordpress_id: 418
 layout: post
 title: once again
 excerpt: i find myself in an airport terminal.. using my trusty cell phone as internet access. I was noticing today that I have magically switched my palm pilot for my laptop. weird. I mean the laptop isn't much bigger.. but still - I can't fit it in my pocket and I can't use it to navigate my palm..I am going to LA in an hour to see my brother graduate from comme...
+date: 2002-12-19 00:20:26 -06:00
 tags: juggle, phone, cell, internet, war, school, laptop, juggling, screensaver
 wordpress_url: http://new.nata2.org/?p=418
 ---

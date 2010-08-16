@@ -2,6 +2,7 @@
 wordpress_id: 1261
 layout: post
 title: "So i finally came back. "
+date: 2006-05-09 03:35:01 -05:00
 tags: general, video, flickr, travel, home, jon
 wordpress_url: http://www.nata2.org/2006/05/09/so-i-finally-came-back/
 ---

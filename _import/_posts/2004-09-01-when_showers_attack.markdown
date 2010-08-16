@@ -3,6 +3,7 @@ wordpress_id: 926
 layout: post
 title: when showers attack
 excerpt: so today - I am chilling - taking a shower and my wall attacked me. I was just brushing my teeth in the shower and I turned around and the wall that was facing my back lost all the tiles. It was ...
+date: 2004-09-01 16:51:59 -05:00
 tags: nerd, phone, cell, chicago, search, war, laptop, juggling, apple, travel, development, nokia, haxored
 wordpress_url: http://new.nata2.org/?p=926
 ---

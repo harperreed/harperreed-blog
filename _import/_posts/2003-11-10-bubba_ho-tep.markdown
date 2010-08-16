@@ -3,6 +3,7 @@ wordpress_id: 671
 layout: post
 title: bubba ho-tep
 excerpt: "On saturday night, matiss and I went to bubba ho-tep. it was really great. chris said it was perfect - and I have to partially agree with him. it was damned close. all I knon is that now being monday morning.. I am ready for some A C T - I O N. ;)i am really sleepy last night. for some reason I just didn't sleep well. stupid well. "
+date: 2003-11-10 15:17:05 -06:00
 tags: war, chris, author, matiss
 wordpress_url: http://new.nata2.org/?p=671
 ---

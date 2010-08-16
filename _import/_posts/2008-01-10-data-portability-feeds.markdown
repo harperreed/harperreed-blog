@@ -2,6 +2,7 @@
 wordpress_id: 1503
 layout: post
 title: Data Portability feeds
+date: 2008-01-10 16:40:53 -06:00
 tags: general, blogs, rss, data-portability, data, social-networks, opml, google-reader, feeds
 wordpress_url: http://www.nata2.org/2008/01/10/data-portability-feeds/
 ---

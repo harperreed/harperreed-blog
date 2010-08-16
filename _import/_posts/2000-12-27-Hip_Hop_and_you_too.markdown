@@ -5,6 +5,7 @@ title: Hip Hop and you too
 excerpt: |-
   Hip Hop. Oh yes.. 
   Well, another christmas has gone and went.. and to think i just started acknowledging the year 200 last month.. heh.. its almost 2k1. I think it is funny how time flys. i mean i just started school almost 4 years ago.. when i was like 19.. now as i approach my 23rd birthday, i realize that their isn't really a difference between being 23 and being 45. it is afterall, just...
+date: 2000-12-27 20:27:59 -06:00
 tags: war, school, chris, christmas, birthday
 wordpress_url: http://new.nata2.org/?p=78
 ---

@@ -2,6 +2,7 @@
 wordpress_id: 1033
 layout: post
 title: weird i know
+date: 2005-03-29 19:00:08 -06:00
 tags: general, sites, travel, interesting, work, hobby
 wordpress_url: http://www.nata2.org/2005/03/29/weird-i-know/
 ---

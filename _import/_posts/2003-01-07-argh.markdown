@@ -3,6 +3,7 @@ wordpress_id: 427
 layout: post
 title: argh
 excerpt: today I am tired. I have been working all day an I just don't feel well about it. like I should have slept or something. it is weird. I mean I did get up a bit late.. but I feel so "walking dead-ish" - ugh. whatever. I will wake up right *now*last night I got an email from riply's believe it or not about our friend rusty. they si...
+date: 2003-01-07 22:22:39 -06:00
 tags: harper, reed, family, phone, internet, server, search, war, sites, video, hacker, school, rock, tools, movies, bush, watership, websites, halloween, humor, asia, iraq, google
 wordpress_url: http://new.nata2.org/?p=427
 ---

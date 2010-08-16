@@ -5,6 +5,7 @@ title: juggling juggling
 excerpt: |
   So matiss and I juggled yesterday with the superstars of love for the chic-a-go-go. What fun. Here is a video. Yall should be listening to the dungeon family.
 
+date: 2003-05-05 21:15:44 -05:00
 tags: juggle, family, chicago, video, chris, matiss
 wordpress_url: http://new.nata2.org/?p=506
 ---

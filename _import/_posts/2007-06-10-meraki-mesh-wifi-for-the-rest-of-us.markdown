@@ -2,6 +2,7 @@
 wordpress_id: 1455
 layout: post
 title: "Meraki: mesh wifi for the rest of us"
+date: 2007-06-10 15:34:19 -05:00
 tags: general
 wordpress_url: http://www.nata2.org/2007/06/10/meraki-mesh-wifi-for-the-rest-of-us/
 ---

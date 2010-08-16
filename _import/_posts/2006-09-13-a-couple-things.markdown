@@ -2,6 +2,7 @@
 wordpress_id: 1343
 layout: post
 title: a couple things
+date: 2006-09-13 18:33:53 -05:00
 tags: general, php, music, fun, hiromi, muse, website, rss, aggregation
 wordpress_url: http://www.nata2.org/2006/09/13/a-couple-things/
 ---
