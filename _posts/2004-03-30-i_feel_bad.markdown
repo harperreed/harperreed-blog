@@ -1,9 +1,0 @@
---- 
-wordpress_id: 800
-layout: post
-title: i feel bad
-excerpt: "i have a stomach ache. nerves. eek. I hate it. "
-date: 2004-03-30 14:51:08 -06:00
-wordpress_url: http://new.nata2.org/?p=800
----
-i have a stomach ache. nerves. eek. I hate it. 

@@ -1,9 +1,0 @@
---- 
-wordpress_id: 380
-layout: post
-title: fun fun
-excerpt: "here yea go.. or black people love us.. its true.. "
-date: 2002-10-21 19:52:23 -05:00
-wordpress_url: http://new.nata2.org/?p=380
----
-<a href="http://www.uzinagaz.com/?entry_point=nuderunner">here yea go</a>.. or <a href="http://www.blackpeopleloveus.com/">black people love us</a>.. its true.. 

@@ -1,9 +1,0 @@
---- 
-wordpress_id: 588
-layout: post
-title: khaki
-excerpt: i hate khaki pants. but sometimes.. they work.. :(
-date: 2003-08-06 14:31:03 -05:00
-wordpress_url: http://new.nata2.org/?p=588
----
-i hate khaki pants. but sometimes.. they work.. :(

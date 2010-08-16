@@ -1,9 +1,0 @@
---- 
-wordpress_id: 1060
-layout: post
-title: Yahoo! 360
-date: 2005-05-12 17:27:50 -05:00
-tags: general, yahoo, invitations
-wordpress_url: http://www.nata2.org/2005/05/12/yahoo-360/
----
-if you want an invite to yahoo 360 (like friendster sorta. nicer. less shit) leave a comment and i will send you one ;)

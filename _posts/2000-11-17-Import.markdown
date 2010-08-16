@@ -1,9 +1,0 @@
---- 
-wordpress_id: 69
-layout: post
-title: Import
-excerpt: Ok so i imported all my old journal entries.. woohaa.. now you can track my every movement.. hehe.. well whatever.. I need to chill out not.. its snowing. Sometimes when it snows i am reminded of how beautiful life is...
-date: 2000-11-17 06:17:24 -06:00
-wordpress_url: http://new.nata2.org/?p=69
----
-Ok so i imported all my old journal entries.. woohaa.. now you can track my every movement.. hehe.. well whatever.. I need to chill out not.. its snowing. Sometimes when it snows i am reminded of how beautiful life is...

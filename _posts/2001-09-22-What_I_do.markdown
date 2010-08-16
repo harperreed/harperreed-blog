@@ -1,9 +1,0 @@
---- 
-wordpress_id: 109
-layout: post
-title: What I do
-excerpt: So I guess it is time to tell everyone what I really do when I "play" computer. I guess I read a lot of useless information. I would like to direct you to this site which has all sorts of crazy info, I also check slashdot.org a lot(too much really - where oh where is geekizoid)...
-date: 2001-09-22 01:05:57 -05:00
-wordpress_url: http://new.nata2.org/?p=109
----
-So I guess it is time to tell everyone what I really do when I "play" computer. I guess I read a lot of useless information. I would like to direct you to <a href="http://www.abovetopsecret.com">this</a> site which has all sorts of crazy info, I also check <a href="http://www.slashdot.org">slashdot.org</a> a lot(too much really - where oh where is <a href="http://www.geekizoid.com">geekizoid</a>). Really I just read and take in information. So much information. I know a lot of really useless stuff. Well that is it for today. Peace.

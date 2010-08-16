@@ -1,9 +1,0 @@
---- 
-wordpress_id: 265
-layout: post
-title: evil
-excerpt: "my childhood has been patented. "
-date: 2002-04-16 20:37:41 -05:00
-wordpress_url: http://new.nata2.org/?p=265
----
-my childhood has been <a href="http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&amp;Sect2=HITOFF&amp;d=PALL&amp;p=1&amp;u=/netahtml/srchnum.htm&amp;r=1&amp;f=G&amp;l=50&amp;s1='6,368,227'.WKU.&amp;OS=PN/6,368,227&amp;RS=PN/6,368,227">patented</a>. 

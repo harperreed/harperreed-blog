@@ -1,9 +1,0 @@
---- 
-wordpress_id: 142
-layout: post
-title: lasers
-excerpt: Hey check out this game. It rules. now we can lplay with lay-sers.. rule
-date: 2001-12-04 18:55:54 -06:00
-wordpress_url: http://new.nata2.org/?p=142
----
-Hey check out <a href="http://www.input-entertainment.de/laser/laser.html">this</a> game. It rules. now we can lplay with lay-sers.. rule

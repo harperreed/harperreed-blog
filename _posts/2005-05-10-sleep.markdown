@@ -1,9 +1,0 @@
---- 
-wordpress_id: 1056
-layout: post
-title: Sleep.
-date: 2005-05-10 23:52:12 -05:00
-tags: general
-wordpress_url: http://www.nata2.org/2005/05/10/sleep/
----
-i am tired.

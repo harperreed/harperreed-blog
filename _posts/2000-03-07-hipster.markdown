@@ -1,9 +1,0 @@
---- 
-wordpress_id: 68
-layout: post
-title: hipster
-excerpt: "It is very hot out today. I enjoy the weather, but am very hot and wish i had less hindering clothng. I would give anything to dress hip in the city... hehe... too expensive... Well whatever.. last night i went to bed sooo early.. it was very nice.... today.. i hope i get part of my paper done so that i can do sweet nothings in my ear all afternoon(what!).....whatever "
-date: 2000-03-07 20:07:18 -06:00
-wordpress_url: http://new.nata2.org/?p=68
----
-It is very hot out today. I enjoy the weather, but am very hot and wish i had less hindering clothng. I would give anything to dress hip in the city... hehe... too expensive... Well whatever.. last night i went to bed sooo early.. it was very nice.... today.. i hope i get part of my paper done so that i can do sweet nothings in my ear all afternoon(what!).....whatever 

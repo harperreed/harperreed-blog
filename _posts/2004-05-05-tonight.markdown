@@ -1,9 +1,0 @@
---- 
-wordpress_id: 845
-layout: post
-title: tonight
-excerpt: was good. I hung out with morgan. it is getting a lot better. she took this picture. it turned out very very well. I love photosticth fancy man. he helped me. hah. wtf. I am going to stop now. I am almost ready. ready I am.
-date: 2004-05-05 06:22:20 -05:00
-wordpress_url: http://new.nata2.org/?p=845
----
-was good. I hung out with morgan. it is getting a lot better. she took <a href="http://dopeman.org/tonight.html">this</a> picture. it turned out very very well. I love photosticth fancy man. he helped me. hah. wtf. I am going to stop now. I am almost ready. ready I am.

@@ -1,9 +1,0 @@
---- 
-wordpress_id: 229
-layout: post
-title: huh
-excerpt: "i love reality. also check out the spark it is really funny.My parents are coming this friday. I am quite excited. It should be a real fun time. "
-date: 2002-03-13 19:39:41 -06:00
-wordpress_url: http://new.nata2.org/?p=229
----
-<a href="http://www.wastedchicks.com">i love reality</a>. also check out <a href="http://www.thespark.com">the spark</a> it is really funny.<br/><br/>My parents are coming this friday. I am quite excited. It should be a real fun time. 

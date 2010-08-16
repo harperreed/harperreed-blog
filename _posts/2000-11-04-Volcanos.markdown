@@ -1,9 +1,0 @@
---- 
-wordpress_id: 29
-layout: post
-title: Volcanos
-excerpt: As you can see. I have a lot to do right now.. heh.. maybe i should become productive.. well.. So i am in a class about volcanos.. heh.. it really isn't all that fun yet. But i really enjoy learning about plate tectonics. I really want to make a flash page that is a presentation about volcanos. i think that flash is made for this task. hehe.. lucky for me, a poster presentation is due on friday....
-date: 2000-11-04 19:22:30 -06:00
-wordpress_url: http://new.nata2.org/?p=29
----
-As you can see. I have a lot to do right now.. heh.. maybe i should become productive.. well.. So i am in a class about volcanos.. heh.. it really isn't all that fun yet. But i really enjoy learning about plate tectonics. I really want to make a flash page that is a presentation about volcanos. i think that flash is made for this task. hehe.. lucky for me, a poster presentation is due on friday... hehe

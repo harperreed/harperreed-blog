@@ -1,9 +1,0 @@
---- 
-wordpress_id: 296
-layout: post
-title: AIM high
-excerpt: i have some more links. today is a crazy link day. wippeee.. Check out crime in your neighborhood. i forgot the other one. ;)
-date: 2002-06-12 20:11:37 -05:00
-wordpress_url: http://new.nata2.org/?p=296
----
-i have some more links. today is a crazy link day. wippeee.. <br/><a href="http://12.17.79.6/ctznicam/ctznicam.asp">Check out crime in your neighborhood</a>. <br/>i forgot the other one. ;)

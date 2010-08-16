@@ -1,9 +1,0 @@
---- 
-wordpress_id: 224
-layout: post
-title: hey geeks
-excerpt: "You need to head this very special advice. "
-date: 2002-03-05 11:12:34 -06:00
-wordpress_url: http://new.nata2.org/?p=224
----
-You need to head <a href="http://www3.sympatico.ca/saprince/godkills.jpg">this</a> very special advice. 

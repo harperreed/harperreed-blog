@@ -1,9 +1,0 @@
---- 
-wordpress_id: 338
-layout: post
-title: hmm
-excerpt: I don't think that either this or this is a good thing.
-date: 2002-08-12 20:49:43 -05:00
-wordpress_url: http://new.nata2.org/?p=338
----
-I don't think that either <a href="http://www.drudgereport.com/flash2.htm">this</a> or <a href="http://www.drudgereport.com/flash1.htm">this</a> is a good thing.

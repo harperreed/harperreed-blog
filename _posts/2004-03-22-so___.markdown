@@ -1,9 +1,0 @@
---- 
-wordpress_id: 784
-layout: post
-title: so...
-excerpt: well morgan and I talked. it was kinda hard. but at the same time. it made things a lot better. closure is always good. i wish it wasn't really this way however. but whatever. we will get along well. and it will work out - however it needs to work out.
-date: 2004-03-22 06:17:27 -06:00
-wordpress_url: http://new.nata2.org/?p=784
----
-well morgan and I talked. it was kinda hard. but at the same time. it made things a lot better. closure is always good. <br/><br/>i wish it wasn't really this way however. but whatever. we will get along well. and it will work out - however it needs to work out.

@@ -1,9 +1,0 @@
---- 
-wordpress_id: 1034
-layout: post
-title: .... ugh
-date: 2005-03-30 03:47:20 -06:00
-tags: general, late
-wordpress_url: http://www.nata2.org/2005/03/30/ugh/
----
-i can't sleep.. but at the same time i am really tired.

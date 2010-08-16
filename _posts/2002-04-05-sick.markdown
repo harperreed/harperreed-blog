@@ -1,9 +1,0 @@
---- 
-wordpress_id: 250
-layout: post
-title: sick
-excerpt: my brother showed me this. wtf!
-date: 2002-04-05 06:21:54 -06:00
-wordpress_url: http://new.nata2.org/?p=250
----
-my brother showed me <a href="http://www.nppa.org/bestofpj/ethics.htm">this</a>. wtf!

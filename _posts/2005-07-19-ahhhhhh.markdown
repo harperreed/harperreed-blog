@@ -1,9 +1,0 @@
---- 
-wordpress_id: 1096
-layout: post
-title: ahhhhhh
-date: 2005-07-19 13:59:53 -05:00
-tags: general
-wordpress_url: http://www.nata2.org/2005/07/19/ahhhhhh/
----
-i just woke up and my eyes don't work yet!!

@@ -1,9 +1,0 @@
---- 
-wordpress_id: 924
-layout: post
-title: ok ok
-excerpt: so my last post wasn't meant to be as sad as writing at 5 in the morning will make it. but anyway. this is really good.
-date: 2004-08-28 06:02:15 -05:00
-wordpress_url: http://new.nata2.org/?p=924
----
-so my last post wasn't meant to be as sad as writing at 5 in the morning will make it. but anyway. <br/><bR>this is really <a href="http://www.interesting-people.org/archives/interesting-people/200408/msg00306.html">good</a>.

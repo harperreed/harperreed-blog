@@ -1,9 +1,0 @@
---- 
-wordpress_id: 824
-layout: post
-title: mmm
-excerpt: "soy milk is really good. I need to sleep sooo bad. I need to be asleep like 4 hours ago. stupid naps. "
-date: 2004-04-19 09:28:38 -05:00
-wordpress_url: http://new.nata2.org/?p=824
----
-soy milk is really good. I need to sleep sooo bad. I need to be asleep like 4 hours ago. stupid naps. 

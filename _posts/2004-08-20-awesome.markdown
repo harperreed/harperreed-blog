@@ -1,9 +1,0 @@
---- 
-wordpress_id: 919
-layout: post
-title: awesome
-excerpt: sometimes the force of destruction is awe inspiring
-date: 2004-08-20 21:39:15 -05:00
-wordpress_url: http://new.nata2.org/?p=919
----
-sometimes the force of destruction is awe inspiring

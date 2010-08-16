@@ -1,9 +1,0 @@
---- 
-wordpress_id: 668
-layout: post
-title: i am dumb
-excerpt: "stupid stupid stupid tivo. totally broke my eyes. my ears and my brain. so I gave up. better to start this weekend when I have more eyes. more patience and more brains. "
-date: 2003-11-06 06:30:21 -06:00
-wordpress_url: http://new.nata2.org/?p=668
----
-stupid stupid stupid tivo. totally broke my eyes. my ears and my brain. so I gave up. better to start this weekend when I have more eyes. more patience and more brains. 

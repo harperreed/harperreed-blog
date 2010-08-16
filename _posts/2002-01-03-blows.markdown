@@ -1,9 +1,0 @@
---- 
-wordpress_id: 164
-layout: post
-title: blows
-excerpt: You know what this all feels like? it feels like when you have the wind knocked out of you. I read my previous posts and my eyes well up and I breathe out deeply. a little too deep. this is tough..
-date: 2002-01-03 14:58:12 -06:00
-wordpress_url: http://new.nata2.org/?p=164
----
-You know what this all feels like? it feels like when you have the wind knocked out of you. I read my previous posts and my eyes well up and I breathe out deeply. a little too deep. this is tough..
