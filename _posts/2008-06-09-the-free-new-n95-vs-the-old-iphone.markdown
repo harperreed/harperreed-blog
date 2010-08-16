@@ -2,6 +2,7 @@
 wordpress_id: 1531
 layout: post
 title: The free new N95 vs the old iPhone
+date: 2008-06-09 23:52:36 -05:00
 tags: technology, apple, mobile, nokia, symbian, iphone, n95, wom
 wordpress_url: http://www.nata2.org/?p=1531
 ---

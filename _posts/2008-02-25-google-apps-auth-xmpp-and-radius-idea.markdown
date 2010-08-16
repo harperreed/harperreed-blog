@@ -2,6 +2,7 @@
 wordpress_id: 1508
 layout: post
 title: "Google Apps Auth: XMPP and Radius idea"
+date: 2008-02-25 01:51:39 -06:00
 tags: technology, xmpp, google-apps, radius, ldap, authentication, sso, saml
 wordpress_url: http://www.nata2.org/2008/02/25/google-apps-auth-xmpp-and-radius-idea/
 ---

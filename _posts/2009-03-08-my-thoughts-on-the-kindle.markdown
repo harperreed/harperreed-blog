@@ -2,6 +2,7 @@
 wordpress_id: 1608
 layout: post
 title: "My thoughts on the kindle: 1 vs 2 and the iphone app"
+date: 2009-03-08 15:54:09 -05:00
 tags: general, iphone, kindle, ebooks
 wordpress_url: http://www.nata2.org/?p=1608
 ---

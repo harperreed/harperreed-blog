@@ -2,6 +2,7 @@
 wordpress_id: 1512
 layout: post
 title: TechCocktail Boulder and SXSW! Come see me!
+date: 2008-03-05 20:37:31 -06:00
 tags: general, colorado, travel, parties, sxsw, techcocktail, boulder, austin, texas
 wordpress_url: http://www.nata2.org/2008/03/05/traveling-to-parties/
 ---

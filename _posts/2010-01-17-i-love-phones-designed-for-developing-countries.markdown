@@ -2,6 +2,7 @@
 wordpress_id: 1661
 layout: post
 title: "I love phones designed for developing countries. "
+date: 2010-01-17 19:49:55 -06:00
 tags: general, phones, nokia, motorola, developing
 wordpress_url: http://www.nata2.org/?p=1661
 ---

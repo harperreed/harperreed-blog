@@ -2,6 +2,7 @@
 wordpress_id: 1520
 layout: post
 title: Speaking at TechCocktail conference on thursday
+date: 2008-05-28 00:52:59 -05:00
 tags: general, chicago, techcocktail, speaking, technology-agnosticism
 wordpress_url: http://www.nata2.org/?p=1520
 ---

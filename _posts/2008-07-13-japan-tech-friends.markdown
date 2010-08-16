@@ -2,6 +2,7 @@
 wordpress_id: 1540
 layout: post
 title: Japan Tech Friends
+date: 2008-07-13 23:35:22 -05:00
 tags: general, travel, japan, tokyo, friends, aa-camp, barcamp
 wordpress_url: http://www.nata2.org/?p=1540
 ---

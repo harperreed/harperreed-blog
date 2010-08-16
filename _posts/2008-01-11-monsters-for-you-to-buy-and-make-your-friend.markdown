@@ -2,6 +2,7 @@
 wordpress_id: 1504
 layout: post
 title: Monsters for you to buy and make your friend!
+date: 2008-01-11 00:28:21 -06:00
 tags: general, dylan, fun, awesomeguy, etsy, creatures, awesometown
 wordpress_url: http://www.nata2.org/2008/01/11/monsters-for-you-to-buy-and-make-your-friend/
 ---

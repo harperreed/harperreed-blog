@@ -2,6 +2,7 @@
 wordpress_id: 1509
 layout: post
 title: "The Mosso Cloud: Requests are not a good metric"
+date: 2008-02-29 13:15:59 -06:00
 tags: technology, hosting, mosso, web-20, cloud, grid
 wordpress_url: http://www.nata2.org/?p=1509
 ---

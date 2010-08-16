@@ -2,6 +2,7 @@
 wordpress_id: 1546
 layout: post
 title: "Mini Hi Fi: The Chase"
+date: 2008-08-30 22:31:25 -05:00
 tags: general, stereo, hifi, audio, t-amp, audiophile, preamp-amp
 wordpress_url: http://www.nata2.org/?p=1546
 ---

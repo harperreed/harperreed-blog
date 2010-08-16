@@ -2,6 +2,7 @@
 wordpress_id: 1502
 layout: post
 title: Obama is winning Iowa!
+date: 2008-01-03 23:15:09 -06:00
 tags: general, politics, obama
 wordpress_url: http://www.nata2.org/2008/01/03/obama-is-winning-iowa/
 ---

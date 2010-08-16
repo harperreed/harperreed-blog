@@ -2,6 +2,7 @@
 wordpress_id: 1506
 layout: post
 title: "Obama: yes we can"
+date: 2008-02-04 13:39:57 -06:00
 tags: general, video, politics, obama, president, elections, yes-we-can
 wordpress_url: http://www.nata2.org/2008/02/04/obama-yes-we-can/
 ---
