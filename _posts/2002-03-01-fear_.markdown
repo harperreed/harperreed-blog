@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 219
+layout: post
+title: fear.
+excerpt: This is quite scary. I love reading articles and assuming that they are from another world. check out some more links. What do...
+date: 2002-03-01 21:03:42 -06:00
+wordpress_url: http://new.nata2.org/?p=219
+---
+<a href="http://www.washingtonpost.com/wp-dyn/articles/A20584-2002Feb28.html">This</a> is quite scary. I love reading articles and assuming that they are from another world. check <a href="http://www.worldnetdaily.com/images2/faa911memo.jpg">out</a> some <a href="http://www.rense.com/general20/una.htm">more</a> <a href="http://www.angelfire.com/retro/malcontentx/questions.html">links</a>. What do we do if an attack of the nuclear caliber is eminent. I mean, red dawn scared the shit out of me.  <br/><br/>in other news. my life has officially become surreal.

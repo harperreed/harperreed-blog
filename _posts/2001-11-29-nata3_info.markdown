@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 139
+layout: post
+title: NaTa2.info
+excerpt: "I set up a new document repository. I was tired of having to refind everythign I was looking for. So I set up a place that has everything together. wee. I am excited. now only if it was nicer and better. hehe. soon. my dear... soon.. \r\n\
+  check it out at nata2.info...\r\n\
+  I found some good stuff to post: "
+date: 2001-11-29 16:34:39 -06:00
+tags: chicago, osx
+wordpress_url: http://new.nata2.org/?p=139
+---
+I set up a new document repository. I was tired of having to refind everythign I was looking for. So I set up a place that has everything together. wee. I am excited. now only if it was nicer and better. hehe. soon. my dear... soon.. 
+check it out at <a href="http://www.nata2.info">nata2.info</a>...<br/><br/>
+I found some good stuff to post: <a href="http://nata2.info/geek/Misc/MacOS_X_Hacks.txt">Mac osX hacks</a> and <a href="http://nata2.info/geek/Misc/Chicago_802.11_Wireless_Points.txt">Chicago wireless access points</a>..

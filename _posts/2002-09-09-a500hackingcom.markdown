@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 1162
+layout: post
+title: A500Hacking.com
+date: 2002-09-09 12:09:48 -05:00
+tags: general, hacking, sites, sprint, forums, mine, samsung
+wordpress_url: http://www.nata2.org/2002/09/09/a500hackingcom/
+---
+I got a Samsung A500 from sprint and found what i was looking for. The phone had so much potential - but no one was really taking advantage of it. So i made <a href="http://www.a500hacking.com">a500hacking.com</a>.

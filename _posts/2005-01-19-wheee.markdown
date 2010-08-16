@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 981
+layout: post
+title: wheee
+excerpt: "my mini mac is almost here. I am excited.\r\n\
+  hehe. I can't wait. I am sleepy. and need to goto sleep. if it wasn't for that long nap I took from 7 - 11:30 I would be on it. heh.  "
+date: 2005-01-19 04:28:04 -06:00
+wordpress_url: http://new.nata2.org/?p=981
+---
+my mini mac is almost here. I am excited.
+<br/><br/>hehe. I can't wait. I am sleepy. and need to goto sleep. if it wasn't for that long nap I took from 7 - 11:30 I would be on it. heh.  

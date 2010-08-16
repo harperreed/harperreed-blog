@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 178
+layout: post
+title: remember
+excerpt: this for buying misc. stuff involving DTV hacking. also remember this
+date: 2002-01-14 16:23:00 -06:00
+tags: hacking
+wordpress_url: http://new.nata2.org/?p=178
+---
+<a href="http://64.246.7.185/">this</a> for buying misc. stuff involving DTV hacking. also remember <a href="http://www.pirateden.com/">this</a>

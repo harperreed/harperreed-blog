@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 552
+layout: post
+title: meeting
+excerpt: "Next year, rather than go to the indy 500, I think I will go here.i am up, at work so early. goddamn meetings that I called. hehe. I shoudl have thought that a bit through. whatever. I am a dork.\r\n\
+  \r\n\
+  in other news.. millions of children in the UK are goign to be really sad when they find out "
+date: 2003-06-25 13:37:58 -05:00
+tags: php
+wordpress_url: http://new.nata2.org/?p=552
+---
+Next year, rather than go to the indy 500, I think I will go <a href="http://www.b0g.org/wsnm/news.php?artc=3397">here</a>.<br/><br/>i am up, at work so early. goddamn meetings that I called. hehe. I shoudl have thought that a bit through. whatever. I am a dork.
+
+<br/><br/>in other news.. millions of children in the UK are goign to be really sad when they find out <a href="http://icbirmingham.icnetwork.co.uk/0100news/0100localnews/content_objectid=13082923_method=full_siteid=50002_headline=-It's-the-M6-doll-road!-name_page.html">that the truck</a> with all their toys.. crashed. good thing they don't have <a href="http://news.telegraph.co.uk/news/main.jhtml?xml=/news/2003/06/08/wkor08.xml&sSheet=/news/2003/06/08/ixworld.html/news/2003/06/08/wkor08.xml">these parents</a>.. eh.

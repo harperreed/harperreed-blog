@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 532
+layout: post
+title: drug user
+excerpt: |
+  i keep thinking up parts of my original sabatoged post.. so here it goes.. I was going to make a new web project for the month of june.. I was going to take a picture of every meal I ate. but I have totally blown it. I have missed so many meals already. I am a bad bad person. I am trying to decide if I shoudl continue. the pressure is too much. I suddenly am overwhelmed with work.
+
+date: 2003-06-03 21:36:35 -05:00
+wordpress_url: http://new.nata2.org/?p=532
+---
+i keep thinking up parts of my original sabatoged post.. so here it goes.. I was going to make a new web project for the month of june.. I was going to take a picture of every meal I ate. but I have totally blown it. I have missed so many meals already. I am a bad bad person. I am trying to decide if I shoudl continue. the pressure is too much.<br/><br/> I suddenly am overwhelmed with work.

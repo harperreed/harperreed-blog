@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 807
+layout: post
+title: oh yeah
+excerpt: |-
+  i forgot to post some links: 
+  i love misinformation. I think it is one of my favorite things. I often don't liek seinfield - however the superman and seinfield commercials are pretty funny. apparently this d...
+date: 2004-04-05 21:02:40 -05:00
+tags: php, internet, linux
+wordpress_url: http://new.nata2.org/?p=807
+---
+i forgot to post some links: <br/>
+<a href="http://www.thoraxcorp.com">i love misinformation</a>. I think it is one of my favorite things. I often don't liek seinfield - however <a href="http://www.jerry.digisle.tv/room.html">the superman and seinfield</a> commercials are pretty funny. apparently <a href="http://www.flash-gear.com/draw/drw.php?id=2788&amp;a=139143950&amp;c=310144110">this</a> does something - although I am unable to see it. haha. I hate the internet. ;) <a href="http://www.linux.ie/pipermail/ilug/2004-April/013049.html">this</a> makes me love the internet though.

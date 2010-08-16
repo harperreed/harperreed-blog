@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 470
+layout: post
+title: blogs
+excerpt: "here is a small list of my friends blogs in a handy blog watcher. it is nice and was fun to write. I need food really bad. "
+date: 2003-03-21 21:16:39 -06:00
+tags: blogs, food
+wordpress_url: http://new.nata2.org/?p=470
+---
+here is a <a href="http://blogs.nata2.org">small list</a> of my friends blogs in a handy blog watcher. it is nice and was fun to write. I need food really bad. 

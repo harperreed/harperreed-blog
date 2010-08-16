@@ -1,0 +1,20 @@
+--- 
+wordpress_id: 288
+layout: post
+title: heh
+excerpt: |-
+  fear U.S.
+  fischer spooner rocks...
+  linuxkilla (3:42:32 PM): http://www.alexchiu.com/affiliates/clickthru.cgi?id=natatwo
+  eatabloodyfetus (3:42:33 PM): soon
+date: 2002-05-29 20:04:18 -05:00
+tags: fear, rock, blood, linux
+wordpress_url: http://new.nata2.org/?p=288
+---
+<a href="http://www.alexchiu.com/affiliates/clickthru.cgi?id=natatwo">fear</a> U.S.<br/>
+<a href="http://www.fischerspooner.com">fischer spooner</a> rocks...<br/><br/>
+<small><b>linuxkilla</b> (3:42:32 PM): <a href="http://www.alexchiu.com/affiliates/clickthru.cgi?id=natatwo">http://www.alexchiu.com/affiliates/clickthru.cgi?id=natatwo</a><br/>
+<b>eatabloodyfetus</b> (<i>3:42:33 PM</i>): soon<br/>
+<b>linuxkilla</b> (<i>3:42:43 PM</i>): try and get as many people to click on that as possible. <br/>
+<b>linuxkilla</b> (<i>3:42:49 PM</i>): I want to become immortal<br/>
+<b>linuxkilla</b> (<i>3:43:03 PM</i>): and the sooner I get 80 people to click on it the sooner I become immortal<br/></small>

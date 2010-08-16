@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 315
+layout: post
+title: fear
+excerpt: "this is supposed to be spooky. But it isn't really. are ready for nekromantik. It is playing at the landmark century theatre on friday.. cannibal corpse may be there as well.. "
+date: 2002-07-10 19:34:53 -05:00
+wordpress_url: http://new.nata2.org/?p=315
+---
+<a href="http://cgi.ebay.com/ws/ebayISAPI.dll?ViewItem&item=891732698">this</a> is supposed to be spooky. But it isn't really. <br/><br/>are ready for <a href="http://www.stomptokyo.com/otf/Nekro/Nekro.htm">nekromantik</a>. It is playing at the landmark century theatre on <a href="http://www.aintitcool.com/display.cgi?id=12682">friday</a>.. cannibal corpse may be there as well.. 

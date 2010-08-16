@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 273
+layout: post
+title: killer
+excerpt: Another good game. I sometimes want to be known as the guy tah talways wears iron maideen shirts. Everywhere and all day. I also want to get new juggling clubs and my ps2. boy I have a lot of wants. I shuld probably re-evaluate my priorities. I am havign a hell of a time concentrating today. I am also havign severe pain in my left arm/hand. it is str...
+date: 2002-05-02 21:37:46 -05:00
+tags: internet, juggling
+wordpress_url: http://new.nata2.org/?p=273
+---
+Another good <a href="http://killer.flaboratorium.org/">game</a>. I sometimes want to be known as the guy tah talways wears iron maideen shirts. Everywhere and all day. I also want to get new juggling clubs and my ps2. boy I have a lot of wants. I shuld probably re-evaluate my priorities. I am havign a hell of a time concentrating today. I am also havign severe pain in my left arm/hand. it is strange. maybe I am getting one of those dreaded hand cramps. maybe if I ate better it owuld go away. <br/><br/>what do you think of web page culture? better yet, what do you think of the stratification of class and the internet? 

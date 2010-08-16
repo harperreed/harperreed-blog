@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 850
+layout: post
+title: also..
+excerpt: if you want something.. let me know. I can get it cheap. ;)
+date: 2004-05-10 12:10:31 -05:00
+wordpress_url: http://new.nata2.org/?p=850
+---
+if you want something.. let me know. I can get it cheap. ;)

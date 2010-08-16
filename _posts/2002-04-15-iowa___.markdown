@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 263
+layout: post
+title: iowa...
+excerpt: "I went to iowa this weekend.. for an art show. it was really fun. a guy tried to fight me because of our shenanigans the previous night. it was so stupid. hehe. the art was good however... "
+date: 2002-04-15 03:03:35 -05:00
+wordpress_url: http://new.nata2.org/?p=263
+---
+I went to iowa this weekend.. for an art show. it was <a href="http://nata2.info/?path=pictures%2Fmisc%2Fiowa_april_2002&img=P4130008.JPG">really fun</a>. a guy tried to fight me because of our shenanigans the previous night. it was so stupid. hehe. the art was good however... 

@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 568
+layout: post
+title: late late
+excerpt: |
+  so I am staying late at work tonight to get some stuff.. and I broke my ipod. it just own't let me put any music on it. so while I was "fixing" it.. I inadvertently removed all my other music. so now there is nothing. doh. 
+  i have to get up Soooooooo early tomorrow. like 4:30. suxor. 
+
+date: 2003-07-16 02:08:03 -05:00
+tags: music, ipod
+wordpress_url: http://new.nata2.org/?p=568
+---
+so I am staying late at work tonight to get some stuff.. and I broke my ipod. it just own't let me put any music on it. so while I was "fixing" it.. I inadvertently removed all my other music. so now there is nothing. doh. 
+<br/><br/>i have to get up Soooooooo early tomorrow. like 4:30. suxor. 

@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 396
+layout: post
+title: Hmm..
+excerpt: I am watching red dawn. whoa. that movie is very interesting. especially in light of the current situation with our world. I wouldn't be surprised if an offensive was targeted on U.S. soil if a military action was initiated. I juggled for 25min tonight. practicing doubles - and all that jazz.
+date: 2002-11-12 08:55:06 -06:00
+tags: juggle, action, military
+wordpress_url: http://new.nata2.org/?p=396
+---
+I am watching red dawn. whoa. that movie is very interesting. especially in light of the current situation with our world. I wouldn't be surprised if an offensive was targeted on U.S. soil if a military action was initiated. <br/><br/>I juggled for 25min tonight. practicing doubles - and all that jazz.

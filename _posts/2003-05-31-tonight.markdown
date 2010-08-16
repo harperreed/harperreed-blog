@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 526
+layout: post
+title: tonight
+excerpt: tonight has been really great. I was hanging out with some friends after work.. including the new girl.. haha  she is really cool.. but anyway.. I was hanging  out and I received a call from my new friend marcia..  it was exciting.. we really haven't hung out that much. so it was a nice surprise. So we hung out and went to a bar, a BBQ and then a party. what fun. hopefully we will hang out more....
+date: 2003-05-31 08:00:04 -05:00
+wordpress_url: http://new.nata2.org/?p=526
+---
+tonight has been really great. I was hanging out with some friends after work.. including the new girl.. haha  she is really cool.. but anyway.. I was hanging  out and I received a call from my new friend marcia..  it was exciting.. we really haven't hung out that much. so it was a nice surprise. So we hung out and went to a bar, a BBQ and then a party. what fun. hopefully we will hang out more...
+
+<br/><br/>
+<a href="http://www.solidgrind.com">Check it out..</a> my friend's site is now live...

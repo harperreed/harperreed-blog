@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 52
+layout: post
+title: Lax
+excerpt: I haven't added any entries in awhile.. I have been sorta busy. I have a new class, Data structures. Fun Fun... programming and such.. but whatever. I have been hanging a lot with Kinnera.. i enjoy that. Its nice. I hope to have a very good block. I imagine i will. it seems to be going well. It is very exciting so far. and it only seems to be able to go upwards... well.. until next time
+date: 2000-11-30 06:40:54 -06:00
+tags: kinnera, war, programming
+wordpress_url: http://new.nata2.org/?p=52
+---
+I haven't added any entries in awhile.. I have been sorta busy. I have a new class, Data structures. Fun Fun... programming and such.. but whatever. I have been hanging a lot with Kinnera.. i enjoy that. Its nice. I hope to have a very good block. I imagine i will. it seems to be going well. It is very exciting so far. and it only seems to be able to go upwards... well.. until next time

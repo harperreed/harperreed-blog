@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 701
+layout: post
+title: heh
+excerpt: |
+  this guy stoled my life ;)
+
+date: 2003-12-15 21:24:21 -06:00
+wordpress_url: http://new.nata2.org/?p=701
+---
+<a href="http://www.flashenabled.com/">this guy</a> stoled my life ;)

@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 125
+layout: post
+title: hehe
+excerpt: This is very very funny.
+date: 2001-11-05 22:09:08 -06:00
+wordpress_url: http://new.nata2.org/?p=125
+---
+<a href="http://www.orosian.demon.co.uk/Weeee.swf">This</a> is very very funny.

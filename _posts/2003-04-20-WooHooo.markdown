@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 492
+layout: post
+title: WooHooo
+excerpt: So friday night was the fischerspooner show. it was really quite something. I enjoyed the calculated mistakes and insanity that made up the show. The guys seemed really great as well. Very funny. I loved the break away clothing. and all my friend were their. Here are pictures f...
+date: 2003-04-20 19:54:09 -05:00
+tags: server
+wordpress_url: http://new.nata2.org/?p=492
+---
+So friday night was the <a href="http://www.fischerspooner">fischerspooner</a> show. it was really quite something. I enjoyed the calculated mistakes and insanity that made up the show. The guys seemed really great as well. Very funny. I loved the break away clothing. and all my friend were their. <a href="http://nata2.info/?path=pictures/parties/fischerspooner_afterparty">Here are pictures</a> from the "afterparty." never mind my crotch.. it wasn't my fault..<br/><br/>Right now I am sitting outside in the sun.. working on my new server.. using my landlords wireless network.. which is strangly extending my wireless network about 100 feet. it rules so much. the neighbor kids are playing baseball.. with a beach ball.. I know I am going to have to fetch the ball sooner or later.. once it breaches the fence.. ;)<Br>It looks like one of them just took the ball to the face.. poor little girl.. she is sad.. hehe.. but wait.. amazingly she is back in the game.. 

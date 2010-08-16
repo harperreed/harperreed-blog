@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 680
+layout: post
+title: doh..
+excerpt: it looks like the fun is over.. sad day. I hope it will only be a temp. provision. I would be sad - after all it just opened. suxor. stupid E2
+date: 2003-11-17 23:16:05 -06:00
+tags: chicago
+wordpress_url: http://new.nata2.org/?p=680
+---
+it looks like the <a href="http://www.chicagotribune.com/news/local/nearnorthwest/chi-0311170200nov17,1,7021572.story?coll=chi-newslocalnearnorthwest-hed">fun is over</a>.. sad day. I hope it will only be a temp. provision. I would be sad - after all it just opened. suxor. <b>stupid E2</b>

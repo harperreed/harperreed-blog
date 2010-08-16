@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 145
+layout: post
+title: Sick
+excerpt: After being rather sick for the last couple days I have decided to cut off my own arms. You should all go by the game set it rules.
+date: 2001-12-09 22:04:55 -06:00
+tags: sick
+wordpress_url: http://new.nata2.org/?p=145
+---
+After being rather sick for the last couple days I have decided to cut off my own arms. You should all go by the game set it rules.

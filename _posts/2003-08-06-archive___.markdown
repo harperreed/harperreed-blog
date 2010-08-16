@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 593
+layout: post
+title: archive...
+excerpt: so I think I redid the archive - I say maybe.. cuz it is broke.
+date: 2003-08-06 23:18:37 -05:00
+tags: php
+wordpress_url: http://new.nata2.org/?p=593
+---
+so I think I redid the <a href="archive.php">archive</a> - I say maybe.. cuz it is broke.

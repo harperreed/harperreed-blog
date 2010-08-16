@@ -1,0 +1,19 @@
+--- 
+wordpress_id: 496
+layout: post
+title: Diamonds
+excerpt: |-
+  Today I purchased a brief case of diamonds from ebay. I can't wait to get them. Hopefully I will become very wealthy from this investment.. 
+  phunktoad (11:31:50 AM): *these diamonds are actually little cubes of glass from broken car windows.
+  linuxKILLa (11:31:59 AM)...
+date: 2003-04-24 16:33:08 -05:00
+tags: juggling, linux, windows
+wordpress_url: http://new.nata2.org/?p=496
+---
+Today I purchased a <a href="http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&category=36329&item=2524366727&rd=1">brief case of diamonds</a> from ebay. I can't wait to get them. Hopefully I will become very wealthy from this investment.. <blockquote><small>
+<b>phunktoad (11:31:50 AM)</b>: *these diamonds are actually little cubes of glass from broken car windows.<br/>
+<b>linuxKILLa (11:31:59 AM)</b>: noooooooooooooooooooooooooooooooo<br/>
+<b>linuxKILLa (11:32:03 AM)</b>: I feel so tricked<br/>
+<b>phunktoad (11:32:09 AM)</b>: ahahahaha<br/>
+</small></blockquote>
+So there is going to be a juggling festival this weekend.. and my brother is coming out for it. and some really cool cats are probably staying at our house. so exciting.

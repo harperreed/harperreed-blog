@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 753
+layout: post
+title: game anew
+excerpt: here is a new game for yall. I hope you like it. my best is 85. w00t. apparently the party tonight is pants-less. this often happens to me ;)
+date: 2004-02-13 20:42:57 -06:00
+tags: games
+wordpress_url: http://new.nata2.org/?p=753
+---
+here is a <a href="http://games.apropo.ro/pingutarget.html">new game</a> for yall. I hope you like it. my best is 85. w00t. apparently the party tonight is pants-less. this often happens to me ;)

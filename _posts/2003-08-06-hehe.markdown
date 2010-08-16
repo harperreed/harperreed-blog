@@ -1,0 +1,24 @@
+--- 
+wordpress_id: 589
+layout: post
+title: hehe
+excerpt: |-
+  last night we went to innjoy and hung. it was poppin. seirously. off the hook. 
+  
+  
+  ZombieBet (9:42:35 AM): u are a party animal and yr corporrate
+  ZombieBet (9:42:44 AM): yr like spuds mackenzie
+  
+  
+  i want buffalo wings. wtf?
+date: 2003-08-06 14:45:41 -05:00
+wordpress_url: http://new.nata2.org/?p=589
+---
+last night we went to innjoy and hung. it was poppin. seirously. off the hook. 
+<blockquote>
+<small>
+<b>ZombieBet (9:42:35 AM)</b>: u are a party animal and yr corporrate<br/>
+<b>ZombieBet (9:42:44 AM)</b>: yr like spuds mackenzie
+</small>
+</blockquote>
+i want buffalo wings. wtf?

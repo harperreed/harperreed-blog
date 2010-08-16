@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 28
+layout: post
+title: Program
+excerpt: I now need to write a program to update this.. so i can email a specific email address or log on to a specific page and update my journal.. hehe wouldn't it be cool to be able to update my journal from my palm pilot.. wooha... thats right.. maybe i should add a spell checker and a url format-er as well.. hmmm so much to do.. so much time :)
+date: 2000-11-04 09:22:30 -06:00
+tags: friends
+wordpress_url: http://new.nata2.org/?p=28
+---
+I now need to write a program to update this.. so i can email a specific email address or log on to a specific page and update my journal.. hehe wouldn't it be cool to be able to update my journal from my palm pilot.. wooha... thats right.. maybe i should add a spell checker and a url format-er as well.. hmmm so much to do.. so much time :)

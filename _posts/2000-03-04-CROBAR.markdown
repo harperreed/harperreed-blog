@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 44
+layout: post
+title: CROBAR
+excerpt: Last night i went to a bomb dance club called crobar. It was silly. but i like to dance so it was not that bad... i actually had a lot of fun.. but it cost like 15 to get in.. 3 to check your coat and 4 for each drink.. too much... tonight i will probably stay in and pray.
+date: 2000-03-04 22:18:43 -06:00
+tags: crobar
+wordpress_url: http://new.nata2.org/?p=44
+---
+Last night i went to a bomb dance club called crobar. It was silly. but i like to dance so it was not that bad... i actually had a lot of fun.. but it cost like 15 to get in.. 3 to check your coat and 4 for each drink.. too much... tonight i will probably stay in and pray.

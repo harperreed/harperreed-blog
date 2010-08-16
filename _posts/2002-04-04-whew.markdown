@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 249
+layout: post
+title: whew
+excerpt: it was close for awhile. now I feel safe. oh wait.. I mean now...
+date: 2002-04-04 16:08:21 -06:00
+tags: search, war, health, terrorism
+wordpress_url: http://new.nata2.org/?p=249
+---
+it was <a href="http://www.cnn.com/2002/HEALTH/04/04/marrying.cousins.ap/index.html">close</a> for awhile. now I feel <a href="http://www.cnn.com/2002/HEALTH/04/02/botox.approval.ap/index.html">safe</a>. oh wait.. I mean <a href="http://216.239.39.100/search?q=cache:PXpFJuqSx7IC:www.whitehouse.gov/news/releases/2001/11/20011108-13.html+war+Terrorism+destroy+Applause+patriotism&hl=en&ie=utf-8">now</a> I feel <a href="http://news.bbc.co.uk/hi/english/world/middle_east/newsid_1910000/1910925.stm">safe</a>. soon things should <a href="http://www.newscientist.com/news/news.jsp?id=ns99992094">quiet</a> down a bunch. especially now that responsible adults are <a href="http://newsvote.bbc.co.uk/hi/english/talking_point/newsid_1910000/1910288.stm">involved</a>

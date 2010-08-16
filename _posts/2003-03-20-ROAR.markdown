@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 468
+layout: post
+title: ROAR
+excerpt: tonight I am going to see cursive. it should be fun. I really like that band. but what I like more is this. It is very funny. ;) ;)So we are at war. but at what cost? I imagine it will cost a lot of people their lives. Check out this blog ...
+date: 2003-03-20 16:52:09 -06:00
+tags: blogs, war, dad
+wordpress_url: http://new.nata2.org/?p=468
+---
+tonight I am going to see cursive. it should be fun. I really like that band. but what I like more is <a href="http://jagor.srce.hr/~drupcic1/">this</a>. It is very funny. ;) ;)<br/>So we are at war. but at what <a href="http://www.baptizm-land.com/ebay/5notes-tenth.jpg">cost</a>? I imagine it will cost a lot of people their lives. Check out <a href="http://dear_raed.blogspot.com/">this</a> blog from baghdad. <br/><br/>i just don't have much to say at this point. I need to do work. I need to not worry. I won't worry.

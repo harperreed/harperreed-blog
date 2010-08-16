@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 30
+layout: post
+title: update
+excerpt: hopefully i am able to update this often... than my page won't sit stagnant
+date: 2000-11-08 21:02:40 -06:00
+wordpress_url: http://new.nata2.org/?p=30
+---
+hopefully i am able to update this often... than my page won't sit stagnant

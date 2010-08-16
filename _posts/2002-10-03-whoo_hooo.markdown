@@ -1,0 +1,21 @@
+--- 
+wordpress_id: 369
+layout: post
+title: whoo hooo
+excerpt: |-
+  My firend ladawn is in town. It is really fun to have her arond. I like it. I wish she was moving to chicago. hehe. 
+  A lot of my friends from college have converged on chicago this year. It is nice. One of them even moved in accross the street.. unbeknownst to us. 
+  
+  anyway..
+  check out my new website a500hacking.com. It is getting pretty ...
+date: 2002-10-03 00:26:02 -05:00
+tags: chicago, hacking, sites, food, college, websites
+wordpress_url: http://new.nata2.org/?p=369
+---
+My firend ladawn is in town. It is really fun to have her arond. I like it. I wish she was moving to chicago. hehe. <br/>
+A lot of my friends from college have converged on chicago this year. It is nice. One of them even moved in accross the street.. unbeknownst to us. <br/>
+
+anyway..<br/>
+check out my new website <a href="http://www.a500hacking.com">a500hacking.com</a>. It is getting pretty big. I am such a fan of communtiy websites. So much fun to foster somethign like that. 
+<br/><br/>
+Well.. I am off to eat food...

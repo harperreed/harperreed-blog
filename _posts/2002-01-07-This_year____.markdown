@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 168
+layout: post
+title: This year....
+excerpt: "After finishing the previous pseudo-rant.. I decided to add an afterward to new years day: Ok so this year hasn't started out exactly in the best of ways... I had troble with k*star.. my server got hax0red.. I am sick.. I need money.. I need a hobby.. my computer is dying.. a slow slow death.. and I am tired.. thus sleep.."
+date: 2002-01-07 02:11:05 -06:00
+tags: server, war, sick
+wordpress_url: http://new.nata2.org/?p=168
+---
+After finishing the previous pseudo-rant.. I decided to add an afterward to new years day: Ok so this year hasn't started out exactly in the best of ways... I had troble with k*star.. my server got hax0red.. I am sick.. I need money.. I need a hobby.. my computer is dying.. a slow slow death.. and I am tired.. thus sleep..

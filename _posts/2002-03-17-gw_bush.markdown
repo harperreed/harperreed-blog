@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 231
+layout: post
+title: gw bush
+excerpt: "today I saw gw in a parade. It was strange. he was really close. and in a very armoured car. it was crazy. it was like a lincoln town car inside an SUV. it looked like a submarine looks. quite funny. And nothing is funnier than our president. St. Patricks. Day is quite something. "
+date: 2002-03-17 07:20:11 -06:00
+wordpress_url: http://new.nata2.org/?p=231
+---
+today I saw gw in a parade. It was strange. he was really close. and in a very armoured car. it was crazy. it was like a lincoln town car inside an SUV. it looked like a submarine looks. quite funny. And nothing is funnier than our president. St. Patricks. Day is quite something. 

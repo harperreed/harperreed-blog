@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 33
+layout: post
+title: solution
+excerpt: |
+  I finally fixed this journal... hehe i got back from minne-sota today.. it was fun.. i saw my friends sarah and ladawn.. as well as my friend phil.. i had a great time..  
+
+date: 2000-06-05 04:08:16 -05:00
+wordpress_url: http://new.nata2.org/?p=33
+---
+I finally fixed this journal... hehe i got back from minne-sota today.. it was fun.. i saw my friends sarah and ladawn.. as well as my friend phil.. i had a great time..  

@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 1189
+layout: post
+title: Nokia 7610
+date: 2005-02-01 11:55:39 -06:00
+tags: general, technology, phones, mobile, nokia
+wordpress_url: http://www.nata2.org/2005/02/01/nokia-7610-3/
+---
+So on new years day i got a little “carried away” and got my Nokia 6600 wet. The joystick immediately stopped working and all hell broke loose. i was unable to do anything fancy like call or text. it was so annoying. so i got out my nifty little Sony-Ericcson t610 and continued my day. luckily mightysync worked for me and i didn’t lose any number nor was i down for any time. however - i was totally used to using the Symbian phones and i needed to fix my 6600. The first thing i did was take it apart. that did not work. it just made things worse. so i gave up, used the little minature phone i had and went on my way. of course i coudln’t help but looking for other cell phones. i decided after about 3 days to go and pick up a nokia 7610.
+
+I went to devon and picked one up at this place called oversees electronics. it rules. i really like it. not only is it super fancy and cool looking - but it is quite a bit faster than the 6600. it also feels better. the keypad is kinda weird and i constantly have trouble with the * key. but other than that it rules. i really enjoy it.
+
+the muvee software is quite something - my friends all enjoy me sending them fucked up movies that make no sense at all. i enjoy it as well. it cracks me up.
+
+one thing that is super annoying is that i am unable to sync with iSync. wtf apple. i mean seriously. it isnt’ that hard to support native syncml in your syncml application. hah. stupid mrouter. i am gunna punch nokia when i see them on the street. other then the syncing issues (which should get resolved in tiger - meh) i really like the phone. love actually.

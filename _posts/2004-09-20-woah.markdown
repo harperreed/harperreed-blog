@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 940
+layout: post
+title: woah
+excerpt: |-
+  i resigned today. I start at my new job in a couple weeks. scary. totally scary. but it will be fun. I am excited. some risks. some new experiences. i am pretty sad to be leaving world book though. I really liked working with all my coworkers. I will of course miss them.
+  much more later...
+date: 2004-09-20 19:32:27 -05:00
+tags: job, worldbook
+wordpress_url: http://new.nata2.org/?p=940
+---
+i <a href="http://www.worldbook.com">resigned</a> today. I start at my <a href="http://digital.c-k.com">new job</a> in a couple weeks. <br/><br/>scary. <br/>totally scary. but it will be fun. I am excited. some risks. some new experiences. <br/><br/>i am pretty sad to be leaving world book though. I really liked working with all my coworkers. I will of course miss them.
+<br/><br/>much more later

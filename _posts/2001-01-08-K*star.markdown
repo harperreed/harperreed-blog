@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 58
+layout: post
+title: K*star
+excerpt: "Man.. back at school.. \r\n\
+  I got/get to see k*star now. so nice it is. I am excited for everything. It will be two months on wednesday(10th). Hmm.. excitment.. i got an A in my last class.. hehe.. no work.. well a little.. but it was programming so it didn't count.. well i am off to chill... "
+date: 2001-01-08 20:40:48 -06:00
+tags: sites, school, programming
+wordpress_url: http://new.nata2.org/?p=58
+---
+Man.. back at school.. 
+I got/get to see k*star now. so nice it is. I am excited for everything. It will be two months on wednesday(10th). Hmm.. excitment.. i got an A in my last class.. hehe.. no work.. well a little.. but it was programming so it didn't count.. well i am off to chill... 

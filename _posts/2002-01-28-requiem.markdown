@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 194
+layout: post
+title: requiem
+excerpt: Here are some cool links. first off check out this. Be sure and read the description. heh. then check out this. and finally check out this - http://www.select-media.co...
+date: 2002-01-28 15:29:18 -06:00
+tags: php, chicago, tools, source, design
+wordpress_url: http://new.nata2.org/?p=194
+---
+Here are some cool links. first off check out <a href="http://cgi.ebay.com/aw-cgi/eBayISAPI.dll?ViewItem&item=1313577170">this</a>. Be sure and read the description. heh. then check out <a href="http://entertainment.yahoo.com/entnews/wwn/20020116/101119320009.html">this</a>. and finally check out this - <a href="http://www.select-media.com/version/html/index.php"><small>http://www.select-media.com/version/</small></a>. From the page:<blockquote>
+<small><i>
+Version>02 is an exploration of our digital commons and an opportunity to meet those who tend to its gardens, fences, and pathways. It is an investigation into maintaining, expanding and designing the commons, while ensuring the continuation of shared resources and information in all facets of communications. </i></small>
+<br/>
+<small><i>Hosted by the Museum of Contemporary Art in Chicago April 18-20, 2002, Version>02 is an opportunity for professionals and the curious to explore the current trends in communication and expression that have resulted from the evolving, powerful media tools and expanding digital infrastructure. </i></small></blockquote>To submit or contribute, go <a href="http://www.select-media.com/version/html/call.php">here</a>. DO IT.

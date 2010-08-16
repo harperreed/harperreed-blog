@@ -1,0 +1,29 @@
+--- 
+wordpress_id: 725
+layout: post
+title: amazon
+excerpt: |-
+  I was glancing at my order history on amazon.com and I noticed that I have ordered a lot of stuff. I shoudl relaly save my money I suppose. here is a breakdown. a lot of these orders may have been one book. or may have been many books. 
+  
+  2 orders in 1997
+  5 orders in 1998
+  5 orders in 1999
+  14 orders in 2000
+  16 orders in 2001
+  32 orders in 2002
+  ...
+date: 2004-01-12 20:10:00 -06:00
+tags: books, college
+wordpress_url: http://new.nata2.org/?p=725
+---
+I was glancing at my order history on amazon.com and I noticed that I have ordered a lot of stuff. I shoudl relaly save my money I suppose. here is a breakdown. a lot of these orders may have been one book. or may have been many books. 
+<blockquote><small>
+2 orders in 1997<br/>
+5 orders in 1998<br/>
+5 orders in 1999<br/>
+14 orders in 2000<bR>
+16 orders in 2001<br/>
+32 orders in 2002<br/>
+38 orders in 2003<br/>
+4 orders in 2004<br/>
+</small></blockquote>So yea. I feel silly. but whatever. I guess amazon has become quite the online retailer.. or shoudl I say e-tailer.. haha. I wonder whatever happened to cdnow. and I bet you can't guess when I was in college ;)

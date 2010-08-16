@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 1057
+layout: post
+title: driveby
+date: 2005-05-11 01:52:15 -05:00
+tags: general
+wordpress_url: http://www.nata2.org/2005/05/11/driveby/
+---
+there were gunshots today at 2:20 or so. like semi auto or something. nuts.

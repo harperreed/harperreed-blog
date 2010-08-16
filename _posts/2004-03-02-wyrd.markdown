@@ -1,0 +1,22 @@
+--- 
+wordpress_id: 767
+layout: post
+title: wyrd
+excerpt: |-
+  so I am reading beowulf (or is it this). it is interesting to read for fun what I once rejected reading for school. however it really brings me back to all the discussions we had about the text. sometimes literary critique is fun. other times i hate it. 
+  
+  i am going to get a new ...
+date: 2004-03-02 17:39:17 -06:00
+tags: phone, blogs, search, video, school, bush, humor, linux, design, porn, google
+wordpress_url: http://new.nata2.org/?p=767
+---
+so I am reading beowulf (or is it <a href="http://anusf.anu.edu.au/wyrd/">this</a>). it is interesting to read for fun what I once rejected reading for school. however it really brings me back to all the discussions we had about the text. sometimes literary critique is fun. other times <a href="http://www.flipmark.com/testing/art/literary.jpg">i hate it</a>. <br/><br/>
+
+i am going to get a new website. probably with <a href="http://station51.net/~bill/s51/site/html/">these guys</a> - maybe plan 3. I really want a terrantula. I LOVE spiders. I think they are so cool. but the fact that they are <a href="http://www.thesun.co.uk/article/0,,2-2004092008,00.html">evil</a> bastions of <a href="http://www.tldm.org/Bayside/Messages/bm730805.htm">satan</a> (when I originally searched for "<a href="http://images.google.com/images?hl=en&lr=&ie=UTF-8&oe=UTF-8&safe=off&q=satan+spider+god&sa=N&tab=wi">satan spider god</a>" on google image search - I got a <a href="http://images.google.com/imgres?imgurl=images.amazon.com/images/P/B00005NNFH.01.TZZZZZZZ.jpg&imgrefurl=http://www.amazon.com/exec/obidos/tg/browse/-/603182&h=65&w=65&sz=2&tbnid=5sOKBRxqbmQJ:&tbnh=64&tbnw=64&prev=/images%3Fq%3Dsatan%2Bspider%2Bgod%26hl%3Den%26lr%3D%26ie%3DUTF-8%26oe%3DUTF-8%26safe%3Doff%26sa%3DN">ween album cover</a>). last night while I was doing some <a href="http://www.versionfest.org">work</a> - I made a <a href="http://nata2.info/pictures/Incoming/map_for_morgan.jpg">map</a> to help morgan with her homework. I rule. <a href="http://www.scottv.org">scott</a> also rules:
+
+<blockquote><small>
+<b>linuXKilla:</b> "the simplest act of surrealism is to walk out into the street, gun in hand, and shoot at random. "<br/>
+<b>phunktoad:</b> thats an interesting way to look at it<br/>
+<b>phunktoad:</b> but it would be more surreal if you were naked riding a zebra donkey and your gun actually fired sombreros<br/></small>
+</blockquote>
+everyonceandawhile I find something that really amazes me in regards to web dev stuff. today it is <a href="http://editcss.mozdev.org/installation.html">this</a> plugin for <a href="http://www.mozilla.org/products/firefox/">firefox</a>. it allows you to design css in realtime - watching the results of your tweaking in the browser window - whilst the tweaking happens (and thus realtime - sometimes I am <a href="http://nata2.info/humor/bush/11.jpg">retarded</a>). it is quite fancy. especially if you are using divs and css to layout a page. go blogs. speaking of blogs. I am really excited for my new phone. I think I am going to make a video blog. it shall be interesting. maybe I will make a flash interface. with <a href="http://www.transfatty.com/supermodelmeat.html">porn</a>.<br/><br/> I am totally not rambling. but I do have a <a href="http://www.devin.com/transformers/themovie/conv/tm018.jpeg">surprise for later</a>.

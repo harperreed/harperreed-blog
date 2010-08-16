@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 32
+layout: post
+title: Well
+excerpt: |-
+  I really enjoy not being sick. It rocks. I also enjoy building web pages. I wish i didn't have school.. and sometime even a social life.. so i could do web stuff all day.. :) j/k 
+  Today i broke a friend of mines web site.. whoops.. heh.. but hopefully i will fix it before to long.. well.. back to the biz
+date: 2000-11-17 05:47:08 -06:00
+tags: friends, social, sick, school, rock
+wordpress_url: http://new.nata2.org/?p=32
+---
+I really enjoy not being sick. It rocks. I also enjoy building web pages. I wish i didn't have school.. and sometime even a social life.. so i could do web stuff all day.. :) j/k 
+Today i broke a friend of mines web site.. whoops.. heh.. but hopefully i will fix it before to long.. well.. back to the biz

@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 292
+layout: post
+title: eager
+excerpt: one of the coolest things ever. as well as this makes it all ok
+date: 2002-06-11 01:01:12 -05:00
+wordpress_url: http://new.nata2.org/?p=292
+---
+<a href="http://micro.magnet.fsu.edu/primer/java/scienceopticsu/powersof10/">one of the coolest things ever</a>. as well as <a href="http://msdl.microsoft.com/msdownload/mschat/2.5/x86/en/MSCHAT25.EXE">this</a> makes it all ok

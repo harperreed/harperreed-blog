@@ -1,0 +1,26 @@
+--- 
+wordpress_id: 427
+layout: post
+title: argh
+excerpt: today I am tired. I have been working all day an I just don't feel well about it. like I should have slept or something. it is weird. I mean I did get up a bit late.. but I feel so "walking dead-ish" - ugh. whatever. I will wake up right *now*last night I got an email from riply's believe it or not about our friend rusty. they si...
+date: 2003-01-07 22:22:39 -06:00
+tags: harper, reed, family, phone, internet, server, search, war, sites, video, hacker, school, rock, tools, movies, bush, watership, websites, halloween, humor, asia, iraq, google
+wordpress_url: http://new.nata2.org/?p=427
+---
+today I am tired. I have been working all day an I just don't feel well about it. like I should have slept or something. it is weird. I mean I did get up a bit late.. but I feel so "walking dead-ish" - ugh. whatever. I will wake up right *now*<br/><br/>last night I got an email from riply's believe it or not about our friend <a href="http://nata2.info/humor/movies/rusty.mpeg">rusty</a>. they simply can't believe it and wondered the origin of the video. heh. too bad I don't have/know the origin. I want more rusty. it is important. This is subtly related to one of my hobbies. I truely enjoy when my websites are linked to or by other sites/posts around the internet. it cracks me up. check out the <a href="http://groups.google.com/groups?q=nata2.info&ie=ISO-8859-1&hl=en&btnG=Google+Search">usenet</a> for <a href="http://nata2.info">nata2.info</a> - I have a lot of exposure in the alt.hackers.malicious. I don't think this is probably good ;). but whatever. it rules. at least I provided a service or a smile to at least one person. ;) heh. what a fun game. <br/><br/>it has been a weird couple of days.. a couple or my friends had rough intros to the new year. one kept hurting herself and the other was <a href="http://thom.watership.org/tools/archives/00000031.html">stabbed</a> - I hope this doesn't dictate a bad injury prone shadow over the rest of the year. oh yea.. it has been one year exactly since my mail server was destroyed by a <a href="http://www.nata2.org/?mode=archive#167">poorly executed rootkit</a>. heh. *knocks on wood* hopefully all the haxors that are attacking my boxen will be able to install their rootkits with more success and not bring down all of my boxes. :( ;). <br/><br/>
+
+the world is still broke<sup>surprise</sup> - <a href="http://www.independent.co.uk/story.jsp?story=366725">Michael Moore</a> is stirring things up.. <a href="http://reuters.com/newsArticle.jhtml?type=topNews&storyID=2004746">the UN has decided that a war on iraq</a> will result in a buttload of casulties... weird.. I couldn't have guessed that... north korea stated that sanctions against it could result in *wait for it.. wait for it* <a href="http://news.bbc.co.uk/2/hi/asia-pacific/2633967.stm">war</a>. 
+as congress <a href="http://www.washingtonpost.com/wp-dyn/articles/A20986-2003Jan7.html">comes back into session</a> - so does the <a href="http://sg.news.yahoo.com/030107/1/36abo.html">a dead bin laden.</a> I was once laden with bins. and in a shocker, the U.S. isn't the only country to smash civil rigths in regards to 09/11/01 - apparently <a href="http://news.bbc.co.uk/2/hi/europe/2636211.stm">germany is attacking</a> civil rights of its citizens as well.. oh and I reorganized my <a href="http://nata2.info/?path=war%2F09-11-2001">sept. 11th media archive</a>. oh and I have mirrored the <a href="http://nata2.info/war/scsb.bush.mov">booker elementary school video</a> that shows bush on the morning of september eleventh - bush really is not as smart as some other people(namely my <a href="http://nata2.info/?path=pictures%2Fharper%2Ffamily&img=Cole_Kyle_Kory_at_Halloween.jpg">cousins</a>)<br/><br/>ok now I am going to <a href="http://googlism.com/index.htm?ism=harper+reed&type=1">bomb the googlism.com</a> site some more:<br/><blockquote><small><small>Harper Reed is really cool<br/>
+Harper Reed is the pilot of a rocket ship<br/>
+Harper Reed made of steel<br/>
+Harper Reed is on fire<br/>
+Harper Reed is the president of the united states<br/>
+Harper Reed is a phone
+</small></small>
+</blockquote>
+go to this show: <br/><blockquote>
+ASSASSINS<br/>
+THURSDAY 16TH JANUARY 2003<br/>
+SCHUBAS (WITH VENUE SUPPORTING)<br/>
+SHOW STARTS AT 9 PM
+</blockquote>

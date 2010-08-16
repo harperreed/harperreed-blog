@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 133
+layout: post
+title: strange
+excerpt: I imagine that if all you are anything like myself you have all wondered how to have sex with a dolphin. Well here is the manual. Alarming, isn't it.
+date: 2001-11-16 16:50:28 -06:00
+tags: sex
+wordpress_url: http://new.nata2.org/?p=133
+---
+I imagine that if all you are anything like myself you have all wondered how to have sex with a dolphin. Well here is the <a href="http://www.dolphinsex.org/">manual</a>. Alarming, isn't it.

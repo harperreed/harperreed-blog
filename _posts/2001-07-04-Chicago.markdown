@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 9
+layout: post
+title: Chicago
+excerpt: I have decided that the reason the 3rd of july is so big is that chicago is a working city. a city where eveyone get the 4th off, but most don't have th 5th off. so they go an party on the 3rd - cuz they don't have to get up the next they. But they don't want to on the 4th cuz they have to get up on the 5th. this is in contrast to colorado where it was originally agri. based. so the 4th meant ...
+date: 2001-07-04 16:55:37 -05:00
+tags: friends, job, colorado, chicago, blogs
+wordpress_url: http://new.nata2.org/?p=9
+---
+I have decided that the reason the 3rd of july is so big is that chicago is a working city. a city where eveyone get the 4th off, but most don't have th 5th off. so they go an party on the 3rd - cuz they don't have to get up the next they. But they don't want to on the 4th cuz they have to get up on the 5th. this is in contrast to colorado where it was originally agri. based. so the 4th meant going to the fair and showing your goods. it was important adn as much part of you job as the actual work. so that is why in colorado the 4th is still on the 4th rather than on the third. <br> this is what i thought about last night whilst watching the fireworks.<br>on another note. i am gunna make it so you can comment on these, and so it only shows the top ten. hehe. i love weblogs... 

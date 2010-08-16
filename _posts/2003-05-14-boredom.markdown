@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 511
+layout: post
+title: boredom
+excerpt: Today I got bored after work and made this. It is an automagic .Klip file maker for use with the serence KlipFolio product. It allows any blog owner to make a .klip file for someone to download, so that they can syndicate their content easy and whatnot. I was tired of only having the canned ...
+date: 2003-05-14 22:28:03 -05:00
+tags: php
+wordpress_url: http://new.nata2.org/?p=511
+---
+Today I got bored after work and made <a href="http://dopeman.org/klip/">this</a>. It is an automagic .Klip file maker for use with the <a href="http://www.serence.com/provider.php?page=started_home">serence KlipFolio</a> product. It allows any blog owner to make a .klip file for someone to download, so that they can syndicate their content easy and whatnot. I was tired of only having the canned content that serence provides. now I can use whatever I want.. hehe. I rule. Check out the <a href="http://dopeman.org/klip/">Automagic .Klip file maker</a>.
