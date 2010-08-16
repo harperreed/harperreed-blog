@@ -2,6 +2,7 @@
 wordpress_id: 1569
 layout: post
 title: Chicago Transit API
+date: 2008-10-06 01:20:02 -05:00
 tags: general, chicago, hacking, bus, api, transit
 wordpress_url: http://www.nata2.org/?p=1569
 ---
