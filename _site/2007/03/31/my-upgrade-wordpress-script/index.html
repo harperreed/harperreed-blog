@@ -1,99 +1,152 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 <head>
-    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8" /
-    <meta name="description" content="Software, PHP, MySQL, XMPP, Hacking, Baphomet" />
-    <meta name="keywords" content="" />
-    <meta name="robots" content="noodp,noydir" />
-    <title> My upgrade wordpress script |  Harper Reed: Tech, Mobile, Yo-yoing and Death Metal</title> 
-    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
-    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.7.0/jquery-ui.min.js"></script>
-
-    <link href="http://feeds.feedburner.com/HarperReed" rel="alternate" title="Harper Reed: Tech, Mobile, Yo-yoing and Death Metal" type="application/atom+xml" />
-    <link rel="stylesheet" href="/css/style.css" type="text/css">
-
-    <META name="verify-v1" content="bxsrf6C7p0+qY6MxNCbSNSGdkeDA8dQSxjTsNJu4Sa0=" />
-
-    <link rel="openid.server" href="http://www.myopenid.com/server" />
-    <meta name="myid" content="0eda4814-55e0-4756-bf30-0f1bf5a4b469" />
-    <link rel="openid.delegate" href="http://harper.myopenid.com/" />
-
-    <link rel="shorcut icon" type="image/x-ico" href="/favicon.ico" />
-
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="description" content="Software, PHP, MySQL, XMPP, Hacking, Baphomet" />
+<meta name="keywords" content="" />
+<meta name="robots" content="noodp,noydir" />
+<title> My upgrade wordpress script |  Harper Reed: Tech, Mobile, Yo-yoing and Death Metal</title> 
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.7.0/jquery-ui.min.js"></script>
+<link href="http://feeds.feedburner.com/HarperReed" rel="alternate" title="Harper Reed: Tech, Mobile, Yo-yoing and Death Metal" type="application/atom+xml" />
+<link rel="stylesheet" href="/css/style.css" type="text/css" /> 
+<META name="verify-v1" content="bxsrf6C7p0+qY6MxNCbSNSGdkeDA8dQSxjTsNJu4Sa0=" />
+<link rel="openid.server" href="http://www.myopenid.com/server" />
+<meta name="myid" content="0eda4814-55e0-4756-bf30-0f1bf5a4b469" />
+<link rel="openid.delegate" href="http://harper.myopenid.com/" />
+<link rel="shorcut icon" type="image/x-ico" href="/favicon.ico" />
 </head> 
 <body>
-
 <!-- bgcontain START -->
 <div id="bgcontain">
-
-    <!-- header START -->
-    <div class="HeaderBG">
-        <div class="Header">
-            <h1><a href="http://www.nata2.org">Harper Reed: Tech, Mobile, Yo-yoing and Death Metal</a></h1>
+<!-- header START -->
+<div class="HeaderBG">
+<div class="Header">
+<h1><a href="http://www.nata2.org">Harper Reed: Tech, Mobile, Yo-yoing and Death Metal</a></h1>
 <div class="Desc">Software, PHP, MySQL, XMPP, Hacking, Baphomet</div>  
 
-        </div> 
-    </div> 
-    <!-- header END -->
-
-    <!-- containerBG START -->
-    <div class="ContainerBG">
-        <!-- container START -->
-        <div class="Container"> 
-            <!-- Side Central START -->
-            <div class="SC">
-            <div class="Post" style="padding-bottom: 50px;">
-    <div class="PostHead">
-        <h1 class="title"><a title="Permanent Link to My upgrade wordpress script." href="/2007/03/31/my-upgrade-wordpress-script/" rel="bookmark">My upgrade wordpress script</a></h1>
-        <p class="PostDate">
-            <strong class="day">31</strong>
-            <strong class="month">Mar</strong>
-        </p>
-        <p class="PostInfo">Written by <a href="/about">harper</a> on Mar 31 2007</p
-    </div>
-    <div class="PostContent">
-        <p>I broke my blog the other day. It was a pain in the ass. I don&#8217;t really know what happened - just that it broke. So I was thinking, I hate upgrading my wordpress. I hate it. I agree 100% with <a href='http://www.mattcutts.com/blog/upgrading-wordpress/'>Matt Cutts</a> about how wordpress has one of the most clunky and cruft creating upgrade process. So annoying. And it gets even more annoying when you are doing it with 50 blogs. stupid friends. hah. So awhile ago I created this script which basically lets me just execute a small number of commands to upgrade a wordpress blog. If a script isn&#8217;t really your thing, it seems like the best way to handle wordpress upgrades is to use SVN to do them. I am going to look into the best way to do that, but my experience so far in that experiment has shown me that the bleeding edge release of wordpress is not always a working release. ;) <a href='http://photomatt.net/'>Matt</a> from wordpress <a href='http://www.mattcutts.com/blog/upgrading-wordpress/#comment-100841'>comments</a> on Matt Cutt&#8217;s blog about the existence of a <a href='http://www.zirona.com/software/wordpress-instant-upgrade/'>upgrade plugin</a> - which seems really interesting. hmm.. So anyway. The script&#8230; I am warning you that this script HAS KILLED AT LEAST ONE BLOG. hah. but it has also regularly upgraded at least 50 blogs as well. So.. use at your own risk. and feel free to modify and fix stuff that you see. I am assuming that your web layout is: <blockquote>/ <em>- root of domain</em> /web <em>- blogs webroot</em> /archive <em>- archive for old backups</em></blockquote> If your layout differs it will not be too hard to change the vars and make the script work for you. The script will backup your wordpress DB, tar up your wordpress dir, download the newest version of wordpress, untar the new wordpress, and then move all your wp-content and what not into the new wordpress dir. It then puts all the backups into a dated folder in the archive dir. then cleans up a bit after itself. The script does not account for any customizations at all. If you have any files that are placed in the webroot, or files that are not in their normal places, it will not work at all. Honestly - unless you know what you are doing and really want to play Russian roulette of the bash kind - I wouldn&#8217;t use this script. ;) <blockquote>#!/bin/bash # Dirs webdir="web" archivedir="archive" # Mysql credentials database="wordpress mysql database" username="wordpress mysql username" password="wordpress mysql password" #the meat of the script echo "Wordpress upgrade script" echo "* Backing up wordpress db" /usr/local/mysql/bin/mysqldump $database -u $username -p$password &gt; sql_backup_`date +"%m-%d-%Y"`.sql echo "* Gzipping wordpress sql" gzip sql_backup_`date +"%m-%d-%Y"`.sql mkdir wordpress.backup_`date +"%m-%d-%Y"` mv sql_backup_`date +"%m-%d-%Y"`.sql.gz wordpress.backup_`date +"%m-%d-%Y"` mkdir wp-backup_`date +"%m-%d-%Y"` cd $webdir echo "* Backing up the old wordpress" tar zcf ../wordpress.backup_`date +"%m-%d-%Y"`/$webdir.backup_`date +"%m-%d-%Y-%T"`.tgz . cp -a wp-config.php ../wp-backup_`date +"%m-%d-%Y"` cp -a wp-content ../wp-backup_`date +"%m-%d-%Y"` cp -a wp-images ../wp-backup_`date +"%m-%d-%Y"` cp -a .htaccess ../wp-backup_`date +"%m-%d-%Y"` cd ../wp-backup_`date +"%m-%d-%Y"` echo "* Downloading the newest wordpress" wget -q http://wordpress.org/latest.tar.gz echo "* Extrating the new wordpress" tar zxf latest.tar.gz cd .. echo "* Doing a bunch of directory and file juggling" mv $webdir wordpress.backup_`date +"%m-%d-%Y"`/ mv wordpress.backup_`date +"%m-%d-%Y"`/ $archivedir/wordpress.backup_`date +"%m-%d-%Y-%T"` mv wp-backup_`date +"%m-%d-%Y"`/wordpress $webdir cp -af wp-backup_`date +"%m-%d-%Y"`/* $webdir/ cp -af wp-backup_`date +"%m-%d-%Y"`/.htaccess $webdir/ echo "* Cleaning up" rm -rf wp-backup_`date +"%m-%d-%Y"`/ echo "* Backup placed in $archivedir/wordpress.backup_`date +"%m-%d-%Y-%T"`" echo "All upgraded. Run the upgrade script: /wp-admin/upgrade.php"</blockquote> So you drop this script into your domain root and then execute it. Here is the output from my most recent upgrade. <blockquote>[jhr@destrukt nata2.org]$ sh wordress_upgrade.sh Wordpress upgrade script * Backing up wordpress db * Gzipping wordpress sql * Backing up the old wordpress * Downloading the newest wordpress * Extrating the new wordpress * Doing a bunch of directory and file juggling * Cleaning up * Backup placed in archive/wordpress.backup_03-31-2007-17:50:04 All upgraded. Run the upgrade script: /wp-admin/upgrade.php [jhr@destrukt nata2.org]$</blockquote> Since it completely removes all the old files, except those in wp-content and wp-images it leads to less cruft and nonsense. It simply runs though and does what I would have done with my fingers, but automagically. You can <a href='http://stuff.harperreed.org/v/code/wordpress_upgrader/f/wordress_upgrade-release.sh'>download the script at stuff.harperreed.org</a>. So there yea go. Its really simple and quite easy. And it works great for upgrading my blogs. Let me know if it worked for you, or if you have any comments or suggestions. <p class='wlWriterSmartContent' id='0767317B-992E-4b12-91E0-4F059A8CECA8:4aa8b25b-1fa2-4173-bbf9-60825aebbc8f' contenteditable='false' style='margin: 0px; padding: 0px; display: inline'>[tags]wordpress, upgrade, script, bash, automatic upgrade, php[/tags]</p></p>
-        <div class="RelatedPosts"> 
-            <h3>Related Posts</h3> 
-            <ul>
-                
-                <li><a href="/2010/08/12/if-you-see-this/">If you see this, this blog is hosted on app engine</a></li>
-                
-                <li><a href="/2010/04/05/smitten-by-the-ipad-thoughts-and-complaints/">Smitten by the iPad: thoughts and complaints. </a></li>
-                
-                <li><a href="/2010/02/11/musings-about-femtocells-the-futures/">Musings about femtocells: the futures!</a></li>
-                
-                <li><a href="/2010/01/17/i-love-phones-designed-for-developing-countries/">I love phones designed for developing countries. </a></li>
-                
-                <li><a href="/2009/12/09/2009-hosting-summary-or-where-does-harper-host-in-20092010/">2009 Hosting Summary (or where does Harper host in 2009/2010)</a></li>
-                
-            </ul>
-        </div> 
-
-
-        <div id="disqus_thread"></div>
-        <script type="text/javascript">
-            var disqus_identifier= '';
-            var disqus_developer = 1;
-          (function() {
-           var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-           dsq.src = 'http://nata2.disqus.com/embed.js';
-           (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-          })();
-        </script>
-        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript=nata2">comments powered by Disqus.</a></noscript>
-
-     </div>
+</div> 
+</div> 
+<!-- header END -->
+<!-- containerBG START -->
+<div class="ContainerBG">
+<!-- container START -->
+<div class="Container"> 
+<!-- Central Content START -->
+<div class="SC">
+<!-- post -->
+<div class="Post" style="padding-bottom: 50px;">
+<!--posthead -->
+<div class="PostHead">
+<h1 class="title"><a title="Permanent Link to My upgrade wordpress script." href="/2007/03/31/my-upgrade-wordpress-script/" rel="bookmark">My upgrade wordpress script</a></h1>
+<p class="PostDate">
+<strong class="day">31</strong>
+<strong class="month">Mar</strong>
+</p>
+<p class="PostInfo">Written by <a href="/about">harper</a> on Mar 31 2007 at 23:54:13</p>
 </div>
+<!--end posthead -->
+<!-- post content -->
+<div class="PostContent">
+<!-- content -->
+<p>I broke my blog the other day. It was a pain in the ass. I don&#8217;t really know what happened - just that it broke. So I was thinking, I hate upgrading my wordpress. I hate it. I agree 100% with <a href='http://www.mattcutts.com/blog/upgrading-wordpress/'>Matt Cutts</a> about how wordpress has one of the most clunky and cruft creating upgrade process. So annoying. And it gets even more annoying when you are doing it with 50 blogs. stupid friends. hah. So awhile ago I created this script which basically lets me just execute a small number of commands to upgrade a wordpress blog.</p>
 
+<p>If a script isn&#8217;t really your thing, it seems like the best way to handle wordpress upgrades is to use SVN to do them. I am going to look into the best way to do that, but my experience so far in that experiment has shown me that the bleeding edge release of wordpress is not always a working release. ;)</p>
+<a href='http://photomatt.net/'>Matt</a>
+<p>So anyway. The script&#8230;</p>
 
-            </div>
-            <!--  Side Central END -->
+<p>I am warning you that this script HAS KILLED AT LEAST ONE BLOG. hah. but it has also regularly upgraded at least 50 blogs as well. So.. use at your own risk. and feel free to modify and fix stuff that you see.</p>
 
-            <!-- Side Right - START -->
-            <div class="SR">
-             <div class="SCtop"><div></div></div>
+<p>I am assuming that your web layout is: <blockquote>/ <em>- root of domain</em>
+/web <em>- blogs webroot
+</em>/archive  <em>- archive for old backups
+</em></blockquote> If your layout differs it will not be too hard to change the vars and make the script work for you. The script will backup your wordpress DB, tar up your wordpress dir, download the newest version of wordpress, untar the new wordpress, and then move all your wp-content and what not into the new wordpress dir. It then puts all the backups into a dated folder in the archive dir. then cleans up a bit after itself.</p>
+
+<p>The script does not account for any customizations at all. If you have any files that are placed in the webroot, or files that are not in their normal places, it will not work at all. Honestly - unless you know what you are doing and really want to play Russian roulette of the bash kind - I wouldn&#8217;t use this script. ;) <pre class='markdown-html-error' style='border: solid 3px red; background-color: pink'>REXML could not parse this XML/HTML: 
+&lt;blockquote&gt;#!/bin/bash</pre></p>
+
+<h1 id='dirs'>Dirs</h1>
+
+<p>webdir=&#8221;web&#8221; archivedir=&#8221;archive&#8221;</p>
+
+<h1 id='mysql_credentials'>Mysql credentials</h1>
+
+<p>database=&#8221;wordpress mysql database&#8221; username=&#8221;wordpress mysql username&#8221; password=&#8221;wordpress mysql password&#8221;</p>
+
+<h1 id='the_meat_of_the_script'>the meat of the script</h1>
+
+<p>echo &#8220;Wordpress upgrade script&#8221; echo &#8220;* Backing up wordpress db&#8221; /usr/local/mysql/bin/mysqldump $database -u $username -p$password &#62; sql_backup_<code>date +&quot;%m-%d-%Y&quot;</code>.sql echo &#8220;* Gzipping wordpress sql&#8221; gzip sql_backup_<code>date +&quot;%m-%d-%Y&quot;</code>.sql mkdir wordpress.backup_<code>date +&quot;%m-%d-%Y&quot;</code> mv sql_backup_<code>date +&quot;%m-%d-%Y&quot;</code>.sql.gz wordpress.backup_<code>date +&quot;%m-%d-%Y&quot;</code> mkdir wp-backup_<code>date +&quot;%m-%d-%Y&quot;</code> cd $webdir echo &#8220;* Backing up the old wordpress&#8221; tar zcf ../wordpress.backup_<code>date +&quot;%m-%d-%Y&quot;</code>/$webdir.backup_<code>date +&quot;%m-%d-%Y-%T&quot;</code>.tgz . cp -a wp-config.php ../wp-backup_<code>date +&quot;%m-%d-%Y&quot;</code> cp -a wp-content ../wp-backup_<code>date +&quot;%m-%d-%Y&quot;</code> cp -a wp-images ../wp-backup_<code>date +&quot;%m-%d-%Y&quot;</code> cp -a .htaccess ../wp-backup_<code>date +&quot;%m-%d-%Y&quot;</code> cd ../wp-backup_<code>date +&quot;%m-%d-%Y&quot;</code> echo &#8220;* Downloading the newest wordpress&#8221; wget -q http://wordpress.org/latest.tar.gz echo &#8220;* Extrating the new wordpress&#8221; tar zxf latest.tar.gz cd .. echo &#8220;* Doing a bunch of directory and file juggling&#8221; mv $webdir wordpress.backup_<code>date +&quot;%m-%d-%Y&quot;</code>/ mv wordpress.backup_<code>date +&quot;%m-%d-%Y&quot;</code>/ $archivedir/wordpress.backup_<code>date +&quot;%m-%d-%Y-%T&quot;</code> mv wp-backup_<code>date +&quot;%m-%d-%Y&quot;</code>/wordpress $webdir cp -af wp-backup_<code>date +&quot;%m-%d-%Y&quot;</code>/* $webdir/ cp -af wp-backup_<code>date +&quot;%m-%d-%Y&quot;</code>/.htaccess $webdir/</p>
+
+<p>echo &#8220;* Cleaning up&#8221; rm -rf wp-backup_<code>date +&quot;%m-%d-%Y&quot;</code>/ echo &#8220;* Backup placed in $archivedir/wordpress.backup_<code>date +&quot;%m-%d-%Y-%T&quot;</code>&#8221;</p>
+
+<p>echo &#8220;All upgraded. Run the upgrade script: /wp-admin/upgrade.php&#8221;&lt;/blockquote&gt; So you drop this script into your domain root and then execute it. Here is the output from my most recent upgrade. <pre class='markdown-html-error' style='border: solid 3px red; background-color: pink'>REXML could not parse this XML/HTML: 
+&lt;blockquote&gt;[jhr@destrukt nata2.org]$ sh wordress_upgrade.sh
+Wordpress upgrade script</pre></p>
+
+<ul>
+<li>Backing up wordpress db</li>
+
+<li>Gzipping wordpress sql</li>
+
+<li>Backing up the old wordpress</li>
+
+<li>Downloading the newest wordpress</li>
+
+<li>Extrating the new wordpress</li>
+
+<li>Doing a bunch of directory and file juggling</li>
+
+<li>Cleaning up</li>
+
+<li>Backup placed in archive/wordpress.backup_03-31-2007-17:50:04 All upgraded. Run the upgrade script: /wp-admin/upgrade.php <span>jhr@destrukt nata2.org</span>$&lt;/blockquote&gt; Since it completely removes all the old files, except those in wp-content and wp-images it leads to less cruft and nonsense. It simply runs though and does what I would have done with my fingers, but automagically.</li>
+</ul>
+
+<p>You can <a href='http://stuff.harperreed.org/v/code/wordpress_upgrader/f/wordress_upgrade-release.sh'>download the script at stuff.harperreed.org</a>.</p>
+
+<p>So there yea go. Its really simple and quite easy. And it works great for upgrading my blogs. Let me know if it worked for you, or if you have any comments or suggestions. <p class='wlWriterSmartContent' id='0767317B-992E-4b12-91E0-4F059A8CECA8:4aa8b25b-1fa2-4173-bbf9-60825aebbc8f' contenteditable='false' style='margin: 0px; padding: 0px; display: inline'>[tags]wordpress, upgrade, script, bash, automatic upgrade, php[/tags]</p></p>
+<!-- end content -->
+<!-- related posts -->
+<div class="RelatedPosts"> 
+<h3>Related Posts</h3> 
+<ul>
+
+<li><a href="/2010/08/12/if-you-see-this/">If you see this, this blog is hosted on app engine</a></li>
+
+<li><a href="/2010/04/05/smitten-by-the-ipad-thoughts-and-complaints/">Smitten by the iPad: thoughts and complaints. </a></li>
+
+<li><a href="/2010/02/11/musings-about-femtocells-the-futures/">Musings about femtocells: the futures!</a></li>
+
+<li><a href="/2010/01/18/i-love-phones-designed-for-developing-countries/">I love phones designed for developing countries. </a></li>
+
+<li><a href="/2009/12/10/2009-hosting-summary-or-where-does-harper-host-in-20092010/">2009 Hosting Summary (or where does Harper host in 2009/2010)</a></li>
+
+</ul>
+</div> 
+<!-- end related posts -->
+<!-- discuss -->
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+var disqus_identifier= '';
+var disqus_developer = 1;
+(function() {
+var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+dsq.src = 'http://nata2.disqus.com/embed.js';
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript=nata2">comments powered by Disqus.</a></noscript>
+<!-- end discuss -->
+</div>
+ <!-- end post content -->
+</div>
+<!-- end post -->
+
+</div>
+<!-- Central Content END -->
+<!-- Side Right - START -->
+<div class="SR">
+<div class="SCtop"><div></div></div>
 <div class="SCcontent"> 
     <p><a href="http://www.catb.org/hacker-emblem/"><img style="padding-right: 5px; margin: 0px" src="/images/glider.png" align="left"></a> <strong>Hi.</strong> My name is <a href="http://nata2.org/">Harper</a>. I am an engineer excited about real time, social software and the open source software movement. I am currently spending some time building interesting things and hacking for <a href="http://www.nepholologist.com/">rackspace</a>. In a previous life, I was the CTO of the awesome <a href="http://www.threadless.com">Threadless</a>. 
 This is obviously my blog. I write about everything from being a professional yoyoer to hacking the newest Internet appliance. Be sure and check out my homepage at <a href="http://www.harperreed.org">harperreed.org</a>. If you are so interested, my resume is located <a href="http://www.harperreed.org/resume">here</a>. I love getting emails and what not so feel free to contact me through <a href="http://www.harperreed.org/contact">here</a>. </p>
@@ -213,19 +266,17 @@ function h(){if(b.ActiveXObject&&b.XMLHttpRequest){return false}return true};
 <div class="SCbottom"><div></div></div> 
 
 
-            </div>
-            <!-- Side Right - END  -->
-        </div> 
-        <!-- container END -->
-    </div> 
-    <!-- containerBG END -->
-
-
-    <!-- ExtraBG Start -->
-    <div class="ExtraBG">
-        <!-- Extra Start -->
-        <div class="Extra">
-           <!-- RecentPosts Start -->
+</div>
+<!-- Side Right - END  -->
+</div> 
+<!-- container END -->
+</div> 
+<!-- containerBG END -->
+<!-- ExtraBG Start -->
+<div class="ExtraBG">
+<!-- Extra Start -->
+<div class="Extra">
+ <!-- RecentPosts Start -->
             <div class="RecentPosts">
                 <h3>Recent Entries</h3>
                 <div id="recententries" class="dsq-widget">
@@ -244,15 +295,15 @@ function h(){if(b.ActiveXObject&&b.XMLHttpRequest){return false}return true};
                     </li>
                   
                     <li>
-                      Jan 17, 2010 &mdash; <a href="/2010/01/17/i-love-phones-designed-for-developing-countries/">I love phones designed for developing countries. </a>
+                      Jan 18, 2010 &mdash; <a href="/2010/01/18/i-love-phones-designed-for-developing-countries/">I love phones designed for developing countries. </a>
                     </li>
                   
                     <li>
-                      Dec 09, 2009 &mdash; <a href="/2009/12/09/2009-hosting-summary-or-where-does-harper-host-in-20092010/">2009 Hosting Summary (or where does Harper host in 2009/2010)</a>
+                      Dec 10, 2009 &mdash; <a href="/2009/12/10/2009-hosting-summary-or-where-does-harper-host-in-20092010/">2009 Hosting Summary (or where does Harper host in 2009/2010)</a>
                     </li>
                   
                     <li>
-                      Oct 07, 2009 &mdash; <a href="/2009/10/07/leaving-threadless/">Leaving Threadless</a>
+                      Oct 08, 2009 &mdash; <a href="/2009/10/08/leaving-threadless/">Leaving Threadless</a>
                     </li>
                   
                     <li>
@@ -268,7 +319,7 @@ function h(){if(b.ActiveXObject&&b.XMLHttpRequest){return false}return true};
                     </li>
                   
                     <li>
-                      Jan 04, 2009 &mdash; <a href="/2009/01/04/2008-retrospectiv/">2008 Retrospective</a>
+                      Jan 05, 2009 &mdash; <a href="/2009/01/05/2008-retrospectiv/">2008 Retrospective</a>
                     </li>
                   
                   </ul>
@@ -289,21 +340,18 @@ function h(){if(b.ActiveXObject&&b.XMLHttpRequest){return false}return true};
             </div>
             <!-- MostCommented END -->
  
-        </div>
-        <!-- Extra END -->
-    </div>
-    <!-- ExtraBG END -->
-
-    <div class="FooterBG">
-        <div class="Footer">
-        <p><a href="/">Nata2.org</a> is &copy; 1997-2010 <a href="http://www.harperreed.org/contact/">Harper Reed</a>. Theme stoled and inspired by the great <a href="http://bloggingpro.com/">BloggingPro</a> theme by: <a href="http://designdisease.com">Design Disease</a>. Powered by <a href="http://jekyllrb.com/">Jekyll</a>.</p>
-
-        </div>
-    </div>
+</div>
+<!-- Extra END -->
+</div>
+<!-- ExtraBG END -->
+<div class="FooterBG">
+<div class="Footer">
+<p><a href="/">Nata2.org</a> is &copy; 1997-2010 <a href="http://www.harperreed.org/contact/">Harper Reed</a>. Theme stoled and inspired by the great <a href="http://bloggingpro.com/">BloggingPro</a> theme by: <a href="http://designdisease.com">Design Disease</a>. Powered by <a href="http://jekyllrb.com/">Jekyll</a>.</p>
 
 </div>
+</div>
+</div>
 <!-- bgcontain END-->
-
 <script type="text/javascript" src="/js/scripts.js"></script>
  
 <script type="text/javascript">
