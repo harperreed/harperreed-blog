@@ -4,7 +4,7 @@
  <title>Harper Reed: Tech, Mobile, Yo-yoing and Death Metal</title>
  <link href="http://www.nata2.org/atom.xml" rel="self"/>
  <link href="http://www.nata2.org"/>
- <updated>2010-08-16T21:57:54+00:00</updated>
+ <updated>2010-08-17T02:24:22-05:00</updated>
  <id>http://www.nata2.org</id>
 
  
@@ -16,9 +16,62 @@
  
  
  <entry>
+   <title>Migrated this blog to Jekyll on App Engine. Bye wordpress. </title>
+   <link href="http://www.nata2.org/2010/08/17/jekyl-for-the-win/"/>
+   <updated>2010-08-17T03:24:42-05:00</updated>
+   <id>http://www.nata2.org/2010/08/17/jekyl-for-the-win</id>
+   <content type="html">&lt;p&gt;I don&amp;#8217;t like to move my blog around. It is super annoying. The RSS feed gets all messed up, I spend months tweaking everything. I find silly bugs and then fascinate about fixing them. All in all it takes months to complete the process. I avoid it like the plague.&lt;/p&gt;
+
+&lt;p&gt;However, I really wanted something simpler than wordpress. I didn’t need a CMS. I barely need a blogging engine. I update so infrequently. I want something that creates well formed html (hah), static content and is easy to use.&lt;/p&gt;
+
+&lt;p&gt;I started looking into hosting this blog on Google’s app engine awhile ago. I looked into &lt;a href='http://bloog.billkatz.com/' title='Bloog'&gt;Bloog&lt;/a&gt; - an awesome restful bloggin engine for app engine. It was very hopeful. i spent a bunch of time hacking on it and eventually ported my theme over. I didn’t feel it though. it worked well. it had all the features i wanted. It even used a bunch of neat app engine tricks. I gave up on using it for my blog. It just wasn’t the correct choice.&lt;/p&gt;
+
+&lt;p&gt;During this time, I watched most of my hackerish friends start to use Jekyll to power their blogs (or write and then use &lt;a href='http://github.com/aconbere/igor' title='igor'&gt;igor&lt;/a&gt; as &lt;a href='http://anders.conbere.org/'&gt;anders&lt;/a&gt; did (protip: do not search for “anders jekyll” in google)). I admired the simplicity of the jekyll engine. It was so easy and fun to use. I wanted to use it for my blog - but it didn’t play as nicely with app engine as i had hoped.&lt;/p&gt;
+
+&lt;p&gt;I then found Drydrop.&lt;/p&gt;
+
+&lt;p&gt;DryDrop is a neat application for app engine that let’s you host static content. In my current phase of life, I really hate managing servers. It is fun and all - but if i don’t have to - i am not going to. ;) Instead, I try and use platform as a service services(&lt;a href='http://en.wikipedia.org/wiki/RAS_syndrome'&gt;heh&lt;/a&gt;) to minimize the number of servers that I touch on a daily basis (my current server number is 4 (I secretly want it to grow back to 100+)). DryDrop was a nice solution for my server hatred. It allowed me to serve simple static content on app engine. I immediately ported a bunch of my static sites over to app engine: &lt;a href='http://www.harpercloud.com/'&gt;harpercloud.com&lt;/a&gt;, &lt;a href='http://www.biofuelmenace.com/'&gt;biofuelmenace.com&lt;/a&gt;, &lt;a href='http://weownthesun.com'&gt;weownthesun.com&lt;/a&gt; and of course &lt;a href='http://www.ryankanno.com'&gt;ryankanno.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;After a few weeks with these sites on app engine - I decided that it was probably the right place to put my precious blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href='http://github.com/mojombo/jekyll/'&gt;Jekyll&lt;/a&gt; is an interesting beast. It is exactly as the wiki proclaims: &lt;a href='http://wiki.github.com/mojombo/jekyll/'&gt;a simple, blog aware, static site generator&lt;/a&gt;. It has no features (well. a couple), it has no built in community aspects (no commenting, trackbacks, reactions, etc). It doesn’t have any admin. it is just a static site generator that is geared for blog like sites. It works amazingly.&lt;/p&gt;
+
+&lt;p&gt;The first thing I did was port my theme over to Jekyll. You can check this out at my &lt;a href='http://github.com/harperreed/harperreed-blog'&gt;blogs git repository&lt;/a&gt;. It was a pain in the ass, but i was able to clean up a bunch of annoying HTML issues that i had from changing shit all the time. I still need to refactor it a bunch.&lt;/p&gt;
+
+&lt;p&gt;Once the theme was done, I started working on the content. This is the biggest issue. I have a bunch of content. Like 1000s of posts. Jekyll is not necessarily the quickest of generators when you have thousands of posts. Luckily I was able to do some simple tricks to ensure that the old posts work and the new posts work as well. Its honestly pretty annoying and i need to solve this better.&lt;/p&gt;
+
+&lt;p&gt;A couple hints for hosting Jekyll on App Engine with DryDrop:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;check out &lt;a href='http://thelab.carlsverre.com/2010/02/09/static-hosting'&gt;this post&lt;/a&gt; by &lt;a href='http://www.carlsverre.com/'&gt;Carl Sverre&lt;/a&gt; on tweaking the site.yaml file for drydrop to handle the pretty permalinks&lt;/li&gt;
+
+&lt;li&gt;the wordpress migration script that jekyll uses is pretty nice. i &lt;a href='http://github.com/harperreed/harperreed-blog/blob/master/_import/wordpress.rb'&gt;hacked mine to export tags and datetime&lt;/a&gt; as well.&lt;/li&gt;
+
+&lt;li&gt;there are hundreds of blog posts just like this one. they all have great hints&lt;/li&gt;
+
+&lt;li&gt;if you get stuck, just check out the &lt;a href='http://wiki.github.com/mojombo/jekyll/sites'&gt;list of sites that are using jekyll&lt;/a&gt;. Often they have source on github. you can glean all sorts of goodness from them.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;It is a bummer to leave wordpress.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I have been on wordpress since early 2005. I think that is the longest I have stayed with 1 piece of software. I really enjoy the &lt;a href='http://wordpress.org/support/'&gt;wordpress community&lt;/a&gt;. I really like &lt;a href='http://ma.tt/'&gt;matt&lt;/a&gt; and all he has done for open source and the internet. I like the &lt;a href='http://drewblas.com/2010/07/15/an-analysis-of-gpled-code-in-thesis/'&gt;fights they pick&lt;/a&gt; and i enjoy the &lt;a href='http://buddypress.org/'&gt;innovations they are bringing to blogging&lt;/a&gt;. I don’t like having to &lt;a href='http://www.google.com/search?q=wordpress+exploit'&gt;fight hackers&lt;/a&gt; off every single day. If there was one reason i am abandoning wordpress it is because of the hackers.&lt;/p&gt;
+
+&lt;p&gt;I hosted about 25 wordpress blogs on my mosso account for various friends. I kept most of them up to date, but a lot of them were for friends and were not under my control. 100% of them got owned. hah. It was just something they did. no matter how fast or often i updated the wordpress software - it would be owned at least one time. My personal blog was safe for some reason. Maybe it was because I always ran the bleeding edge version from SVN. I will not miss the constant updates and the attacks. The wordpress community does a good job of handling this issue. I, however, was tired of it.&lt;/p&gt;
+
+&lt;p&gt;I migrated at least 22 of the 25 hosted blogs to &lt;a href='http://wordpress.com'&gt;wordpress.com&lt;/a&gt; or &lt;a href='http://posterous.com'&gt;posterous&lt;/a&gt;. I killed all the unused wordpress installs. No more hackers getting in through plugins, themes or trickery.&lt;/p&gt;
+
+&lt;p&gt;If i were to use wordpress again, I would either use &lt;a href='http://wordpress.com'&gt;wordpress.com&lt;/a&gt; or &lt;a href='http://vaultpress.com/'&gt;vaultpress&lt;/a&gt;. Both of those products seem to solve my problems. Right now, however, jekyll has pretty thoroughly solved them.&lt;/p&gt;
+
+&lt;p&gt;I can’t wait to start updating this blog a bit more often. I don’t know if i will write like i did in &lt;a href='/2003/'&gt;2003&lt;/a&gt;/&lt;a href='/2004/'&gt;2004&lt;/a&gt; - but i plan to update it a bit more than i did in &lt;a href='/2009/'&gt;2009&lt;/a&gt;. We shall see ;)&lt;/p&gt;</content>
+
+
+
+ </entry>
+ 
+ <entry>
    <title>If you see this, this blog is hosted on app engine</title>
    <link href="http://www.nata2.org/2010/08/12/if-you-see-this/"/>
-   <updated>2010-08-12T00:00:00+00:00</updated>
+   <updated>2010-08-12T00:00:00-05:00</updated>
    <id>http://www.nata2.org/2010/08/12/if-you-see-this</id>
    <content type="html">&lt;p&gt;Decided to ditch wordpress for jekyl and drydrop. Let&amp;#8217;s see how it works.&lt;/p&gt;
 
@@ -31,7 +84,7 @@
  <entry>
    <title>Smitten by the iPad: thoughts and complaints. </title>
    <link href="http://www.nata2.org/2010/04/05/smitten-by-the-ipad-thoughts-and-complaints/"/>
-   <updated>2010-04-05T05:14:42+00:00</updated>
+   <updated>2010-04-05T00:14:42-05:00</updated>
    <id>http://www.nata2.org/2010/04/05/smitten-by-the-ipad-thoughts-and-complaints</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/natatwo/4488064118/' title='The ipad is awesome by nata2, on Flickr'&gt;&lt;img src='http://farm5.static.flickr.com/4052/4488064118_ea9d770433_m.jpg' height='180' align='right' alt='The ipad is awesome' width='240' /&gt;&lt;/a&gt;
 &lt;p&gt;The iPad is a new and very exciting paradigm for computing. I played with it afternoon and it felt very minority report. It felt like the future. no physical keyboard. I was controlling things with my finger/mind. it was awesome. I am smitten.&lt;/p&gt;
@@ -59,7 +112,7 @@
  <entry>
    <title>Musings about femtocells: the futures!</title>
    <link href="http://www.nata2.org/2010/02/11/musings-about-femtocells-the-futures/"/>
-   <updated>2010-02-11T07:44:15+00:00</updated>
+   <updated>2010-02-11T01:44:15-06:00</updated>
    <id>http://www.nata2.org/2010/02/11/musings-about-femtocells-the-futures</id>
    <content type="html">&lt;blockquote&gt;I wrote most of this entry the day before the earthquake in Haiti. It was motivated by the magicJack announcement and my interest in mobile devices within developing nations.  However, the thoughts in this post suddenly seemed more real after I started hearing reports of communication breakdown after the earthquake.&lt;/blockquote&gt;&lt;strong&gt;The femtocell&lt;/strong&gt;
 &lt;p&gt;At the recent CES, the &lt;a href='http://en.wikipedia.org/wiki/MagicJack'&gt;magicJack company&lt;/a&gt; announced that they wanted to release a consumer grade FemtoCell device as an upgrade to their USB FXO/Softphone device.  Note: magicJack is an insane company. You probably have seen them on television commercials while watching USA &amp;#8216;Up All Night&amp;#8217;.  While these commercials almost seem scam-like, they have apparently sold 5 million USB magicJacks.  That&amp;#8217;s a lot of phone calls!&lt;/p&gt;
@@ -84,9 +137,9 @@
  
  <entry>
    <title>I love phones designed for developing countries. </title>
-   <link href="http://www.nata2.org/2010/01/18/i-love-phones-designed-for-developing-countries/"/>
-   <updated>2010-01-18T01:49:55+00:00</updated>
-   <id>http://www.nata2.org/2010/01/18/i-love-phones-designed-for-developing-countries</id>
+   <link href="http://www.nata2.org/2010/01/17/i-love-phones-designed-for-developing-countries/"/>
+   <updated>2010-01-17T19:49:55-06:00</updated>
+   <id>http://www.nata2.org/2010/01/17/i-love-phones-designed-for-developing-countries</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/natatwo/4283555038/' title='Nokia 1100 and Motorola F3 by nata2, on Flickr'&gt;&lt;img src='http://farm5.static.flickr.com/4039/4283555038_a798542c5f_m.jpg' height='218' align='right' alt='Nokia 1100 and Motorola F3' width='240' /&gt;&lt;/a&gt;
 &lt;p&gt;I love mobile phones. I don&amp;#8217;t know why - but mobile devices represent so much of what I love about technology. The ubiquity, the fascination, all the new technology that pops up and all the different way people use their devices. I also feel like mobile devices will be the future of whatever the internet turns out to be. They will power the internet. With all this in mind - I have started to become interested in the devices that fill the opposite niche. The devices that are SO simple that their are almost NO features.&lt;/p&gt;
 
@@ -114,9 +167,9 @@
  
  <entry>
    <title>2009 Hosting Summary (or where does Harper host in 2009/2010)</title>
-   <link href="http://www.nata2.org/2009/12/10/2009-hosting-summary-or-where-does-harper-host-in-20092010/"/>
-   <updated>2009-12-10T01:29:06+00:00</updated>
-   <id>http://www.nata2.org/2009/12/10/2009-hosting-summary-or-where-does-harper-host-in-20092010</id>
+   <link href="http://www.nata2.org/2009/12/09/2009-hosting-summary-or-where-does-harper-host-in-20092010/"/>
+   <updated>2009-12-09T19:29:06-06:00</updated>
+   <id>http://www.nata2.org/2009/12/09/2009-hosting-summary-or-where-does-harper-host-in-20092010</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/natatwo/2581673203/' title='this is mount fuji by nata2, on Flickr'&gt;&lt;img src='http://farm4.static.flickr.com/3192/2581673203_d18270a494_m.jpg' height='180' align='right' alt='this is mount fuji' width='240' /&gt;&lt;/a&gt;&lt;blockquote&gt;&lt;strong&gt;&lt;em&gt;Disclaimer&lt;/em&gt;&lt;/strong&gt;&lt;em&gt;: I am paid money by Rackspace to think about these things. However, I am an equal opportunity hosting consumer. I will try and be as open as possible (but probably a bit biased as well). This is on my personal blog and does not represent Rackspace in the least. These opinions are mine and do not represent Rackspace in anyway.&lt;/em&gt;&lt;/blockquote&gt;
 &lt;p&gt;I guess I will go ahead and jump in. This is based on what I use and would most likely suggest if we were drinking beers and talking about hosting. Your mileage may vary. I am sorry if I end up causing a nuclear war based on these recommendations.&lt;/p&gt;
 &lt;strong&gt;&quot;Platforms&quot;&lt;/strong&gt;
@@ -162,9 +215,9 @@
  
  <entry>
    <title>Leaving Threadless</title>
-   <link href="http://www.nata2.org/2009/10/08/leaving-threadless/"/>
-   <updated>2009-10-08T02:52:50+00:00</updated>
-   <id>http://www.nata2.org/2009/10/08/leaving-threadless</id>
+   <link href="http://www.nata2.org/2009/10/07/leaving-threadless/"/>
+   <updated>2009-10-07T21:52:50-05:00</updated>
+   <id>http://www.nata2.org/2009/10/07/leaving-threadless</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/techcocktail/2316615921/'&gt;&lt;img src='http://farm3.static.flickr.com/2411/2316615921_b2cee81590_m.jpg' align='right' /&gt;&lt;/a&gt;
 &lt;p&gt;It was super hard to leave a job that taught me so much, helped me grow and was staffed by all of my friends, but I needed to make that leap towards the future. (&lt;a href='http://siliconangle.net/ver2/2009/09/29/exclusive-interview-threadless-cto-harper-reed-heads-to-rackspace-whats-a-nepholologist/' title='here is a nice interview' id='c8k2'&gt;Here is a nice interview&lt;/a&gt; covering all sorts of aspects of my leaving.)&lt;/p&gt;
 
@@ -187,7 +240,7 @@
  <entry>
    <title>My thoughts on the kindle: 1 vs 2 and the iphone app</title>
    <link href="http://www.nata2.org/2009/03/08/my-thoughts-on-the-kindle/"/>
-   <updated>2009-03-08T20:54:09+00:00</updated>
+   <updated>2009-03-08T15:54:09-05:00</updated>
    <id>http://www.nata2.org/2009/03/08/my-thoughts-on-the-kindle</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/natatwo/3307240832/' title='Kindle2 vs Kindle1 front powered on by nata2, on Flickr'&gt;&lt;img class='alignright' src='http://farm4.static.flickr.com/3429/3307240832_8913af9d4f_m.jpg' align='right' height='180' alt='Kindle2 vs Kindle1 front powered on' width='240' /&gt;&lt;/a&gt;
 &lt;p&gt;I read a lot. I am not like those crazy people who read a book a day or anything, but i have been reading up to about 2 books a week for the past few years. They are not crazy books, mostly science fiction and fantasy, but they are not small books. I read to chill out. My day pattern is to go to work, work, get home, nap, hang out with hiromi, play computer and then read until i fall alseep. The reading part is VERY important to get my mind and body to a place where I can actually sleep. Needless to say, I take my reading seriously.&lt;/p&gt;
@@ -231,7 +284,7 @@
  <entry>
    <title>Python Oauth Client - Excla.im</title>
    <link href="http://www.nata2.org/2009/02/28/python-oauth-client-exclaim/"/>
-   <updated>2009-02-28T23:04:04+00:00</updated>
+   <updated>2009-02-28T17:04:04-06:00</updated>
    <id>http://www.nata2.org/2009/02/28/python-oauth-client-exclaim</id>
    <content type="html">&lt;p&gt;I built &lt;a href='http://excla.im'&gt;Excla.im&lt;/a&gt; quite awhile ago, well before &lt;a href='http://twitter.com/harper'&gt;Twitter&lt;/a&gt; unleased their oauth beta program. Regardless, &lt;a href='http://factoryjoe.com/blog/'&gt;Chris Messina&lt;/a&gt; &lt;a href='http://flickr.com/photos/factoryjoe/2841257703/'&gt;tagged the Excla.im sign up process as an anty pattern&lt;/a&gt; within his flickr stream. I was bummed because i would have loved to use Oauth to authenticate Excla.im. But because of the tagging, i was constantly thinking about how to remove the anti pattern.&lt;/p&gt;
 
@@ -252,7 +305,7 @@
  <entry>
    <title>Seven Things (goddamn internet friends)</title>
    <link href="http://www.nata2.org/2009/01/11/seven-things-goddamn-internet-friends/"/>
-   <updated>2009-01-11T22:05:55+00:00</updated>
+   <updated>2009-01-11T16:05:55-06:00</updated>
    <id>http://www.nata2.org/2009/01/11/seven-things-goddamn-internet-friends</id>
    <content type="html">&lt;p&gt;I was tagged by both &lt;a href='http://eliw.wordpress.com/2009/01/05/seven-things/'&gt;Eli White&lt;/a&gt; and &lt;a href='http://flinglog.com/text/seven-things/'&gt;Brian Fling&lt;/a&gt; in this dastardly meme regarding 7 things. I am usually a HUGE fan of all things meme - and kind of regard myself as a &lt;a href='http://fukung.net'&gt;certified&lt;/a&gt; meme expert. However this whole meme that requires a lot of work - I.E. blogging is something entirely different. I think i actually like it, but i am not entirely sure yet ;).&lt;/p&gt;
 
@@ -301,9 +354,9 @@
  
  <entry>
    <title>2008 Retrospective</title>
-   <link href="http://www.nata2.org/2009/01/05/2008-retrospectiv/"/>
-   <updated>2009-01-05T02:01:28+00:00</updated>
-   <id>http://www.nata2.org/2009/01/05/2008-retrospectiv</id>
+   <link href="http://www.nata2.org/2009/01/04/2008-retrospectiv/"/>
+   <updated>2009-01-04T20:01:28-06:00</updated>
+   <id>http://www.nata2.org/2009/01/04/2008-retrospectiv</id>
    <content type="html">&lt;p&gt;2008 was a great year.&lt;/p&gt;
 
 &lt;p&gt;A lot of fun things happened. I started speaking more. I started using linux as my desktop. Obama won. I played with XMPP manically. I built some neat applications and Threadless continued to be awesome.&lt;/p&gt;
@@ -337,7 +390,7 @@
  <entry>
    <title>Happy Holidays</title>
    <link href="http://www.nata2.org/2008/12/26/happy-holidays/"/>
-   <updated>2008-12-26T06:31:12+00:00</updated>
+   <updated>2008-12-26T00:31:12-06:00</updated>
    <id>http://www.nata2.org/2008/12/26/happy-holidays</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/natatwo/3119262443/' title='It&amp;apos;s snowing like crazy. by nata2, on Flickr'&gt;&lt;img class='alignright' src='http://farm4.static.flickr.com/3117/3119262443_bf1b6529b3_m.jpg' height='240' align='right' alt='It&amp;apos;s snowing like crazy.' width='180' /&gt;&lt;/a&gt;
 &lt;p&gt;I have been busy. Threadless just ended its &lt;a href='http://www.threadless.com/news/400348/Tees_from_5_at_Threadless_Annual_Holiday_Sale'&gt;annual holiday sale&lt;/a&gt; (went out with a &lt;a href='http://www.threadless.com/news/406990/And_the_final_gift_is_opened_to_reveal'&gt;bang&lt;/a&gt;). &lt;a href='http://hiromiusagi.com'&gt;Hiromi&lt;/a&gt; and I have been busy getting read for our holiday party with my parents on christmas (today!) and i have been hacking on a bunch of stuff in my spare time. Hiromi made an amazing dinner and we ate it. ;) It was a great time. We missed &lt;a href='http://dylanreed.com'&gt;Dylan&lt;/a&gt; and &lt;a href='http://photodork.org/'&gt;Sarah&lt;/a&gt;, but we will hopefully see them soon.&lt;/p&gt;
@@ -353,7 +406,7 @@
  <entry>
    <title>Chicago Transit API</title>
    <link href="http://www.nata2.org/2008/10/06/chicago-transit-api/"/>
-   <updated>2008-10-06T06:20:02+00:00</updated>
+   <updated>2008-10-06T01:20:02-05:00</updated>
    <id>http://www.nata2.org/2008/10/06/chicago-transit-api</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/natatwo/264290817/' title='The goddamn damon bus. seriously by nata2, on Flickr'&gt;&lt;img class='alignright' src='http://farm1.static.flickr.com/87/264290817_f5ccf294d0_m.jpg' height='180' align='right' alt='The goddamn damon bus. seriously' width='240' /&gt;&lt;/a&gt;
 &lt;p&gt;The genesis for this API is some work I did awhile ago reverse engineering the &lt;a href='http://ctabustracker.com/bustime/map/displaymap.jsp'&gt;CTA Bus Tracker mashup&lt;/a&gt;. I was able to expose the endpoints that powered their google maps mashup. In its original state - you can get some pretty awesome functionality and data. I am attempting to clean it up and make it more robust.&lt;/p&gt;
@@ -390,7 +443,7 @@
  <entry>
    <title>Release your applications inner API. Please.</title>
    <link href="http://www.nata2.org/2008/10/06/release-your-applications-inner-api-please/"/>
-   <updated>2008-10-06T05:54:53+00:00</updated>
+   <updated>2008-10-06T00:54:53-05:00</updated>
    <id>http://www.nata2.org/2008/10/06/release-your-applications-inner-api-please</id>
    <content type="html">&lt;p&gt;I have recently been involved in talking to a local chicago entity about their unofficial API. It has been fun and deserves a blog entry of its own. However, this is not that blog entry - this blog entry is about mashups and the not so public APIs they often create.&lt;/p&gt;
 
@@ -408,9 +461,9 @@
  
  <entry>
    <title>Mini Hi Fi: The Chase</title>
-   <link href="http://www.nata2.org/2008/08/31/mini-hi-fi-the-chase/"/>
-   <updated>2008-08-31T03:31:25+00:00</updated>
-   <id>http://www.nata2.org/2008/08/31/mini-hi-fi-the-chase</id>
+   <link href="http://www.nata2.org/2008/08/30/mini-hi-fi-the-chase/"/>
+   <updated>2008-08-30T22:31:25-05:00</updated>
+   <id>http://www.nata2.org/2008/08/30/mini-hi-fi-the-chase</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/natatwo/2802479942/' title='2008-08-27 00:32:37 -0500 by nata2, on Flickr'&gt;&lt;img class='alignright' src='http://farm4.static.flickr.com/3048/2802479942_2895dcc1d2_m.jpg' height='180' align='right' alt='My System' width='240' /&gt;&lt;/a&gt;
 &lt;p&gt;It all started a couple years ago when the SI Tripath Amp emerged on the market. It was a little amp that was reviewed as being MUCH bigger than its cost or its physical size. It was about 40 bucks at target and reviewed the same as amps costing thousands more. Pretty sweet.&lt;/p&gt;
 
@@ -447,31 +500,6 @@
 &lt;p&gt;I decided that the part of this i liked the best is the chase. I am very happy that I have a good sound system, but I am MORE excited about attempting to find the best system for cheap. Its a GREAT game.&lt;/p&gt;
 
 &lt;p&gt;I just need to make sure that i don&amp;#8217;t fall for the tricks. I don&amp;#8217;t want to spend ANY money on cables, nor money on speaker wire. &lt;a href='http://www.engadget.com/2008/03/03/audiophiles-cant-tell-the-difference-between-monster-cable-and/4'&gt;Metal is metal.&lt;/a&gt;&lt;/p&gt;</content>
-
-
-
- </entry>
- 
- <entry>
-   <title>Excla.im - a replacement jabber bot</title>
-   <link href="http://www.nata2.org/2008/07/14/exclaim-a-replacement-jabber-bot/"/>
-   <updated>2008-07-14T04:51:24+00:00</updated>
-   <id>http://www.nata2.org/2008/07/14/exclaim-a-replacement-jabber-bot</id>
-   <content type="html">&lt;p&gt;I use twitter quite a bit. I like to post to twitter in the most unobtrusive way possible. I don&amp;#8217;t like to interupt my workflow to post a quick thought or update. When they used to have their Jabber bot running - it was easy for me to just type in my update and get on with my gmail session or work. I didn&amp;#8217;t have to load a page that was often down, or use some other tool. I was bummed when the jabber bot went away. I needed it back to keep up with my use case.&lt;/p&gt;
-
-&lt;p&gt;I got tired of waiting, so i made &lt;a href='http://excla.im'&gt;Excla.im&lt;/a&gt;. It is a simple &lt;a href='http://appengine.google.com/'&gt;App Engine&lt;/a&gt; hosted application that allows a person to very simply update their twitter status from any jabber account. It is not very feature full, doesn&amp;#8217;t update all the other sites and doesn&amp;#8217;t do much else besides just interact with the twitter API. It is very simple.&lt;/p&gt;
-
-&lt;p&gt;The technology behind it is just as simple. The GAE app is written in python and uses the &lt;a href='http://google-app-engine-django.googlecode.com/'&gt;django helper&lt;/a&gt;. It is super simple and is basically a storage container for account info. It was a breeze to develop and fun to work with.&lt;/p&gt;
-
-&lt;p&gt;The Jabber bot was a bit more complicated. I ended up using the &lt;a href='http://code.google.com/p/sleekxmpp/'&gt;sleekxmpp library&lt;/a&gt; to do all the XMPP heavy lifting. It is an awesome library. Makes all the hard stuff easy. I then used &lt;a href='http://hathawaymix.org/'&gt;Shane Hathaway's&lt;/a&gt; &lt;a href='http://hathawaymix.org/Software/Sketches/daemon.py'&gt;daemon.py&lt;/a&gt; to help daemonize the bot (btw thanks to &lt;a href='http://anders.conbere.org/'&gt;Anders&lt;/a&gt; for talking me through the dirtiness of daemonizing). To hook into twitter I used the &lt;a href='http://code.google.com/p/python-twitter/'&gt;python twitter&lt;/a&gt; library. It is featureful and super easy to use. It also supports in newer versions (post &lt;a href='http://code.google.com/p/python-twitter/source/browse/trunk/twitter.py?r=112'&gt;r112&lt;/a&gt;) setting the source.&lt;/p&gt;
-
-&lt;p&gt;I was then able to wrap this all up in a fancy little bot that on receiving a message, grabs encrypted credentials from the GAE app, sends the message to twitter&amp;#8217;s api and then chills out. Pretty sweet. Currently all the heavy lifting is on the bot side, instead of on the webapp side - but i may change that.&lt;/p&gt;
-
-&lt;p&gt;At some point, I would like to be able to grab a users twitter friends updates and push them to their jabber ids. However - I have yet to figure out a nice and clean way to get the updates without having them seem batched. I have some ideas and a couple things fleshed out - but i don&amp;#8217;t want to totally replicate twitter just to get my friends updates.&lt;/p&gt;
-
-&lt;p&gt;I am toying with putting the bot up on google code since it is pretty simple and could easily be hooked into almost any webapp. I think that the idea of a simple (simpler than sleekbot) webapp integrated jabber bot would have been helpful in writing this - and i imagine that people looking to do a similar thing may have use for my hacked together code.&lt;/p&gt;
-
-&lt;p&gt;A couple take aways from doing this project. First off - python is fun. Second - working with a designer makes things look a LOT better. &lt;a href='http://www.aaronsalmon.com/'&gt;Aaron Salmon&lt;/a&gt; took some time to make excla.im look MUCH better than it did. Check out his stuff and hire him.&lt;/p&gt;</content>
 
 
 

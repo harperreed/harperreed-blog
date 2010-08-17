@@ -1,9 +1,0 @@
---- 
-wordpress_id: 1425
-layout: post
-title: hmm.
-date: 2007-03-28 00:42:45 -05:00
-tags: general, blogging, updates
-wordpress_url: http://www.nata2.org/2007/03/28/hmm-2/
----
-<p>It has been a minute since I have blogged regularly. I don't really know why - but for some reason, I just haven't felt like blogging. I think this happens when a lot of going on in my life. Recently I have been really slammed with various projects outside of work and have been doing really exciting stuff inside of work. Mostly tech stuff, but it is all very interesting and quite engaging. I am working a lot more in cakePHP and playing a lot in python. fun stuff. I wish I had more to do in python. I love being challenged by neat programming languages. </p> <p>I think I am going to play with the picasa gdata api soon. stay tuned. </p> <p>In regards to the boring ole IRL stuff, hiromi and I really like our new place. Its really fun to hang out and be so close to work. We have been going out on weekends and meeting up with friends and what not. Hiromi has almost found a job. At least she has a lot of leads now. There is one opportunity that could turn out to be really cool. But I will wait until I know more to talk about that. </p> <p>Well. I am in need to some sort of sleep. or hacking. nobody knows.</p> <div class="wlWriterSmartContent" id="0767317B-992E-4b12-91E0-4F059A8CECA8:23e9ef3f-63d7-4812-a9d8-e335d041b20e" contenteditable="false" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">[tags]updates, blogging[/tags]</div>

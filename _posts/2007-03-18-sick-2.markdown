@@ -1,9 +1,0 @@
---- 
-wordpress_id: 1420
-layout: post
-title: Sick.
-date: 2007-03-18 23:08:57 -05:00
-tags: general, cold, sick, stupid
-wordpress_url: http://www.nata2.org/2007/03/18/sick-2/
----
-<p>So I have been sick for the last month. It is starting to get really tiring. I am bored of being sick. At first, I was like "oh awesome... I can't sleep and I have a stuffy nose, what a new experience." But now I am totally over the new cold feeling and just want it to go away. I even went to the doctor which is something I am totally against doing. So here I sit. Wishing I was better, cracked out of my mind on pseudoephedrine and playing computer. </p> <p>I imagine I will go sleep soon and then wake up rinse and repeat. stupid cold. </p> <div class="wlWriterSmartContent" id="0767317B-992E-4b12-91E0-4F059A8CECA8:4e7367ff-5542-4537-8460-cf6cf068d177" contenteditable="false" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">[tags]sick, cold, stupid[/tags]</div>

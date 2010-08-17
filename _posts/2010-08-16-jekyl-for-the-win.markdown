@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: "Migrated this blog to Jekyll on App Engine. Bye wordpress. "
-date: 2010-08-16 01:24:42 -06:00
+date: 2010-08-17 02:24:42 -06:00
 --- 
 I don't like to move my blog around. It is super annoying. The RSS feed gets all messed up, I spend months tweaking everything. I find silly bugs and then fascinate about fixing them. All in all it takes months to complete the process. I avoid it like the plague. 
 
@@ -24,9 +24,19 @@ The first thing I did was port my theme over to Jekyll. You can check this out a
 Once the theme was done, I started working on the content. This is the biggest issue. I have a bunch of content. Like 1000s of posts. Jekyll is not necessarily the quickest of generators when you have thousands of posts. Luckily I was able to do some simple tricks to ensure that the old posts work and the new posts work as well. Its honestly pretty annoying and i need to solve this better. 
 
 A couple hints for hosting Jekyll on App Engine with DryDrop:
-* check out this post by [Carl Sverre](http://www.carlsverre.com/) on tweaking the site.yaml file for drydrop to handle the pretty permalinks
+* check out [this post](http://thelab.carlsverre.com/2010/02/09/static-hosting) by [Carl Sverre](http://www.carlsverre.com/) on tweaking the site.yaml file for drydrop to handle the pretty permalinks
 * the wordpress migration script that jekyll uses is pretty nice. i [hacked mine to export tags and datetime](http://github.com/harperreed/harperreed-blog/blob/master/_import/wordpress.rb) as well.
 * there are hundreds of blog posts just like this one. they all have great hints
 * if you get stuck, just check out the [list of sites that are using jekyll](http://wiki.github.com/mojombo/jekyll/sites). Often they have source on github. you can glean all sorts of goodness from them. 
 
-I look forward to possibly maybe updating this blog more often. We shall see how it goes ;)
+**It is a bummer to leave wordpress. **
+
+I have been on wordpress since early 2005. I think that is the longest I have stayed with 1 piece of software. I really enjoy the [wordpress community](http://wordpress.org/support/). I really like [matt](http://ma.tt/) and all he has done for open source and the internet. I like the [fights they pick](http://drewblas.com/2010/07/15/an-analysis-of-gpled-code-in-thesis/) and i enjoy the [innovations they are bringing to blogging](http://buddypress.org/). I don’t like having to [fight hackers](http://www.google.com/search?q=wordpress+exploit) off every single day. If there was one reason i am abandoning wordpress it is because of the hackers. 
+
+I hosted about 25 wordpress blogs on my mosso account for various friends. I kept most of them up to date, but a lot of them were for friends and were not under my control. 100% of them got owned. hah. It was just something they did. no matter how fast or often i updated the wordpress software - it would be owned at least one time. My personal blog was safe for some reason. Maybe it was because I always ran the bleeding edge version from SVN. I will not miss the constant updates and the attacks.  The wordpress community does a good job of handling this issue. I, however, was tired of it. 
+
+I migrated at least 22 of the 25 hosted blogs to [wordpress.com](http://wordpress.com) or [posterous](http://posterous.com). I killed all the unused wordpress installs. No more hackers getting in through plugins, themes or trickery. 
+
+If i were to use wordpress again, I would either use [wordpress.com](http://wordpress.com) or [vaultpress](http://vaultpress.com/). Both of those products seem to solve my problems. Right now, however, jekyll has pretty thoroughly solved them. 
+
+I can’t wait to start updating this blog a bit more often. I don’t know if i will write like i did in [2003](/2003/)/[2004](/2004/) - but i plan to update it a bit more than i did in [2009](/2009/). We shall see ;)

@@ -60,9 +60,29 @@
 
 <p>I then found Drydrop.</p>
 
-<p>DryDrop is a neat application for app engine that let’s you host static content. In my current phase of life, I really hate managing servers. It is fun and all - but if i don’t have to - i am not going to. ;) Instead, I try and use platform as a service services<span><em>](http://en.wikipedia.org/wiki/RAS_syndrome) to minimize the number of servers that I touch on a daily basis (my current server number is 4 (I secretly want it to grow back to 100+)). DryDrop was a nice solution for my server hatred. It allowed me to serve simple static content on app engine. I immediately ported a bunch of my static sites over to app engine: <a href='http://www.harpercloud.com/'>harpercloud.com</a>, <a href='http://www.biofuelmenace.com/'>biofuelmenace.com</a>, <a href='http://weownthesun.com'>weownthesun.com</a> and of course <a href='http://www.ryankanno.com'>ryankanno.com</a>.</em></span></p>
+<p>DryDrop is a neat application for app engine that let’s you host static content. In my current phase of life, I really hate managing servers. It is fun and all - but if i don’t have to - i am not going to. ;) Instead, I try and use platform as a service services(<a href='http://en.wikipedia.org/wiki/RAS_syndrome'>heh</a>) to minimize the number of servers that I touch on a daily basis (my current server number is 4 (I secretly want it to grow back to 100+)). DryDrop was a nice solution for my server hatred. It allowed me to serve simple static content on app engine. I immediately ported a bunch of my static sites over to app engine: <a href='http://www.harpercloud.com/'>harpercloud.com</a>, <a href='http://www.biofuelmenace.com/'>biofuelmenace.com</a>, <a href='http://weownthesun.com'>weownthesun.com</a> and of course <a href='http://www.ryankanno.com'>ryankanno.com</a>.</p>
 
 <p>After a few weeks with these sites on app engine - I decided that it was probably the right place to put my precious blog.</p>
+
+<p><a href='http://github.com/mojombo/jekyll/'>Jekyll</a> is an interesting beast. It is exactly as the wiki proclaims: <a href='http://wiki.github.com/mojombo/jekyll/'>a simple, blog aware, static site generator</a>. It has no features (well. a couple), it has no built in community aspects (no commenting, trackbacks, reactions, etc). It doesn’t have any admin. it is just a static site generator that is geared for blog like sites. It works amazingly.</p>
+
+<p>The first thing I did was port my theme over to Jekyll. You can check this out at my <a href='http://github.com/harperreed/harperreed-blog'>blogs git repository</a>. It was a pain in the ass, but i was able to clean up a bunch of annoying HTML issues that i had from changing shit all the time. I still need to refactor it a bunch.</p>
+
+<p>Once the theme was done, I started working on the content. This is the biggest issue. I have a bunch of content. Like 1000s of posts. Jekyll is not necessarily the quickest of generators when you have thousands of posts. Luckily I was able to do some simple tricks to ensure that the old posts work and the new posts work as well. Its honestly pretty annoying and i need to solve this better.</p>
+
+<p>A couple hints for hosting Jekyll on App Engine with DryDrop:</p>
+
+<ul>
+<li>check out this post by <a href='http://www.carlsverre.com/'>Carl Sverre</a> on tweaking the site.yaml file for drydrop to handle the pretty permalinks</li>
+
+<li>the wordpress migration script that jekyll uses is pretty nice. i <a href='http://github.com/harperreed/harperreed-blog/blob/master/_import/wordpress.rb'>hacked mine to export tags and datetime</a> as well.</li>
+
+<li>there are hundreds of blog posts just like this one. they all have great hints</li>
+
+<li>if you get stuck, just check out the <a href='http://wiki.github.com/mojombo/jekyll/sites'>list of sites that are using jekyll</a>. Often they have source on github. you can glean all sorts of goodness from them.</li>
+</ul>
+
+<p>I look forward to possibly maybe updating this blog more often. We shall see how it goes ;)</p>
 <!-- end content -->
 <!-- related posts -->
 <div class="RelatedPosts"> 
@@ -73,9 +93,9 @@
 
 <li><a href="/2008/02/29/the-mosso-cloud-how-requests-are-not-a-good-metric/">The Mosso Cloud: Requests are not a good metric</a></li>
 
-<li><a href="/2008/03/02/awesome-hosting-options/">Awesome hosting options</a></li>
-
 <li><a href="/2009/03/08/my-thoughts-on-the-kindle/">My thoughts on the kindle: 1 vs 2 and the iphone app</a></li>
+
+<li><a href="/2008/03/02/awesome-hosting-options/">Awesome hosting options</a></li>
 
 <li><a href="/2009/01/04/2008-retrospectiv/">2008 Retrospective</a></li>
 

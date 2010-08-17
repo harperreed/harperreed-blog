@@ -38,6 +38,66 @@
 
 <div class="Post" style="padding-bottom: 50px;">
 <div class="PostHead">
+<h1 class="title"><a title="Permanent Link to Migrated this blog to Jekyll on App Engine. Bye wordpress. ." href="/2010/08/17/jekyl-for-the-win/" rel="bookmark">Migrated this blog to Jekyll on App Engine. Bye wordpress. </a></h1>
+<p class="PostDate">
+<strong class="day">17</strong>
+<strong class="month">Aug</strong>
+</p>
+<p class="PostInfo">
+Written by <a href="/about">harper</a> on Aug 17 2010 at 03:24:42</p>
+</div>
+<div class="PostContent">
+<p>I don&#8217;t like to move my blog around. It is super annoying. The RSS feed gets all messed up, I spend months tweaking everything. I find silly bugs and then fascinate about fixing them. All in all it takes months to complete the process. I avoid it like the plague.</p>
+
+<p>However, I really wanted something simpler than wordpress. I didn’t need a CMS. I barely need a blogging engine. I update so infrequently. I want something that creates well formed html (hah), static content and is easy to use.</p>
+
+<p>I started looking into hosting this blog on Google’s app engine awhile ago. I looked into <a href='http://bloog.billkatz.com/' title='Bloog'>Bloog</a> - an awesome restful bloggin engine for app engine. It was very hopeful. i spent a bunch of time hacking on it and eventually ported my theme over. I didn’t feel it though. it worked well. it had all the features i wanted. It even used a bunch of neat app engine tricks. I gave up on using it for my blog. It just wasn’t the correct choice.</p>
+
+<p>During this time, I watched most of my hackerish friends start to use Jekyll to power their blogs (or write and then use <a href='http://github.com/aconbere/igor' title='igor'>igor</a> as <a href='http://anders.conbere.org/'>anders</a> did (protip: do not search for “anders jekyll” in google)). I admired the simplicity of the jekyll engine. It was so easy and fun to use. I wanted to use it for my blog - but it didn’t play as nicely with app engine as i had hoped.</p>
+
+<p>I then found Drydrop.</p>
+
+<p>DryDrop is a neat application for app engine that let’s you host static content. In my current phase of life, I really hate managing servers. It is fun and all - but if i don’t have to - i am not going to. ;) Instead, I try and use platform as a service services(<a href='http://en.wikipedia.org/wiki/RAS_syndrome'>heh</a>) to minimize the number of servers that I touch on a daily basis (my current server number is 4 (I secretly want it to grow back to 100+)). DryDrop was a nice solution for my server hatred. It allowed me to serve simple static content on app engine. I immediately ported a bunch of my static sites over to app engine: <a href='http://www.harpercloud.com/'>harpercloud.com</a>, <a href='http://www.biofuelmenace.com/'>biofuelmenace.com</a>, <a href='http://weownthesun.com'>weownthesun.com</a> and of course <a href='http://www.ryankanno.com'>ryankanno.com</a>.</p>
+
+<p>After a few weeks with these sites on app engine - I decided that it was probably the right place to put my precious blog.</p>
+
+<p><a href='http://github.com/mojombo/jekyll/'>Jekyll</a> is an interesting beast. It is exactly as the wiki proclaims: <a href='http://wiki.github.com/mojombo/jekyll/'>a simple, blog aware, static site generator</a>. It has no features (well. a couple), it has no built in community aspects (no commenting, trackbacks, reactions, etc). It doesn’t have any admin. it is just a static site generator that is geared for blog like sites. It works amazingly.</p>
+
+<p>The first thing I did was port my theme over to Jekyll. You can check this out at my <a href='http://github.com/harperreed/harperreed-blog'>blogs git repository</a>. It was a pain in the ass, but i was able to clean up a bunch of annoying HTML issues that i had from changing shit all the time. I still need to refactor it a bunch.</p>
+
+<p>Once the theme was done, I started working on the content. This is the biggest issue. I have a bunch of content. Like 1000s of posts. Jekyll is not necessarily the quickest of generators when you have thousands of posts. Luckily I was able to do some simple tricks to ensure that the old posts work and the new posts work as well. Its honestly pretty annoying and i need to solve this better.</p>
+
+<p>A couple hints for hosting Jekyll on App Engine with DryDrop:</p>
+
+<ul>
+<li>check out <a href='http://thelab.carlsverre.com/2010/02/09/static-hosting'>this post</a> by <a href='http://www.carlsverre.com/'>Carl Sverre</a> on tweaking the site.yaml file for drydrop to handle the pretty permalinks</li>
+
+<li>the wordpress migration script that jekyll uses is pretty nice. i <a href='http://github.com/harperreed/harperreed-blog/blob/master/_import/wordpress.rb'>hacked mine to export tags and datetime</a> as well.</li>
+
+<li>there are hundreds of blog posts just like this one. they all have great hints</li>
+
+<li>if you get stuck, just check out the <a href='http://wiki.github.com/mojombo/jekyll/sites'>list of sites that are using jekyll</a>. Often they have source on github. you can glean all sorts of goodness from them.</li>
+</ul>
+
+<p><strong>It is a bummer to leave wordpress.</strong></p>
+
+<p>I have been on wordpress since early 2005. I think that is the longest I have stayed with 1 piece of software. I really enjoy the <a href='http://wordpress.org/support/'>wordpress community</a>. I really like <a href='http://ma.tt/'>matt</a> and all he has done for open source and the internet. I like the <a href='http://drewblas.com/2010/07/15/an-analysis-of-gpled-code-in-thesis/'>fights they pick</a> and i enjoy the <a href='http://buddypress.org/'>innovations they are bringing to blogging</a>. I don’t like having to <a href='http://www.google.com/search?q=wordpress+exploit'>fight hackers</a> off every single day. If there was one reason i am abandoning wordpress it is because of the hackers.</p>
+
+<p>I hosted about 25 wordpress blogs on my mosso account for various friends. I kept most of them up to date, but a lot of them were for friends and were not under my control. 100% of them got owned. hah. It was just something they did. no matter how fast or often i updated the wordpress software - it would be owned at least one time. My personal blog was safe for some reason. Maybe it was because I always ran the bleeding edge version from SVN. I will not miss the constant updates and the attacks. The wordpress community does a good job of handling this issue. I, however, was tired of it.</p>
+
+<p>I migrated at least 22 of the 25 hosted blogs to <a href='http://wordpress.com'>wordpress.com</a> or <a href='http://posterous.com'>posterous</a>. I killed all the unused wordpress installs. No more hackers getting in through plugins, themes or trickery.</p>
+
+<p>If i were to use wordpress again, I would either use <a href='http://wordpress.com'>wordpress.com</a> or <a href='http://vaultpress.com/'>vaultpress</a>. Both of those products seem to solve my problems. Right now, however, jekyll has pretty thoroughly solved them.</p>
+
+<p>I can’t wait to start updating this blog a bit more often. I don’t know if i will write like i did in <a href='/2003/'>2003</a>/<a href='/2004/'>2004</a> - but i plan to update it a bit more than i did in <a href='/2009/'>2009</a>. We shall see ;)</p>
+<ul class="PostDetails"> 
+<li class="PostCom"><a href="/2010/08/17/jekyl-for-the-win/#comments" title="Comment on Migrated this blog to Jekyll on App Engine. Bye wordpress. ">View Comments</a></li> 
+</ul> 
+</div>
+</div>
+
+<div class="Post" style="padding-bottom: 50px;">
+<div class="PostHead">
 <h1 class="title"><a title="Permanent Link to If you see this, this blog is hosted on app engine." href="/2010/08/12/if-you-see-this/" rel="bookmark">If you see this, this blog is hosted on app engine</a></h1>
 <p class="PostDate">
 <strong class="day">12</strong>
@@ -64,7 +124,7 @@ Written by <a href="/about">harper</a> on Aug 12 2010 at 00:00:00</p>
 <strong class="month">Apr</strong>
 </p>
 <p class="PostInfo">
-Written by <a href="/about">harper</a> on Apr 05 2010 at 05:14:42</p>
+Written by <a href="/about">harper</a> on Apr 05 2010 at 00:14:42</p>
 </div>
 <div class="PostContent">
 <a href='http://www.flickr.com/photos/natatwo/4488064118/' title='The ipad is awesome by nata2, on Flickr'><img src='http://farm5.static.flickr.com/4052/4488064118_ea9d770433_m.jpg' height='180' align='right' alt='The ipad is awesome' width='240' /></a>
@@ -99,7 +159,7 @@ Written by <a href="/about">harper</a> on Apr 05 2010 at 05:14:42</p>
 <strong class="month">Feb</strong>
 </p>
 <p class="PostInfo">
-Written by <a href="/about">harper</a> on Feb 11 2010 at 07:44:15</p>
+Written by <a href="/about">harper</a> on Feb 11 2010 at 01:44:15</p>
 </div>
 <div class="PostContent">
 <blockquote>I wrote most of this entry the day before the earthquake in Haiti. It was motivated by the magicJack announcement and my interest in mobile devices within developing nations.  However, the thoughts in this post suddenly seemed more real after I started hearing reports of communication breakdown after the earthquake.</blockquote><strong>The femtocell</strong>
@@ -126,13 +186,13 @@ Written by <a href="/about">harper</a> on Feb 11 2010 at 07:44:15</p>
 
 <div class="Post" style="padding-bottom: 50px;">
 <div class="PostHead">
-<h1 class="title"><a title="Permanent Link to I love phones designed for developing countries. ." href="/2010/01/18/i-love-phones-designed-for-developing-countries/" rel="bookmark">I love phones designed for developing countries. </a></h1>
+<h1 class="title"><a title="Permanent Link to I love phones designed for developing countries. ." href="/2010/01/17/i-love-phones-designed-for-developing-countries/" rel="bookmark">I love phones designed for developing countries. </a></h1>
 <p class="PostDate">
-<strong class="day">18</strong>
+<strong class="day">17</strong>
 <strong class="month">Jan</strong>
 </p>
 <p class="PostInfo">
-Written by <a href="/about">harper</a> on Jan 18 2010 at 01:49:55</p>
+Written by <a href="/about">harper</a> on Jan 17 2010 at 19:49:55</p>
 </div>
 <div class="PostContent">
 <a href='http://www.flickr.com/photos/natatwo/4283555038/' title='Nokia 1100 and Motorola F3 by nata2, on Flickr'><img src='http://farm5.static.flickr.com/4039/4283555038_a798542c5f_m.jpg' height='218' align='right' alt='Nokia 1100 and Motorola F3' width='240' /></a>
@@ -156,20 +216,20 @@ Written by <a href="/about">harper</a> on Jan 18 2010 at 01:49:55</p>
 
 <p>You can find an unlocked <a href='http://www.amazon.com/gp/product/B0013A7KMW?ie=UTF8&amp;tag=nata2productions&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B0013A7KMW'>Motorola f3 for about 30 bucks on amazon</a>. I suggest you get one.</p>
 <ul class="PostDetails"> 
-<li class="PostCom"><a href="/2010/01/18/i-love-phones-designed-for-developing-countries/#comments" title="Comment on I love phones designed for developing countries. ">View Comments</a></li> 
+<li class="PostCom"><a href="/2010/01/17/i-love-phones-designed-for-developing-countries/#comments" title="Comment on I love phones designed for developing countries. ">View Comments</a></li> 
 </ul> 
 </div>
 </div>
 
 <div class="Post" style="padding-bottom: 50px;">
 <div class="PostHead">
-<h1 class="title"><a title="Permanent Link to 2009 Hosting Summary (or where does Harper host in 2009/2010)." href="/2009/12/10/2009-hosting-summary-or-where-does-harper-host-in-20092010/" rel="bookmark">2009 Hosting Summary (or where does Harper host in 2009/2010)</a></h1>
+<h1 class="title"><a title="Permanent Link to 2009 Hosting Summary (or where does Harper host in 2009/2010)." href="/2009/12/09/2009-hosting-summary-or-where-does-harper-host-in-20092010/" rel="bookmark">2009 Hosting Summary (or where does Harper host in 2009/2010)</a></h1>
 <p class="PostDate">
-<strong class="day">10</strong>
+<strong class="day">09</strong>
 <strong class="month">Dec</strong>
 </p>
 <p class="PostInfo">
-Written by <a href="/about">harper</a> on Dec 10 2009 at 01:29:06</p>
+Written by <a href="/about">harper</a> on Dec 09 2009 at 19:29:06</p>
 </div>
 <div class="PostContent">
 <a href='http://www.flickr.com/photos/natatwo/2581673203/' title='this is mount fuji by nata2, on Flickr'><img src='http://farm4.static.flickr.com/3192/2581673203_d18270a494_m.jpg' height='180' align='right' alt='this is mount fuji' width='240' /></a><blockquote><strong><em>Disclaimer</em></strong><em>: I am paid money by Rackspace to think about these things. However, I am an equal opportunity hosting consumer. I will try and be as open as possible (but probably a bit biased as well). This is on my personal blog and does not represent Rackspace in the least. These opinions are mine and do not represent Rackspace in anyway.</em></blockquote>
@@ -211,20 +271,20 @@ Written by <a href="/about">harper</a> on Dec 10 2009 at 01:29:06</p>
 
 <p>Leave your questions in the comments - I will attempt to answer them the best i can.</p>
 <ul class="PostDetails"> 
-<li class="PostCom"><a href="/2009/12/10/2009-hosting-summary-or-where-does-harper-host-in-20092010/#comments" title="Comment on 2009 Hosting Summary (or where does Harper host in 2009/2010)">View Comments</a></li> 
+<li class="PostCom"><a href="/2009/12/09/2009-hosting-summary-or-where-does-harper-host-in-20092010/#comments" title="Comment on 2009 Hosting Summary (or where does Harper host in 2009/2010)">View Comments</a></li> 
 </ul> 
 </div>
 </div>
 
 <div class="Post" style="padding-bottom: 50px;">
 <div class="PostHead">
-<h1 class="title"><a title="Permanent Link to Leaving Threadless." href="/2009/10/08/leaving-threadless/" rel="bookmark">Leaving Threadless</a></h1>
+<h1 class="title"><a title="Permanent Link to Leaving Threadless." href="/2009/10/07/leaving-threadless/" rel="bookmark">Leaving Threadless</a></h1>
 <p class="PostDate">
-<strong class="day">08</strong>
+<strong class="day">07</strong>
 <strong class="month">Oct</strong>
 </p>
 <p class="PostInfo">
-Written by <a href="/about">harper</a> on Oct 08 2009 at 02:52:50</p>
+Written by <a href="/about">harper</a> on Oct 07 2009 at 21:52:50</p>
 </div>
 <div class="PostContent">
 <a href='http://www.flickr.com/photos/techcocktail/2316615921/'><img src='http://farm3.static.flickr.com/2411/2316615921_b2cee81590_m.jpg' align='right' /></a>
@@ -242,7 +302,7 @@ Written by <a href="/about">harper</a> on Oct 08 2009 at 02:52:50</p>
 
 <p>Stay tuned.  It&#8217;s only just beginning.</p>
 <ul class="PostDetails"> 
-<li class="PostCom"><a href="/2009/10/08/leaving-threadless/#comments" title="Comment on Leaving Threadless">View Comments</a></li> 
+<li class="PostCom"><a href="/2009/10/07/leaving-threadless/#comments" title="Comment on Leaving Threadless">View Comments</a></li> 
 </ul> 
 </div>
 </div>
@@ -255,7 +315,7 @@ Written by <a href="/about">harper</a> on Oct 08 2009 at 02:52:50</p>
 <strong class="month">Mar</strong>
 </p>
 <p class="PostInfo">
-Written by <a href="/about">harper</a> on Mar 08 2009 at 20:54:09</p>
+Written by <a href="/about">harper</a> on Mar 08 2009 at 15:54:09</p>
 </div>
 <div class="PostContent">
 <a href='http://www.flickr.com/photos/natatwo/3307240832/' title='Kindle2 vs Kindle1 front powered on by nata2, on Flickr'><img class='alignright' src='http://farm4.static.flickr.com/3429/3307240832_8913af9d4f_m.jpg' align='right' height='180' alt='Kindle2 vs Kindle1 front powered on' width='240' /></a>
@@ -306,7 +366,7 @@ Written by <a href="/about">harper</a> on Mar 08 2009 at 20:54:09</p>
 <strong class="month">Feb</strong>
 </p>
 <p class="PostInfo">
-Written by <a href="/about">harper</a> on Feb 28 2009 at 23:04:04</p>
+Written by <a href="/about">harper</a> on Feb 28 2009 at 17:04:04</p>
 </div>
 <div class="PostContent">
 <p>I built <a href='http://excla.im'>Excla.im</a> quite awhile ago, well before <a href='http://twitter.com/harper'>Twitter</a> unleased their oauth beta program. Regardless, <a href='http://factoryjoe.com/blog/'>Chris Messina</a> <a href='http://flickr.com/photos/factoryjoe/2841257703/'>tagged the Excla.im sign up process as an anty pattern</a> within his flickr stream. I was bummed because i would have loved to use Oauth to authenticate Excla.im. But because of the tagging, i was constantly thinking about how to remove the anti pattern.</p>
@@ -334,7 +394,7 @@ Written by <a href="/about">harper</a> on Feb 28 2009 at 23:04:04</p>
 <strong class="month">Jan</strong>
 </p>
 <p class="PostInfo">
-Written by <a href="/about">harper</a> on Jan 11 2009 at 22:05:55</p>
+Written by <a href="/about">harper</a> on Jan 11 2009 at 16:05:55</p>
 </div>
 <div class="PostContent">
 <p>I was tagged by both <a href='http://eliw.wordpress.com/2009/01/05/seven-things/'>Eli White</a> and <a href='http://flinglog.com/text/seven-things/'>Brian Fling</a> in this dastardly meme regarding 7 things. I am usually a HUGE fan of all things meme - and kind of regard myself as a <a href='http://fukung.net'>certified</a> meme expert. However this whole meme that requires a lot of work - I.E. blogging is something entirely different. I think i actually like it, but i am not entirely sure yet ;).</p>
@@ -385,13 +445,13 @@ Written by <a href="/about">harper</a> on Jan 11 2009 at 22:05:55</p>
 
 <div class="Post" style="padding-bottom: 50px;">
 <div class="PostHead">
-<h1 class="title"><a title="Permanent Link to 2008 Retrospective." href="/2009/01/05/2008-retrospectiv/" rel="bookmark">2008 Retrospective</a></h1>
+<h1 class="title"><a title="Permanent Link to 2008 Retrospective." href="/2009/01/04/2008-retrospectiv/" rel="bookmark">2008 Retrospective</a></h1>
 <p class="PostDate">
-<strong class="day">05</strong>
+<strong class="day">04</strong>
 <strong class="month">Jan</strong>
 </p>
 <p class="PostInfo">
-Written by <a href="/about">harper</a> on Jan 05 2009 at 02:01:28</p>
+Written by <a href="/about">harper</a> on Jan 04 2009 at 20:01:28</p>
 </div>
 <div class="PostContent">
 <p>2008 was a great year.</p>
@@ -420,7 +480,7 @@ Written by <a href="/about">harper</a> on Jan 05 2009 at 02:01:28</p>
 
 <p>Seriously - 2008 was a great year. I can&#8217;t wait to see what 2009 brings. I hope more fun, more blog entires, more tweets and more pictures.</p>
 <ul class="PostDetails"> 
-<li class="PostCom"><a href="/2009/01/05/2008-retrospectiv/#comments" title="Comment on 2008 Retrospective">View Comments</a></li> 
+<li class="PostCom"><a href="/2009/01/04/2008-retrospectiv/#comments" title="Comment on 2008 Retrospective">View Comments</a></li> 
 </ul> 
 </div>
 </div>
@@ -433,7 +493,7 @@ Written by <a href="/about">harper</a> on Jan 05 2009 at 02:01:28</p>
 <strong class="month">Dec</strong>
 </p>
 <p class="PostInfo">
-Written by <a href="/about">harper</a> on Dec 26 2008 at 06:31:12</p>
+Written by <a href="/about">harper</a> on Dec 26 2008 at 00:31:12</p>
 </div>
 <div class="PostContent">
 <a href='http://www.flickr.com/photos/natatwo/3119262443/' title='It&apos;s snowing like crazy. by nata2, on Flickr'><img class='alignright' src='http://farm4.static.flickr.com/3117/3119262443_bf1b6529b3_m.jpg' height='240' align='right' alt='It&apos;s snowing like crazy.' width='180' /></a>
@@ -456,7 +516,7 @@ Written by <a href="/about">harper</a> on Dec 26 2008 at 06:31:12</p>
 <strong class="month">Oct</strong>
 </p>
 <p class="PostInfo">
-Written by <a href="/about">harper</a> on Oct 06 2008 at 06:20:02</p>
+Written by <a href="/about">harper</a> on Oct 06 2008 at 01:20:02</p>
 </div>
 <div class="PostContent">
 <a href='http://www.flickr.com/photos/natatwo/264290817/' title='The goddamn damon bus. seriously by nata2, on Flickr'><img class='alignright' src='http://farm1.static.flickr.com/87/264290817_f5ccf294d0_m.jpg' height='180' align='right' alt='The goddamn damon bus. seriously' width='240' /></a>
@@ -500,7 +560,7 @@ Written by <a href="/about">harper</a> on Oct 06 2008 at 06:20:02</p>
 <strong class="month">Oct</strong>
 </p>
 <p class="PostInfo">
-Written by <a href="/about">harper</a> on Oct 06 2008 at 05:54:53</p>
+Written by <a href="/about">harper</a> on Oct 06 2008 at 00:54:53</p>
 </div>
 <div class="PostContent">
 <p>I have recently been involved in talking to a local chicago entity about their unofficial API. It has been fun and deserves a blog entry of its own. However, this is not that blog entry - this blog entry is about mashups and the not so public APIs they often create.</p>
@@ -520,13 +580,13 @@ Written by <a href="/about">harper</a> on Oct 06 2008 at 05:54:53</p>
 
 <div class="Post" style="padding-bottom: 50px;">
 <div class="PostHead">
-<h1 class="title"><a title="Permanent Link to Mini Hi Fi: The Chase." href="/2008/08/31/mini-hi-fi-the-chase/" rel="bookmark">Mini Hi Fi: The Chase</a></h1>
+<h1 class="title"><a title="Permanent Link to Mini Hi Fi: The Chase." href="/2008/08/30/mini-hi-fi-the-chase/" rel="bookmark">Mini Hi Fi: The Chase</a></h1>
 <p class="PostDate">
-<strong class="day">31</strong>
+<strong class="day">30</strong>
 <strong class="month">Aug</strong>
 </p>
 <p class="PostInfo">
-Written by <a href="/about">harper</a> on Aug 31 2008 at 03:31:25</p>
+Written by <a href="/about">harper</a> on Aug 30 2008 at 22:31:25</p>
 </div>
 <div class="PostContent">
 <a href='http://www.flickr.com/photos/natatwo/2802479942/' title='2008-08-27 00:32:37 -0500 by nata2, on Flickr'><img class='alignright' src='http://farm4.static.flickr.com/3048/2802479942_2895dcc1d2_m.jpg' height='180' align='right' alt='My System' width='240' /></a>
@@ -566,39 +626,7 @@ Written by <a href="/about">harper</a> on Aug 31 2008 at 03:31:25</p>
 
 <p>I just need to make sure that i don&#8217;t fall for the tricks. I don&#8217;t want to spend ANY money on cables, nor money on speaker wire. <a href='http://www.engadget.com/2008/03/03/audiophiles-cant-tell-the-difference-between-monster-cable-and/4'>Metal is metal.</a></p>
 <ul class="PostDetails"> 
-<li class="PostCom"><a href="/2008/08/31/mini-hi-fi-the-chase/#comments" title="Comment on Mini Hi Fi: The Chase">View Comments</a></li> 
-</ul> 
-</div>
-</div>
-
-<div class="Post" style="padding-bottom: 50px;">
-<div class="PostHead">
-<h1 class="title"><a title="Permanent Link to Excla.im - a replacement jabber bot." href="/2008/07/14/exclaim-a-replacement-jabber-bot/" rel="bookmark">Excla.im - a replacement jabber bot</a></h1>
-<p class="PostDate">
-<strong class="day">14</strong>
-<strong class="month">Jul</strong>
-</p>
-<p class="PostInfo">
-Written by <a href="/about">harper</a> on Jul 14 2008 at 04:51:24</p>
-</div>
-<div class="PostContent">
-<p>I use twitter quite a bit. I like to post to twitter in the most unobtrusive way possible. I don&#8217;t like to interupt my workflow to post a quick thought or update. When they used to have their Jabber bot running - it was easy for me to just type in my update and get on with my gmail session or work. I didn&#8217;t have to load a page that was often down, or use some other tool. I was bummed when the jabber bot went away. I needed it back to keep up with my use case.</p>
-
-<p>I got tired of waiting, so i made <a href='http://excla.im'>Excla.im</a>. It is a simple <a href='http://appengine.google.com/'>App Engine</a> hosted application that allows a person to very simply update their twitter status from any jabber account. It is not very feature full, doesn&#8217;t update all the other sites and doesn&#8217;t do much else besides just interact with the twitter API. It is very simple.</p>
-
-<p>The technology behind it is just as simple. The GAE app is written in python and uses the <a href='http://google-app-engine-django.googlecode.com/'>django helper</a>. It is super simple and is basically a storage container for account info. It was a breeze to develop and fun to work with.</p>
-
-<p>The Jabber bot was a bit more complicated. I ended up using the <a href='http://code.google.com/p/sleekxmpp/'>sleekxmpp library</a> to do all the XMPP heavy lifting. It is an awesome library. Makes all the hard stuff easy. I then used <a href='http://hathawaymix.org/'>Shane Hathaway's</a> <a href='http://hathawaymix.org/Software/Sketches/daemon.py'>daemon.py</a> to help daemonize the bot (btw thanks to <a href='http://anders.conbere.org/'>Anders</a> for talking me through the dirtiness of daemonizing). To hook into twitter I used the <a href='http://code.google.com/p/python-twitter/'>python twitter</a> library. It is featureful and super easy to use. It also supports in newer versions (post <a href='http://code.google.com/p/python-twitter/source/browse/trunk/twitter.py?r=112'>r112</a>) setting the source.</p>
-
-<p>I was then able to wrap this all up in a fancy little bot that on receiving a message, grabs encrypted credentials from the GAE app, sends the message to twitter&#8217;s api and then chills out. Pretty sweet. Currently all the heavy lifting is on the bot side, instead of on the webapp side - but i may change that.</p>
-
-<p>At some point, I would like to be able to grab a users twitter friends updates and push them to their jabber ids. However - I have yet to figure out a nice and clean way to get the updates without having them seem batched. I have some ideas and a couple things fleshed out - but i don&#8217;t want to totally replicate twitter just to get my friends updates.</p>
-
-<p>I am toying with putting the bot up on google code since it is pretty simple and could easily be hooked into almost any webapp. I think that the idea of a simple (simpler than sleekbot) webapp integrated jabber bot would have been helpful in writing this - and i imagine that people looking to do a similar thing may have use for my hacked together code.</p>
-
-<p>A couple take aways from doing this project. First off - python is fun. Second - working with a designer makes things look a LOT better. <a href='http://www.aaronsalmon.com/'>Aaron Salmon</a> took some time to make excla.im look MUCH better than it did. Check out his stuff and hire him.</p>
-<ul class="PostDetails"> 
-<li class="PostCom"><a href="/2008/07/14/exclaim-a-replacement-jabber-bot/#comments" title="Comment on Excla.im - a replacement jabber bot">View Comments</a></li> 
+<li class="PostCom"><a href="/2008/08/30/mini-hi-fi-the-chase/#comments" title="Comment on Mini Hi Fi: The Chase">View Comments</a></li> 
 </ul> 
 </div>
 </div>
@@ -745,6 +773,10 @@ function h(){if(b.ActiveXObject&&b.XMLHttpRequest){return false}return true};
                 <ul>
                   
                     <li>
+                      Aug 17, 2010 &mdash; <a href="/2010/08/17/jekyl-for-the-win/">Migrated this blog to Jekyll on App Engine. Bye wordpress. </a>
+                    </li>
+                  
+                    <li>
                       Aug 12, 2010 &mdash; <a href="/2010/08/12/if-you-see-this/">If you see this, this blog is hosted on app engine</a>
                     </li>
                   
@@ -757,15 +789,15 @@ function h(){if(b.ActiveXObject&&b.XMLHttpRequest){return false}return true};
                     </li>
                   
                     <li>
-                      Jan 18, 2010 &mdash; <a href="/2010/01/18/i-love-phones-designed-for-developing-countries/">I love phones designed for developing countries. </a>
+                      Jan 17, 2010 &mdash; <a href="/2010/01/17/i-love-phones-designed-for-developing-countries/">I love phones designed for developing countries. </a>
                     </li>
                   
                     <li>
-                      Dec 10, 2009 &mdash; <a href="/2009/12/10/2009-hosting-summary-or-where-does-harper-host-in-20092010/">2009 Hosting Summary (or where does Harper host in 2009/2010)</a>
+                      Dec 09, 2009 &mdash; <a href="/2009/12/09/2009-hosting-summary-or-where-does-harper-host-in-20092010/">2009 Hosting Summary (or where does Harper host in 2009/2010)</a>
                     </li>
                   
                     <li>
-                      Oct 08, 2009 &mdash; <a href="/2009/10/08/leaving-threadless/">Leaving Threadless</a>
+                      Oct 07, 2009 &mdash; <a href="/2009/10/07/leaving-threadless/">Leaving Threadless</a>
                     </li>
                   
                     <li>
@@ -778,10 +810,6 @@ function h(){if(b.ActiveXObject&&b.XMLHttpRequest){return false}return true};
                   
                     <li>
                       Jan 11, 2009 &mdash; <a href="/2009/01/11/seven-things-goddamn-internet-friends/">Seven Things (goddamn internet friends)</a>
-                    </li>
-                  
-                    <li>
-                      Jan 05, 2009 &mdash; <a href="/2009/01/05/2008-retrospectiv/">2008 Retrospective</a>
                     </li>
                   
                   </ul>
@@ -808,7 +836,7 @@ function h(){if(b.ActiveXObject&&b.XMLHttpRequest){return false}return true};
 <!-- ExtraBG END -->
 <div class="FooterBG">
 <div class="Footer">
-<p><a href="/">Nata2.org</a> is &copy; 1997-2010 <a href="http://www.harperreed.org/contact/">Harper Reed</a>. Theme stoled and inspired by the great <a href="http://bloggingpro.com/">BloggingPro</a> theme by: <a href="http://designdisease.com">Design Disease</a>. Powered by <a href="http://jekyllrb.com/">Jekyll</a>.</p>
+<p><a href="/">Nata2.org</a> is &copy; 1997-2010 <a href="http://www.harperreed.org/contact/">Harper Reed</a>. Powered by <a href="http://jekyllrb.com/">Jekyll</a>.</p>
 
 </div>
 </div>

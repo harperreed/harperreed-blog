@@ -1,9 +1,0 @@
---- 
-wordpress_id: 1428
-layout: post
-title: New theme
-date: 2007-04-05 00:59:04 -05:00
-tags: general, design, wordpress, blogging-pro, theme
-wordpress_url: http://www.nata2.org/2007/04/05/new-theme/
----
-<p>I got tired of the old theme, so I sat down tonight and modified the heck out of the <a href="http://www.bloggingpro.com/archives/2007/03/21/blogging-pros-theme-released/">blogging pro theme</a> to make it more my own. I like how it turned out. I think that there are still a few hacks and tweaks I will have to incorporate - but I like the feel. </p> <p>I still need to figure out if I want to add ads. I probably should, since my blog is growing a bit, but I just hate having ads&nbsp; - so maybe I will concentrate on making my other sites make money. heh. I also need to fix the related posts deal and make it so peeps can digg my site. heh. </p> <p>Let me know what you guys think.&nbsp; </p> <p> <div class="wlWriterSmartContent" id="0767317B-992E-4b12-91E0-4F059A8CECA8:79f202c1-40f3-49ea-aff8-ed134275c61e" contenteditable="false" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">[tags]theme, design, blogging pro, wordpress[/tags]</div></p>
