@@ -4,7 +4,7 @@
  <title>Harper Reed: Tech, Mobile, Yo-yoing and Death Metal</title>
  <link href="http://www.nata2.org/atom.xml" rel="self"/>
  <link href="http://www.nata2.org"/>
- <updated>2010-08-17T02:30:36-05:00</updated>
+ <updated>2010-09-03T17:03:10+09:00</updated>
  <id>http://www.nata2.org</id>
 
  
@@ -16,9 +16,29 @@
  
  
  <entry>
+   <title>Yes! I am a venture hacks scout! Chicago RPZNT</title>
+   <link href="http://www.nata2.org/2010/09/03/yes-i-am-a-venture-hacks-scout/"/>
+   <updated>2010-09-03T17:45:42+09:00</updated>
+   <id>http://www.nata2.org/2010/09/03/yes-i-am-a-venture-hacks-scout</id>
+   <content type="html">&lt;img src='/images/Peace-Logo.jpg' align='right' width='200' /&gt;
+&lt;p&gt;I am excited to be a part of Venture Hacks helping them find amazing startups for the &lt;a href='http://angel.co'&gt;Angels on the Angellist&lt;/a&gt;. The scout program is going to be a lot of fun and hopefully will allow some great startups to be funded by the amazing angels from the angel list. Check out this &lt;a href='http://gigaom.com/2010/08/31/angellist-designates-scouts-to-refer-new-startup-deals/'&gt;great write up in GigaOm&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you have a startup that you want to submit to the angellist, you can do so yourself by &lt;a href='http://angel.co/intro'&gt;submitting directly to the angel list&lt;/a&gt;. If you want more information about the angel list, or would like me to take a look at your startup (and get all the perks of interacting with a person as amazing as myself - hah) - then send an &lt;a href='http://harperreed.org/contact'&gt;email to me directly&lt;/a&gt;. I am pretty easy to contact and can help out in many ways.&lt;/p&gt;
+
+&lt;p&gt;I am looking to help out and interact with midwest startups. I am very serious about making sure that Chicago continues to be a good place to be an entrepreneur. Having venturehack/angel list representation in Chicago will continue to help the community. Be sure an check out the &lt;a href='http://angel.co/chicago'&gt;listing for Chicago Angels&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Making the Midwest/Chicago a great place for starting a company isn’t just for people like myself, the &lt;a href='http://www.lightbank.com'&gt;groupon guys&lt;/a&gt;, &lt;a href='http://www.sandboxindustries.com'&gt;sandbox&lt;/a&gt; and the angels. It is about the entrepreneur as well. Please let me know if you have ideas, concerns or just general insights into making the Midwest/Chicago the best place to start a company.&lt;/p&gt;
+
+&lt;p&gt;If you are outside of the Chicago/Midwest area - feel free to ping me anyway. I am always looking for new startups to talk to and people to connect.&lt;/p&gt;</content>
+
+
+
+ </entry>
+ 
+ <entry>
    <title>I migrated this blog to Jekyll on App Engine. So long Wordpress. </title>
    <link href="http://www.nata2.org/2010/08/17/jekyl-for-the-win/"/>
-   <updated>2010-08-17T03:24:42-05:00</updated>
+   <updated>2010-08-17T17:24:42+09:00</updated>
    <id>http://www.nata2.org/2010/08/17/jekyl-for-the-win</id>
    <content type="html">&lt;p&gt;I don&amp;#8217;t like to move my blog around. It is super annoying. The RSS feed gets all messed up, I spend months tweaking everything. I find silly bugs and then fascinate about fixing them. All in all it takes months to complete the process. I avoid it like the plague.&lt;/p&gt;
 
@@ -71,7 +91,7 @@
  <entry>
    <title>If you see this, this blog is hosted on app engine</title>
    <link href="http://www.nata2.org/2010/08/12/if-you-see-this/"/>
-   <updated>2010-08-12T00:00:00-05:00</updated>
+   <updated>2010-08-12T00:00:00+09:00</updated>
    <id>http://www.nata2.org/2010/08/12/if-you-see-this</id>
    <content type="html">&lt;p&gt;Decided to ditch wordpress for jekyl and drydrop. Let&amp;#8217;s see how it works.&lt;/p&gt;
 
@@ -84,7 +104,7 @@
  <entry>
    <title>Smitten by the iPad: thoughts and complaints. </title>
    <link href="http://www.nata2.org/2010/04/05/smitten-by-the-ipad-thoughts-and-complaints/"/>
-   <updated>2010-04-05T00:14:42-05:00</updated>
+   <updated>2010-04-05T14:14:42+09:00</updated>
    <id>http://www.nata2.org/2010/04/05/smitten-by-the-ipad-thoughts-and-complaints</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/natatwo/4488064118/' title='The ipad is awesome by nata2, on Flickr'&gt;&lt;img src='http://farm5.static.flickr.com/4052/4488064118_ea9d770433_m.jpg' height='180' align='right' alt='The ipad is awesome' width='240' /&gt;&lt;/a&gt;
 &lt;p&gt;The iPad is a new and very exciting paradigm for computing. I played with it afternoon and it felt very minority report. It felt like the future. no physical keyboard. I was controlling things with my finger/mind. it was awesome. I am smitten.&lt;/p&gt;
@@ -112,7 +132,7 @@
  <entry>
    <title>Musings about femtocells: the futures!</title>
    <link href="http://www.nata2.org/2010/02/11/musings-about-femtocells-the-futures/"/>
-   <updated>2010-02-11T01:44:15-06:00</updated>
+   <updated>2010-02-11T16:44:15+09:00</updated>
    <id>http://www.nata2.org/2010/02/11/musings-about-femtocells-the-futures</id>
    <content type="html">&lt;blockquote&gt;I wrote most of this entry the day before the earthquake in Haiti. It was motivated by the magicJack announcement and my interest in mobile devices within developing nations.  However, the thoughts in this post suddenly seemed more real after I started hearing reports of communication breakdown after the earthquake.&lt;/blockquote&gt;&lt;strong&gt;The femtocell&lt;/strong&gt;
 &lt;p&gt;At the recent CES, the &lt;a href='http://en.wikipedia.org/wiki/MagicJack'&gt;magicJack company&lt;/a&gt; announced that they wanted to release a consumer grade FemtoCell device as an upgrade to their USB FXO/Softphone device.  Note: magicJack is an insane company. You probably have seen them on television commercials while watching USA &amp;#8216;Up All Night&amp;#8217;.  While these commercials almost seem scam-like, they have apparently sold 5 million USB magicJacks.  That&amp;#8217;s a lot of phone calls!&lt;/p&gt;
@@ -137,9 +157,9 @@
  
  <entry>
    <title>I love phones designed for developing countries. </title>
-   <link href="http://www.nata2.org/2010/01/17/i-love-phones-designed-for-developing-countries/"/>
-   <updated>2010-01-17T19:49:55-06:00</updated>
-   <id>http://www.nata2.org/2010/01/17/i-love-phones-designed-for-developing-countries</id>
+   <link href="http://www.nata2.org/2010/01/18/i-love-phones-designed-for-developing-countries/"/>
+   <updated>2010-01-18T10:49:55+09:00</updated>
+   <id>http://www.nata2.org/2010/01/18/i-love-phones-designed-for-developing-countries</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/natatwo/4283555038/' title='Nokia 1100 and Motorola F3 by nata2, on Flickr'&gt;&lt;img src='http://farm5.static.flickr.com/4039/4283555038_a798542c5f_m.jpg' height='218' align='right' alt='Nokia 1100 and Motorola F3' width='240' /&gt;&lt;/a&gt;
 &lt;p&gt;I love mobile phones. I don&amp;#8217;t know why - but mobile devices represent so much of what I love about technology. The ubiquity, the fascination, all the new technology that pops up and all the different way people use their devices. I also feel like mobile devices will be the future of whatever the internet turns out to be. They will power the internet. With all this in mind - I have started to become interested in the devices that fill the opposite niche. The devices that are SO simple that their are almost NO features.&lt;/p&gt;
 
@@ -167,9 +187,9 @@
  
  <entry>
    <title>2009 Hosting Summary (or where does Harper host in 2009/2010)</title>
-   <link href="http://www.nata2.org/2009/12/09/2009-hosting-summary-or-where-does-harper-host-in-20092010/"/>
-   <updated>2009-12-09T19:29:06-06:00</updated>
-   <id>http://www.nata2.org/2009/12/09/2009-hosting-summary-or-where-does-harper-host-in-20092010</id>
+   <link href="http://www.nata2.org/2009/12/10/2009-hosting-summary-or-where-does-harper-host-in-20092010/"/>
+   <updated>2009-12-10T10:29:06+09:00</updated>
+   <id>http://www.nata2.org/2009/12/10/2009-hosting-summary-or-where-does-harper-host-in-20092010</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/natatwo/2581673203/' title='this is mount fuji by nata2, on Flickr'&gt;&lt;img src='http://farm4.static.flickr.com/3192/2581673203_d18270a494_m.jpg' height='180' align='right' alt='this is mount fuji' width='240' /&gt;&lt;/a&gt;&lt;blockquote&gt;&lt;strong&gt;&lt;em&gt;Disclaimer&lt;/em&gt;&lt;/strong&gt;&lt;em&gt;: I am paid money by Rackspace to think about these things. However, I am an equal opportunity hosting consumer. I will try and be as open as possible (but probably a bit biased as well). This is on my personal blog and does not represent Rackspace in the least. These opinions are mine and do not represent Rackspace in anyway.&lt;/em&gt;&lt;/blockquote&gt;
 &lt;p&gt;I guess I will go ahead and jump in. This is based on what I use and would most likely suggest if we were drinking beers and talking about hosting. Your mileage may vary. I am sorry if I end up causing a nuclear war based on these recommendations.&lt;/p&gt;
 &lt;strong&gt;&quot;Platforms&quot;&lt;/strong&gt;
@@ -215,9 +235,9 @@
  
  <entry>
    <title>Leaving Threadless</title>
-   <link href="http://www.nata2.org/2009/10/07/leaving-threadless/"/>
-   <updated>2009-10-07T21:52:50-05:00</updated>
-   <id>http://www.nata2.org/2009/10/07/leaving-threadless</id>
+   <link href="http://www.nata2.org/2009/10/08/leaving-threadless/"/>
+   <updated>2009-10-08T11:52:50+09:00</updated>
+   <id>http://www.nata2.org/2009/10/08/leaving-threadless</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/techcocktail/2316615921/'&gt;&lt;img src='http://farm3.static.flickr.com/2411/2316615921_b2cee81590_m.jpg' align='right' /&gt;&lt;/a&gt;
 &lt;p&gt;It was super hard to leave a job that taught me so much, helped me grow and was staffed by all of my friends, but I needed to make that leap towards the future. (&lt;a href='http://siliconangle.net/ver2/2009/09/29/exclusive-interview-threadless-cto-harper-reed-heads-to-rackspace-whats-a-nepholologist/' title='here is a nice interview' id='c8k2'&gt;Here is a nice interview&lt;/a&gt; covering all sorts of aspects of my leaving.)&lt;/p&gt;
 
@@ -239,9 +259,9 @@
  
  <entry>
    <title>My thoughts on the kindle: 1 vs 2 and the iphone app</title>
-   <link href="http://www.nata2.org/2009/03/08/my-thoughts-on-the-kindle/"/>
-   <updated>2009-03-08T15:54:09-05:00</updated>
-   <id>http://www.nata2.org/2009/03/08/my-thoughts-on-the-kindle</id>
+   <link href="http://www.nata2.org/2009/03/09/my-thoughts-on-the-kindle/"/>
+   <updated>2009-03-09T05:54:09+09:00</updated>
+   <id>http://www.nata2.org/2009/03/09/my-thoughts-on-the-kindle</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/natatwo/3307240832/' title='Kindle2 vs Kindle1 front powered on by nata2, on Flickr'&gt;&lt;img class='alignright' src='http://farm4.static.flickr.com/3429/3307240832_8913af9d4f_m.jpg' align='right' height='180' alt='Kindle2 vs Kindle1 front powered on' width='240' /&gt;&lt;/a&gt;
 &lt;p&gt;I read a lot. I am not like those crazy people who read a book a day or anything, but i have been reading up to about 2 books a week for the past few years. They are not crazy books, mostly science fiction and fantasy, but they are not small books. I read to chill out. My day pattern is to go to work, work, get home, nap, hang out with hiromi, play computer and then read until i fall alseep. The reading part is VERY important to get my mind and body to a place where I can actually sleep. Needless to say, I take my reading seriously.&lt;/p&gt;
 
@@ -283,9 +303,9 @@
  
  <entry>
    <title>Python Oauth Client - Excla.im</title>
-   <link href="http://www.nata2.org/2009/02/28/python-oauth-client-exclaim/"/>
-   <updated>2009-02-28T17:04:04-06:00</updated>
-   <id>http://www.nata2.org/2009/02/28/python-oauth-client-exclaim</id>
+   <link href="http://www.nata2.org/2009/03/01/python-oauth-client-exclaim/"/>
+   <updated>2009-03-01T08:04:04+09:00</updated>
+   <id>http://www.nata2.org/2009/03/01/python-oauth-client-exclaim</id>
    <content type="html">&lt;p&gt;I built &lt;a href='http://excla.im'&gt;Excla.im&lt;/a&gt; quite awhile ago, well before &lt;a href='http://twitter.com/harper'&gt;Twitter&lt;/a&gt; unleased their oauth beta program. Regardless, &lt;a href='http://factoryjoe.com/blog/'&gt;Chris Messina&lt;/a&gt; &lt;a href='http://flickr.com/photos/factoryjoe/2841257703/'&gt;tagged the Excla.im sign up process as an anty pattern&lt;/a&gt; within his flickr stream. I was bummed because i would have loved to use Oauth to authenticate Excla.im. But because of the tagging, i was constantly thinking about how to remove the anti pattern.&lt;/p&gt;
 
 &lt;p&gt;Finally, Twitter released the &lt;a href='http://groups.google.com/group/twitter-development-talk/browse_thread/thread/42486bd3d7d136d0/f0e89b742bf0033e?pli=1'&gt;Oauth Beta&lt;/a&gt; and I was able to bribe @&lt;a href='http://al3x.net/'&gt;Al3x&lt;/a&gt; to give me access (which reminds me, i need to send my &lt;a href='http://flickr.com/photos/natatwo/3149040948/'&gt;bribe&lt;/a&gt;). I then sat for a month looking at the various python examples for OAuth and basically said &amp;#8220;What The Fuck&amp;#8221; over and over again. There were no solid examples and my experience with OAuth in PHP was a total hack so i could post shit to fireeagle. I was SOL as to finding a guide.&lt;/p&gt;
@@ -304,9 +324,9 @@
  
  <entry>
    <title>Seven Things (goddamn internet friends)</title>
-   <link href="http://www.nata2.org/2009/01/11/seven-things-goddamn-internet-friends/"/>
-   <updated>2009-01-11T16:05:55-06:00</updated>
-   <id>http://www.nata2.org/2009/01/11/seven-things-goddamn-internet-friends</id>
+   <link href="http://www.nata2.org/2009/01/12/seven-things-goddamn-internet-friends/"/>
+   <updated>2009-01-12T07:05:55+09:00</updated>
+   <id>http://www.nata2.org/2009/01/12/seven-things-goddamn-internet-friends</id>
    <content type="html">&lt;p&gt;I was tagged by both &lt;a href='http://eliw.wordpress.com/2009/01/05/seven-things/'&gt;Eli White&lt;/a&gt; and &lt;a href='http://flinglog.com/text/seven-things/'&gt;Brian Fling&lt;/a&gt; in this dastardly meme regarding 7 things. I am usually a HUGE fan of all things meme - and kind of regard myself as a &lt;a href='http://fukung.net'&gt;certified&lt;/a&gt; meme expert. However this whole meme that requires a lot of work - I.E. blogging is something entirely different. I think i actually like it, but i am not entirely sure yet ;).&lt;/p&gt;
 
 &lt;p&gt;I do find it hilarious that almost every blog post regarding this seven things starts with a bit of self deprecation and surprise at how this meme stumbled upon innocent them. Well, it did come as a surprise - so I guess i understand.&lt;/p&gt;
@@ -354,9 +374,9 @@
  
  <entry>
    <title>2008 Retrospective</title>
-   <link href="http://www.nata2.org/2009/01/04/2008-retrospectiv/"/>
-   <updated>2009-01-04T20:01:28-06:00</updated>
-   <id>http://www.nata2.org/2009/01/04/2008-retrospectiv</id>
+   <link href="http://www.nata2.org/2009/01/05/2008-retrospectiv/"/>
+   <updated>2009-01-05T11:01:28+09:00</updated>
+   <id>http://www.nata2.org/2009/01/05/2008-retrospectiv</id>
    <content type="html">&lt;p&gt;2008 was a great year.&lt;/p&gt;
 
 &lt;p&gt;A lot of fun things happened. I started speaking more. I started using linux as my desktop. Obama won. I played with XMPP manically. I built some neat applications and Threadless continued to be awesome.&lt;/p&gt;
@@ -390,7 +410,7 @@
  <entry>
    <title>Happy Holidays</title>
    <link href="http://www.nata2.org/2008/12/26/happy-holidays/"/>
-   <updated>2008-12-26T00:31:12-06:00</updated>
+   <updated>2008-12-26T15:31:12+09:00</updated>
    <id>http://www.nata2.org/2008/12/26/happy-holidays</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/natatwo/3119262443/' title='It&amp;apos;s snowing like crazy. by nata2, on Flickr'&gt;&lt;img class='alignright' src='http://farm4.static.flickr.com/3117/3119262443_bf1b6529b3_m.jpg' height='240' align='right' alt='It&amp;apos;s snowing like crazy.' width='180' /&gt;&lt;/a&gt;
 &lt;p&gt;I have been busy. Threadless just ended its &lt;a href='http://www.threadless.com/news/400348/Tees_from_5_at_Threadless_Annual_Holiday_Sale'&gt;annual holiday sale&lt;/a&gt; (went out with a &lt;a href='http://www.threadless.com/news/406990/And_the_final_gift_is_opened_to_reveal'&gt;bang&lt;/a&gt;). &lt;a href='http://hiromiusagi.com'&gt;Hiromi&lt;/a&gt; and I have been busy getting read for our holiday party with my parents on christmas (today!) and i have been hacking on a bunch of stuff in my spare time. Hiromi made an amazing dinner and we ate it. ;) It was a great time. We missed &lt;a href='http://dylanreed.com'&gt;Dylan&lt;/a&gt; and &lt;a href='http://photodork.org/'&gt;Sarah&lt;/a&gt;, but we will hopefully see them soon.&lt;/p&gt;
@@ -406,7 +426,7 @@
  <entry>
    <title>Chicago Transit API</title>
    <link href="http://www.nata2.org/2008/10/06/chicago-transit-api/"/>
-   <updated>2008-10-06T01:20:02-05:00</updated>
+   <updated>2008-10-06T15:20:02+09:00</updated>
    <id>http://www.nata2.org/2008/10/06/chicago-transit-api</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/natatwo/264290817/' title='The goddamn damon bus. seriously by nata2, on Flickr'&gt;&lt;img class='alignright' src='http://farm1.static.flickr.com/87/264290817_f5ccf294d0_m.jpg' height='180' align='right' alt='The goddamn damon bus. seriously' width='240' /&gt;&lt;/a&gt;
 &lt;p&gt;The genesis for this API is some work I did awhile ago reverse engineering the &lt;a href='http://ctabustracker.com/bustime/map/displaymap.jsp'&gt;CTA Bus Tracker mashup&lt;/a&gt;. I was able to expose the endpoints that powered their google maps mashup. In its original state - you can get some pretty awesome functionality and data. I am attempting to clean it up and make it more robust.&lt;/p&gt;
@@ -443,7 +463,7 @@
  <entry>
    <title>Release your applications inner API. Please.</title>
    <link href="http://www.nata2.org/2008/10/06/release-your-applications-inner-api-please/"/>
-   <updated>2008-10-06T00:54:53-05:00</updated>
+   <updated>2008-10-06T14:54:53+09:00</updated>
    <id>http://www.nata2.org/2008/10/06/release-your-applications-inner-api-please</id>
    <content type="html">&lt;p&gt;I have recently been involved in talking to a local chicago entity about their unofficial API. It has been fun and deserves a blog entry of its own. However, this is not that blog entry - this blog entry is about mashups and the not so public APIs they often create.&lt;/p&gt;
 
@@ -454,52 +474,6 @@
 &lt;p&gt;If you have built an application recently that has endpoints that is returning JSON for js frontend work, or is integrating with google maps, or is exposing endpoints for fun - PLEASE, please document it a bit, throw an API link on your site and let some enterprising and bored nerds build something on the thing you made. Don&amp;#8217;t try to imagine how someone would use your endpoints - but expect to be surprised.&lt;/p&gt;
 
 &lt;p&gt;I need to do this with threadless - we built it to be very easy to break down and integrate into other peoples sites (image urls, etc). But, there is a secret API that we should be releasing, documenting and letting people use. Stay tuned.&lt;/p&gt;</content>
-
-
-
- </entry>
- 
- <entry>
-   <title>Mini Hi Fi: The Chase</title>
-   <link href="http://www.nata2.org/2008/08/30/mini-hi-fi-the-chase/"/>
-   <updated>2008-08-30T22:31:25-05:00</updated>
-   <id>http://www.nata2.org/2008/08/30/mini-hi-fi-the-chase</id>
-   <content type="html">&lt;a href='http://www.flickr.com/photos/natatwo/2802479942/' title='2008-08-27 00:32:37 -0500 by nata2, on Flickr'&gt;&lt;img class='alignright' src='http://farm4.static.flickr.com/3048/2802479942_2895dcc1d2_m.jpg' height='180' align='right' alt='My System' width='240' /&gt;&lt;/a&gt;
-&lt;p&gt;It all started a couple years ago when the SI Tripath Amp emerged on the market. It was a little amp that was reviewed as being MUCH bigger than its cost or its physical size. It was about 40 bucks at target and reviewed the same as amps costing thousands more. Pretty sweet.&lt;/p&gt;
-
-&lt;p&gt;I purchased a couple of these and immediately blew at least 2 of them fucking around, recasing and generally attempting to make them sound better than they sound stock. After giving my final one away to a former coworker of Hiromi&amp;#8217;s - I stopped paying attention to the various blogs and audio reviews of the T Amps.&lt;/p&gt;
-
-&lt;p&gt;Until about 1.5 months ago. heh.&lt;/p&gt;
-
-&lt;p&gt;I read an article about &lt;a href='http://www.hackaday.com/2008/07/27/build-your-own-speakers/'&gt;building speakers on hackaday&lt;/a&gt;. It lead me to another article about building your own &lt;a href='http://www.hackaday.com/2005/05/26/cat-5-speaker-cables/'&gt;speaker hi-end cables&lt;/a&gt;. Which lead me to an article about &lt;a href='http://www.tnt-audio.com/clinica/t-amp_tweaks_e.html'&gt;reboxing a SI T-Amp&lt;/a&gt;. Full circle.&lt;/p&gt;
-
-&lt;p&gt;The T-Amp article lead me to start reading &lt;a href='http://diyaudio.com/'&gt;diyaudio.com&lt;/a&gt; for about 2 weeks straight. It was madness. I stopped programming, stopped hacking stuff and just started building out a new HiFi system in my head.&lt;/p&gt;
-
-&lt;p&gt;I read a bunch of reviews about amps, speakers, and all sorts of random topics - until i found this awesome &lt;a href='http://6moons.com/audioreviews/trends/ta10.html'&gt;6moons review&lt;/a&gt; of the &lt;a href='http://www.trendsaudio.com/EN/Product/TA-10_desc.htm'&gt;Trends Audio TA-10.1&lt;/a&gt;. The thing that was interesting about this review is that the &lt;a href='http://6moons.com/audioreviews/trends/ta10_3.html'&gt;3rd page&lt;/a&gt; of the review mentioned some Klipsch speakers that i happen to own and have in my living room. The review mentioned how awesome the TA 10.1 was when matched with the Klipsch speakers, especially in a &lt;a href='http://www.canuckaudiomart.com/forum/viewtopic.php?t=7335'&gt;horizontal bi-amping&lt;/a&gt; configuration.&lt;/p&gt;
-
-&lt;p&gt;So I went ahead and picked up two of them from &lt;a href='http://www.audio-magus.com/'&gt;Audio Magus&lt;/a&gt; to bi-amp my klipsch monsters. I also picked up a &lt;a href='http://www.phonopreamps.com/tc754pp.html'&gt;CHEAP preamp&lt;/a&gt; from &lt;a href='http://www.phonopreamps.com/'&gt;phonopreamps.com&lt;/a&gt;. In total i spent about $325 and picked up 2 amps and 1 preamp.&lt;/p&gt;
-
-&lt;p&gt;After they arrived, i was able to hook everything up and after a bit of burn in really hear how awesome it actually is. I am very happy with the results. I am not going to talk about soundstage or anything like that - just that it sounds awesome.&lt;/p&gt;
-
-&lt;p&gt;Since I am bi-amping my speakers - I went ahead and set both amps as poweramps (by a jumper inside the amp) and am using the preamp as the volume control. This works very well. My only gripe is that there is no remote, but that is a future addition.&lt;/p&gt;
-
-&lt;p&gt;For audio sources, i have an airport express, my turntable and a poor CD player.&lt;/p&gt;
-
-&lt;p&gt;The future of this system is exciting.&lt;/p&gt;
-
-&lt;p&gt;I am planning on getting a solid preamp. Probably a &lt;a href='http://www.dared.gr/display.php?lang=EN&amp;amp;model=SL-2000A'&gt;Dared SL 2000A&lt;/a&gt;. It seems that adding a tube preamp to my &amp;#8220;digital&amp;#8221; amp setup could offer some warmth to the system. It also has a remote for volume control. The only downside is that it only has 2 channels for input - which means that I will have to figure out one source to get rid of (turntable most likely).&lt;/p&gt;
-
-&lt;p&gt;The next thing I would like to add is a couple DACs to do the D/A conversion for my Airport Express and my CD transport. I am looking at the &lt;a href='http://www.audio-magus.com/Super_Pro_DAC707SE_USB_p/dac707usb.htm'&gt;Super Pro DAC707SE&lt;/a&gt;. It is cheap, well reviewed and has USB support if I choose to add the DAC to one of my computers as a source. Having a DAC should make my Airport Express experience better when listening to lossless audio files. It will also make the shitty CD player sound a lot better. Ultimately, I would like to get a better cd player - which leads me to my next plan.&lt;/p&gt;
-
-&lt;p&gt;The CD transport is world is pretty nuts. It seems that every single transport available is in the thousands, and that there isn&amp;#8217;t any really a DIY CD transport option that is accessible. There is one compelling option for DIY - the Shigaclone. It is a direct clone of the &lt;a href='http://www.sakurasystems.com/products/shigacd.html'&gt;Shigaraki Transport&lt;/a&gt;, however the insides are from a JVC boombox (&lt;span class='nf'&gt;&lt;a href='http://www.amazon.com/JVC-RC-EZ31-Portable-Boombox-Cassette/dp/B000FD2AG4'&gt;JVC RC-EZ31&lt;/a&gt;)&lt;/span&gt;. The &lt;a href='http://www.diyaudio.com/forums/showthread.php?threadid=120229'&gt;details are at diyaudio&lt;/a&gt;. Unlike the other clones out there, the Shigaclone seems to be VERY hands on and just a bit past my skill level. I am waiting for a dedicated howto that explains all the various parts of the shigaclone and how I can make one without reading 1800 forum posts. In the meantime, i will have to find an alternative.&lt;/p&gt;
-
-&lt;p&gt;The alternative I have thus far is a 1994 NEC Multispin CDR-401G external CD-ROM. It has play/pause/forward/back buttons and has a digital coax out. It apparently sounds terrible, however once it is hooked to a DAC, it works wonderfully. It is VERY hard to find.&lt;/p&gt;
-
-&lt;p&gt;So for a CD transport, unless i want to spend a million bucks, I have two choices. Build a clone or buy a vintage CDROM.&lt;/p&gt;
-
-&lt;p&gt;I decided that the part of this i liked the best is the chase. I am very happy that I have a good sound system, but I am MORE excited about attempting to find the best system for cheap. Its a GREAT game.&lt;/p&gt;
-
-&lt;p&gt;I just need to make sure that i don&amp;#8217;t fall for the tricks. I don&amp;#8217;t want to spend ANY money on cables, nor money on speaker wire. &lt;a href='http://www.engadget.com/2008/03/03/audiophiles-cant-tell-the-difference-between-monster-cable-and/4'&gt;Metal is metal.&lt;/a&gt;&lt;/p&gt;</content>
 
 
 
