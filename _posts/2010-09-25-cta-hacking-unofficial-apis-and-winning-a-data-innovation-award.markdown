@@ -3,7 +3,6 @@ layout: post
 title: "CTA Hacking, Unofficial APIs and Winning a Data Innovation Award"
 date: 2010-09-25 08:45:42 -06:00
 --- 
-
 <a href="http://www.flickr.com/photos/juggernautco/2913444222/in/photostream/"><img align="right" src="http://farm4.static.flickr.com/3250/2913444222_5f01a20397_m.jpg"></a>Back in 2008 I hacked an [unofficial api](http://www.nata2.org/2008/10/06/chicago-transit-api/) together from the exposed endpoints of the CTA’s bustracker application. This spawned a bunch of CTA applications in the [iOS app store](http://arstechnica.com/apple/reviews/2009/04/iphone-app-showdown-battle-of-the-cta-bus-trackers.ars), the [android app store](http://www.google.com/search?q=chicago+transit+authority+android) and created a really neat [ecosystem](http://www.transitchicago.com/apps/) of [CTA hackers](http://groups.google.com/group/transitapi). 
 
 For awhile, nobody but us transit nerds paid attention to this api/hack. However, as more and more apps were built and more and more people used those apps - more people started noticing the benefits from the opening of this “api.”
@@ -14,7 +13,7 @@ In the aforementioned post by Dan O'Neil, He talks about how we visited the CTA 
 
 Interacting with the CTA directly and working with them on their app was great. It really demonstrates how a private citizen can affect the mega government type organization to make things better for the future. I don’t think this is an easy pattern to replicate - but it is something to aspire to when hacking/proselytizing open data and open gov type APIs. 
 
-<a href="http://www.flickr.com/photos/natatwo/5014492675/"><img src="http://farm5.static.flickr.com/4144/5014492675_330082d405_m.jpg" align="left" width="200"/></a>
+<a href="http://www.flickr.com/photos/natatwo/5014492675/"><img src="http://farm5.static.flickr.com/4144/5014492675_5a23a61f3a_m.jpg" align="left" width="200"/></a>
 The most recent chapter in this story is that the <a href="http://blog.mcic.org/2010/09/mcic-project-prize-takes-a-turn/">MCIC awarded me a Data Innovation Award</a>. I was sadly unable to participate in the award ceremony(I was drinking Chu-Hi in tokyo), but I hear it was awesome. Dan O’Neil was able to pick my award and say some words about what we did.
 
 A lot of people helped make this happen. [Dan O’Neil](http://www.derivativeworks.com/) was an insirpiation and really helped me figure out a strategy in working with the CTA. The CTA itself was awesome - especially [Tony Coppoletta](http://coppoletta.net/) and [Graham Garfield](http://www.chicago-l.org/). Both of those dudes made it easy to work with the CTA and are also sweet guys outside of the CTA.
