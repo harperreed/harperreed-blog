@@ -16,6 +16,6 @@ Interacting with the CTA directly and working with them on their app was great. 
 <a href="http://www.flickr.com/photos/natatwo/5014492675/"><img src="http://farm5.static.flickr.com/4144/5014492675_5a23a61f3a_m.jpg" align="left" width="200"/></a>
 The most recent chapter in this story is that the <a href="http://blog.mcic.org/2010/09/mcic-project-prize-takes-a-turn/">MCIC awarded me a Data Innovation Award</a>. I was sadly unable to participate in the award ceremony(I was drinking Chu-Hi in tokyo), but I hear it was awesome. Dan O’Neil was able to pick my award and say some words about what we did.
 
-A lot of people helped make this happen. [Dan O’Neil](http://www.derivativeworks.com/) was an insirpiation and really helped me figure out a strategy in working with the CTA. The CTA itself was awesome - especially [Tony Coppoletta](http://coppoletta.net/) and [Graham Garfield](http://www.chicago-l.org/). Both of those dudes made it easy to work with the CTA and are also sweet guys outside of the CTA.
+A lot of people helped make this happen. [Dan O’Neil](http://www.derivativeworks.com/) was an inspiration and really helped me figure out a strategy in working with the CTA. The CTA itself was awesome - especially [Tony Coppoletta](http://coppoletta.net/) and [Graham Garfield](http://www.chicago-l.org/). Both of those dudes made it easy to work with the CTA and are also sweet guys outside of the CTA.
 
 This has been a really good hack. ;) I am now a data innovator. 
