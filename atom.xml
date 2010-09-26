@@ -24,17 +24,6 @@ layout: nil
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>{{ site.url }}{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
-
-{% comment %}
- Pending implementation
- {% for category in post.categories %}
-   <category scheme="{{ site.url }}/category/" term="{{ category | downcase }}" label="{{ category }}" />
- {% endfor %}
- {% for tag in post.tags %}
-   <category scheme="{{ site.url }}/tag/" term="{{ tag | downcase }}" label="{{ tag }}" />
- {% endfor %}
-{% endcomment %}
-
  </entry>
  {% endfor %}
  

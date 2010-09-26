@@ -4,7 +4,7 @@
  <title>Harper Reed: Tech, Mobile, Yo-yoing and Death Metal</title>
  <link href="http://www.nata2.org/atom.xml" rel="self"/>
  <link href="http://www.nata2.org"/>
- <updated>2010-09-03T17:09:09+09:00</updated>
+ <updated>2010-09-25T21:08:17-05:00</updated>
  <id>http://www.nata2.org</id>
 
  
@@ -16,9 +16,30 @@
  
  
  <entry>
+   <title>CTA Hacking, Unofficial APIs and Winning a Data Innovation Award</title>
+   <link href="http://www.nata2.org/2010/09/25/cta-hacking-unofficial-apis-and-winning-a-data-innovation-award/"/>
+   <updated>2010-09-25T09:45:42-05:00</updated>
+   <id>http://www.nata2.org/2010/09/25/cta-hacking-unofficial-apis-and-winning-a-data-innovation-award</id>
+   <content type="html">&lt;a href='http://www.flickr.com/photos/juggernautco/2913444222/in/photostream/'&gt;&lt;img src='http://farm4.static.flickr.com/3250/2913444222_5f01a20397_m.jpg' align='right' /&gt;&lt;/a&gt;
+&lt;p&gt;For awhile, nobody but us transit nerds paid attention to this api/hack. However, as more and more apps were built and more and more people used those apps - more people started noticing the benefits from the opening of this “api.”&lt;/p&gt;
+
+&lt;p&gt;The API got a number of really good write-ups, particularly about how the API was unofficial and how I went around hacking it. The first (and best) was by my good friend Dan X. O’neil: &lt;a href='http://www.derivativeworks.com/2009/01/h.html'&gt;&amp;#8220;The power is not the mashup. It&amp;#8217;s the data.&amp;#8221;&lt;/a&gt;. From here a bunch of really great posts popped up talking about the unofficial API and innovation. Joe Hughes blogged about whether the unofficial API is &lt;a href='http://headwayblog.com/2008/12/14/unofficial-cta-apis/'&gt;innovation on borrowed time&lt;/a&gt;. Programmable Web &lt;a href='http://blog.programmableweb.com/2009/01/27/hacking-chicagos-unofficial-transit-api/'&gt;summarized Dan’s piece and added some commentary&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In the aforementioned post by Dan O&amp;#8217;Neil, He talks about how we visited the CTA and chatted with them about the API. In the world of litigious organizations and scary governments - working with the CTA was awesome. They listened to what I did, asked really solid questions and then told us some of their plans. A lot of what we talked about ended up being included in their official API release. Dan’s brother Kevin O’Neil wrote this relationship and the results up on the CTA Tattler blog: &lt;a href='http://www.chicagonow.com/blogs/cta-tattler/2010/09/great-example-of-government-private-cooperation-harper-reed-wins-an-inaugural-mcic-data-innovation-award-for-chicago-transit-api.html'&gt;Great example of government-private cooperation: Harper Reed wins award for CTA&amp;#8217;s Bus Tracker API&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Interacting with the CTA directly and working with them on their app was great. It really demonstrates how a private citizen can affect the mega government type organization to make things better for the future. I don’t think this is an easy pattern to replicate - but it is something to aspire to when hacking/proselytizing open data and open gov type APIs.&lt;/p&gt;
+&lt;a href='http://www.flickr.com/photos/natatwo/5014492675/'&gt;&lt;img src='http://farm5.static.flickr.com/4144/5014492675_330082d405_m.jpg' align='left' width='200' /&gt;&lt;/a&gt;
+&lt;p&gt;The most recent chapter in this story is that the &lt;a href='http://blog.mcic.org/2010/09/mcic-project-prize-takes-a-turn/'&gt;MCIC awarded me a Data Innovation Award&lt;/a&gt;. I was sadly unable to participate in the award ceremony(I was drinking Chu-Hi in tokyo), but I hear it was awesome. Dan O’Neil was able to pick my award and say some words about what we did.&lt;/p&gt;
+
+&lt;p&gt;A lot of people helped make this happen. &lt;a href='http://www.derivativeworks.com/'&gt;Dan O’Neil&lt;/a&gt; was an insirpiation and really helped me figure out a strategy in working with the CTA. The CTA itself was awesome - especially &lt;a href='http://coppoletta.net/'&gt;Tony Coppoletta&lt;/a&gt; and &lt;a href='http://www.chicago-l.org/'&gt;Graham Garfield&lt;/a&gt;. Both of those dudes made it easy to work with the CTA and are also sweet guys outside of the CTA.&lt;/p&gt;
+
+&lt;p&gt;This has been a really good hack. ;) I am now a data innovator.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
    <title>Yes! I am a venture hacks scout! Chicago RPZNT</title>
    <link href="http://www.nata2.org/2010/09/03/yes-i-am-a-venture-hacks-scout/"/>
-   <updated>2010-09-03T17:45:42+09:00</updated>
+   <updated>2010-09-03T03:45:42-05:00</updated>
    <id>http://www.nata2.org/2010/09/03/yes-i-am-a-venture-hacks-scout</id>
    <content type="html">&lt;img src='/images/Peace-Logo.jpg' align='right' width='200' /&gt;
 &lt;p&gt;I am excited to be a part of Venture Hacks helping them find amazing startups for the &lt;a href='http://angel.co'&gt;Angels on the Angellist&lt;/a&gt;. The scout program is going to be a lot of fun and hopefully will allow some great startups to be funded by the amazing angels from the angel list. Check out this &lt;a href='http://gigaom.com/2010/08/31/angellist-designates-scouts-to-refer-new-startup-deals/'&gt;great write up in GigaOm&lt;/a&gt;.&lt;/p&gt;
@@ -30,15 +51,12 @@
 &lt;p&gt;Making the Midwest/Chicago a great place for starting a company isn’t just for people like myself, the &lt;a href='http://www.lightbank.com'&gt;groupon guys&lt;/a&gt;, &lt;a href='http://www.sandboxindustries.com'&gt;sandbox&lt;/a&gt; and the angels. It is about the entrepreneur as well. Please let me know if you have ideas, concerns or just general insights into making the Midwest/Chicago the best place to start a company.&lt;/p&gt;
 
 &lt;p&gt;If you are outside of the Chicago/Midwest area - feel free to ping me anyway. I am always looking for new startups to talk to and people to connect.&lt;/p&gt;</content>
-
-
-
  </entry>
  
  <entry>
    <title>I migrated this blog to Jekyll on App Engine. So long Wordpress. </title>
    <link href="http://www.nata2.org/2010/08/17/jekyl-for-the-win/"/>
-   <updated>2010-08-17T17:24:42+09:00</updated>
+   <updated>2010-08-17T03:24:42-05:00</updated>
    <id>http://www.nata2.org/2010/08/17/jekyl-for-the-win</id>
    <content type="html">&lt;p&gt;I don&amp;#8217;t like to move my blog around. It is super annoying. The RSS feed gets all messed up, I spend months tweaking everything. I find silly bugs and then fascinate about fixing them. All in all it takes months to complete the process. I avoid it like the plague.&lt;/p&gt;
 
@@ -83,28 +101,22 @@
 &lt;p&gt;If i were to use wordpress again, I would either use &lt;a href='http://wordpress.com'&gt;wordpress.com&lt;/a&gt; or &lt;a href='http://vaultpress.com/'&gt;vaultpress&lt;/a&gt;. Both of those products seem to solve my problems. Right now, however, jekyll has pretty thoroughly solved them.&lt;/p&gt;
 
 &lt;p&gt;I can’t wait to start updating this blog a bit more often. I don’t know if i will write like i did in &lt;a href='/2003/'&gt;2003&lt;/a&gt;/&lt;a href='/2004/'&gt;2004&lt;/a&gt; - but i plan to update it a bit more than i did in &lt;a href='/2009/'&gt;2009&lt;/a&gt;. We shall see ;)&lt;/p&gt;</content>
-
-
-
  </entry>
  
  <entry>
    <title>If you see this, this blog is hosted on app engine</title>
    <link href="http://www.nata2.org/2010/08/12/if-you-see-this/"/>
-   <updated>2010-08-12T00:00:00+09:00</updated>
+   <updated>2010-08-12T00:00:00-05:00</updated>
    <id>http://www.nata2.org/2010/08/12/if-you-see-this</id>
    <content type="html">&lt;p&gt;Decided to ditch wordpress for jekyl and drydrop. Let&amp;#8217;s see how it works.&lt;/p&gt;
 
 &lt;p&gt;I will update this post later with more info later.&lt;/p&gt;</content>
-
-
-
  </entry>
  
  <entry>
    <title>Smitten by the iPad: thoughts and complaints. </title>
    <link href="http://www.nata2.org/2010/04/05/smitten-by-the-ipad-thoughts-and-complaints/"/>
-   <updated>2010-04-05T14:14:42+09:00</updated>
+   <updated>2010-04-05T00:14:42-05:00</updated>
    <id>http://www.nata2.org/2010/04/05/smitten-by-the-ipad-thoughts-and-complaints</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/natatwo/4488064118/' title='The ipad is awesome by nata2, on Flickr'&gt;&lt;img src='http://farm5.static.flickr.com/4052/4488064118_ea9d770433_m.jpg' height='180' align='right' alt='The ipad is awesome' width='240' /&gt;&lt;/a&gt;
 &lt;p&gt;The iPad is a new and very exciting paradigm for computing. I played with it afternoon and it felt very minority report. It felt like the future. no physical keyboard. I was controlling things with my finger/mind. it was awesome. I am smitten.&lt;/p&gt;
@@ -124,15 +136,12 @@
 &lt;/ol&gt; Overall the iPad is amazing. I can&amp;#8217;t wait to see how developers iterate on the platform and create really nifty applications. It will also be fun to see what features Apple magically unlocks on the iPad.&lt;/p&gt;
 
 &lt;p&gt;I am going to try and build some applications now. If you have ideas - let me know.&lt;/p&gt;</content>
-
-
-
  </entry>
  
  <entry>
    <title>Musings about femtocells: the futures!</title>
    <link href="http://www.nata2.org/2010/02/11/musings-about-femtocells-the-futures/"/>
-   <updated>2010-02-11T16:44:15+09:00</updated>
+   <updated>2010-02-11T01:44:15-06:00</updated>
    <id>http://www.nata2.org/2010/02/11/musings-about-femtocells-the-futures</id>
    <content type="html">&lt;blockquote&gt;I wrote most of this entry the day before the earthquake in Haiti. It was motivated by the magicJack announcement and my interest in mobile devices within developing nations.  However, the thoughts in this post suddenly seemed more real after I started hearing reports of communication breakdown after the earthquake.&lt;/blockquote&gt;&lt;strong&gt;The femtocell&lt;/strong&gt;
 &lt;p&gt;At the recent CES, the &lt;a href='http://en.wikipedia.org/wiki/MagicJack'&gt;magicJack company&lt;/a&gt; announced that they wanted to release a consumer grade FemtoCell device as an upgrade to their USB FXO/Softphone device.  Note: magicJack is an insane company. You probably have seen them on television commercials while watching USA &amp;#8216;Up All Night&amp;#8217;.  While these commercials almost seem scam-like, they have apparently sold 5 million USB magicJacks.  That&amp;#8217;s a lot of phone calls!&lt;/p&gt;
@@ -150,16 +159,13 @@
 &lt;p&gt;My mind started to work into overtime.  I began thinking about the ramifications of hacking the magicJack. Wouldn&amp;#8217;t it be neat to use femtocell technology to distribute ad hoc mobile carriers around a neighborhood/disaster area/rural/developing country?  You could hook the magicJack femtocell up to a &lt;a href='http://en.wikipedia.org/wiki/FON#Fonera_2.0n'&gt;Fon2 device (usb/linux/broadband)&lt;/a&gt; and distribute them around in places with connectivity. All you would need is a better antenna and some software to manage the provisioning and device identification. BAM! Instant pirate P2P GSM carrier.&lt;/p&gt;
 
 &lt;p&gt;I am hoping that this type of convergence will lead us &lt;a href='http://www.imdb.com/title/tt0088763/'&gt;to the future&lt;/a&gt;.&lt;/p&gt;</content>
-
-
-
  </entry>
  
  <entry>
    <title>I love phones designed for developing countries. </title>
-   <link href="http://www.nata2.org/2010/01/18/i-love-phones-designed-for-developing-countries/"/>
-   <updated>2010-01-18T10:49:55+09:00</updated>
-   <id>http://www.nata2.org/2010/01/18/i-love-phones-designed-for-developing-countries</id>
+   <link href="http://www.nata2.org/2010/01/17/i-love-phones-designed-for-developing-countries/"/>
+   <updated>2010-01-17T19:49:55-06:00</updated>
+   <id>http://www.nata2.org/2010/01/17/i-love-phones-designed-for-developing-countries</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/natatwo/4283555038/' title='Nokia 1100 and Motorola F3 by nata2, on Flickr'&gt;&lt;img src='http://farm5.static.flickr.com/4039/4283555038_a798542c5f_m.jpg' height='218' align='right' alt='Nokia 1100 and Motorola F3' width='240' /&gt;&lt;/a&gt;
 &lt;p&gt;I love mobile phones. I don&amp;#8217;t know why - but mobile devices represent so much of what I love about technology. The ubiquity, the fascination, all the new technology that pops up and all the different way people use their devices. I also feel like mobile devices will be the future of whatever the internet turns out to be. They will power the internet. With all this in mind - I have started to become interested in the devices that fill the opposite niche. The devices that are SO simple that their are almost NO features.&lt;/p&gt;
 
@@ -180,16 +186,13 @@
 &lt;p&gt;The F3 has no features. It barely send txt messages. It has voice prompts for all menus. It is just a phone. A user serviceable, easy to charge, thin, e-ink phone. It works well making calls and receiving txt messages. The F3 would be an amazing phone for a child, elderly person or someone who doesn&amp;#8217;t want to deal with learning pesky features. I got one for my &amp;#8220;go bag&amp;#8221; as an emergency phone (I am not a survivalist, I just crush a lot).&lt;/p&gt;
 
 &lt;p&gt;You can find an unlocked &lt;a href='http://www.amazon.com/gp/product/B0013A7KMW?ie=UTF8&amp;amp;tag=nata2productions&amp;amp;linkCode=as2&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B0013A7KMW'&gt;Motorola f3 for about 30 bucks on amazon&lt;/a&gt;. I suggest you get one.&lt;/p&gt;</content>
-
-
-
  </entry>
  
  <entry>
    <title>2009 Hosting Summary (or where does Harper host in 2009/2010)</title>
-   <link href="http://www.nata2.org/2009/12/10/2009-hosting-summary-or-where-does-harper-host-in-20092010/"/>
-   <updated>2009-12-10T10:29:06+09:00</updated>
-   <id>http://www.nata2.org/2009/12/10/2009-hosting-summary-or-where-does-harper-host-in-20092010</id>
+   <link href="http://www.nata2.org/2009/12/09/2009-hosting-summary-or-where-does-harper-host-in-20092010/"/>
+   <updated>2009-12-09T19:29:06-06:00</updated>
+   <id>http://www.nata2.org/2009/12/09/2009-hosting-summary-or-where-does-harper-host-in-20092010</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/natatwo/2581673203/' title='this is mount fuji by nata2, on Flickr'&gt;&lt;img src='http://farm4.static.flickr.com/3192/2581673203_d18270a494_m.jpg' height='180' align='right' alt='this is mount fuji' width='240' /&gt;&lt;/a&gt;&lt;blockquote&gt;&lt;strong&gt;&lt;em&gt;Disclaimer&lt;/em&gt;&lt;/strong&gt;&lt;em&gt;: I am paid money by Rackspace to think about these things. However, I am an equal opportunity hosting consumer. I will try and be as open as possible (but probably a bit biased as well). This is on my personal blog and does not represent Rackspace in the least. These opinions are mine and do not represent Rackspace in anyway.&lt;/em&gt;&lt;/blockquote&gt;
 &lt;p&gt;I guess I will go ahead and jump in. This is based on what I use and would most likely suggest if we were drinking beers and talking about hosting. Your mileage may vary. I am sorry if I end up causing a nuclear war based on these recommendations.&lt;/p&gt;
 &lt;strong&gt;&quot;Platforms&quot;&lt;/strong&gt;
@@ -228,16 +231,13 @@
 &lt;p&gt;2010 is going to be an exciting year. I imagine that Rackspace and Amazon will continue to fight head to head. Which will only make us consumers have better options. I also am very excited to see what Google does with App Engine (I imagine that they will NOT be adding &lt;a href='http://code.google.com/p/googleappengine/issues/detail?id=13'&gt;PHP support&lt;/a&gt;). I hope that 2010 is as productive as 2009 was for hosting, if so - then it will be an exciting, innovative time.&lt;/p&gt;
 
 &lt;p&gt;Leave your questions in the comments - I will attempt to answer them the best i can.&lt;/p&gt;</content>
-
-
-
  </entry>
  
  <entry>
    <title>Leaving Threadless</title>
-   <link href="http://www.nata2.org/2009/10/08/leaving-threadless/"/>
-   <updated>2009-10-08T11:52:50+09:00</updated>
-   <id>http://www.nata2.org/2009/10/08/leaving-threadless</id>
+   <link href="http://www.nata2.org/2009/10/07/leaving-threadless/"/>
+   <updated>2009-10-07T21:52:50-05:00</updated>
+   <id>http://www.nata2.org/2009/10/07/leaving-threadless</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/techcocktail/2316615921/'&gt;&lt;img src='http://farm3.static.flickr.com/2411/2316615921_b2cee81590_m.jpg' align='right' /&gt;&lt;/a&gt;
 &lt;p&gt;It was super hard to leave a job that taught me so much, helped me grow and was staffed by all of my friends, but I needed to make that leap towards the future. (&lt;a href='http://siliconangle.net/ver2/2009/09/29/exclusive-interview-threadless-cto-harper-reed-heads-to-rackspace-whats-a-nepholologist/' title='here is a nice interview' id='c8k2'&gt;Here is a nice interview&lt;/a&gt; covering all sorts of aspects of my leaving.)&lt;/p&gt;
 
@@ -252,16 +252,13 @@
 &lt;p&gt;I have a couple of posts lined up for later this week.  One about my history at Threadless and another about the hijinks that have existed over the last few years.&lt;/p&gt;
 
 &lt;p&gt;Stay tuned.  It&amp;#8217;s only just beginning.&lt;/p&gt;</content>
-
-
-
  </entry>
  
  <entry>
    <title>My thoughts on the kindle: 1 vs 2 and the iphone app</title>
-   <link href="http://www.nata2.org/2009/03/09/my-thoughts-on-the-kindle/"/>
-   <updated>2009-03-09T05:54:09+09:00</updated>
-   <id>http://www.nata2.org/2009/03/09/my-thoughts-on-the-kindle</id>
+   <link href="http://www.nata2.org/2009/03/08/my-thoughts-on-the-kindle/"/>
+   <updated>2009-03-08T15:54:09-05:00</updated>
+   <id>http://www.nata2.org/2009/03/08/my-thoughts-on-the-kindle</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/natatwo/3307240832/' title='Kindle2 vs Kindle1 front powered on by nata2, on Flickr'&gt;&lt;img class='alignright' src='http://farm4.static.flickr.com/3429/3307240832_8913af9d4f_m.jpg' align='right' height='180' alt='Kindle2 vs Kindle1 front powered on' width='240' /&gt;&lt;/a&gt;
 &lt;p&gt;I read a lot. I am not like those crazy people who read a book a day or anything, but i have been reading up to about 2 books a week for the past few years. They are not crazy books, mostly science fiction and fantasy, but they are not small books. I read to chill out. My day pattern is to go to work, work, get home, nap, hang out with hiromi, play computer and then read until i fall alseep. The reading part is VERY important to get my mind and body to a place where I can actually sleep. Needless to say, I take my reading seriously.&lt;/p&gt;
 
@@ -296,16 +293,13 @@
 &lt;p&gt;Then a couple days later the Kindle app was released. Like the Kindle - it is awesome. hah. With the Kindle app for the iphone and the Kindle, you are able to sync your placemarks on the books you are reading. You could read to a certain point in a novel while on your commute - then go to a meeting and pick up your iphone and continue reading from where you left off on your kindle. Then you coudl pick up the kindle and it would sync to where you left off on the iphone. That is cool. I tried it and it works. It is a bit wonky - but for the most part it works great. The only issue i have with the app is that it doesn&amp;#8217;t have ANY of the content that you upload via email. It is only amazon purchased content. Lame. I read a lot of &amp;#8220;found&amp;#8221; books and a lot of purchased books. An example is a series of books where 2-4 are in the amazon kindle store, but book 1 isn&amp;#8217;t. I find book 1 elsewhere and then buy 2-4. However, I can&amp;#8217;t read book 1 on my iphone. Only the kindle. WHAT IS THE WORLD COMING TO. ;) I understand amazon&amp;#8217;s reasoning for this - and I don&amp;#8217;t expect it to change. I do wish i could push my emailed books into their cloud and handle them a bit better (with metadata, etc). I doubt that will happen.&lt;/p&gt;
 
 &lt;p&gt;If you read a lot and want a great reading experience, you should &lt;a href='http://www.amazon.com/gp/product/B00154JDAI?ie=UTF8&amp;amp;tag=nata2productions&amp;amp;linkCode=as2&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B00154JDAI'&gt;buy a kindle.&lt;/a&gt;&lt;/p&gt;</content>
-
-
-
  </entry>
  
  <entry>
    <title>Python Oauth Client - Excla.im</title>
-   <link href="http://www.nata2.org/2009/03/01/python-oauth-client-exclaim/"/>
-   <updated>2009-03-01T08:04:04+09:00</updated>
-   <id>http://www.nata2.org/2009/03/01/python-oauth-client-exclaim</id>
+   <link href="http://www.nata2.org/2009/02/28/python-oauth-client-exclaim/"/>
+   <updated>2009-02-28T17:04:04-06:00</updated>
+   <id>http://www.nata2.org/2009/02/28/python-oauth-client-exclaim</id>
    <content type="html">&lt;p&gt;I built &lt;a href='http://excla.im'&gt;Excla.im&lt;/a&gt; quite awhile ago, well before &lt;a href='http://twitter.com/harper'&gt;Twitter&lt;/a&gt; unleased their oauth beta program. Regardless, &lt;a href='http://factoryjoe.com/blog/'&gt;Chris Messina&lt;/a&gt; &lt;a href='http://flickr.com/photos/factoryjoe/2841257703/'&gt;tagged the Excla.im sign up process as an anty pattern&lt;/a&gt; within his flickr stream. I was bummed because i would have loved to use Oauth to authenticate Excla.im. But because of the tagging, i was constantly thinking about how to remove the anti pattern.&lt;/p&gt;
 
 &lt;p&gt;Finally, Twitter released the &lt;a href='http://groups.google.com/group/twitter-development-talk/browse_thread/thread/42486bd3d7d136d0/f0e89b742bf0033e?pli=1'&gt;Oauth Beta&lt;/a&gt; and I was able to bribe @&lt;a href='http://al3x.net/'&gt;Al3x&lt;/a&gt; to give me access (which reminds me, i need to send my &lt;a href='http://flickr.com/photos/natatwo/3149040948/'&gt;bribe&lt;/a&gt;). I then sat for a month looking at the various python examples for OAuth and basically said &amp;#8220;What The Fuck&amp;#8221; over and over again. There were no solid examples and my experience with OAuth in PHP was a total hack so i could post shit to fireeagle. I was SOL as to finding a guide.&lt;/p&gt;
@@ -317,16 +311,13 @@
 &lt;p&gt;The client is rather simple, in fact it should work with other api providers with very little work. You can check it out at &lt;a href='http://github.com/harperreed/twitteroauth-python/'&gt;github&lt;/a&gt;. Please let me know feedback. i am a python n00b - so give me your best shot/code review. I am using Google Code as a &lt;a href='http://code.google.com/p/twitteroauth-python/issues/list'&gt;issue tracker&lt;/a&gt;, so feel free to &lt;a href='http://code.google.com/p/twitteroauth-python/issues/entry'&gt;post some bugs&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;It is rather pluggable. I was able to launch excla.im (on app engine) with oauth support in no time. I am currently not holding passwords for anyone. It is an awesome feeling.&lt;/p&gt;</content>
-
-
-
  </entry>
  
  <entry>
    <title>Seven Things (goddamn internet friends)</title>
-   <link href="http://www.nata2.org/2009/01/12/seven-things-goddamn-internet-friends/"/>
-   <updated>2009-01-12T07:05:55+09:00</updated>
-   <id>http://www.nata2.org/2009/01/12/seven-things-goddamn-internet-friends</id>
+   <link href="http://www.nata2.org/2009/01/11/seven-things-goddamn-internet-friends/"/>
+   <updated>2009-01-11T16:05:55-06:00</updated>
+   <id>http://www.nata2.org/2009/01/11/seven-things-goddamn-internet-friends</id>
    <content type="html">&lt;p&gt;I was tagged by both &lt;a href='http://eliw.wordpress.com/2009/01/05/seven-things/'&gt;Eli White&lt;/a&gt; and &lt;a href='http://flinglog.com/text/seven-things/'&gt;Brian Fling&lt;/a&gt; in this dastardly meme regarding 7 things. I am usually a HUGE fan of all things meme - and kind of regard myself as a &lt;a href='http://fukung.net'&gt;certified&lt;/a&gt; meme expert. However this whole meme that requires a lot of work - I.E. blogging is something entirely different. I think i actually like it, but i am not entirely sure yet ;).&lt;/p&gt;
 
 &lt;p&gt;I do find it hilarious that almost every blog post regarding this seven things starts with a bit of self deprecation and surprise at how this meme stumbled upon innocent them. Well, it did come as a surprise - so I guess i understand.&lt;/p&gt;
@@ -367,16 +358,13 @@
 	&lt;li&gt;Let them know they’ve been tagged by leaving a comment on their blogs and/or Twitter&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;There yea have it. I continued the meme. I am not one to be a meme killer ;) This was fun. Thanks to Eli and Brian for making it happen!&lt;/p&gt;</content>
-
-
-
  </entry>
  
  <entry>
    <title>2008 Retrospective</title>
-   <link href="http://www.nata2.org/2009/01/05/2008-retrospectiv/"/>
-   <updated>2009-01-05T11:01:28+09:00</updated>
-   <id>http://www.nata2.org/2009/01/05/2008-retrospectiv</id>
+   <link href="http://www.nata2.org/2009/01/04/2008-retrospectiv/"/>
+   <updated>2009-01-04T20:01:28-06:00</updated>
+   <id>http://www.nata2.org/2009/01/04/2008-retrospectiv</id>
    <content type="html">&lt;p&gt;2008 was a great year.&lt;/p&gt;
 
 &lt;p&gt;A lot of fun things happened. I started speaking more. I started using linux as my desktop. Obama won. I played with XMPP manically. I built some neat applications and Threadless continued to be awesome.&lt;/p&gt;
@@ -402,15 +390,12 @@
 &lt;p&gt;Work was awesome in 2008. We had some large projects that launched a bit rougher than i would have liked, but they turned out awesome. &lt;a href='http://typetees.com'&gt;Typetees.com&lt;/a&gt;, &lt;a href='http://theselectseries.com'&gt;theselectseries.com&lt;/a&gt;, &lt;a href='http://threadlesskids.com'&gt;threadlesskids.com&lt;/a&gt; and the new &lt;a href='http://threadless.com'&gt;threadless.com&lt;/a&gt; are all awesome. The team that worked on them are all amazing. I couldn&amp;#8217;t ask for a better team of technologists, production people, operations people and warehouse people to help make technology at Threadless be awesome.  I can&amp;#8217;t wait to see what is in the pipeline for 2009.&lt;/p&gt;
 
 &lt;p&gt;Seriously - 2008 was a great year. I can&amp;#8217;t wait to see what 2009 brings. I hope more fun, more blog entires, more tweets and more pictures.&lt;/p&gt;</content>
-
-
-
  </entry>
  
  <entry>
    <title>Happy Holidays</title>
    <link href="http://www.nata2.org/2008/12/26/happy-holidays/"/>
-   <updated>2008-12-26T15:31:12+09:00</updated>
+   <updated>2008-12-26T00:31:12-06:00</updated>
    <id>http://www.nata2.org/2008/12/26/happy-holidays</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/natatwo/3119262443/' title='It&amp;apos;s snowing like crazy. by nata2, on Flickr'&gt;&lt;img class='alignright' src='http://farm4.static.flickr.com/3117/3119262443_bf1b6529b3_m.jpg' height='240' align='right' alt='It&amp;apos;s snowing like crazy.' width='180' /&gt;&lt;/a&gt;
 &lt;p&gt;I have been busy. Threadless just ended its &lt;a href='http://www.threadless.com/news/400348/Tees_from_5_at_Threadless_Annual_Holiday_Sale'&gt;annual holiday sale&lt;/a&gt; (went out with a &lt;a href='http://www.threadless.com/news/406990/And_the_final_gift_is_opened_to_reveal'&gt;bang&lt;/a&gt;). &lt;a href='http://hiromiusagi.com'&gt;Hiromi&lt;/a&gt; and I have been busy getting read for our holiday party with my parents on christmas (today!) and i have been hacking on a bunch of stuff in my spare time. Hiromi made an amazing dinner and we ate it. ;) It was a great time. We missed &lt;a href='http://dylanreed.com'&gt;Dylan&lt;/a&gt; and &lt;a href='http://photodork.org/'&gt;Sarah&lt;/a&gt;, but we will hopefully see them soon.&lt;/p&gt;
@@ -418,15 +403,12 @@
 &lt;p&gt;This year has been great thus far and I will attempt to memorialize it in a year end post around the 1st. However, in the meantime I wanted to take a moment and say &amp;#8221;&lt;a href='http://www.threadless.com/product/509/HI'&gt;HI&lt;/a&gt;&amp;#8221; and go ahead and wish everyone a &lt;a href='http://en.wikipedia.org/wiki/Holiday_greetings'&gt;Happy Holidays&lt;/a&gt;. I hope everyone discovered their proper amount of &lt;a href='http://en.wikipedia.org/wiki/Conspicuous_consumption'&gt;conspicuous consumer&lt;/a&gt;. I know that &lt;a href='http://reedbooks.org/'&gt;we&lt;/a&gt; did.&lt;/p&gt;
 
 &lt;p&gt;Although, I certainly don&amp;#8217;t update my blog quite as often as I would like (or my mom would like) - I do update my &lt;a href='http://twitter.com/harper'&gt;twitter status&lt;/a&gt; quite often and post a &lt;a href='http://flickr.com/photos/natatwo'&gt;number of pictures to flickr&lt;/a&gt;. I am hopefully going to start updating this blog a bit more, but in the meantime you are welcome to check out my &lt;a href='http://harperreed.org/activity/'&gt;interweb activity aggregation page&lt;/a&gt; and the &lt;a href='http://feeds.feedburner.com/HarperReedsActivityDigest'&gt;associated RSS feed&lt;/a&gt; (props to &lt;a href='http://derek.broox.com'&gt;broox&lt;/a&gt; who showed me &lt;a href='http://derek.broox.com/today'&gt;his&lt;/a&gt;, which I copied).&lt;/p&gt;</content>
-
-
-
  </entry>
  
  <entry>
    <title>Chicago Transit API</title>
    <link href="http://www.nata2.org/2008/10/06/chicago-transit-api/"/>
-   <updated>2008-10-06T15:20:02+09:00</updated>
+   <updated>2008-10-06T01:20:02-05:00</updated>
    <id>http://www.nata2.org/2008/10/06/chicago-transit-api</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/natatwo/264290817/' title='The goddamn damon bus. seriously by nata2, on Flickr'&gt;&lt;img class='alignright' src='http://farm1.static.flickr.com/87/264290817_f5ccf294d0_m.jpg' height='180' align='right' alt='The goddamn damon bus. seriously' width='240' /&gt;&lt;/a&gt;
 &lt;p&gt;The genesis for this API is some work I did awhile ago reverse engineering the &lt;a href='http://ctabustracker.com/bustime/map/displaymap.jsp'&gt;CTA Bus Tracker mashup&lt;/a&gt;. I was able to expose the endpoints that powered their google maps mashup. In its original state - you can get some pretty awesome functionality and data. I am attempting to clean it up and make it more robust.&lt;/p&gt;
@@ -455,28 +437,6 @@
 &lt;/ul&gt; If you know of any others - let me know. I have a couple projects brewing myself that will hopefully add a shortcode, and a jabber bot for bus notifications and queries. Are there any things yall would like to see? I personally want a really solid native iphone app. It would be awesome to be able to have the iphone pinpoint your location and then tell you what the nearest buses are that are arriving soon. Also - replicating the bus tracker in an easier to use fashion would be excellent.&lt;/p&gt;
 
 &lt;p&gt;All of this API work wouldn&amp;#8217;t have been possible without the help of &lt;a href='http://detour1999.com'&gt;Dylan Richard&lt;/a&gt;, &lt;a href='http://www.derivativeworks.com/'&gt;Dan X O'Neil&lt;/a&gt; and &lt;a href='http://chicagobus.org'&gt;Kevin Zolkiewicz&lt;/a&gt;. The CTA has also been amazingly cool with all of this - I really like those guys.&lt;/p&gt;</content>
-
-
-
- </entry>
- 
- <entry>
-   <title>Release your applications inner API. Please.</title>
-   <link href="http://www.nata2.org/2008/10/06/release-your-applications-inner-api-please/"/>
-   <updated>2008-10-06T14:54:53+09:00</updated>
-   <id>http://www.nata2.org/2008/10/06/release-your-applications-inner-api-please</id>
-   <content type="html">&lt;p&gt;I have recently been involved in talking to a local chicago entity about their unofficial API. It has been fun and deserves a blog entry of its own. However, this is not that blog entry - this blog entry is about mashups and the not so public APIs they often create.&lt;/p&gt;
-
-&lt;p&gt;In the past couple years i have constantly been tearing apart webapps. Either because I wearing my developer hat at work or because i am rocking on something at home. I have always been trying to figure out what goes on behind the scenes and wondering if i coudl use that to do something cool.&lt;/p&gt;
-
-&lt;p&gt;A couple weeks ago i decided to figure out what powered the CTA Bustracker Google Maps mash up and was able to expose the &lt;a href='http://chicago.transitapi.com/'&gt;&quot;hidden&quot; api that powered the mashup&lt;/a&gt;. In a conversation I had with &lt;a href='http://www.juggernautco.com/about.html'&gt;&lt;span style='font-family: Georgia,Times New Roman,Times,serif; font-size: x-small;'&gt;Dan x O'Neil&lt;/span&gt;&lt;/a&gt; about the unofficial API I was able to expose - he asked a question about mashups and APIs. It led me to rant about how there is so much untapped APIs out on the internet currently powering mashups, and other rich internet appliances. These APIs are not documented, are unofficial and will of course change. But think of the data and functionality that could come from all these mashups and startups who are building an API for internal use but could release it and empower their users to build something neat.&lt;/p&gt;
-
-&lt;p&gt;If you have built an application recently that has endpoints that is returning JSON for js frontend work, or is integrating with google maps, or is exposing endpoints for fun - PLEASE, please document it a bit, throw an API link on your site and let some enterprising and bored nerds build something on the thing you made. Don&amp;#8217;t try to imagine how someone would use your endpoints - but expect to be surprised.&lt;/p&gt;
-
-&lt;p&gt;I need to do this with threadless - we built it to be very easy to break down and integrate into other peoples sites (image urls, etc). But, there is a secret API that we should be releasing, documenting and letting people use. Stay tuned.&lt;/p&gt;</content>
-
-
-
  </entry>
  
  
