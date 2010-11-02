@@ -4,7 +4,7 @@
  <title>Harper Reed: Tech, Mobile, Yo-yoing and Death Metal</title>
  <link href="http://www.nata2.org/atom.xml" rel="self"/>
  <link href="http://www.nata2.org"/>
- <updated>2010-09-26T13:17:26-05:00</updated>
+ <updated>2010-11-01T23:11:18-05:00</updated>
  <id>http://www.nata2.org</id>
 
  
@@ -16,9 +16,29 @@
  
  
  <entry>
+   <title>The Tech Cocktail Startup Mixology Conference</title>
+   <link href="http://www.nata2.org/2010/11/01/techcocktail-mixology-conference/"/>
+   <updated>2010-11-01T00:00:00-05:00</updated>
+   <id>http://www.nata2.org/2010/11/01/techcocktail-mixology-conference</id>
+   <content type="html">&lt;p&gt;On October 28th, I had the pleasure of speaking at the Tech Cocktail Startup Mixology Conference. It was a fun quick conference with a set of amazing speakers.&lt;/p&gt;
+
+&lt;p&gt;Below is my talk. I spoke about fostering a community of problem solvers. Here are my &lt;a href='https://docs.google.com/present/view?id=dd3wvxq5_649fzcvqpvz&amp;amp;interval=5&amp;amp;autoStart=true'&gt;slides&lt;/a&gt;.&lt;/p&gt;
+&lt;object height='296' classid='clsid:d27cdb6e-ae6d-11cf-96b8-444553540000' width='480'&gt;
+  &lt;param name='flashvars' value='autoplay=false' /&gt;
+  &lt;param name='allowfullscreen' value='true' /&gt;
+  &lt;param name='allowscriptaccess' value='always' /&gt;
+  &lt;param name='src' value='http://www.ustream.tv/flash/viewer.swf?vid=10471743' /&gt;
+  &lt;embed allowfullscreen='true' src='http://www.ustream.tv/flash/viewer.swf?vid=10471743' allowscriptaccess='always' type='application/x-shockwave-flash' height='296' flashvars='autoplay=false&amp;amp;locale=en_US' width='480' /&gt;
+&lt;/object&gt;
+&lt;p&gt;Would love to know your thoughts.&lt;/p&gt;
+
+&lt;p&gt;I am excited to see Tech Cocktail grow. I have been going to TC for years now. Threadless sponsored the first TC in boulder, we had tables at various TC&amp;#8217;s in Chicago. Scott and I did a really amazing presentation on printers at the first TC conference. It has been awesome. I can&amp;#8217;t wait to see what Frank has in store for TC next.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
    <title>CTA Hacking, Unofficial APIs and Winning a Data Innovation Award</title>
    <link href="http://www.nata2.org/2010/09/25/cta-hacking-unofficial-apis-and-winning-a-data-innovation-award/"/>
-   <updated>2010-09-25T09:45:42-05:00</updated>
+   <updated>2010-09-25T00:00:00-05:00</updated>
    <id>http://www.nata2.org/2010/09/25/cta-hacking-unofficial-apis-and-winning-a-data-innovation-award</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/juggernautco/2913444222/in/photostream/'&gt;&lt;img src='http://farm4.static.flickr.com/3250/2913444222_5f01a20397_m.jpg' align='right' /&gt;&lt;/a&gt;
 &lt;p&gt;For awhile, nobody but us transit nerds paid attention to this api/hack. However, as more and more apps were built and more and more people used those apps - more people started noticing the benefits from the opening of this “api.”&lt;/p&gt;
@@ -39,7 +59,7 @@
  <entry>
    <title>Yes! I am a venture hacks scout! Chicago RPZNT</title>
    <link href="http://www.nata2.org/2010/09/03/yes-i-am-a-venture-hacks-scout/"/>
-   <updated>2010-09-03T03:45:42-05:00</updated>
+   <updated>2010-09-03T00:00:00-05:00</updated>
    <id>http://www.nata2.org/2010/09/03/yes-i-am-a-venture-hacks-scout</id>
    <content type="html">&lt;img src='/images/Peace-Logo.jpg' align='right' width='200' /&gt;
 &lt;p&gt;I am excited to be a part of Venture Hacks helping them find amazing startups for the &lt;a href='http://angel.co'&gt;Angels on the Angellist&lt;/a&gt;. The scout program is going to be a lot of fun and hopefully will allow some great startups to be funded by the amazing angels from the angel list. Check out this &lt;a href='http://gigaom.com/2010/08/31/angellist-designates-scouts-to-refer-new-startup-deals/'&gt;great write up in GigaOm&lt;/a&gt;.&lt;/p&gt;
@@ -56,7 +76,7 @@
  <entry>
    <title>I migrated this blog to Jekyll on App Engine. So long Wordpress. </title>
    <link href="http://www.nata2.org/2010/08/17/jekyl-for-the-win/"/>
-   <updated>2010-08-17T03:24:42-05:00</updated>
+   <updated>2010-08-17T00:00:00-05:00</updated>
    <id>http://www.nata2.org/2010/08/17/jekyl-for-the-win</id>
    <content type="html">&lt;p&gt;I don&amp;#8217;t like to move my blog around. It is super annoying. The RSS feed gets all messed up, I spend months tweaking everything. I find silly bugs and then fascinate about fixing them. All in all it takes months to complete the process. I avoid it like the plague.&lt;/p&gt;
 
@@ -116,7 +136,7 @@
  <entry>
    <title>Smitten by the iPad: thoughts and complaints. </title>
    <link href="http://www.nata2.org/2010/04/05/smitten-by-the-ipad-thoughts-and-complaints/"/>
-   <updated>2010-04-05T00:14:42-05:00</updated>
+   <updated>2010-04-05T00:00:00-05:00</updated>
    <id>http://www.nata2.org/2010/04/05/smitten-by-the-ipad-thoughts-and-complaints</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/natatwo/4488064118/' title='The ipad is awesome by nata2, on Flickr'&gt;&lt;img src='http://farm5.static.flickr.com/4052/4488064118_ea9d770433_m.jpg' height='180' align='right' alt='The ipad is awesome' width='240' /&gt;&lt;/a&gt;
 &lt;p&gt;The iPad is a new and very exciting paradigm for computing. I played with it afternoon and it felt very minority report. It felt like the future. no physical keyboard. I was controlling things with my finger/mind. it was awesome. I am smitten.&lt;/p&gt;
@@ -141,7 +161,7 @@
  <entry>
    <title>Musings about femtocells: the futures!</title>
    <link href="http://www.nata2.org/2010/02/11/musings-about-femtocells-the-futures/"/>
-   <updated>2010-02-11T01:44:15-06:00</updated>
+   <updated>2010-02-11T00:00:00-06:00</updated>
    <id>http://www.nata2.org/2010/02/11/musings-about-femtocells-the-futures</id>
    <content type="html">&lt;blockquote&gt;I wrote most of this entry the day before the earthquake in Haiti. It was motivated by the magicJack announcement and my interest in mobile devices within developing nations.  However, the thoughts in this post suddenly seemed more real after I started hearing reports of communication breakdown after the earthquake.&lt;/blockquote&gt;&lt;strong&gt;The femtocell&lt;/strong&gt;
 &lt;p&gt;At the recent CES, the &lt;a href='http://en.wikipedia.org/wiki/MagicJack'&gt;magicJack company&lt;/a&gt; announced that they wanted to release a consumer grade FemtoCell device as an upgrade to their USB FXO/Softphone device.  Note: magicJack is an insane company. You probably have seen them on television commercials while watching USA &amp;#8216;Up All Night&amp;#8217;.  While these commercials almost seem scam-like, they have apparently sold 5 million USB magicJacks.  That&amp;#8217;s a lot of phone calls!&lt;/p&gt;
@@ -164,7 +184,7 @@
  <entry>
    <title>I love phones designed for developing countries. </title>
    <link href="http://www.nata2.org/2010/01/17/i-love-phones-designed-for-developing-countries/"/>
-   <updated>2010-01-17T19:49:55-06:00</updated>
+   <updated>2010-01-17T00:00:00-06:00</updated>
    <id>http://www.nata2.org/2010/01/17/i-love-phones-designed-for-developing-countries</id>
    <content type="html">&lt;a href='http://www.flickr.com/photos/natatwo/4283555038/' title='Nokia 1100 and Motorola F3 by nata2, on Flickr'&gt;&lt;img src='http://farm5.static.flickr.com/4039/4283555038_a798542c5f_m.jpg' height='218' align='right' alt='Nokia 1100 and Motorola F3' width='240' /&gt;&lt;/a&gt;
 &lt;p&gt;I love mobile phones. I don&amp;#8217;t know why - but mobile devices represent so much of what I love about technology. The ubiquity, the fascination, all the new technology that pops up and all the different way people use their devices. I also feel like mobile devices will be the future of whatever the internet turns out to be. They will power the internet. With all this in mind - I have started to become interested in the devices that fill the opposite niche. The devices that are SO simple that their are almost NO features.&lt;/p&gt;
@@ -403,40 +423,6 @@
 &lt;p&gt;This year has been great thus far and I will attempt to memorialize it in a year end post around the 1st. However, in the meantime I wanted to take a moment and say &amp;#8221;&lt;a href='http://www.threadless.com/product/509/HI'&gt;HI&lt;/a&gt;&amp;#8221; and go ahead and wish everyone a &lt;a href='http://en.wikipedia.org/wiki/Holiday_greetings'&gt;Happy Holidays&lt;/a&gt;. I hope everyone discovered their proper amount of &lt;a href='http://en.wikipedia.org/wiki/Conspicuous_consumption'&gt;conspicuous consumer&lt;/a&gt;. I know that &lt;a href='http://reedbooks.org/'&gt;we&lt;/a&gt; did.&lt;/p&gt;
 
 &lt;p&gt;Although, I certainly don&amp;#8217;t update my blog quite as often as I would like (or my mom would like) - I do update my &lt;a href='http://twitter.com/harper'&gt;twitter status&lt;/a&gt; quite often and post a &lt;a href='http://flickr.com/photos/natatwo'&gt;number of pictures to flickr&lt;/a&gt;. I am hopefully going to start updating this blog a bit more, but in the meantime you are welcome to check out my &lt;a href='http://harperreed.org/activity/'&gt;interweb activity aggregation page&lt;/a&gt; and the &lt;a href='http://feeds.feedburner.com/HarperReedsActivityDigest'&gt;associated RSS feed&lt;/a&gt; (props to &lt;a href='http://derek.broox.com'&gt;broox&lt;/a&gt; who showed me &lt;a href='http://derek.broox.com/today'&gt;his&lt;/a&gt;, which I copied).&lt;/p&gt;</content>
- </entry>
- 
- <entry>
-   <title>Chicago Transit API</title>
-   <link href="http://www.nata2.org/2008/10/06/chicago-transit-api/"/>
-   <updated>2008-10-06T01:20:02-05:00</updated>
-   <id>http://www.nata2.org/2008/10/06/chicago-transit-api</id>
-   <content type="html">&lt;a href='http://www.flickr.com/photos/natatwo/264290817/' title='The goddamn damon bus. seriously by nata2, on Flickr'&gt;&lt;img class='alignright' src='http://farm1.static.flickr.com/87/264290817_f5ccf294d0_m.jpg' height='180' align='right' alt='The goddamn damon bus. seriously' width='240' /&gt;&lt;/a&gt;
-&lt;p&gt;The genesis for this API is some work I did awhile ago reverse engineering the &lt;a href='http://ctabustracker.com/bustime/map/displaymap.jsp'&gt;CTA Bus Tracker mashup&lt;/a&gt;. I was able to expose the endpoints that powered their google maps mashup. In its original state - you can get some pretty awesome functionality and data. I am attempting to clean it up and make it more robust.&lt;/p&gt;
-
-&lt;p&gt;The native endpoints thus far are: &lt;ul&gt;
-	&lt;li&gt;&lt;a href='http://chicago.transitapi.com/bustime/map/getRoutePoints.jsp?route=49'&gt;getRoutePoints&lt;/a&gt;: Returns latitude/longitude, stop IDs, and stop names for bus stops along a particular route.&lt;/li&gt;
-	&lt;li&gt;&lt;a href='http://chicago.transitapi.com/bustime/map/getPatternPoints.jsp?route=20&amp;amp;pattern=959'&gt;getPatternPoints&lt;/a&gt;:&lt;/li&gt;
-	&lt;li&gt;&lt;a href='http://chicago.transitapi.com/bustime/map/getStopPredictions.jsp?stop=8207&amp;amp;route=49'&gt;getStopPredictions&lt;/a&gt;: Gets stop predictions. Timing and whatnot.&lt;/li&gt;
-	&lt;li&gt;&lt;a href='http://chicago.transitapi.com/bustime/map/getBusPredictions.jsp?bus=6654'&gt;getBusPredictions&lt;/a&gt;: Returns arrival predictions for a particular bus.&lt;/li&gt;
-	&lt;li&gt;&lt;a href='http://chicago.transitapi.com/bustime/map/getBusesForRoute.jsp?route=49'&gt;getBusesForRoute&lt;/a&gt;: Gets buses for specific route&lt;/li&gt;
-	&lt;li&gt;&lt;a href='http://chicago.transitapi.com/bustime/map/getBusesForRouteAll.jsp'&gt;getBusesForRouteAll&lt;/a&gt;: Gets information about every bus in the system.&lt;/li&gt;
-	&lt;li&gt;&lt;a href='http://chicago.transitapi.com/bustime/map/schedules.jsp?agency=1&amp;amp;route=92'&gt;Schedule&lt;/a&gt;: Download the Schedule (pdf! w00t)&lt;/li&gt;
-	&lt;li&gt;&lt;a href='http://chicago.transitapi.com/bustime/map/getTimeAndTemp.jsp'&gt;getTimeAndTemp&lt;/a&gt;: Outputs the current time and temp&lt;/li&gt;
-&lt;/ul&gt; I have created a proxy for the endpoints that will do some caching and hopefully alleviate any crazy load the CTA servers would have if this API becomes popular.&lt;/p&gt;
-
-&lt;p&gt;I also did some work to push the UPOC alerts from the CTA riders community into a usable form. That endpoint is the first of hopefully many that can be used to grab real time information about the CTA. You can access it at: &lt;ul&gt;
-	&lt;li&gt;&lt;a href='http://chicago.transitapi.com/api/alerts/upoc/latest/'&gt;Community Upoc alerts&lt;/a&gt;: Outputs the last alert sent from the UPOC group&lt;/li&gt;
-&lt;/ul&gt; Dan X O&amp;#8217;Neil and myself hacked these alerts into the &lt;a href='http://twitter.com/ctatweet'&gt;CTA Tweet bot&lt;/a&gt; that sends CTA updates via twitter. Pretty neat.&lt;/p&gt;
-
-&lt;p&gt;Moving forward with the API, I want to do a couple key things. The first is to return JSON instead of that terrible XML. The second is to create a couple endpoints that will help with finding the right bus at the right location. I am always looking for help with this stuff - so if you have any ideas - please let me know in the comments.&lt;/p&gt;
-
-&lt;p&gt;So far, there are not a whole lot of applications using this API. The only ones I have thus far are: &lt;ul&gt;
-	&lt;li&gt;&lt;a href='http://commuting.in/chicago/about'&gt;Commuting.in Chicago&lt;/a&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;a href='http://txtful.com/template.html?templateId=1368034'&gt;txtful bus alerts&lt;/a&gt;&lt;/li&gt;
-	&lt;li&gt;&lt;a href='http://businfo.chicagobus.org/'&gt;ChicagoBus.org Bus Finder&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt; If you know of any others - let me know. I have a couple projects brewing myself that will hopefully add a shortcode, and a jabber bot for bus notifications and queries. Are there any things yall would like to see? I personally want a really solid native iphone app. It would be awesome to be able to have the iphone pinpoint your location and then tell you what the nearest buses are that are arriving soon. Also - replicating the bus tracker in an easier to use fashion would be excellent.&lt;/p&gt;
-
-&lt;p&gt;All of this API work wouldn&amp;#8217;t have been possible without the help of &lt;a href='http://detour1999.com'&gt;Dylan Richard&lt;/a&gt;, &lt;a href='http://www.derivativeworks.com/'&gt;Dan X O'Neil&lt;/a&gt; and &lt;a href='http://chicagobus.org'&gt;Kevin Zolkiewicz&lt;/a&gt;. The CTA has also been amazingly cool with all of this - I really like those guys.&lt;/p&gt;</content>
  </entry>
  
  

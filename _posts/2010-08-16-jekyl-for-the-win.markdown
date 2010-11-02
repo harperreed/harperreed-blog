@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: "I migrated this blog to Jekyll on App Engine. So long Wordpress. "
-date: 2010-08-17 02:24:42 -06:00
+date: 2010-08-17
 --- 
 I don't like to move my blog around. It is super annoying. The RSS feed gets all messed up, I spend months tweaking everything. I find silly bugs and then fascinate about fixing them. All in all it takes months to complete the process. I avoid it like the plague. 
 

@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: "CTA Hacking, Unofficial APIs and Winning a Data Innovation Award"
-date: 2010-09-25 08:45:42 -06:00
+date: 2010-09-25
 --- 
 <a href="http://www.flickr.com/photos/juggernautco/2913444222/in/photostream/"><img align="right" src="http://farm4.static.flickr.com/3250/2913444222_5f01a20397_m.jpg"></a>Back in 2008 I hacked an [unofficial api](http://www.nata2.org/2008/10/06/chicago-transit-api/) together from the exposed endpoints of the CTA’s bustracker application. This spawned a bunch of CTA applications in the [iOS app store](http://arstechnica.com/apple/reviews/2009/04/iphone-app-showdown-battle-of-the-cta-bus-trackers.ars), the [android app store](http://www.google.com/search?q=chicago+transit+authority+android) and created a really neat [ecosystem](http://www.transitchicago.com/apps/) of [CTA hackers](http://groups.google.com/group/transitapi). 
 

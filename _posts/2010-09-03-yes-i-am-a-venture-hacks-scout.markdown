@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: "Yes! I am a venture hacks scout! Chicago RPZNT"
-date: 2010-09-03 02:45:42 -06:00
+date: 2010-09-03
 --- 
 
 <img src="/images/Peace-Logo.jpg" align="right" width="200"/>
