@@ -3,8 +3,9 @@ layout: post
 title: "Lincoln Square Retrospective"
 date: 2010-08-24 00:46:42 -06:00
 --- 
+I meant to post this months ago. hah. For some reason, it didn't make it to the published queue. I was reminded about this post by a friend of mine who recently moved to Lincoln Square. I mentioned most of the places in this list and decided - heck with it - I will go ahead and publish this list. 
 
-Recently Hiromi and I moved from Lincoln Square to Wicker Park. We have wanted to live in Wicker Park for many years and since we have nothing keeping us in Lincoln Square - we decided to go ahead and move. 
+A couple months ago, Hiromi and I moved from Lincoln Square to Wicker Park. We had wanted to live in Wicker Park for many years and since we have nothing keeping us in Lincoln Square - we decided to go ahead and move. 
 
 Lincoln Square was awesome. 
 
@@ -28,5 +29,5 @@ I wanted to take a minute to chronicle the places we went to a bunch and the pla
 * [Cho Sun Ok](http://chosunokrestaurant.com/) - The insane people who went here took ALL of our parking spots, always. But for good reason. this is a great korean place.
 * [Davis Theatre](http://www.google.com/movies?hl=en&near=Chicago&dq=davis+theatre&theater=davis) - It is like a grindhouse theatre mixed with yuppies. A great place to see a cheap movie. 
 
-I will miss all of those places. However, I am super excited to hang out in Wicker Park more and to participate in this hood. I already know half of the neighborhood (apparently) so it should be fun.
+
 
