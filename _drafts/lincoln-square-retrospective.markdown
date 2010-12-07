@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: "Lincoln Square Retrospective"
-date: 2010-08-24 00:46:42 -06:00
+date: 2010-12-6
 --- 
 I meant to post this months ago. hah. For some reason, it didn't quite make it live. Then a couple days ago, I was talking to a friend about his recent move to Lincoln Square. We spent some time talking about great places to go eat and hang out, and I remembered this post. I thought I would get it up and out there. 
 
