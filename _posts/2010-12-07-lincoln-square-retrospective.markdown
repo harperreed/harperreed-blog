@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: "Lincoln Square Retrospective"
-date: 2010-12-6
+date: 2010-12-07
 --- 
 I meant to post this months ago. hah. For some reason, it didn't quite make it live. Then a couple days ago, I was talking to a friend about his recent move to Lincoln Square. We spent some time talking about great places to go eat and hang out, and I remembered this post. I thought I would get it up and out there. 
 
@@ -28,5 +28,7 @@ I wanted to take a minute to chronicle the places we went to a bunch and the pla
 * [First Slice cafe](http://www.firstslice.org/) - another great lunch spot. Out of the way. tasty and nice. 
 * [Cho Sun Ok](http://chosunokrestaurant.com/) - The insane people who went here took ALL of our parking spots, always. But for good reason. this is a great korean place.
 * [Davis Theatre](http://www.google.com/movies?hl=en&near=Chicago&dq=davis+theatre&theater=davis) - It is like a grindhouse theatre mixed with yuppies. A great place to see a cheap movie. 
+
+I imagine I missed a bunch of great places. If you have any favs, leave them in the comments. 
 
 I really like Lincoln Square. I think we would live there again. 
