@@ -1,0 +1,44 @@
+handlers:
+- url: '/'
+  static_files: '/index.html'
+  upload: '/.*'
+
+- url: '/404.html'
+  static_files: '/404/index.html'
+  upload: '/.*'
+
+- url: '/.well-known/host-meta'
+  static_files: '/webfinger.well-known.host-meta.xml'
+  upload: '/.*'
+
+
+- url: '/feed/.*'
+  static_files: '/atom.xml'
+  upload: '/.*'
+
+
+- url: '/([^/]+)'
+  static_files: '/\1'
+  upload: '/.*'
+
+- url: '/(.*?)/(.*?)/(.*?)/(.*?)/?'
+  static_files: '//\1/\2/\3/\4/index.html'
+  upload: '/.*'
+
+- url: '/(.*?)/(.*?)/(.*?)/'
+  static_files: '/\1/\2/\3/index.html'
+  upload: '/.*'
+
+
+- url: '/(.*?)/(.*?)/'
+  static_files: '/\1/\2/index.html'
+  upload: '/.*'
+
+- url: '/([^/]+)/'
+  static_files: '/\1/index.html'
+  upload: '/.*'
+
+
+- url: '/(.*)/(.*)'
+  static_files: '/\1/\2'
+  upload: '/.*'
