@@ -50,54 +50,51 @@
 <!-- post content -->
 <div class="PostContent">
 <!-- content -->
-<p>I don&#8217;t like to move my blog around. It is super annoying. The RSS feed gets all messed up, I spend months tweaking everything. I find silly bugs and then fascinate about fixing them. All in all it takes months to complete the process. I avoid it like the plague.</p>
+<p>I don't like to move my blog around. It is super annoying. The RSS feed gets all messed up, I spend months tweaking everything. I find silly bugs and then fascinate about fixing them. All in all it takes months to complete the process. I avoid it like the plague.</p>
 
 <p>However, I really wanted something simpler than wordpress. I didn’t need a CMS. I barely need a blogging engine. I update so infrequently. I want something that creates well formed html (hah), static content and is easy to use.</p>
 
-<p>I started looking into hosting this blog on Google’s app engine awhile ago. I looked into <a href='http://bloog.billkatz.com/' title='Bloog'>Bloog</a> - an awesome restful bloggin engine for app engine. It was very hopeful. i spent a bunch of time hacking on it and eventually ported my theme over. I didn’t feel it though. it worked well. it had all the features i wanted. It even used a bunch of neat app engine tricks. I gave up on using it for my blog. It just wasn’t the correct choice.</p>
+<p>I started looking into hosting this blog on Google’s app engine awhile ago. I looked into <a href="http://bloog.billkatz.com/" title="Bloog">Bloog</a> - an awesome restful bloggin engine for app engine. It was very hopeful. i spent a bunch of time hacking on it and eventually ported my theme over. I didn’t feel it though. it worked well. it had all the features i wanted. It even used a bunch of neat app engine tricks. I gave up on using it for my blog. It just wasn’t the correct choice.</p>
 
-<p>During this time, I watched most of my hackerish friends start to use Jekyll to power their blogs (or write and then use <a href='http://github.com/aconbere/igor' title='igor'>igor</a> as <a href='http://anders.conbere.org/'>anders</a> did (protip: do not search for “anders jekyll” in google)). I admired the simplicity of the jekyll engine. It was so easy and fun to use. I wanted to use it for my blog - but it didn’t play as nicely with app engine as i had hoped.</p>
+<p>During this time, I watched most of my hackerish friends start to use Jekyll to power their blogs (or write and then use <a href="http://github.com/aconbere/igor" title="igor">igor</a> as <a href="http://anders.conbere.org/">anders</a> did (protip: do not search for “anders jekyll” in google)). I admired the simplicity of the jekyll engine. It was so easy and fun to use. I wanted to use it for my blog - but it didn’t play as nicely with app engine as i had hoped.</p>
 
 <p>I then found Drydrop.</p>
 
-<p>DryDrop is a neat application for app engine that let’s you host static content. In my current phase of life, I really hate managing servers. It is fun and all - but if i don’t have to - i am not going to. ;) Instead, I try and use platform as a service services(<a href='http://en.wikipedia.org/wiki/RAS_syndrome'>heh</a>) to minimize the number of servers that I touch on a daily basis (my current server number is 4 (I secretly want it to grow back to 100+)). DryDrop was a nice solution for my server hatred. It allowed me to serve simple static content on app engine. I immediately ported a bunch of my static sites over to app engine: <a href='http://www.harpercloud.com/'>harpercloud.com</a>, <a href='http://www.biofuelmenace.com/'>biofuelmenace.com</a>, <a href='http://weownthesun.com'>weownthesun.com</a> and of course <a href='http://www.ryankanno.com'>ryankanno.com</a>.</p>
+<p>DryDrop is a neat application for app engine that let’s you host static content. In my current phase of life, I really hate managing servers. It is fun and all - but if i don’t have to - i am not going to. ;) Instead, I try and use platform as a service services(<a href="http://en.wikipedia.org/wiki/RAS_syndrome">heh</a>) to minimize the number of servers that I touch on a daily basis (my current server number is 4 (I secretly want it to grow back to 100+)). DryDrop was a nice solution for my server hatred. It allowed me to serve simple static content on app engine. I immediately ported a bunch of my static sites over to app engine: <a href="http://www.harpercloud.com/">harpercloud.com</a>, <a href="http://www.biofuelmenace.com/">biofuelmenace.com</a>, <a href="http://weownthesun.com">weownthesun.com</a> and of course <a href="http://www.ryankanno.com">ryankanno.com</a>.</p>
 
 <p>After a few weeks with these sites on app engine - I decided that it was probably the right place to put my precious blog.</p>
 
-<p><a href='http://github.com/mojombo/jekyll/'>Jekyll</a> is an interesting beast. It is exactly as the wiki proclaims: <a href='http://wiki.github.com/mojombo/jekyll/'>a simple, blog aware, static site generator</a>. It has no features (well. a couple), it has no built in community aspects (no commenting, trackbacks, reactions, etc). It doesn’t have any admin. it is just a static site generator that is geared for blog like sites. It works amazingly.</p>
+<p><a href="http://github.com/mojombo/jekyll/">Jekyll</a> is an interesting beast. It is exactly as the wiki proclaims: <a href="http://wiki.github.com/mojombo/jekyll/">a simple, blog aware, static site generator</a>. It has no features (well. a couple), it has no built in community aspects (no commenting, trackbacks, reactions, etc). It doesn’t have any admin. it is just a static site generator that is geared for blog like sites. It works amazingly.</p>
 
-<p>The first thing I did was port my theme over to Jekyll. You can check this out at my <a href='http://github.com/harperreed/harperreed-blog'>blogs git repository</a>. It was a pain in the ass, but i was able to clean up a bunch of annoying HTML issues that i had from changing shit all the time. I still need to refactor it a bunch.</p>
+<p>The first thing I did was port my theme over to Jekyll. You can check this out at my <a href="http://github.com/harperreed/harperreed-blog">blogs git repository</a>. It was a pain in the ass, but i was able to clean up a bunch of annoying HTML issues that i had from changing shit all the time. I still need to refactor it a bunch.</p>
 
 <p>Once the theme was done, I started working on the content. This is the biggest issue. I have a bunch of content. Like 1000s of posts. Jekyll is not necessarily the quickest of generators when you have thousands of posts. Luckily I was able to do some simple tricks to ensure that the old posts work and the new posts work as well. Its honestly pretty annoying and i need to solve this better.</p>
 
-<p>A couple hints for hosting Jekyll on App Engine with DryDrop:</p>
+<p>A couple hints for hosting Jekyll on App Engine with DryDrop:
+* check out <a href="http://thelab.carlsverre.com/2010/02/09/static-hosting">this post</a> by <a href="http://www.carlsverre.com/">Carl Sverre</a> on tweaking the site.yaml file for drydrop to handle the pretty permalinks
+* the wordpress migration script that jekyll uses is pretty nice. i <a href="http://github.com/harperreed/harperreed-blog/blob/master/_import/wordpress.rb">hacked mine to export tags and datetime</a> as well.
+* there are hundreds of blog posts just like this one. they all have great hints
+* if you get stuck, just check out the <a href="http://wiki.github.com/mojombo/jekyll/sites">list of sites that are using jekyll</a>. Often they have source on github. you can glean all sorts of goodness from them.</p>
 
-<ul>
-<li>check out <a href='http://thelab.carlsverre.com/2010/02/09/static-hosting'>this post</a> by <a href='http://www.carlsverre.com/'>Carl Sverre</a> on tweaking the site.yaml file for drydrop to handle the pretty permalinks</li>
+<p><strong>It is a bummer to leave wordpress. </strong></p>
 
-<li>the wordpress migration script that jekyll uses is pretty nice. i <a href='http://github.com/harperreed/harperreed-blog/blob/master/_import/wordpress.rb'>hacked mine to export tags and datetime</a> as well.</li>
+<p>I have been on wordpress since early 2005. I think that is the longest I have stayed with 1 piece of software. I really enjoy the <a href="http://wordpress.org/support/">wordpress community</a>. I really like <a href="http://ma.tt/">matt</a> and all he has done for open source and the internet. I like the <a href="http://drewblas.com/2010/07/15/an-analysis-of-gpled-code-in-thesis/">fights they pick</a> and i enjoy the <a href="http://buddypress.org/">innovations they are bringing to blogging</a>. I don’t like having to <a href="http://www.google.com/search?q=wordpress+exploit">fight hackers</a> off every single day. If there was one reason i am abandoning wordpress it is because of the hackers.</p>
 
-<li>there are hundreds of blog posts just like this one. they all have great hints</li>
+<p>I hosted about 25 wordpress blogs on my mosso account for various friends. I kept most of them up to date, but a lot of them were for friends and were not under my control. 100% of them got owned. hah. It was just something they did. no matter how fast or often i updated the wordpress software - it would be owned at least one time. My personal blog was safe for some reason. Maybe it was because I always ran the bleeding edge version from SVN. I will not miss the constant updates and the attacks.  The wordpress community does a good job of handling this issue. I, however, was tired of it.</p>
 
-<li>if you get stuck, just check out the <a href='http://wiki.github.com/mojombo/jekyll/sites'>list of sites that are using jekyll</a>. Often they have source on github. you can glean all sorts of goodness from them.</li>
-</ul>
+<p>I migrated at least 22 of the 25 hosted blogs to <a href="http://wordpress.com">wordpress.com</a> or <a href="http://posterous.com">posterous</a>. I killed all the unused wordpress installs. No more hackers getting in through plugins, themes or trickery.</p>
 
-<p><strong>It is a bummer to leave wordpress.</strong></p>
+<p>If i were to use wordpress again, I would either use <a href="http://wordpress.com">wordpress.com</a> or <a href="http://vaultpress.com/">vaultpress</a>. Both of those products seem to solve my problems. Right now, however, jekyll has pretty thoroughly solved them.</p>
 
-<p>I have been on wordpress since early 2005. I think that is the longest I have stayed with 1 piece of software. I really enjoy the <a href='http://wordpress.org/support/'>wordpress community</a>. I really like <a href='http://ma.tt/'>matt</a> and all he has done for open source and the internet. I like the <a href='http://drewblas.com/2010/07/15/an-analysis-of-gpled-code-in-thesis/'>fights they pick</a> and i enjoy the <a href='http://buddypress.org/'>innovations they are bringing to blogging</a>. I don’t like having to <a href='http://www.google.com/search?q=wordpress+exploit'>fight hackers</a> off every single day. If there was one reason i am abandoning wordpress it is because of the hackers.</p>
+<p>I can’t wait to start updating this blog a bit more often. I don’t know if i will write like i did in <a href="/2003/">2003</a>/<a href="/2004/">2004</a> - but i plan to update it a bit more than i did in <a href="/2009/">2009</a>. We shall see ;)</p>
 
-<p>I hosted about 25 wordpress blogs on my mosso account for various friends. I kept most of them up to date, but a lot of them were for friends and were not under my control. 100% of them got owned. hah. It was just something they did. no matter how fast or often i updated the wordpress software - it would be owned at least one time. My personal blog was safe for some reason. Maybe it was because I always ran the bleeding edge version from SVN. I will not miss the constant updates and the attacks. The wordpress community does a good job of handling this issue. I, however, was tired of it.</p>
-
-<p>I migrated at least 22 of the 25 hosted blogs to <a href='http://wordpress.com'>wordpress.com</a> or <a href='http://posterous.com'>posterous</a>. I killed all the unused wordpress installs. No more hackers getting in through plugins, themes or trickery.</p>
-
-<p>If i were to use wordpress again, I would either use <a href='http://wordpress.com'>wordpress.com</a> or <a href='http://vaultpress.com/'>vaultpress</a>. Both of those products seem to solve my problems. Right now, however, jekyll has pretty thoroughly solved them.</p>
-
-<p>I can’t wait to start updating this blog a bit more often. I don’t know if i will write like i did in <a href='/2003/'>2003</a>/<a href='/2004/'>2004</a> - but i plan to update it a bit more than i did in <a href='/2009/'>2009</a>. We shall see ;)</p>
 <!-- end content -->
 <!-- related posts -->
 <div class="RelatedPosts"> 
 <h3>Related Posts</h3> 
 <ul>
+
+<li><a href="/2010/08/17/jekyl-for-the-win/">I migrated this blog to Jekyll on App Engine. So long Wordpress. </a></li>
 
 <li><a href="/2009/12/09/2009-hosting-summary-or-where-does-harper-host-in-20092010/">2009 Hosting Summary (or where does Harper host in 2009/2010)</a></li>
 
@@ -106,8 +103,6 @@
 <li><a href="/2009/03/08/my-thoughts-on-the-kindle/">My thoughts on the kindle: 1 vs 2 and the iphone app</a></li>
 
 <li><a href="/2008/03/02/awesome-hosting-options/">Awesome hosting options</a></li>
-
-<li><a href="/2009/01/04/2008-retrospectiv/">2008 Retrospective</a></li>
 
 </ul>
 </div> 
@@ -157,52 +152,6 @@ function h(){if(b.ActiveXObject&&b.XMLHttpRequest){return false}return true};
     </div> 
 </div> 
 
-          <div class="Links"> 
-   <h2><strong>Friends</strong></h2> 
-    <ul> 
-     <li><a href="http://www.holovaty.com/">Adrian Holovaty</a></li> 
-<li><a href="http://www.cs.cmu.edu/~acarlson" rel="friend met">Andrew Carlson</a></li> 
-<li><a href="http://atkinx.com" rel="friend met colleague">Atkins Meyer</a></li> 
-<li><a href="http://www.red-bean.com/sussman/">Ben Collins-Sussman</a></li> 
-<li><a href="http://www.benseese.com/" rel="friend met">Ben Seese</a></li> 
-<li><a href="http://www.bdog.org" rel="acquaintance met">Bernie Selvey</a></li> 
-<li><a href="http://www.adita.org/" rel="friend met neighbor">Bradley Adita</a></li> 
-<li><a href="http://www.red-bean.com/fitz/">Brian Fitzpatrick</a></li> 
-<li><a href="http://chriskalani.com/">Chris Kalani</a></li> 
-<li><a href="http://weblog.lonelylion.com/" rel="friend met colleague">Chris McAvoy</a></li> 
-<li><a href="http://colepierce.com/" rel="friend met neighbor">Cole Pierce</a></li> 
-<li><a href="http://derek.broox.com" rel="friend met">Derek Broox</a></li> 
-<li><a href="http://www.dylanreed.com/" rel="friend met sibling">Dylan Reed</a></li> 
-<li><a href="http://edithfrost.com/" rel="acquaintance">Edith Frost</a></li> 
-<li><a href="http://elainepark.com" rel="friend met crush">Elaine Park</a></li> 
-<li><a href="http://pzmahiru.pixnet.net/blog" rel="friend">Ella Pan</a></li> 
-<li><a href="http://gburt.blogspot.com/">Gabriel Burt</a></li> 
-<li><a href="http://www.probonobaker.com" rel="friend met crush">Gemma Petrie</a></li> 
-<li><a href="http://www.hirominakazawa.com" rel="friend spouse sweetheart">Hiromi Nakazawa</a></li> 
-<li><a href="http://www.jacobdehart.com" rel="friend met co-worker" target="_blank">Jacob Dehart</a></li> 
-<li><a href="http://www.jakenickell.com" rel="friend met co-worker">Jake Nickell</a></li> 
-<li><a href="http://www.callmejeffrey.com" rel="friend met co-worker">Jeffrey Kalmikoff</a></li> 
-<li><a href="http://www.beardofbees.com/">Joe Trowbridge</a></li> 
-<li><a href="http://www.blight.com/~superfly" rel="friend met">John Jaeger</a></li> 
-<li><a href="http://www.in5anity.org" rel="friend met sibling">Jon Ruth</a></li> 
-<li><a href="http://lakshvivek.com/" rel="friend met">Lakshmi Nagarajan</a></li> 
-<li><a href="http://www.markhayward.net" rel="friend met">Mark Hayward</a></li> 
-<li><a href="http://www.therats.org" rel="friend met">Matiss Duhon</a></li> 
-<li><a href="http://ghostco.org" rel="friend met">Matthew Woodson</a></li> 
-<li><a href="http://www.mikecompton.org" rel="friend met">Mike Compton</a></li> 
-<li><a href="http://proxientunit.com" rel="friend met">Mike McNeil</a></li> 
-<li><a href="http://www.biblicone.com/" rel="friend met">Mike Standeven</a></li> 
-<li><a href="http://www.mimiblume.com" rel="friend met crush">Miriam Meier</a></li> 
-<li><a href="http://morganbreaksthings.blogspot.com/" rel="friend met crush">Morgan Thoryk</a></li> 
-<li><a href="http://blog.localkinegrinds.com/" rel="friend met">Ryan Kanno</a></li> 
-<li><a href="http://moxievanilla.blogspot.com/" rel="friend met">Sarah Bright</a></li> 
-<li><a href="http://photodork.org" rel="friend met">Sarah Reed</a></li> 
-<li><a href="http://scottvdp.com/">Scott Van Den Plas</a></li> 
-<li><a href="http://thom.watership.org" rel="friend met">Thom Parks</a></li> 
-<li><a href="http://www.w36.com" rel="friend met">Tim Gunnerson</a></li> 
-    </ul> 
-   </div> 
-
     </div> 
     <div class="SRR"> 
         <script type="text/javascript" src="http://www.google.com/jsapi"></script>
@@ -217,7 +166,7 @@ function h(){if(b.ActiveXObject&&b.XMLHttpRequest){return false}return true};
 </script>
 
  <div class="Search"> 
-            <h2>search</h2> 
+            <h2>Search</h2> 
             <form action="/search/" id="cse-search-box">
               <div>
                 <input type="hidden" name="cx" value="005257232071038103009:chkzt6rraoc" />
@@ -244,10 +193,6 @@ function h(){if(b.ActiveXObject&&b.XMLHttpRequest){return false}return true};
 </div> 
 
 
-        <script type="text/javascript" src="http://www.google.com/reader/ui/publisher.js"></script> 
-<script type="text/javascript" src="http://www.google.com/reader/public/javascript/user/18273797402131469936/state/com.google/broadcast?n=15&callback=GRC_p(%7Bc%3A'-'%2Ct%3A'Recently%20read%20on%20google%20reader'%2Cs%3A'false'%7D)%3Bnew%20GRC"></script> 
-
-
  </div> 
 </div> 
 <div class="clear"></div> 
@@ -260,78 +205,7 @@ function h(){if(b.ActiveXObject&&b.XMLHttpRequest){return false}return true};
 <!-- container END -->
 </div> 
 <!-- containerBG END -->
-<!-- ExtraBG Start -->
-<div class="ExtraBG">
-<!-- Extra Start -->
-<div class="Extra">
- <!-- RecentPosts Start -->
-            <div class="RecentPosts">
-                <h3>Recent Entries</h3>
-                <div id="recententries" class="dsq-widget">
-                <ul>
-                  
-                    <li>
-                      Dec 07, 2010 &mdash; <a href="/2010/12/07/lincoln-square-retrospective/">Lincoln Square Retrospective</a>
-                    </li>
-                  
-                    <li>
-                      Nov 01, 2010 &mdash; <a href="/2010/11/01/techcocktail-mixology-conference/">The Tech Cocktail Startup Mixology Conference</a>
-                    </li>
-                  
-                    <li>
-                      Sep 25, 2010 &mdash; <a href="/2010/09/25/cta-hacking-unofficial-apis-and-winning-a-data-innovation-award/">CTA Hacking, Unofficial APIs and Winning a Data Innovation Award</a>
-                    </li>
-                  
-                    <li>
-                      Sep 03, 2010 &mdash; <a href="/2010/09/03/yes-i-am-a-venture-hacks-scout/">Yes! I am a venture hacks scout! Chicago RPZNT</a>
-                    </li>
-                  
-                    <li>
-                      Aug 17, 2010 &mdash; <a href="/2010/08/17/jekyl-for-the-win/">I migrated this blog to Jekyll on App Engine. So long Wordpress. </a>
-                    </li>
-                  
-                    <li>
-                      Aug 12, 2010 &mdash; <a href="/2010/08/12/if-you-see-this/">If you see this, this blog is hosted on app engine</a>
-                    </li>
-                  
-                    <li>
-                      Apr 05, 2010 &mdash; <a href="/2010/04/05/smitten-by-the-ipad-thoughts-and-complaints/">Smitten by the iPad: thoughts and complaints. </a>
-                    </li>
-                  
-                    <li>
-                      Feb 11, 2010 &mdash; <a href="/2010/02/11/musings-about-femtocells-the-futures/">Musings about femtocells: the futures!</a>
-                    </li>
-                  
-                    <li>
-                      Jan 17, 2010 &mdash; <a href="/2010/01/17/i-love-phones-designed-for-developing-countries/">I love phones designed for developing countries. </a>
-                    </li>
-                  
-                    <li>
-                      Dec 09, 2009 &mdash; <a href="/2009/12/09/2009-hosting-summary-or-where-does-harper-host-in-20092010/">2009 Hosting Summary (or where does Harper host in 2009/2010)</a>
-                    </li>
-                  
-                  </ul>
-              </div>
-                
-            </div>
-            <!-- RecentPosts END -->
 
-            <!-- LastComments Start -->
-            <div class="LastComments">
-                <div id="recentcomments" class="dsq-widget"><h3 class="dsq-widget-title">Recent Comments</h3><script type="text/javascript" src="http://disqus.com/forums/nata2/recent_comments_widget.js?num_items=5&hide_avatars=1&avatar_size=32&excerpt_length=100"></script></div>
-            </div>
-            <!-- LastComments END -->
-
-            <!-- MostCommented Start -->
-            <div class="MostCommented">
-                <div id="popularthreads" class="dsq-widget"><h3 class="dsq-widget-title">Popular Threads</h3><script type="text/javascript" src="http://disqus.com/forums/nata2/popular_threads_widget.js?num_items=5"></script></div>
-            </div>
-            <!-- MostCommented END -->
- 
-</div>
-<!-- Extra END -->
-</div>
-<!-- ExtraBG END -->
 <div class="FooterBG">
 <div class="Footer">
 <p><a href="/">Nata2.org</a> is &copy; 1997-2010 <a href="http://www.harperreed.org/contact/">Harper Reed</a>. Powered by <a href="http://jekyllrb.com/">Jekyll</a>.</p>
@@ -354,19 +228,19 @@ pageTracker._trackPageview();
 </script>
  
 
-<script type="text/javascript" src="http://twitter.com/statuses/user_timeline/harper.json?callback=twitterCallback2&amp;count=5"></script>
+<script type="text/javascript" src="http://twitter.com/statuses/user_timeline/harper.json?callback=twitterCallback2&amp;count=8"></script>
 
 <script type="text/javascript">
 //<![CDATA[
 (function() {
-	var links = document.getElementsByTagName('a');
-	var query = '?';
-	for(var i = 0; i < links.length; i++) {
-	if(links[i].href.indexOf('#disqus_thread') >= 0) {
-		query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
-	}
-	}
-	document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/nata2/get_num_replies.js' + query + '"></' + 'script>');
+    var links = document.getElementsByTagName('a');
+    var query = '?';
+    for(var i = 0; i < links.length; i++) {
+    if(links[i].href.indexOf('#disqus_thread') >= 0) {
+        query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
+    }
+    }
+    document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/nata2/get_num_replies.js' + query + '"></' + 'script>');
 })();
 //]]>
 </script>

@@ -50,30 +50,33 @@
 <!-- post content -->
 <div class="PostContent">
 <!-- content -->
-<p>At work we use <a href='http://google.com/a'>Google Apps</a> for our enterprise email and calendaring. We use pretty much the entire gamut of tools Google provides us. And for the most part, we love it. It is great to have an easy to use, inexpensive suite of hosted tools that you can use from anywhere.</p>
+<p>At work we use <a href="http://google.com/a">Google Apps</a> for our enterprise email and calendaring. We use pretty much the entire gamut of tools Google provides us. And for the most part, we love it. It is great to have an easy to use, inexpensive suite of hosted tools that you can use from anywhere.</p>
 
 <p>Gmail is far better than outlook for our organization and the other tools just help make things go smoothly. We use docs quite a bit for knowledge share and even use it some in the warehouse for quality control and what not. its neat stuff.</p>
 
-<p>Recently, we have been adding various appliances to our organization that can authenticate users based on an <a href='http://en.wikipedia.org/wiki/Ldap'>LDAP data store</a> or a <a href='http://en.wikipedia.org/wiki/RADIUS'>Radius server</a>.</p>
+<p>Recently, we have been adding various appliances to our organization that can authenticate users based on an <a href="http://en.wikipedia.org/wiki/Ldap">LDAP data store</a> or a <a href="http://en.wikipedia.org/wiki/RADIUS">Radius server</a>.</p>
 
-<p>It started with one of out <a href='http://en.wikipedia.org/wiki/Samba_%28software%29'>file servers</a>. I wanted to make it so people have their own share for archiving and backing up personal documents. A place that is &#8220;protected&#8221; by their password. But with 35 employees possibly accessing the file server, it is not efficient to have another ACL system. So ultimately it would be nice to have it use Google Apps as authentication portion.</p>
+<p>It started with one of out <a href="http://en.wikipedia.org/wiki/Samba_%28software%29">file servers</a>. I wanted to make it so people have their own share for archiving and backing up personal documents. A place that is "protected" by their password. But with 35 employees possibly accessing the file server, it is not efficient to have another ACL system. So ultimately it would be nice to have it use Google Apps as authentication portion.</p>
 
-<p>I googled a bunch and forgot that this was a goal. Until this last month when we added an awesome wifi mesh system (<a href='http://www.aerohive.com/'>Aerohive</a> - hit me up if you want hooked up with them, awesome stuff) and we grabbed a MUCH better VPN subsystem (<a href='http://www.juniper.net/products_and_services/ssl_vpn_secure_access/'>Juniper SSLVPN</a>). Both require user auth to work most securely. Which means that in the best case, both would authenticate to the same ACL system that the file server is authenticating against.</p>
+<p>I googled a bunch and forgot that this was a goal. Until this last month when we added an awesome wifi mesh system (<a href="http://www.aerohive.com/">Aerohive</a> - hit me up if you want hooked up with them, awesome stuff) and we grabbed a MUCH better VPN subsystem (<a href="http://www.juniper.net/products_and_services/ssl_vpn_secure_access/">Juniper SSLVPN</a>). Both require user auth to work most securely. Which means that in the best case, both would authenticate to the same ACL system that the file server is authenticating against.</p>
 
-<p>Once again, the problem of integrating Google Apps accounts into an LDAP/Radius service was brought to my attention. It seems like it should be something that is relatively easy to integrate. However, I can&#8217;t quite grasp the <a href='http://code.google.com/apis/apps/sso/saml_reference_implementation.html'>SAML offering that the Google Apps API suggests using</a> for SSO. I couldn&#8217;t easily figure out if this would be an option for web only authentication, or I could drop it into a <a href='http://wiki.freeradius.org/Base_Modules'>freeradius module</a> (using <a href='http://wiki.freeradius.org/Rlm_python'>rlm_python</a>). It also seems that it is a way to use a radius server to authenticate a local user into their Google Apps account. Not the direction that I want. It seems like this should be possible, but i wasn&#8217;t able to find any help on the various Google Groups that suggested that it possible.</p>
+<p>Once again, the problem of integrating Google Apps accounts into an LDAP/Radius service was brought to my attention.  It seems like it should be something that is relatively easy to integrate. However, I can't quite grasp the <a href="http://code.google.com/apis/apps/sso/saml_reference_implementation.html">SAML offering that the Google Apps API suggests using</a> for SSO. I couldn't easily figure out if this would be an option for web only authentication, or I could drop it into a <a href="http://wiki.freeradius.org/Base_Modules">freeradius module</a> (using <a href="http://wiki.freeradius.org/Rlm_python">rlm_python</a>). It also seems that it is a way to use a radius server to authenticate a local user into their Google Apps account. Not the direction that I want. It seems like this should be possible, but i wasn't able to find any help on the various Google Groups that suggested that it possible.</p>
 
-<p>I got to thinking. If I am going to be hacking away at a python module for freeradius or using <a href='http://www.wiggy.net/code/pyrad/'>pyrad</a> to create a radius server - why couldn&#8217;t I just have it authenticate against Google Apps jabber server. Basically using <a href='http://xmpppy.sourceforge.net/'>XMPPPY</a> or whatever to hit talk.google.com and check if a user is authenticating correctly, and if so let them in.</p>
+<p>I got to thinking. If I am going to be hacking away at a python module for freeradius or using <a href="http://www.wiggy.net/code/pyrad/">pyrad</a> to create a radius server - why couldn't I just have it authenticate against Google Apps jabber server. Basically using <a href="http://xmpppy.sourceforge.net/">XMPPPY</a> or whatever to hit talk.google.com and check if a user is authenticating correctly, and if so let them in.</p>
 
-<p>The immediate benefit of piggy backing on Google&#8217;s jabber server is that I would be able to bypass managing user accounts or passwords. They would be managed by the users themselves or by whoever is managing the user accounts. It would be independent of the Radius server.</p>
+<p>The immediate benefit of piggy backing on Google's jabber server is that I would be able to bypass managing user accounts or passwords. They would be managed by the users themselves or by whoever is managing the user accounts. It would be independent of the Radius server.</p>
 
 <p>Some immediate problems are that all the users would immediately have the same access. If I wanted more granularity of access, I would obviously have to create some ACL system that sat between the XMPP auth and the response to the radius request.</p>
 
 <p>I am guessing that figuring out if SAML would work would be easiest. I can already tell this is possibly a backwards way of doing it. I just want everything to work well together. And I want to haxor up some python.</p>
+
 <!-- end content -->
 <!-- related posts -->
 <div class="RelatedPosts"> 
 <h3>Related Posts</h3> 
 <ul>
+
+<li><a href="/2008/02/25/google-apps-auth-xmpp-and-radius-idea/">Google Apps Auth: XMPP and Radius idea</a></li>
 
 <li><a href="/2009/12/09/2009-hosting-summary-or-where-does-harper-host-in-20092010/">2009 Hosting Summary (or where does Harper host in 2009/2010)</a></li>
 
@@ -82,8 +85,6 @@
 <li><a href="/2009/03/08/my-thoughts-on-the-kindle/">My thoughts on the kindle: 1 vs 2 and the iphone app</a></li>
 
 <li><a href="/2008/03/02/awesome-hosting-options/">Awesome hosting options</a></li>
-
-<li><a href="/2010/08/17/jekyl-for-the-win/">I migrated this blog to Jekyll on App Engine. So long Wordpress. </a></li>
 
 </ul>
 </div> 
@@ -133,52 +134,6 @@ function h(){if(b.ActiveXObject&&b.XMLHttpRequest){return false}return true};
     </div> 
 </div> 
 
-          <div class="Links"> 
-   <h2><strong>Friends</strong></h2> 
-    <ul> 
-     <li><a href="http://www.holovaty.com/">Adrian Holovaty</a></li> 
-<li><a href="http://www.cs.cmu.edu/~acarlson" rel="friend met">Andrew Carlson</a></li> 
-<li><a href="http://atkinx.com" rel="friend met colleague">Atkins Meyer</a></li> 
-<li><a href="http://www.red-bean.com/sussman/">Ben Collins-Sussman</a></li> 
-<li><a href="http://www.benseese.com/" rel="friend met">Ben Seese</a></li> 
-<li><a href="http://www.bdog.org" rel="acquaintance met">Bernie Selvey</a></li> 
-<li><a href="http://www.adita.org/" rel="friend met neighbor">Bradley Adita</a></li> 
-<li><a href="http://www.red-bean.com/fitz/">Brian Fitzpatrick</a></li> 
-<li><a href="http://chriskalani.com/">Chris Kalani</a></li> 
-<li><a href="http://weblog.lonelylion.com/" rel="friend met colleague">Chris McAvoy</a></li> 
-<li><a href="http://colepierce.com/" rel="friend met neighbor">Cole Pierce</a></li> 
-<li><a href="http://derek.broox.com" rel="friend met">Derek Broox</a></li> 
-<li><a href="http://www.dylanreed.com/" rel="friend met sibling">Dylan Reed</a></li> 
-<li><a href="http://edithfrost.com/" rel="acquaintance">Edith Frost</a></li> 
-<li><a href="http://elainepark.com" rel="friend met crush">Elaine Park</a></li> 
-<li><a href="http://pzmahiru.pixnet.net/blog" rel="friend">Ella Pan</a></li> 
-<li><a href="http://gburt.blogspot.com/">Gabriel Burt</a></li> 
-<li><a href="http://www.probonobaker.com" rel="friend met crush">Gemma Petrie</a></li> 
-<li><a href="http://www.hirominakazawa.com" rel="friend spouse sweetheart">Hiromi Nakazawa</a></li> 
-<li><a href="http://www.jacobdehart.com" rel="friend met co-worker" target="_blank">Jacob Dehart</a></li> 
-<li><a href="http://www.jakenickell.com" rel="friend met co-worker">Jake Nickell</a></li> 
-<li><a href="http://www.callmejeffrey.com" rel="friend met co-worker">Jeffrey Kalmikoff</a></li> 
-<li><a href="http://www.beardofbees.com/">Joe Trowbridge</a></li> 
-<li><a href="http://www.blight.com/~superfly" rel="friend met">John Jaeger</a></li> 
-<li><a href="http://www.in5anity.org" rel="friend met sibling">Jon Ruth</a></li> 
-<li><a href="http://lakshvivek.com/" rel="friend met">Lakshmi Nagarajan</a></li> 
-<li><a href="http://www.markhayward.net" rel="friend met">Mark Hayward</a></li> 
-<li><a href="http://www.therats.org" rel="friend met">Matiss Duhon</a></li> 
-<li><a href="http://ghostco.org" rel="friend met">Matthew Woodson</a></li> 
-<li><a href="http://www.mikecompton.org" rel="friend met">Mike Compton</a></li> 
-<li><a href="http://proxientunit.com" rel="friend met">Mike McNeil</a></li> 
-<li><a href="http://www.biblicone.com/" rel="friend met">Mike Standeven</a></li> 
-<li><a href="http://www.mimiblume.com" rel="friend met crush">Miriam Meier</a></li> 
-<li><a href="http://morganbreaksthings.blogspot.com/" rel="friend met crush">Morgan Thoryk</a></li> 
-<li><a href="http://blog.localkinegrinds.com/" rel="friend met">Ryan Kanno</a></li> 
-<li><a href="http://moxievanilla.blogspot.com/" rel="friend met">Sarah Bright</a></li> 
-<li><a href="http://photodork.org" rel="friend met">Sarah Reed</a></li> 
-<li><a href="http://scottvdp.com/">Scott Van Den Plas</a></li> 
-<li><a href="http://thom.watership.org" rel="friend met">Thom Parks</a></li> 
-<li><a href="http://www.w36.com" rel="friend met">Tim Gunnerson</a></li> 
-    </ul> 
-   </div> 
-
     </div> 
     <div class="SRR"> 
         <script type="text/javascript" src="http://www.google.com/jsapi"></script>
@@ -193,7 +148,7 @@ function h(){if(b.ActiveXObject&&b.XMLHttpRequest){return false}return true};
 </script>
 
  <div class="Search"> 
-            <h2>search</h2> 
+            <h2>Search</h2> 
             <form action="/search/" id="cse-search-box">
               <div>
                 <input type="hidden" name="cx" value="005257232071038103009:chkzt6rraoc" />
@@ -220,10 +175,6 @@ function h(){if(b.ActiveXObject&&b.XMLHttpRequest){return false}return true};
 </div> 
 
 
-        <script type="text/javascript" src="http://www.google.com/reader/ui/publisher.js"></script> 
-<script type="text/javascript" src="http://www.google.com/reader/public/javascript/user/18273797402131469936/state/com.google/broadcast?n=15&callback=GRC_p(%7Bc%3A'-'%2Ct%3A'Recently%20read%20on%20google%20reader'%2Cs%3A'false'%7D)%3Bnew%20GRC"></script> 
-
-
  </div> 
 </div> 
 <div class="clear"></div> 
@@ -236,78 +187,7 @@ function h(){if(b.ActiveXObject&&b.XMLHttpRequest){return false}return true};
 <!-- container END -->
 </div> 
 <!-- containerBG END -->
-<!-- ExtraBG Start -->
-<div class="ExtraBG">
-<!-- Extra Start -->
-<div class="Extra">
- <!-- RecentPosts Start -->
-            <div class="RecentPosts">
-                <h3>Recent Entries</h3>
-                <div id="recententries" class="dsq-widget">
-                <ul>
-                  
-                    <li>
-                      Dec 07, 2010 &mdash; <a href="/2010/12/07/lincoln-square-retrospective/">Lincoln Square Retrospective</a>
-                    </li>
-                  
-                    <li>
-                      Nov 01, 2010 &mdash; <a href="/2010/11/01/techcocktail-mixology-conference/">The Tech Cocktail Startup Mixology Conference</a>
-                    </li>
-                  
-                    <li>
-                      Sep 25, 2010 &mdash; <a href="/2010/09/25/cta-hacking-unofficial-apis-and-winning-a-data-innovation-award/">CTA Hacking, Unofficial APIs and Winning a Data Innovation Award</a>
-                    </li>
-                  
-                    <li>
-                      Sep 03, 2010 &mdash; <a href="/2010/09/03/yes-i-am-a-venture-hacks-scout/">Yes! I am a venture hacks scout! Chicago RPZNT</a>
-                    </li>
-                  
-                    <li>
-                      Aug 17, 2010 &mdash; <a href="/2010/08/17/jekyl-for-the-win/">I migrated this blog to Jekyll on App Engine. So long Wordpress. </a>
-                    </li>
-                  
-                    <li>
-                      Aug 12, 2010 &mdash; <a href="/2010/08/12/if-you-see-this/">If you see this, this blog is hosted on app engine</a>
-                    </li>
-                  
-                    <li>
-                      Apr 05, 2010 &mdash; <a href="/2010/04/05/smitten-by-the-ipad-thoughts-and-complaints/">Smitten by the iPad: thoughts and complaints. </a>
-                    </li>
-                  
-                    <li>
-                      Feb 11, 2010 &mdash; <a href="/2010/02/11/musings-about-femtocells-the-futures/">Musings about femtocells: the futures!</a>
-                    </li>
-                  
-                    <li>
-                      Jan 17, 2010 &mdash; <a href="/2010/01/17/i-love-phones-designed-for-developing-countries/">I love phones designed for developing countries. </a>
-                    </li>
-                  
-                    <li>
-                      Dec 09, 2009 &mdash; <a href="/2009/12/09/2009-hosting-summary-or-where-does-harper-host-in-20092010/">2009 Hosting Summary (or where does Harper host in 2009/2010)</a>
-                    </li>
-                  
-                  </ul>
-              </div>
-                
-            </div>
-            <!-- RecentPosts END -->
 
-            <!-- LastComments Start -->
-            <div class="LastComments">
-                <div id="recentcomments" class="dsq-widget"><h3 class="dsq-widget-title">Recent Comments</h3><script type="text/javascript" src="http://disqus.com/forums/nata2/recent_comments_widget.js?num_items=5&hide_avatars=1&avatar_size=32&excerpt_length=100"></script></div>
-            </div>
-            <!-- LastComments END -->
-
-            <!-- MostCommented Start -->
-            <div class="MostCommented">
-                <div id="popularthreads" class="dsq-widget"><h3 class="dsq-widget-title">Popular Threads</h3><script type="text/javascript" src="http://disqus.com/forums/nata2/popular_threads_widget.js?num_items=5"></script></div>
-            </div>
-            <!-- MostCommented END -->
- 
-</div>
-<!-- Extra END -->
-</div>
-<!-- ExtraBG END -->
 <div class="FooterBG">
 <div class="Footer">
 <p><a href="/">Nata2.org</a> is &copy; 1997-2010 <a href="http://www.harperreed.org/contact/">Harper Reed</a>. Powered by <a href="http://jekyllrb.com/">Jekyll</a>.</p>
@@ -330,19 +210,19 @@ pageTracker._trackPageview();
 </script>
  
 
-<script type="text/javascript" src="http://twitter.com/statuses/user_timeline/harper.json?callback=twitterCallback2&amp;count=5"></script>
+<script type="text/javascript" src="http://twitter.com/statuses/user_timeline/harper.json?callback=twitterCallback2&amp;count=8"></script>
 
 <script type="text/javascript">
 //<![CDATA[
 (function() {
-	var links = document.getElementsByTagName('a');
-	var query = '?';
-	for(var i = 0; i < links.length; i++) {
-	if(links[i].href.indexOf('#disqus_thread') >= 0) {
-		query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
-	}
-	}
-	document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/nata2/get_num_replies.js' + query + '"></' + 'script>');
+    var links = document.getElementsByTagName('a');
+    var query = '?';
+    for(var i = 0; i < links.length; i++) {
+    if(links[i].href.indexOf('#disqus_thread') >= 0) {
+        query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
+    }
+    }
+    document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/nata2/get_num_replies.js' + query + '"></' + 'script>');
 })();
 //]]>
 </script>
