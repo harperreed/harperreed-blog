@@ -24,8 +24,7 @@ So.. here goes. First, some stats:
 
 ## Health ##
 
-I tracked my weight **263 days** and my steps **142 days**. I wasn't very good at tracking my sleep, I only tracked **65 nights**.
-
+*   I tracked my weight **263 days** and my steps **142 days**. I wasn't very good at tracking my sleep, I only tracked **65 nights**.
 *   Sleep
     *   Of the nights tracked, I slept an average of **7.1 hours**.
     *   My average bedtime was **2:18 am**.
