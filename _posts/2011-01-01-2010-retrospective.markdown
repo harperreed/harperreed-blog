@@ -23,8 +23,9 @@ So.. here goes. First, some stats:
     *   The most shares in a single day was **50 shares** on [January 7th]. It was my first day in San Antonio and I apparently was waiting to go into the office. 
 
 ## Health ##
-*   I tracked my weight **263 days** and my steps **142 days**. I wasn't very good at tracking my sleep, I only tracked **65 nights**.
-*   This is aweosme.
+
+I tracked my weight **263 days** and my steps **142 days**. I wasn't very good at tracking my sleep, I only tracked **65 nights**.
+
 *   Sleep
     *   Of the nights tracked, I slept an average of **7.1 hours**.
     *   My average bedtime was **2:18 am**.
