@@ -79,7 +79,7 @@ h1, h2, h3 { font-family: 'Arial';}
 
 /* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
 .DateHeader { background: #f0f0f0; margin-bottom: 20px; margin-top: 10px;}
-.DateHeader p { background:url/images/DateHeaderIco.png) no-repeat left center; padding: 5px 0px 5px 20px; margin: 0px 0px 0px 10px; font-size: 18px; font-family: 'Helvetica'; }
+.DateHeader p { background:url(http://media.nata2.orghttp://media.nata2.org/images/DateHeaderIco.png) no-repeat left center; padding: 5px 0px 5px 20px; margin: 0px 0px 0px 10px; font-size: 18px; font-family: 'Helvetica'; }
 
 /* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
 .Post {	position: relative; clear: left; width: 510px;}
@@ -116,23 +116,23 @@ h1, h2, h3 { font-family: 'Arial';}
 .PostDetails li { padding: 0px; margin: 0px; list-style-type: none; }
 
 .PostDetails .PostCom {}
-.PostDetails .PostCom a { padding: 0px 0px 0px 23px; background: url(/images/PostComLeft.png) no-repeat left top; float: left; text-decoration: none; font-size: 11px;}
-.PostDetails .PostCom a span { padding: 4px 15px 3px 5px; display: block; background: url(/images/PostComRight.png) no-repeat right top; float: left; }
+.PostDetails .PostCom a { padding: 0px 0px 0px 23px; background: url(http://media.nata2.org/images/PostComLeft.png) no-repeat left top; float: left; text-decoration: none; font-size: 11px;}
+.PostDetails .PostCom a span { padding: 4px 15px 3px 5px; display: block; background: url(http://media.nata2.org/images/PostComRight.png) no-repeat right top; float: left; }
 .PostDetails .PostCom a span { float: none;}
 .PostDetails .PostCom a:hover span {}
 .PostDetails .PostCom a:hover { background-position: 0% -23px; text-decoration: none;}
 .PostDetails .PostCom a:hover span { background-position: 100% -23px; }
 
-.PostDetails .Tags { background: url(/images/PostDetailsTagsIco.png) no-repeat left center; padding: 5px 0px 5px 20px; margin-left: 0px;}
+.PostDetails .Tags { background: url(http://media.nata2.org/images/PostDetailsTagsIco.png) no-repeat left center; padding: 5px 0px 5px 20px; margin-left: 0px;}
 
 
 /* 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
  */
 .RelatedPosts { margin: 20px 0px;}
-.RelatedPosts h3 { font-size: 14px; letter-spacing: -1px; background:url(images/RelatedPostsHeading.png) no-repeat left center; border-bottom: dashed 1px #87909e; padding: 5px 0px 5px 20px; margin: 0px;}
+.RelatedPosts h3 { font-size: 14px; letter-spacing: -1px; background:url(http://media.nata2.org/images/RelatedPostsHeading.png) no-repeat left center; border-bottom: dashed 1px #87909e; padding: 5px 0px 5px 20px; margin: 0px;}
 .RelatedPosts ul { padding: 10px 0px 0px 0px; margin: 0px;}
-.RelatedPosts li { padding: 0px 0px 0px 20px; margin: 0px; list-style-type: none; background: url(images/RelatedPostsLi.png) no-repeat left top;}
+.RelatedPosts li { padding: 0px 0px 0px 20px; margin: 0px; list-style-type: none; background: url(http://media.nata2.org/images/RelatedPostsLi.png) no-repeat left top;}
 .RelatedPosts {}
 
 
@@ -141,7 +141,7 @@ h1, h2, h3 { font-family: 'Arial';}
  */
 
 .Comments { padding: 0px; margin: 20px 0px 0px 0px;}
-.Comments .List h3 { font-size: 14px; letter-spacing: -1px; background:url(images/CommentsListHeading.png) no-repeat left center; border-bottom: dashed 1px #87909e; padding: 5px 0px 5px 20px; margin: 0px; }
+.Comments .List h3 { font-size: 14px; letter-spacing: -1px; background:url(http://media.nata2.org/images/CommentsListHeading.png) no-repeat left center; border-bottom: dashed 1px #87909e; padding: 5px 0px 5px 20px; margin: 0px; }
 .Comments .List ol { padding: 10px 0px 0px 0px; margin: 0px;}
 .Comments .List li { position: relative; padding: 15px 0px; margin: 0px; list-style-type: none; font-size: 11px; position: relative;}
 
@@ -166,7 +166,7 @@ h1, h2, h3 { font-family: 'Arial';}
 /* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
 
 .Comments .Form {}
-.Comments .Form h3 { font-size: 14px; letter-spacing: -1px; background:url(images/CommentsFormHeading.png) no-repeat left center; border-bottom: dashed 1px #87909e; padding: 5px 0px 5px 20px; margin: 0px 0px 10px 0px;}
+.Comments .Form h3 { font-size: 14px; letter-spacing: -1px; background:url(http://media.nata2.org/images/CommentsFormHeading.png) no-repeat left center; border-bottom: dashed 1px #87909e; padding: 5px 0px 5px 20px; margin: 0px 0px 10px 0px;}
 
 .Comments .FormTop {  width: 510px; height: 5px; display: block;}
 
@@ -180,9 +180,9 @@ h1, h2, h3 { font-family: 'Arial';}
 .Comments .Form .TextField { background: #fff; border: solid 1px #89afd8; padding: 5px; font-size: 11px; margin-right: 20px; color:#40454b;}
 .Comments .Form .TextArea { background: #fff; border: solid 1px #89afd8; padding: 5px; font-size: 11px; color:#40454b;}
 
-.Comments .Form input.SubmitComment { width: 150px; height: 26px; background: url(images/SubmitComment.png) no-repeat; margin-top: 7px;}
-.Comments .Form input.SubmitComment:hover { background: url(images/SubmitComment.png) no-repeat 0 -26px; }
-.Comments .Form input.SubmitCommentIE { width: 150px; height: 26px; background: url(images/SubmitComment.png) no-repeat 0 -26px; margin-top: 7px; }
+.Comments .Form input.SubmitComment { width: 150px; height: 26px; background: url(http://media.nata2.org/images/SubmitComment.png) no-repeat; margin-top: 7px;}
+.Comments .Form input.SubmitComment:hover { background: url(http://media.nata2.org/images/SubmitComment.png) no-repeat 0 -26px; }
+.Comments .Form input.SubmitCommentIE { width: 150px; height: 26px; background: url(http://media.nata2.org/images/SubmitComment.png) no-repeat 0 -26px; margin-top: 7px; }
 .Comments .Form input.commentButton{font-size: 16px;}
 /* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
 
@@ -193,21 +193,21 @@ h1, h2, h3 { font-family: 'Arial';}
 .SR h2,.SR h3 { font-size: 14px; letter-spacing: -1px; padding: 5px 0px; margin: 0px; border-bottom: solid 1px #bbb; color:#323740;}
 .SR ul { padding: 0px; margin: 0px;}
 .SR li { padding: 0px; margin: 0px; list-style-type: none;}
-.SR li a { padding: 2px 0px 3px 8px; color: #555; text-decoration: none; border-bottom: solid 1px #ccc; background: url(images/CategIco.png) no-repeat left top; width: 152px; display: block;}  
+.SR li a { padding: 2px 0px 3px 8px; color: #555; text-decoration: none; border-bottom: solid 1px #ccc; background: url(http://media.nata2.org/images/CategIco.png) no-repeat left top; width: 152px; display: block;}  
 .SR li a:visited { color: #555; text-decoration: none; border-bottom: solid 1px #ccc;} 
 .SR li a:hover { text-decoration: none; color: #777; border-bottom: solid 1px #999;} 
 
-.SCtop { background: url('/images/tr.png') no-repeat top right; }
-.SCtop div { height: 10px;   background: url('/images/tl.png') no-repeat top left; }
-.SCbottom { background: url('/images/br.png') no-repeat bottom right; }
-.SCbottom div {   height: 10px;   background: url('/images/bl.png') no-repeat bottom left; }
+.SCtop { background: url('http://media.nata2.org/images/tr.png') no-repeat top right; }
+.SCtop div { height: 10px;   background: url('http://media.nata2.org/images/tl.png') no-repeat top left; }
+.SCbottom { background: url('http://media.nata2.org/images/br.png') no-repeat bottom right; }
+.SCbottom div {   height: 10px;   background: url('http://media.nata2.org/images/bl.png') no-repeat bottom left; }
 .SCcontent {  padding: 0px 10px 0px 10px;}
 
 /* Right - First Column */
-.SR .SRL {float: left; width: 150px; padding: 15px 0px 15px 0px; margin-right: 11px; background:  url(/images/SRLBkg.gif) no-repeat left top;}
+.SR .SRL {float: left; width: 150px; padding: 15px 0px 15px 0px; margin-right: 11px; background:  url(http://media.nata2.org/images/SRLBkg.gif) no-repeat left top;}
 
 /* Right - Second Column */
-.SR .SRR { float: right; width: 160px; padding: 15px 0px 15px 0px; background: url(/images/SRRBkg.gif) no-repeat right top;}
+.SR .SRR { float: right; width: 160px; padding: 15px 0px 15px 0px; background: url(http://media.nata2.org/images/SRRBkg.gif) no-repeat right top;}
  
  
 .Categories { margin-bottom: 20px;}
@@ -257,8 +257,8 @@ text-align: right;
 
 .Footer ul { display: inline; padding: 0px; margin: 0px; }
 .Footer li { display: inline; padding: 0px; margin: 0px; list-style-type: none;}
-.Footer .WP { text-indent: -35000px; background: url(images/FooterWPLogo.gif) no-repeat left top; width: 71px; height: 20px; float: left;}
-.Footer .DD { text-indent: -35000px; background: url(images/FooterDDLogo.gif) no-repeat left top; width: 83px; height: 20px; float: left; margin-right: 10px; }
+.Footer .WP { text-indent: -35000px; background: url(http://media.nata2.org/images/FooterWPLogo.gif) no-repeat left top; width: 71px; height: 20px; float: left;}
+.Footer .DD { text-indent: -35000px; background: url(http://media.nata2.org/images/FooterDDLogo.gif) no-repeat left top; width: 83px; height: 20px; float: left; margin-right: 10px; }
 
 
 /* +++++++++++++++++++++++ stufff +++++++++++++++++++++++*/
@@ -279,4 +279,4 @@ clear: both;
 #chat-frame-wrapper { height:220px; width: 100%;background:#e9f1ff; border:1px solid #ccc; }
 #chat-frame-wrapper .close { margin:4px 4px 0 0; z-index:1000; }
 #chat-frame { border:none; width: 100%;height:200px; z-index:1;}
-.close { float:right; width:16px; height:16px; background:url(/images/close2.png) no-repeat;}
+.close { float:right; width:16px; height:16px; background:url(http://media.nata2.org/images/close2.png) no-repeat;}
