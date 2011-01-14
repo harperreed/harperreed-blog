@@ -79,7 +79,7 @@ h1, h2, h3 { font-family: 'Arial';}
 
 /* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
 .DateHeader { background: #f0f0f0; margin-bottom: 20px; margin-top: 10px;}
-.DateHeader p { background:url(http://media.nata2.orghttp://media.nata2.org/images/DateHeaderIco.png) no-repeat left center; padding: 5px 0px 5px 20px; margin: 0px 0px 0px 10px; font-size: 18px; font-family: 'Helvetica'; }
+.DateHeader p { background:url(http://media.nata2.org/images/DateHeaderIco.png) no-repeat left center; padding: 5px 0px 5px 20px; margin: 0px 0px 0px 10px; font-size: 18px; font-family: 'Helvetica'; }
 
 /* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
 .Post {	position: relative; clear: left; width: 510px;}
