@@ -1,0 +1,361 @@
+<!doctype html>
+<html lang="en">
+<head>
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+    <meta charset="utf-8">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Python, MySQL, XMPP, Hacking, Baphomet and the real time internet" />
+    <meta name="keywords" content="" />
+    <meta name="author" content="Harper Reed: harper@nata2.org">
+    <meta name="robots" content="noodp,noydir" />
+    <title> OMG FREE HOSTING: How to use GAE to host static sites for free |  Harper Reed: Tech, Mobile, Yo-yoing and Death Metal</title> 
+
+    <link href="http://feeds.feedburner.com/HarperReed" rel="alternate" title="Harper Reed: Tech, Mobile, Yo-yoing and Death Metal" type="application/atom+xml" />
+    <link rel="stylesheet" href="http://media.nata2.org/css/style.css?3" type="text/css" /> 
+    <META name="verify-v1" content="bxsrf6C7p0+qY6MxNCbSNSGdkeDA8dQSxjTsNJu4Sa0=" />
+    <link rel="openid.server" href="http://www.myopenid.com/server" />
+    <meta name="myid" content="0eda4814-55e0-4756-bf30-0f1bf5a4b469" />
+    <link rel="openid.delegate" href="http://harper.myopenid.com/" />
+    <link rel="shorcut icon" type="image/x-ico" href="http://media.nata2.org/favicon.ico" />
+</head> 
+<body>
+<!-- bgcontain START -->
+<div id="bgcontain">
+<!-- header START -->
+<div class="HeaderBG">
+<div class="Header">
+<h1><a href="http://www.nata2.org">Harper Reed: Tech, Mobile, Yo-yoing and Death Metal</a></h1>
+<div class="Desc">Python, MySQL, XMPP, Hacking, Baphomet and the real time internet</div>  
+
+</div> 
+</div> 
+<!-- header END -->
+<!-- containerBG START -->
+<div class="ContainerBG">
+<!-- container START -->
+<div class="Container"> 
+<!-- Central Content START -->
+<div class="SC">
+<!-- post -->
+<div class="Post" style="padding-bottom: 50px;">
+<!--posthead -->
+<div class="PostHead">
+<h1 class="title"><a title="Permanent Link to OMG FREE HOSTING: How to use GAE to host static sites for free." href="/2011/01/26/how-to-use-app-engine-to-host-static-sites-for-free/" rel="bookmark">OMG FREE HOSTING: How to use GAE to host static sites for free</a></h1>
+<p class="PostDate">
+<strong class="day">26</strong>
+<strong class="month">Jan</strong>
+</p>
+<p class="PostInfo">Written by <a href="/about/">harper</a> on Jan 26 2011</p>
+</div>
+<!--end posthead -->
+<!-- post content -->
+<div class="PostContent">
+<!-- content -->
+<p>I am constantly telling my friends about the new technology tricks that I learn in my internet travels. I learn a lot, which has caused my friends to ignore around 90% of what I say about technology. I don't mind, because I know that I am a genius(heh) and they will come around some day.</p>
+
+<p>This is exactly what happened with my most recent hacked upon hosting setup. I told my buddy <a href="http://twitter.com/ryankanno">kanno</a>, and he didn't pay attention. Then he started diving in a bit on his own. Once he experienced a taste of the magic, I helped him to the rest of the koolaid and he was hooked. The result was him begging me to do this post to help people understand how awesome this setup is.</p>
+
+<h2>The problem</h2>
+
+<p>I hate hosting. I hate (really love - but love to hate) servers. I <strong>reallllllllllllllllllly</strong> like not having to deal with scaling, servers, server software and all that magic.</p>
+
+<p>Besides servers and dealing with the tech side of hosting, I really hate paying for hosting. I especially hate paying to host sites that will get no traffic and will not change.</p>
+
+<p>Here are some examples of the sites I am talking about:</p>
+
+<ul>
+<li><a href="http://www.fastmilo.com">fastmilo.com</a> - this site gets 21 visits a year.</li>
+<li><a href="http://www.chicagocanoeclub.com">chicagocanoeclub.com</a> - this site gets 13 visits a year.</li>
+<li><a href="http://www.weownthesun.com/">weownthesun.com</a> - this site gets 8 visits a year</li>
+<li><a href="http://www.harpercloud.com/">harpercloud.com</a> - this site gets 5 visits a year</li>
+<li><a href="http://www.nutpunt.com/">nutpunt.com</a> - this site gets 3 visits a year.</li>
+<li><a href="http://www.stevereed.org/">stevereed.org</a> - this site gets 2 visits a year.</li>
+<li><a href="http://www.noahleaks.com/">noahleaks.com</a> - this site gets 1 visits a year.</li>
+<li><a href="http://www.biofuelmenace.com/">biofuelmenace.com</a> - this site gets 1 visits a year.</li>
+</ul>
+
+
+<p>Basically simple one or multiple page joke/history/ego sites. Easy to make, no maintenance and no dynamic content.</p>
+
+<p>There were all hosted at Rackspace Cloud Sites for the longest time. I got tired of paying $100 bucks just to host stupid stuff. I thought about moving them all to one tiny linode/slice/ec2/rackspace cloud box - but that would have been more than $100/month of maintenance. It also wouldn't have solved the problem for me. I would still be paying to host these sites.</p>
+
+<p>Just as I was about to give up and delete myself from the internet completely - in walks <a href="http://code.google.com/appengine/">App Engine</a> with its fancy pants friend, <a href="http://drydrop.binaryage.com">DryDrop</a>.</p>
+
+<h2>DryDrop is an easy way to host static content on App Engine</h2>
+
+<p><a href="http://drydrop.binaryage.com">DryDrop</a> is at its most basic form a bucket that holds the various pieces of a static site, and serves the pieces when they are requested. It is git backed for easy content management. It is mostly for nerds.</p>
+
+<p>From the <a href="http://drydrop.binaryage.com">DryDrop site</a>:</p>
+
+<blockquote><p>DryDrop is a tool that lets you host your static site on Google App Engine and update it by pushing to GitHub. Thanks to GitHub post-receive hooks your App Engine site can be updated automatically when you push new content."</p></blockquote>
+
+<p>From <a href="http://twitter.com/dansinker">@dansinker</a>:</p>
+
+<blockquote><p>it's a tool that you install on AppEngine that lets you publish web pages on Google's servers using nothing but github.
+So like, I update the <a href="http://www.chicagomayoralscorecard.com/">Scorecard</a> simply by typing "git push" and suddenly, WHOOOOSH, the scorecard is updated.
+I seriously love it more than is probably healthy.</p></blockquote>
+
+<p>As their site points out, this means that you can host your static content with zero cost, zero maintenance and very little real tech knowledge (just <a href="http://en.wikipedia.org/wiki/Git_(software">git</a>), a bit of <a href="http://en.wikipedia.org/wiki/Rake_(software">rake</a>) and some gigantic internet nuts).</p>
+
+<p>The DryDrop workflow <a href="http://drydrop.binaryage.com/#installation">is as follows</a>:</p>
+
+<ul>
+<li>Checkout the DryDrop repository from github</li>
+<li>Deploy your drydrop app to app engine (<em>rake upload project=drydropsample</em>)</li>
+<li>Create a git repository on github</li>
+<li>Place static content in the github repository</li>
+<li>Link the two (<em>add the github repo raw url in the drydrop admin settings</em>)</li>
+<li>Visit app engine app url (<em>this pulls the static content from github and caches it</em>)</li>
+<li><strong>BAM</strong> you have a site hosted on google's infrastructure.</li>
+</ul>
+
+
+<p>Super easy and convenient. The best part is that this is free if your static site doesn't use more resources than the free tier of app engine allows.</p>
+
+<p>I used this and my mind was blown. However, there were a couple of things missing.</p>
+
+<h2>Hosting multiple domains on one instance</h2>
+
+<p>After I played with drydrop extensively and launched a few sites, I noticed a hole in the drydrop armor. For every site you launched, you had to deploy a version of the drydrop container to app engine. Although they were all free, most people only have 10 application slots, and it was a pain to manage. I needed a way to host multiple sites on one instance.</p>
+
+<p>I thought about this for about 2 seconds before I remembered solving this problem with some other python apps hosted on App Engine. I needed to key the datastore off of the domain (now-a-days you could use the <a href="http://code.google.com/appengine/docs/python/multitenancy/">multitenacy stuff</a> and just set the app namespace to change for each served domain (this might be a good idea to migrate drydrop too - i will do that later)).</p>
+
+<p>I made the change on my fork and deployed it to GAE. Then did a bunch of tests to make sure it worked properly. It did and the code was pulled into the main drydrop repo. Excitement.</p>
+
+<p>Now you can deploy one drydrop app and host many many domains off a single app instance. I currently host about 15 domains off of one drydrop instance.</p>
+
+<h2>Free Hosting, FTW</h2>
+
+<p>Let's review what we have:</p>
+
+<p>Free hosting for multiple domains consisting of static content on a google scale infrastructure. For free.</p>
+
+<p>This is awesome. and once you have it set up, there are only two steps to getting another site hosted (1. register domain, 2. point to drydrop instance). I launch stupid sites constantly now. It is an addiction. I need help.</p>
+
+<h2>Pro-Tips</h2>
+
+<p>I have used this setup for about 6 months. It works super well. I noticed that things loaded super fast all over the world, which is pretty awesome.</p>
+
+<p>I have done 3 things to make things faster: use a CDN, use the high performance replication scheme, and use always on instances to decrease startup time.</p>
+
+<p>I will attempt to cover each of these quickly.</p>
+
+<h3>Use a CDN</h3>
+
+<p>I use <a href="https://aws.amazon.com/cloudfront/">Amazon Cloudfront</a> with a <a href="http://aws.typepad.com/aws/2010/11/amazon-cloudfront-support-for-custom-origins.html">custom origin</a>. This is simply a way to take advantage of using a cdn without having to uplaod my data and assets to s3 first. I have <a href="https://gist.github.com/780318">two scripts that I use to manage this process</a>. The <a href="https://gist.github.com/780318#file_create_custom_origin.py">first sets up the origin server</a> with cloudfront, the <a href="https://gist.github.com/780318#file_invalidate_cf_cdn.py">second clears my cached items</a> when I need to deploy a change.</p>
+
+<p>How this works is simple. I cname <a href="http://media.nata2.org/images/AStrangeYouCanBelieveIn.png">media.nata2.org</a> to cloudfront. Then every request to that domain goes to cloudfront. Cloudfront checks if the asset exists on itself, if it doesn't it goes and fetches it from the pre set origin server (in this case www.nata2.org) and then serves it. All subsequent requests are served directly off of the CDN. No more scripts to upload shit.</p>
+
+<p>I think this is the only civilized way to use a CDN. I hope that Akamai/Rackspace rolls this out in the future. I prefer Akamai's network to Amazons.</p>
+
+<h3>Use the High Performance Replication Datastore on App Engine</h3>
+
+<p>Very recently Google released a neat addition to the App Engine world: <a href="http://code.google.com/appengine/docs/python/datastore/hr/overview.html">High Replication Datastore</a>. From the google app engine post:</p>
+
+<blockquote><p>The High Replication Datastore provides the highest level of availability for your reads and writes, at the cost of increased latency for writes and changes in consistency guarantees in the API.
+The High Replication Datastore increases the number of data centers that maintain replicas of your data by using the Paxos algorithm to synchronize that data across datacenters in real time.</p></blockquote>
+
+<p><strong>BOO YEA!</strong></p>
+
+<p>This makes your simple static no write app engine app bullet proof (it seems). If there is a data store outage - this should keep your app up and running.</p>
+
+<p>The downside is that it is about twice as expensive to host. There is a chance that it will still be free for a static site.</p>
+
+<p>I have played with this less, but have deployed it to my blog and we shall see soon if it works well or costs me an arm and a leg.</p>
+
+<h3>Set the app to be "Always On"</h3>
+
+<p>Another recent feature added to App Engine is the ability to keep an <a href="http://code.google.com/appengine/docs/adminconsole/instances.html#Always_On">instance of your app "on"</a>. This should decrease startup times for stale apps.</p>
+
+<p>Sometimes, when I visit one of these sites that don't get a lot of traffic there is a small pause while the app starts up. With an Always On instance, this should stop happening. App Engine keeps an instance of your application warm and ready to server for a measly $0.30 per day ($9.00 per month). A pretty sweet deal if your site suddenly not performing worries you.</p>
+
+<p>I have only played around with this - and haven't deployed it to my blog or in production sites. I also don't notice a huge problem with sites not serving quickly enough.</p>
+
+<h2>Awesome</h2>
+
+<p>The last two tips are app wide - which means that they will work for all sites that are deployed on that instance of DryDrop. You will be able to split the costs associated with the high performance replication and the ALways On instances across the number of domains you are hosting.</p>
+
+<p>This makes me LOVE hosting again.</p>
+
+<!-- end content -->
+<!-- related posts -->
+<div class="RelatedPosts"> 
+<h3>Related Posts</h3> 
+<ul>
+
+<li><a href="/2009/12/09/2009-hosting-summary-or-where-does-harper-host-in-20092010/">2009 Hosting Summary (or where does Harper host in 2009/2010)</a></li>
+
+<li><a href="/2009/03/08/my-thoughts-on-the-kindle/">My thoughts on the kindle: 1 vs 2 and the iphone app</a></li>
+
+<li><a href="/2010/08/17/jekyl-for-the-win/">I migrated this blog to Jekyll on App Engine. So long Wordpress. </a></li>
+
+<li><a href="/2008/02/29/the-mosso-cloud-how-requests-are-not-a-good-metric/">The Mosso Cloud: Requests are not a good metric</a></li>
+
+<li><a href="/2011/01/01/2010-retrospective/">2010 Retrospective</a></li>
+
+</ul>
+</div> 
+<!-- end related posts -->
+<!-- discuss -->
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+var disqus_identifier= '';
+var disqus_developer = 1;
+(function() {
+var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+dsq.src = 'http://nata2.disqus.com/embed.js';
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript=nata2">comments powered by Disqus.</a></noscript>
+<!-- end discuss -->
+</div>
+ <!-- end post content -->
+</div>
+<!-- end post -->
+
+</div>
+<!-- Central Content END -->
+<!-- Side Right - START -->
+<div class="SR">
+<div class="SCtop"><div></div></div>
+<div class="SCcontent"> 
+    <p><a href="http://www.catb.org/hacker-emblem/"><img style="padding-right: 5px; margin: 0px" src="http://media.nata2.org/images/glider.png" align="left"></a> <strong>Hi.</strong> My name is <a href="http://nata2.org/">Harper</a>. I am an engineer excited about real time, social software and the open source software movement. In a previous life, I was the CTO of the awesome <a href="http://www.threadless.com">Threadless</a>. I am patiently waiting for the singularity.</p>
+<p>This is obviously my blog. I write about everything from being a professional yoyoer to hacking the newest Internet appliance. Be sure and check out my homepage at <a href="http://www.harperreed.org">harperreed.org</a>. If you are so interested, my resume is located <a href="http://www.harperreed.org/resume">here</a>. I love getting emails and what not so feel free to contact me through <a href="http://www.harperreed.org/contact">here</a>. </p>
+<p>Be sure and take a gander at&nbsp;my <a href="http://flickr.com/photos/natatwo/">photos</a> and <a href="http://twitter.com/harper" target="_blank">follow me on twitter</a>.</p>
+<script>
+var b=window,c=document,f=false;
+function _click(d){    var a="status=0,scrollbars=0,menubar=0,statusbar=0,resizable=1, width=300,height=500,location="+(h()?"1":"0");b.open(d,"",a)}
+function h(){if(b.ActiveXObject&&b.XMLHttpRequest){return false}return true};
+</script>
+<p>If you want to contact me <a name="s" target="_blank" href="http://www.google.com/talk/service/badge/Start?tk=z01q6amlqtujnl6pvfokj2one9hmtk497vg29vdfi6q0qfdaj57cn4kval4vg0deih01q0v2sbsveu8d51nvi9faiglrcc8ela57sp9e2urd0m04gc1vn2cdc8ppjt010vl2hok0dqsj1tjn99egtftuo92car714o27bltqt" id="chat-link">click here to start a chat.</a>
+<div id="chat-wrapper-main" style="display:none;"></div>
+</p>
+
+     <div class="SRL"> 
+        <div class="Status"> 
+    <h2><strong>Status</strong></h2> 
+    <div id="twitter_div"> 
+        <ul id="twitter_update_list"></ul> 
+        <a href="http://twitter.com/harper" id="twitter-link" style="display:block;text-align:right;">follow me on Twitter</a> 
+    </div> 
+</div> 
+
+    </div> 
+    <div class="SRR"> 
+        <script type="text/javascript" src="http://www.google.com/jsapi"></script>
+<script type="text/javascript">
+  google.load('search', '1');
+  google.setOnLoadCallback(function() {
+    google.search.CustomSearchControl.attachAutoCompletion(
+      '005257232071038103009:chkzt6rraoc',
+      document.getElementById('q'),
+      'cse-search-box');
+  });
+</script>
+
+ <div class="Search"> 
+            <h2>Search</h2> 
+            <form action="/search/" id="cse-search-box">
+              <div>
+                <input type="hidden" name="cx" value="005257232071038103009:chkzt6rraoc" />
+                <input type="hidden" name="cof" value="FORID:11" />
+                <input type="hidden" name="ie" value="UTF-8" />
+                <input type="text" name="q" id="q" autocomplete="off" style="margin-top: 5px;" />
+                <input type="submit" name="sa" value="Go" />
+              </div>
+            </form>
+        </div> 
+<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&lang=en"></script>
+
+        <div class="Archives">   
+ <h2>Archives</h2> 
+  <ul> 
+    <li><a href="/archives/">Full archives</a></li>
+    
+  </ul>
+</div>
+
+        <div class="Pictures"> 
+    <h2>Pictures</h2> 
+    <A href="http://www.flickr.com/photos/natatwo"><img src="http://flashandburn.net/flickrtools/50406951@N00/color:eeeeee/recent.png" border="0"></a> 
+</div> 
+
+
+ </div> 
+</div> 
+<div class="clear"></div> 
+<div class="SCbottom"><div></div></div> 
+
+
+</div>
+<!-- Side Right - END  -->
+</div> 
+<!-- container END -->
+</div> 
+<!-- containerBG END -->
+
+<div class="FooterBG">
+<div class="Footer">
+<p><a href="/">Nata2.org</a> is &copy; 1997-2010 <a href="http://www.harperreed.org/contact/">Harper Reed</a>. Powered by <a href="http://jekyllrb.com/">Jekyll</a>.</p>
+
+</div>
+</div>
+</div>
+<!-- bgcontain END-->
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.8/jquery-ui.min.js"></script>
+
+<script type="text/javascript" src="http://media.nata2.org/js/scripts.js?3"></script>
+
+ 
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-70650-9");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+ 
+
+<script type="text/javascript" src="http://twitter.com/statuses/user_timeline/harper.json?callback=twitterCallback2&amp;count=8"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+    var links = document.getElementsByTagName('a');
+    var query = '?';
+    for(var i = 0; i < links.length; i++) {
+    if(links[i].href.indexOf('#disqus_thread') >= 0) {
+        query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
+    }
+    }
+    document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/nata2/get_num_replies.js' + query + '"></' + 'script>');
+})();
+//]]>
+</script>
+
+<script type="text/javascript">
+var _sf_async_config={uid:5483,domain:"nata2.org"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+       "static.chartbeat.com/js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+</script>
+
+</body>
+</html>
