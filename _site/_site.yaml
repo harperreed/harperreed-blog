@@ -1,44 +1,46 @@
 handlers:
 - url: '/'
-  static_files: '/index.html'
-  upload: '/.*'
+  static_files: '_site/index.html'
+  upload: '_site/.*'
 
 - url: '/404.html'
-  static_files: '/404/index.html'
-  upload: '/.*'
+  static_files: '_site/404/index.html'
+  upload: '_site/.*'
 
 - url: '/.well-known/host-meta'
-  static_files: '/webfinger.well-known.host-meta.xml'
-  upload: '/.*'
-
+  static_files: '_site/webfinger.well-known.host-meta.xml'
+  upload: '_site/.*'
 
 - url: '/feed/.*'
-  static_files: '/atom.xml'
-  upload: '/.*'
+  static_files: '_site/atom.xml'
+  upload: '_site/.*'
 
+- url: '/feed'
+  static_files: '_site/atom.xml'
+  upload: '_site/.*'
 
 - url: '/([^/]+)'
-  static_files: '/\1'
-  upload: '/.*'
+  static_files: '_site/\1'
+  upload: '_site/.*'
 
 - url: '/(.*?)/(.*?)/(.*?)/(.*?)/?'
-  static_files: '//\1/\2/\3/\4/index.html'
-  upload: '/.*'
+  static_files: '/_site/\1/\2/\3/\4/index.html'
+  upload: '_site/.*'
 
 - url: '/(.*?)/(.*?)/(.*?)/'
-  static_files: '/\1/\2/\3/index.html'
-  upload: '/.*'
+  static_files: '_site/\1/\2/\3/index.html'
+  upload: '_site/.*'
 
 
 - url: '/(.*?)/(.*?)/'
-  static_files: '/\1/\2/index.html'
-  upload: '/.*'
+  static_files: '_site/\1/\2/index.html'
+  upload: '_site/.*'
 
 - url: '/([^/]+)/'
-  static_files: '/\1/index.html'
-  upload: '/.*'
+  static_files: '_site/\1/index.html'
+  upload: '_site/.*'
 
 
 - url: '/(.*)/(.*)'
-  static_files: '/\1/\2'
-  upload: '/.*'
+  static_files: '_site/\1/\2'
+  upload: '_site/.*'
