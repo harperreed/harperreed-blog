@@ -11,11 +11,11 @@ handlers:
   static_files: '_site/webfinger.well-known.host-meta.xml'
   upload: '_site/.*'
 
-- url: '/feed/.*'
+- url: '/feed'
   static_files: '_site/atom.xml'
   upload: '_site/.*'
 
-- url: '/feed'
+- url: '/feed/.*'
   static_files: '_site/atom.xml'
   upload: '_site/.*'
 
