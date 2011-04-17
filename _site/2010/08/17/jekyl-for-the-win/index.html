@@ -1,0 +1,273 @@
+<!doctype html>
+<html lang="en">
+<head>
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+    <meta charset="utf-8">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Python, MySQL, XMPP, Hacking, Baphomet and the real time internet" />
+    <meta name="keywords" content="" />
+    <meta name="author" content="Harper Reed: harper@nata2.org">
+    <meta name="robots" content="noodp,noydir" />
+    <title> I migrated this blog to Jekyll on App Engine. So long Wordpress.  |  Harper Reed: Tech, Mobile, Yo-yoing and Death Metal</title> 
+
+    <link href="http://feeds.feedburner.com/HarperReed" rel="alternate" title="Harper Reed: Tech, Mobile, Yo-yoing and Death Metal" type="application/atom+xml" />
+    <link rel="stylesheet" href="http://media.nata2.org/css/style.css?3" type="text/css" /> 
+    <META name="verify-v1" content="bxsrf6C7p0+qY6MxNCbSNSGdkeDA8dQSxjTsNJu4Sa0=" />
+    <link rel="openid.server" href="http://www.myopenid.com/server" />
+    <meta name="myid" content="0eda4814-55e0-4756-bf30-0f1bf5a4b469" />
+    <link rel="openid.delegate" href="http://harper.myopenid.com/" />
+    <link rel="shorcut icon" type="image/x-ico" href="http://media.nata2.org/favicon.ico" />
+</head> 
+<body>
+<!-- bgcontain START -->
+<div id="bgcontain">
+<!-- header START -->
+<div class="HeaderBG">
+<div class="Header">
+<h1><a href="http://www.nata2.org">Harper Reed: Tech, Mobile, Yo-yoing and Death Metal</a></h1>
+<div class="Desc">Python, MySQL, XMPP, Hacking, Baphomet and the real time internet</div>  
+
+</div> 
+</div> 
+<!-- header END -->
+<!-- containerBG START -->
+<div class="ContainerBG">
+<!-- container START -->
+<div class="Container"> 
+<!-- Central Content START -->
+<div class="SC">
+<!-- post -->
+<div class="Post" style="padding-bottom: 50px;">
+<!--posthead -->
+<div class="PostHead">
+<h1 class="title"><a title="Permanent Link to I migrated this blog to Jekyll on App Engine. So long Wordpress. ." href="/2010/08/17/jekyl-for-the-win/" rel="bookmark">I migrated this blog to Jekyll on App Engine. So long Wordpress. </a></h1>
+<p class="PostDate">
+<strong class="day">17</strong>
+<strong class="month">Aug</strong>
+</p>
+<p class="PostInfo">Written by <a href="/about/">harper</a> on Aug 17 2010</p>
+</div>
+<!--end posthead -->
+<!-- post content -->
+<div class="PostContent">
+<!-- content -->
+<p>I don't like to move my blog around. It is super annoying. The RSS feed gets all messed up, I spend months tweaking everything. I find silly bugs and then fascinate about fixing them. All in all it takes months to complete the process. I avoid it like the plague.</p>
+
+<p>However, I really wanted something simpler than wordpress. I didn’t need a CMS. I barely need a blogging engine. I update so infrequently. I want something that creates well formed html (hah), static content and is easy to use.</p>
+
+<p>I started looking into hosting this blog on Google’s app engine awhile ago. I looked into <a href="http://bloog.billkatz.com/" title="Bloog">Bloog</a> - an awesome restful bloggin engine for app engine. It was very hopeful. i spent a bunch of time hacking on it and eventually ported my theme over. I didn’t feel it though. it worked well. it had all the features i wanted. It even used a bunch of neat app engine tricks. I gave up on using it for my blog. It just wasn’t the correct choice.</p>
+
+<p>During this time, I watched most of my hackerish friends start to use Jekyll to power their blogs (or write and then use <a href="http://github.com/aconbere/igor" title="igor">igor</a> as <a href="http://anders.conbere.org/">anders</a> did (protip: do not search for “anders jekyll” in google)). I admired the simplicity of the jekyll engine. It was so easy and fun to use. I wanted to use it for my blog - but it didn’t play as nicely with app engine as i had hoped.</p>
+
+<p>I then found Drydrop.</p>
+
+<p>DryDrop is a neat application for app engine that let’s you host static content. In my current phase of life, I really hate managing servers. It is fun and all - but if i don’t have to - i am not going to. ;) Instead, I try and use platform as a service services(<a href="http://en.wikipedia.org/wiki/RAS_syndrome">heh</a>) to minimize the number of servers that I touch on a daily basis (my current server number is 4 (I secretly want it to grow back to 100+)). DryDrop was a nice solution for my server hatred. It allowed me to serve simple static content on app engine. I immediately ported a bunch of my static sites over to app engine: <a href="http://www.harpercloud.com/">harpercloud.com</a>, <a href="http://www.biofuelmenace.com/">biofuelmenace.com</a>, <a href="http://weownthesun.com">weownthesun.com</a> and of course <a href="http://www.ryankanno.com">ryankanno.com</a>.</p>
+
+<p>After a few weeks with these sites on app engine - I decided that it was probably the right place to put my precious blog.</p>
+
+<p><a href="http://github.com/mojombo/jekyll/">Jekyll</a> is an interesting beast. It is exactly as the wiki proclaims: <a href="http://wiki.github.com/mojombo/jekyll/">a simple, blog aware, static site generator</a>. It has no features (well. a couple), it has no built in community aspects (no commenting, trackbacks, reactions, etc). It doesn’t have any admin. it is just a static site generator that is geared for blog like sites. It works amazingly.</p>
+
+<p>The first thing I did was port my theme over to Jekyll. You can check this out at my <a href="http://github.com/harperreed/harperreed-blog">blogs git repository</a>. It was a pain in the ass, but i was able to clean up a bunch of annoying HTML issues that i had from changing shit all the time. I still need to refactor it a bunch.</p>
+
+<p>Once the theme was done, I started working on the content. This is the biggest issue. I have a bunch of content. Like 1000s of posts. Jekyll is not necessarily the quickest of generators when you have thousands of posts. Luckily I was able to do some simple tricks to ensure that the old posts work and the new posts work as well. Its honestly pretty annoying and i need to solve this better.</p>
+
+<p>A couple hints for hosting Jekyll on App Engine with DryDrop:
+* check out <a href="http://thelab.carlsverre.com/2010/02/09/static-hosting">this post</a> by <a href="http://www.carlsverre.com/">Carl Sverre</a> on tweaking the site.yaml file for drydrop to handle the pretty permalinks
+* the wordpress migration script that jekyll uses is pretty nice. i <a href="http://github.com/harperreed/harperreed-blog/blob/master/_import/wordpress.rb">hacked mine to export tags and datetime</a> as well.
+* there are hundreds of blog posts just like this one. they all have great hints
+* if you get stuck, just check out the <a href="http://wiki.github.com/mojombo/jekyll/sites">list of sites that are using jekyll</a>. Often they have source on github. you can glean all sorts of goodness from them.</p>
+
+<p><strong>It is a bummer to leave wordpress. </strong></p>
+
+<p>I have been on wordpress since early 2005. I think that is the longest I have stayed with 1 piece of software. I really enjoy the <a href="http://wordpress.org/support/">wordpress community</a>. I really like <a href="http://ma.tt/">matt</a> and all he has done for open source and the internet. I like the <a href="http://drewblas.com/2010/07/15/an-analysis-of-gpled-code-in-thesis/">fights they pick</a> and i enjoy the <a href="http://buddypress.org/">innovations they are bringing to blogging</a>. I don’t like having to <a href="http://www.google.com/search?q=wordpress+exploit">fight hackers</a> off every single day. If there was one reason i am abandoning wordpress it is because of the hackers.</p>
+
+<p>I hosted about 25 wordpress blogs on my mosso account for various friends. I kept most of them up to date, but a lot of them were for friends and were not under my control. 100% of them got owned. hah. It was just something they did. no matter how fast or often i updated the wordpress software - it would be owned at least one time. My personal blog was safe for some reason. Maybe it was because I always ran the bleeding edge version from SVN. I will not miss the constant updates and the attacks.  The wordpress community does a good job of handling this issue. I, however, was tired of it.</p>
+
+<p>I migrated at least 22 of the 25 hosted blogs to <a href="http://wordpress.com">wordpress.com</a> or <a href="http://posterous.com">posterous</a>. I killed all the unused wordpress installs. No more hackers getting in through plugins, themes or trickery.</p>
+
+<p>If i were to use wordpress again, I would either use <a href="http://wordpress.com">wordpress.com</a> or <a href="http://vaultpress.com/">vaultpress</a>. Both of those products seem to solve my problems. Right now, however, jekyll has pretty thoroughly solved them.</p>
+
+<p>I can’t wait to start updating this blog a bit more often. I don’t know if i will write like i did in <a href="/2003/">2003</a>/<a href="/2004/">2004</a> - but i plan to update it a bit more than i did in <a href="/2009/">2009</a>. We shall see ;)</p>
+
+<!-- end content -->
+<!-- related posts -->
+<div class="RelatedPosts"> 
+<h3>Related Posts</h3> 
+<ul>
+
+<li><a href="/2010/08/17/jekyl-for-the-win/">I migrated this blog to Jekyll on App Engine. So long Wordpress. </a></li>
+
+<li><a href="/2011/01/26/how-to-use-app-engine-to-host-static-sites-for-free/">OMG FREE HOSTING: How to use GAE to host static sites for free</a></li>
+
+<li><a href="/2009/12/09/2009-hosting-summary-or-where-does-harper-host-in-20092010/">2009 Hosting Summary (or where does Harper host in 2009/2010)</a></li>
+
+<li><a href="/2008/02/29/the-mosso-cloud-how-requests-are-not-a-good-metric/">The Mosso Cloud: Requests are not a good metric</a></li>
+
+<li><a href="/2011/01/01/2010-retrospective/">2010 Retrospective</a></li>
+
+</ul>
+</div> 
+<!-- end related posts -->
+<!-- discuss -->
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+var disqus_identifier= '';
+var disqus_developer = 1;
+(function() {
+var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+dsq.src = 'http://nata2.disqus.com/embed.js';
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript=nata2">comments powered by Disqus.</a></noscript>
+<!-- end discuss -->
+</div>
+ <!-- end post content -->
+</div>
+<!-- end post -->
+
+</div>
+<!-- Central Content END -->
+<!-- Side Right - START -->
+<div class="SR">
+<div class="SCtop"><div></div></div>
+<div class="SCcontent"> 
+    <p><a href="http://www.catb.org/hacker-emblem/"><img style="padding-right: 5px; margin: 0px" src="http://media.nata2.org/images/glider.png" align="left"></a> <strong>Hi.</strong> My name is <a href="http://nata2.org/">Harper</a>. I am an engineer excited about real time, social software and the open source software movement. In a previous life, I was the CTO of the awesome <a href="http://www.threadless.com">Threadless</a>. I am patiently waiting for the singularity.</p>
+<p>This is obviously my blog. I write about everything from being a professional yoyoer to hacking the newest Internet appliance. Be sure and check out my homepage at <a href="http://www.harperreed.org">harperreed.org</a>. If you are so interested, my resume is located <a href="http://www.harperreed.org/resume">here</a>. I love getting emails and what not so feel free to contact me through <a href="http://www.harperreed.org/contact">here</a>. </p>
+<p>Be sure and take a gander at&nbsp;my <a href="http://flickr.com/photos/natatwo/">photos</a> and <a href="http://twitter.com/harper" target="_blank">follow me on twitter</a>.</p>
+<script>
+var b=window,c=document,f=false;
+function _click(d){    var a="status=0,scrollbars=0,menubar=0,statusbar=0,resizable=1, width=300,height=500,location="+(h()?"1":"0");b.open(d,"",a)}
+function h(){if(b.ActiveXObject&&b.XMLHttpRequest){return false}return true};
+</script>
+<p>If you want to contact me <a name="s" target="_blank" href="http://www.google.com/talk/service/badge/Start?tk=z01q6amlqtujnl6pvfokj2one9hmtk497vg29vdfi6q0qfdaj57cn4kval4vg0deih01q0v2sbsveu8d51nvi9faiglrcc8ela57sp9e2urd0m04gc1vn2cdc8ppjt010vl2hok0dqsj1tjn99egtftuo92car714o27bltqt" id="chat-link">click here to start a chat.</a>
+<div id="chat-wrapper-main" style="display:none;"></div>
+</p>
+
+     <div class="SRL"> 
+        <div class="Status"> 
+    <h2><strong>Status</strong></h2> 
+    <div id="twitter_div"> 
+        <ul id="twitter_update_list"></ul> 
+        <a href="http://twitter.com/harper" id="twitter-link" style="display:block;text-align:right;">follow me on Twitter</a> 
+    </div> 
+</div> 
+
+    </div> 
+    <div class="SRR"> 
+        <script type="text/javascript" src="http://www.google.com/jsapi"></script>
+<script type="text/javascript">
+  google.load('search', '1');
+  google.setOnLoadCallback(function() {
+    google.search.CustomSearchControl.attachAutoCompletion(
+      '005257232071038103009:chkzt6rraoc',
+      document.getElementById('q'),
+      'cse-search-box');
+  });
+</script>
+
+ <div class="Search"> 
+            <h2>Search</h2> 
+            <form action="/search/" id="cse-search-box">
+              <div>
+                <input type="hidden" name="cx" value="005257232071038103009:chkzt6rraoc" />
+                <input type="hidden" name="cof" value="FORID:11" />
+                <input type="hidden" name="ie" value="UTF-8" />
+                <input type="text" name="q" id="q" autocomplete="off" style="margin-top: 5px;" />
+                <input type="submit" name="sa" value="Go" />
+              </div>
+            </form>
+        </div> 
+<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&lang=en"></script>
+
+        <div class="Archives">   
+ <h2>Archives</h2> 
+  <ul> 
+    <li><a href="/archives/">Full archives</a></li>
+    
+  </ul>
+</div>
+
+        <div class="Pictures"> 
+    <h2>Pictures</h2> 
+    <A href="http://www.flickr.com/photos/natatwo"><img src="http://flashandburn.net/flickrtools/50406951@N00/color:eeeeee/recent.png" border="0"></a> 
+</div> 
+
+
+ </div> 
+</div> 
+<div class="clear"></div> 
+<div class="SCbottom"><div></div></div> 
+
+
+</div>
+<!-- Side Right - END  -->
+</div> 
+<!-- container END -->
+</div> 
+<!-- containerBG END -->
+
+<div class="FooterBG">
+<div class="Footer">
+<p><a href="/">Nata2.org</a> is &copy; 1997-2010 <a href="http://www.harperreed.org/contact/">Harper Reed</a>. Powered by <a href="http://jekyllrb.com/">Jekyll</a>.</p>
+
+</div>
+</div>
+</div>
+<!-- bgcontain END-->
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.8/jquery-ui.min.js"></script>
+
+<script type="text/javascript" src="http://media.nata2.org/js/scripts.js?3"></script>
+
+ 
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-70650-9");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+ 
+
+<script type="text/javascript" src="http://twitter.com/statuses/user_timeline/harper.json?callback=twitterCallback2&amp;count=8"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+    var links = document.getElementsByTagName('a');
+    var query = '?';
+    for(var i = 0; i < links.length; i++) {
+    if(links[i].href.indexOf('#disqus_thread') >= 0) {
+        query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
+    }
+    }
+    document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/nata2/get_num_replies.js' + query + '"></' + 'script>');
+})();
+//]]>
+</script>
+
+<script type="text/javascript">
+var _sf_async_config={uid:5483,domain:"nata2.org"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+       "static.chartbeat.com/js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+</script>
+
+</body>
+</html>
