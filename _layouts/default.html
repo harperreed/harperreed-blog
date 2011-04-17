@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
-    <meta charset="utf-8">
+    <meta charset="utf-8" />
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
     <meta name="keywords" content="{% if page.keywords %}{{ page.keywords }}{% else %}{{ site.keywords }}{% endif %}" />
@@ -11,7 +11,8 @@
     <title>{% if page.title %} {{ page.title }} | {% endif %} {{ site.title }}</title> 
 
     <link href="http://feeds.feedburner.com/HarperReed" rel="alternate" title="{{ site.title }}" type="application/atom+xml" />
-    <link rel="stylesheet" href="http://media.nata2.org/css/style.css?{{ site.media_version }}" type="text/css" /> 
+    <link rel="stylesheet" href="/css/reset.css?{{ site.media_version }}" type="text/css" /> 
+    <link rel="stylesheet" href="/css/style.css?{{ site.media_version }}" type="text/css" /> 
     <META name="verify-v1" content="bxsrf6C7p0+qY6MxNCbSNSGdkeDA8dQSxjTsNJu4Sa0=" />
     <link rel="openid.server" href="http://www.myopenid.com/server" />
     <meta name="myid" content="0eda4814-55e0-4756-bf30-0f1bf5a4b469" />
@@ -19,41 +20,16 @@
     <link rel="shorcut icon" type="image/x-ico" href="http://media.nata2.org/favicon.ico" />
 </head> 
 <body>
-<!-- bgcontain START -->
-<div id="bgcontain">
-<!-- header START -->
-<div class="HeaderBG">
-<div class="Header">
+<header>
 {% include header.html %}
-</div> 
-</div> 
-<!-- header END -->
-<!-- containerBG START -->
-<div class="ContainerBG">
-<!-- container START -->
-<div class="Container"> 
-<!-- Central Content START -->
-<div class="SC">
+</header>
+<div class="main">
 {{ content }}
 </div>
-<!-- Central Content END -->
-<!-- Side Right - START -->
-<div class="SR">
-{% include sidebar.html %}
-</div>
-<!-- Side Right - END  -->
-</div> 
-<!-- container END -->
-</div> 
-<!-- containerBG END -->
 
-<div class="FooterBG">
-<div class="Footer">
+<footer id="main">
 {% include footer.html %}
-</div>
-</div>
-</div>
-<!-- bgcontain END-->
+</footer>
 {% include javascript.html %}
 </body>
 </html>

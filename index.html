@@ -1,22 +1,17 @@
 ---
 layout: default
 ---
-{% for post in site.posts limit:5 %}
-<div class="Post" style="padding-bottom: 50px;">
-<div class="PostHead">
-<h1 class="title"><a title="Permanent Link to {{ post.title }}." href="{{post.url}}" rel="bookmark">{{ post.title }}</a></h1>
-<p class="PostDate">
-<strong class="day">{{post.date | date: "%d"}}</strong>
-<strong class="month">{{post.date | date: "%b"}}</strong>
-</p>
-<p class="PostInfo">
-Written by <a href="/about/">harper</a> on {{post.date | date: "%b %d %Y"}}</p>
-</div>
-<div class="PostContent">
-{{ post.content }}
-<ul class="PostDetails"> 
-<li class="PostCom"><a href="{{post.url}}#comments" title="Comment on {{ post.title }}">View Comments</a></li> 
-</ul> 
-</div>
-</div>
+{% for post in site.posts limit:1 %}
+<article>
+  <header>
+    <h1 class="title"><a title="Permanent Link to {{ post.title }}." href="{{post.url}}" rel="bookmark">{{ post.title }}</a></h1>
+    <p class="PostInfo">Written by <a href="/about/">harper</a> on {{post.date | date: "%b %d %Y"}}</p>
+  </header>
+  {{ post.content }}
+  <footer>
+    <ul>
+      <li class="PostCom"><a href="{{post.url}}#comments" title="Comment on {{ post.title }}">View Comments</a></li> 
+    </ul>
+  </footer>
+</article>
 {% endfor %}
