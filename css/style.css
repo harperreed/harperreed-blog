@@ -1,167 +1,286 @@
 /* CSS Document */
-body { margin: 0; padding: 0; background: #fff; font-family: 'Verdana'; color: #40454b;}
-
-
+body {
+    margin: 0;
+    padding: 0;
+    background: #fff;
+    color: #40454b;
+    font-family: 'Verdana'; 
+}
 /* General Links */
 * { font-size: 1.0em }
 h1 { font-size: 1.5em }
 small { font-size: 0.75em }
-a:link { text-decoration : none; color : #3366cc; border: 0px;} 
-a:active { text-decoration : underline; color : #3366cc; border: 0px;} 
-a:visited { text-decoration : none; color : #3366cc; border: 0px;} 
-a:hover { text-decoration : underline; color : #999; border: 0px;} 
 
+a{
+    color : #666;
 
-img { padding: 0px; margin: 0px; border: none;}
-hr { border-left:0px solid #abb0b5; border-right:0px solid #abb0b5; border-top:1px dotted #abb0b5; border-bottom:0px solid #abb0b5; height : 1px;  }
-
-input { font-family: 'Verdana'; color: #6a5555; font-size: 10px; }
-textarea { font-family: 'Verdana'; color: #6a5555; font-size: 10px;  }
-select { font-family: 'Verdana'; color: #6a5555; font-size: 10px;  }
-
-h1, h2, h3 { font-family: 'Arial'; line-height: 26px; letter-spacing: -1px; 
-  margin-bottom: 5px;
-  margin-top: 5px;
 }
-
-h1{ font-size: 2em;
-font-weight: bold;
+a:link {
+    text-decoration : none;
+    color : #3366cc;
+    border: 0px;
 }
-h2{ font-size: 1.5em;
-font-weight: bold;
+a:active {
+    text-decoration : underline;
+    color : #3366cc;
+    border: 0px;
 }
-h3{ font-size: 1.2em;
-font-weight: bold;
+a:visited {
+    text-decoration : none;
+    color : #3366cc;
+    border: 0px;
 }
-
-
-header{
-  margin: 0px auto;
-  width: 650px;
+a:hover {
+    text-decoration : underline;
+    color : #999;
+    border: 0px;
 }
-
-footer#main{
-  margin: 20px auto;
-  margin-bottom: 0px;
-  width: 650px;
-  position: relative;
-  padding-top: 20px;
-  padding-left: 10px;
-  padding-right: 10px;
+img {
+    padding: 0px;
+    margin: 0px;
+    border: none;
 }
-
-.main{
-  margin: 0px auto;
-  width: 650px;
-  position: relative;
-  border-top: solid 1px #666; 
-  padding-top: 20px;
+hr {
+    border-left: 0px solid #abb0b5;
+    border-right: 0px solid #abb0b5;
+    border-top: 1px dotted #abb0b5;
+    border-bottom: 0px solid #abb0b5;
+    height : 1px;
 }
-
+input {
+    color: #6a5555;
+    font-size: 10px;
+}
+textarea {
+    color: #6a5555;
+    font-size: 10px;
+}
+select {
+    color: #6a5555;
+    font-size: 10px;
+}
+h1,
+h2,
+h3 {
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+h1 {
+    font-size: 2em;
+    font-weight: bold;
+}
+h2 {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+h3 {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+header {
+    margin: 0px auto;
+    width: 650px;
+}
+footer#main {
+    margin: 20px auto;
+    margin-bottom: 0px;
+    width: 650px;
+    position: relative;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.main {
+    margin: 0px auto;
+    width: 650px;
+    position: relative;
+    border-top: solid 1px #666;
+    padding-top: 20px;
+}
 /* header */
-header h1 { 
-  font-size: 2em; 
-  letter-spacing: -2px; 
-  font-weight: bold; 
-  line-height: 35px; 
-  padding: 15px 0px 0px 0px; 
-  margin: 0px;}
-header h1 a { text-decoration: none; color:#666;}
-header h1 a:visited { text-decoration: none; color:#666;}
-header h1 a:hover { text-decoration: none; color:#666;}
-header div { 
-  font-size: 1.2em; 
-  font-family: Arial, Helvetica, sans-serif; 
-  font-weight: bold; 
-  letter-spacing: -1px; 
-  color:#999;}
-
-
+header h1 {
+    font-size: 2em;
+    font-weight: bold;
+    padding: 15px 0px 0px 0px;
+    margin: 0px;
+}
+header h1 a {
+    text-decoration: none;
+    color: #666;
+}
+header h1 a:visited {
+    text-decoration: none;
+    color: #666;
+}
+header h1 a:hover {
+    text-decoration: none;
+    color: #666;
+}
+header div {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #999;
+}
 /* footer */
-footer#main{
-  clear: both;
-  background: #eee;
-  border-top-left-radius: 5px;	
-  -moz-border-radius-topleft: 5px;
-  border-top-right-radius: 5px;
-  -moz-border-radius-topright:5px;
-  font-size: 1em;
+footer#main {
+    clear: both;
+    background: #eee;
+    border-top-left-radius: 5px;
+    -moz-border-radius-topleft: 5px;
+    border-top-right-radius: 5px;
+    -moz-border-radius-topright: 5px;
+    font-size: 1em;
 }
-
-footer#main section p{
-	padding-bottom: 20px;
+footer#main section p { padding-bottom: 20px }
+footer#main section a {
+    color: #888;
+    text-decoration: none;
 }
-footer#main section a { color: #888; text-decoration: none; }
-footer#main section a:hover { color: #444; text-decoration: none; }
-footer#main section h2,footer section h3 { font-size: 14px; letter-spacing: -1px; padding: 5px 0px; margin: 0px; border-bottom: solid 1px #bbb; color:#323740;}
-footer#main section ul { padding: 0px; margin: 0px;}
-footer#main section li { padding: 0px; margin: 0px; list-style-type: none;}
-footer#main section li a { padding: 2px 0px 3px 8px; color: #555; text-decoration: none; border-bottom: solid 1px #ccc; background: url(http://media.nata2.org/images/CategIco.png) no-repeat left top; width: 152px; display: block;}  
-footer#main section li a:visited { color: #555; text-decoration: none; border-bottom: solid 1px #ccc;} 
-footer#main section li a:hover { text-decoration: none; color: #777; border-bottom: solid 1px #999;} 
-
-footer section#meta{
-  font-size: .75em;
-  text-align: center;
+footer#main section a:hover {
+    color: #444;
+    text-decoration: none;
 }
-
-
+footer#main section h2,
+footer section h3 {
+    font-size: 1em;
+    padding: 5px 0px;
+    margin: 0px;
+    border-bottom: solid 1px #bbb;
+    color: #323740;
+}
+footer#main section ul {
+    padding: 0px;
+    margin: 0px;
+}
+footer#main section li {
+    padding: 0px;
+    margin: 0px;
+    list-style-type: none;
+}
+footer#main section li a {
+    padding: 2px 0px 3px 8px;
+    color: #555;
+    text-decoration: none;
+    border-bottom: solid 1px #ccc;
+    background: url(http://media.nata2.org/images/CategIco.png) no-repeat left top;
+    width: 152px;
+    display: block;
+}
+footer#main section li a:visited {
+    color: #555;
+    text-decoration: none;
+    border-bottom: solid 1px #ccc;
+}
+footer#main section li a:hover {
+    text-decoration: none;
+    color: #777;
+    border-bottom: solid 1px #999;
+}
+footer section#meta {
+    font-size: .75em;
+    text-align: center;
+}
 /*main */
-
-.main h1 { font-size: 35px; letter-spacing: -2px; line-height: 35px; padding: 15px 0px 0px 0px; margin: 0px;}
-.main img { padding: 1px; border: solid 1px #f0f0f0; margin: 0px 15px 15px 0px;}
-.main blockquote { padding: 3px 15px; background: #FFFFee; margin: 10px 0px; color:#666;}
-.main blockquote p { font-size: 11px; padding: 5px 0px; margin: 5px 0px; line-height: 15px;}
-.main ul { font-size: 11px; padding-left: 12px; }
-
-.main header{
-
+.main h1 {
+    font-size: 2em;
+    padding: 15px 0px 0px 0px;
+    margin: 0px;
 }
-
-.main footer{
-  margin: 0px auto;
-  width: 700px;
-  position: relative;
-  border-top: solid 0px #666; 
+.main img {
+    padding: 1px;
+    border: solid 1px #f0f0f0;
+    margin: 0px 15px 15px 0px;
 }
-
-
-
+.main blockquote {
+    padding: 3px 15px;
+    background: #FFFFee;
+    margin: 10px 0px;
+    color: #666;
+}
+.main blockquote p {
+    font-size: .8em;
+    padding: 5px 0px;
+    margin: 5px 0px;
+}
+.main ul {
+    font-size: .8em;
+    padding-left: 12px;
+}
+.main header { }
+.main footer {
+    margin: 0px auto;
+    width: 700px;
+    position: relative;
+    border-top: solid 0px #666;
+}
 /* +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
-article {	position: relative; clear: left; }
-article h1 { 
-  font-size: 2em; 
-  line-height: 22px; 
-  letter-spacing: -1px; 
-  font-weight: normal; 
-  font-family: 'Arial'; 
-  padding: 0px; 
-  margin: 0px; 
+article {
+    position: relative;
+    clear: left;
 }
-article h1 a { background: #FFFFDD; color: #666; text-decoration: none;}
-article h1 a:visited { color: #666; text-decoration: none;}
-article h1 a:hover { color: #999; text-decoration: none;}
-
-article { 
+article h1 {
+    font-size: 2em;
+    font-weight: normal;
+    padding: 0px;
+    margin: 0px;
 }
-article p { 
-  font-family: 'Arial'; 
-  font-size: 1em; 
-  line-height: 16px; 
-  margin-bottom: 10px;
-  margin-top: 10px;
+article h1 a {
+    background: #FFFFDD;
+    color: #666;
+    text-decoration: none;
 }
-article img { padding: 1px; border: solid 1px #f0f0f0; margin: 0px 15px 15px 0px;}
-article blockquote { padding: 3px 15px; background: #FFFFee; margin: 10px 0px; color:#666;}
-article blockquote p { font-size: 11px; padding: 5px 0px; margin: 5px 0px; line-height: 15px;}
-article ul { font-size: 11px; padding-left: 12px; }
-
-article footer { padding: 0px; margin: 0px; font-size: 11px; color: #828282;}
-article footer em { font-style: normal;}
-article footer em a { text-decoration: underline; color: #828282;}
-article footer em a:visited { text-decoration: underline; color: #828282;}
-article footer em a:hover { text-decoration: underline; color: #828282; }
-
+article h1 a:visited {
+    color: #666;
+    text-decoration: none;
+}
+article h1 a:hover {
+    color: #999;
+    text-decoration: none;
+}
+article { }
+article p {
+    font-size: 1em;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+article img {
+    padding: 1px;
+    border: solid 1px #f0f0f0;
+    margin: 0px 15px 15px 0px;
+}
+article blockquote {
+    padding: 3px 15px;
+    background: #FFFFee;
+    margin: 10px 0px;
+    color: #666;
+}
+article blockquote p {
+    font-size: .8em;
+    padding: 5px 0px;
+    margin: 5px 0px;
+}
+article ul {
+    font-size: .8em;
+    padding-left: 12px;
+}
+article footer {
+    padding: 0px;
+    margin: 0px;
+    font-size: .8em;
+    color: #828282;
+}
+article footer em { font-style: normal }
+article footer em a {
+    text-decoration: underline;
+    color: #828282;
+}
+article footer em a:visited {
+    text-decoration: underline;
+    color: #828282;
+}
+article footer em a:hover {
+    text-decoration: underline;
+    color: #828282;
+}
 /*++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
-
 
