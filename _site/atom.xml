@@ -4,7 +4,7 @@
  <title>Harper Reed: Technology and death metal</title>
  <link href="http://www.nata2.org/atom.xml" rel="self"/>
  <link href="http://www.nata2.org"/>
- <updated>2011-04-18T16:14:59-05:00</updated>
+ <updated>2011-10-02T16:44:06-05:00</updated>
  <id>http://www.nata2.org</id>
 
  
@@ -14,6 +14,21 @@
  </author>
  
  
+ 
+ <entry>
+   <title>BUSY! busy busy.</title>
+   <link href="http://www.nata2.org/2011/10/02/busy/"/>
+   <updated>2011-10-02T00:00:00-05:00</updated>
+   <id>http://www.nata2.org/2011/10/02/busy</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://farm7.static.flickr.com/6014/5933954537_392b0caa83_m.jpg&quot; width=&quot;180&quot; height=&quot;240&quot; alt=&quot;What @hiromiusagi has to deal with everyday&quot; align=&quot;right&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;It has been about nine months since I last posted on this blog. I promise I haven't completely forgotten about it. I am so busy that when I have a quick second to  think about posting - I am suddenly thinking about the next thing and the thoughts about my blog have disappeared.&lt;/p&gt;
+
+&lt;p&gt;I am busy because of the awesome work I am doing with all the amazing people at &lt;a href=&quot;http://barackobama.com&quot;&gt;Obama for America&lt;/a&gt;. Although, I miss writing articles about my coding and traveling, I love (and more importantly believe in) the work we are doing.&lt;/p&gt;
+
+&lt;p&gt;I will attempt to write a meaningful post soon (hah. who am I kidding. It will be many moons before I post again!). In the meantime, please feel free to &lt;a href=&quot;https://twitter.com/intent/tweet?text=@harper+yo&quot;&gt;hit me up&lt;/a&gt; on twitter (I am  &lt;a href=&quot;https://twitter.com/intent/follow?screen_name=harper&quot;&gt;@harper&lt;/a&gt;), check out the &lt;a href=&quot;https://harperreed.org/books&quot;&gt;books I am reading&lt;/a&gt; and give to my &lt;a href=&quot;https://donate.barackobama.com/page/outreach/view/2012/harper&quot;&gt;personal fundraising page&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>OMG FREE HOSTING: How to use GAE to host static sites for free</title>
@@ -346,13 +361,14 @@ The High Replication Datastore increases the number of data centers that maintai
 
 &lt;p&gt;Below is my talk. I spoke about fostering a community of problem solvers. Here are my &lt;a href=&quot;https://docs.google.com/present/view?id=dd3wvxq5_649fzcvqpvz&amp;amp;interval=5&amp;amp;autoStart=true&quot;&gt;slides&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;object width=&quot;480&quot; height=&quot;296&quot; classid=&quot;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&quot;&gt;
+&lt;object width=&quot;480&quot; height=&quot;296&quot; classid=&quot;clsid:d27cdb6e-ae6d-11cf-96b8-444553540000&quot;&gt;
   &lt;param name=&quot;flashvars&quot; value=&quot;autoplay=false&quot;/&gt;
   &lt;param name=&quot;allowfullscreen&quot; value=&quot;true&quot;/&gt;
   &lt;param name=&quot;allowscriptaccess&quot; value=&quot;always&quot;/&gt;
   &lt;param name=&quot;src&quot; value=&quot;http://www.ustream.tv/flash/viewer.swf?vid=10471743&quot;/&gt;
   &lt;embed flashvars=&quot;autoplay=false&amp;amp;locale=en_US&quot; width=&quot;480&quot; height=&quot;296&quot; allowfullscreen=&quot;true&quot; allowscriptaccess=&quot;always&quot; src=&quot;http://www.ustream.tv/flash/viewer.swf?vid=10471743&quot; type=&quot;application/x-shockwave-flash&quot;/&gt;
-&lt;/object&gt;&lt;/p&gt;
+&lt;/object&gt;
+
 
 &lt;p&gt;Would love to know your thoughts.&lt;/p&gt;
 
@@ -684,25 +700,6 @@ I am excited to be a part of Venture Hacks helping them find amazing startups fo
 &lt;p&gt;Then a couple days later the Kindle app was released. Like the Kindle - it is awesome. hah. With the Kindle app for the iphone and the Kindle, you are able to sync your placemarks on the books you are reading. You could read to a certain point in a novel while on your commute - then go to a meeting and pick up your iphone and continue reading from where you left off on your kindle. Then you coudl pick up the kindle and it would sync to where you left off on the iphone. That is cool. I tried it and it works. It is a bit wonky - but for the most part it works great. The only issue i have with the app is that it doesn't have ANY of the content that you upload via email. It is only amazon purchased content. Lame. I read a lot of &quot;found&quot; books and a lot of purchased books. An example is a series of books where 2-4 are in the amazon kindle store, but book 1 isn't. I find book 1 elsewhere and then buy 2-4. However, I can't read book 1 on my iphone. Only the kindle. WHAT IS THE WORLD COMING TO. ;) I understand amazon's reasoning for this - and I don't expect it to change. I do wish i could push my emailed books into their cloud and handle them a bit better (with metadata, etc). I doubt that will happen.&lt;/p&gt;
 
 &lt;p&gt;If you read a lot and want a great reading experience, you should &lt;a href=&quot;http://www.amazon.com/gp/product/B00154JDAI?ie=UTF8&amp;amp;tag=nata2productions&amp;amp;linkCode=as2&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B00154JDAI&quot;&gt;buy a kindle.&lt;/a&gt;&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Python Oauth Client - Excla.im</title>
-   <link href="http://www.nata2.org/2009/02/28/python-oauth-client-exclaim/"/>
-   <updated>2009-02-28T17:04:04-06:00</updated>
-   <id>http://www.nata2.org/2009/02/28/python-oauth-client-exclaim</id>
-   <content type="html">&lt;p&gt;I built &lt;a href=&quot;http://excla.im&quot;&gt;Excla.im&lt;/a&gt; quite awhile ago, well before &lt;a href=&quot;http://twitter.com/harper&quot;&gt;Twitter&lt;/a&gt; unleased their oauth beta program. Regardless, &lt;a href=&quot;http://factoryjoe.com/blog/&quot;&gt;Chris Messina&lt;/a&gt; &lt;a href=&quot;http://flickr.com/photos/factoryjoe/2841257703/&quot;&gt;tagged the Excla.im sign up process as an anty pattern&lt;/a&gt; within his flickr stream. I was bummed because i would have loved to use Oauth to authenticate Excla.im. But because of the tagging, i was constantly thinking about how to remove the anti pattern.&lt;/p&gt;
-
-&lt;p&gt;Finally, Twitter released the &lt;a href=&quot;http://groups.google.com/group/twitter-development-talk/browse_thread/thread/42486bd3d7d136d0/f0e89b742bf0033e?pli=1&quot;&gt;Oauth Beta&lt;/a&gt; and I was able to bribe @&lt;a href=&quot;http://al3x.net/&quot;&gt;Al3x&lt;/a&gt; to give me access (which reminds me, i need to send my &lt;a href=&quot;http://flickr.com/photos/natatwo/3149040948/&quot;&gt;bribe&lt;/a&gt;). I then sat for a month looking at the various python examples for OAuth and basically said &quot;What The Fuck&quot; over and over again. There were no solid examples and my experience with OAuth in PHP was a total hack so i could post shit to fireeagle. I was SOL as to finding a guide.&lt;/p&gt;
-
-&lt;p&gt;Then &lt;a href=&quot;http://abrah.am&quot;&gt;abrah.am&lt;/a&gt; released his &lt;a href=&quot;http://github.com/poseurtech/twitteroauth/tree/master)&quot;&gt;PHP twitter OAuth lib&lt;/a&gt;. It worked really well and was pretty much just plug and play to use it in a PHP app. Nice. I wanted that but in python. I decided to spend a minute or two and create it.&lt;/p&gt;
-
-&lt;p&gt;The base library my client is using is the the &lt;a href=&quot;http://code.google.com/p/gdata-python-client/source/browse/trunk/src/gdata/#gdata/oauth&quot;&gt;OAuth lib&lt;/a&gt; from &lt;span style=&quot;text-decoration: none; color: #000000;&quot;&gt;google &lt;a href=&quot;http://code.google.com/p/gdata-python-client/&quot;&gt;gdata-python-client&lt;/a&gt;&lt;/span&gt;&lt;a href=&quot;http://code.google.com/p/gdata-python-client/&quot;&gt; project&lt;/a&gt;. I figure it is a working client and is in production use - so it should be solid. There are very few &lt;a href=&quot;http://code.google.com/p/gdata-python-client/source/browse/trunk/src/gdata/oauth/CHANGES.txt&quot;&gt;changes&lt;/a&gt; between it and the official client that is released through &lt;a href=&quot;http://oauth.googlecode.com/svn/code/python/oauth/&quot;&gt;oauth.net&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The client is rather simple, in fact it should work with other api providers with very little work. You can check it out at &lt;a href=&quot;http://github.com/harperreed/twitteroauth-python/&quot;&gt;github&lt;/a&gt;. Please let me know feedback. i am a python n00b - so give me your best shot/code review. I am using Google Code as a &lt;a href=&quot;http://code.google.com/p/twitteroauth-python/issues/list&quot;&gt;issue tracker&lt;/a&gt;, so feel free to &lt;a href=&quot;http://code.google.com/p/twitteroauth-python/issues/entry&quot;&gt;post some bugs&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;It is rather pluggable. I was able to launch excla.im (on app engine) with oauth support in no time. I am currently not holding passwords for anyone. It is an awesome feeling.&lt;/p&gt;
 </content>
  </entry>
  
