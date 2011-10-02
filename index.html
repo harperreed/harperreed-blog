@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{% for post in site.posts limit:5 %}
+{% for post in site.posts limit:1 %}
 <div class="Post" style="padding-bottom: 50px;">
 <div class="PostHead">
 <h1 class="title"><a title="Permanent Link to {{ post.title }}." href="{{post.url}}" rel="bookmark">{{ post.title }}</a></h1>
@@ -15,8 +15,25 @@ Written by <a href="/about/">harper</a> on {{post.date | date: "%b %d %Y"}}</p>
 <div class="PostContent">
 {{ post.content }}
 <ul class="PostDetails"> 
-<li class="PostCom"><a href="{{post.url}}#comments" title="Comment on {{ post.title }}">View Comments</a></li> 
+  <!--<li class="PostCom"><a href="{{post.url}}#comments" title="Comment on {{ post.title }}">View Comments</a></li> -->
 </ul> 
 </div>
 </div>
 {% endfor %}
+
+
+<div class="Post" style="padding-bottom: 50px;">
+<div class="PostHea">
+<h1>Check out some of my past posts.</h1>
+</div>
+<div class="PostContent">
+   <ul class="PostDetails">
+  {% for post in site.posts limit: 20%}
+    <li>
+      {{ post.date | date: "%b %d, %Y"  }} &mdash; <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+  </ul>
+
+</div>
+</div>
