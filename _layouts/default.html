@@ -1,59 +1,47 @@
-<!doctype html>
+
+<!DOCTYPE html>
 <html lang="en">
-<head>
-<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+  <head>
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
     <meta charset="utf-8">
-    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title>{% if page.title %} {{ page.title }} | {% endif %} {{ site.title }}</title>
     <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
     <meta name="keywords" content="{% if page.keywords %}{{ page.keywords }}{% else %}{{ site.keywords }}{% endif %}" />
     <meta name="author" content="Harper Reed: harper@nata2.org">
     <meta name="robots" content="noodp,noydir" />
-    <title>{% if page.title %} {{ page.title }} | {% endif %} {{ site.title }}</title> 
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
 
-    <link href="http://feeds.feedburner.com/HarperReed" rel="alternate" title="{{ site.title }}" type="application/atom+xml" />
-    <link rel="stylesheet" href="http://media.nata2.org/css/style.css?{{ site.media_version }}" type="text/css" /> 
+    <link href="/css/bootstrap.css?{{ site.media_version }}" rel="stylesheet">
+    <link href="/css/style.css?{{ site.media_version }}" rel="stylesheet">
+    <link href="/css/bootstrap-responsive.css?{{ site.media_version }}" rel="stylesheet">
+
     <META name="verify-v1" content="bxsrf6C7p0+qY6MxNCbSNSGdkeDA8dQSxjTsNJu4Sa0=" />
     <link rel="openid.server" href="http://www.myopenid.com/server" />
     <meta name="myid" content="0eda4814-55e0-4756-bf30-0f1bf5a4b469" />
     <link rel="openid.delegate" href="http://harper.myopenid.com/" />
-    <link rel="shorcut icon" type="image/x-ico" href="http://media.nata2.org/favicon.ico" />
-</head> 
-<body>
-<!-- bgcontain START -->
-<div id="bgcontain">
-<!-- header START -->
-<div class="HeaderBG">
-<div class="Header">
-{% include header.html %}
-</div> 
-</div> 
-<!-- header END -->
-<!-- containerBG START -->
-<div class="ContainerBG">
-<!-- container START -->
-<div class="Container"> 
-<!-- Central Content START -->
-<div class="SC">
-{{ content }}
-</div>
-<!-- Central Content END -->
-<!-- Side Right - START -->
-<div class="SR">
-{% include sidebar.html %}
-</div>
-<!-- Side Right - END  -->
-</div> 
-<!-- container END -->
-</div> 
-<!-- containerBG END -->
+    <link href="http://feeds.feedburner.com/HarperReed" rel="alternate" title="{{ site.title }}" type="application/atom+xml" />
+    <link rel="shortcut icon" href="http://media.nata2.org/favicon.ico">
+  </head>
 
-<div class="FooterBG">
-<div class="Footer">
-{% include footer.html %}
-</div>
-</div>
-</div>
-<!-- bgcontain END-->
-{% include javascript.html %}
+  <body>
+
+   
+    <div class="container">
+      <div class="row">
+        <div class="span10 offset1 header">{% include header.html %}</div>
+      </div>
+      <hr class="span10 ">
+      <div class="row">
+        <div class="span6 offset1 ">{{ content }}</div>
+        <div class="span4 well sidebar">{% include sidebar.html %}</div>
+        <div class="span10 offset1">{% include footer.html %}</div>
+      </div>
+    </div> <!-- /container -->
+  {% include javascript.html %}
+  </body>
+</html>
+
 </body>
 </html>
