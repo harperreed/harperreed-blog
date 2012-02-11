@@ -3,11 +3,9 @@ layout: default
 ---
 
 
-<div class="Post" style="padding-bottom: 50px;">
-  <div >
-    <h1 class="title">This blog is relatively paused</h1>
-  </div>
-  <div class="PostContent">
+<div class="entry" style="padding-bottom: 60px;">
+  <h2 class="title">This blog is relatively paused</h2>
+  <div class="content">
     <p><img src="http://farm7.static.flickr.com/6014/5933954537_392b0caa83_m.jpg" width="180" height="240" alt="What @hiromiusagi has to deal with everyday" align="right"></p>
 
     <p>It has been many months since I last posted on this blog. I promise I haven't completely forgotten about it. </p>
@@ -20,18 +18,17 @@ layout: default
 </div>
 
 
-<div class="Post" style="padding-bottom: 50px;">
-<div class="PostHea">
-<h1>Check out some of my most past posts.</h1>
-</div>
-<div class="PostContent">
-   <ul class="PostDetails">
-  {% for post in site.posts limit: 20%}
-    <li>
-      {{ post.date | date: "%b %d, %Y"  }} &mdash; <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-  </ul>
 
-</div>
+<div class="entry" style="padding-bottom: 50px;">
+  <h2 class="title">Check out some of my most recent posts.</h2>
+  <div class="content">
+   <ul>
+    {% for post in site.posts limit: 20%}
+      <li>
+        {{ post.date | date: "%b %d, %Y"  }} &mdash; <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+    </ul>
+
+  </div>
 </div>

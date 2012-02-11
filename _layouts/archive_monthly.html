@@ -4,7 +4,7 @@ layout: default
 
 <h1>Archives</h1
 <h2>{{ page.month | to_month }} {{ page.year }}</h2>
-<ul>
+<ul class="unstyled">
   {% for d in (1..31) reversed %}
     {% if site.collated_posts[page.year][page.month][d] %}
       {% for p in site.collated_posts[page.year][page.month][d] reversed %}

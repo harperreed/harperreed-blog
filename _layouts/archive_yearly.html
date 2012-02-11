@@ -8,7 +8,7 @@ layout: default
 {% for m in (1..12) reversed %}
   {% if site.collated_posts[page.year][m] %}
     <h3>{{ m | to_month }}</h3>
-    <ul>
+    <ul class="unstyled">
     {% for d in (1..31) reversed %}
       {% if site.collated_posts[page.year][m][d] %}
         {% for p in site.collated_posts[page.year][m][d] reversed %}
