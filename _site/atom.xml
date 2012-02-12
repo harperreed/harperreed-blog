@@ -4,7 +4,7 @@
  <title>Harper Reed: Technology and death metal</title>
  <link href="http://www.nata2.org/atom.xml" rel="self"/>
  <link href="http://www.nata2.org"/>
- <updated>2012-02-11T01:09:54-06:00</updated>
+ <updated>2012-02-11T19:01:22-06:00</updated>
  <id>http://www.nata2.org</id>
 
  
@@ -14,6 +14,69 @@
  </author>
  
  
+ 
+ <entry>
+   <title>Me on The Setup: Harper Reed uses this.</title>
+   <link href="http://www.nata2.org/2012/02/11/usesthis/"/>
+   <updated>2012-02-11T00:00:00-06:00</updated>
+   <id>http://www.nata2.org/2012/02/11/usesthis</id>
+   <content type="html">&lt;h3&gt;Preface&lt;/h3&gt;
+
+&lt;p&gt;I have been following &lt;a href=&quot;http://usesthis.com&quot;&gt;The Setup&lt;/a&gt; for quite awhile. I love learning about the &lt;strong&gt;how&lt;/strong&gt;, &lt;strong&gt;why&lt;/strong&gt; and &lt;strong&gt;what&lt;/strong&gt; of getting things done. The Setup does such a great job of shifting the dialog to the objects that are behind the action.&lt;/p&gt;
+
+&lt;p&gt;So, as a long time reader, I was stoked when Daniel (aka &lt;a href=&quot;http://waferbaby.com&quot;&gt;waferbaby&lt;/a&gt;) reached out and asked if I would like to do an interview.&lt;/p&gt;
+
+&lt;p&gt;Although I have included it here, please &lt;a href=&quot;http://harper.reed.usesthis.com/&quot;&gt;check it out&lt;/a&gt; on &lt;a href=&quot;http://usesthis.com&quot;&gt;The Setup&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1&gt;My interview for &lt;a href=&quot;http://usesthis.com&quot;&gt;The Setup&lt;/a&gt;&lt;/h1&gt;
+
+&lt;h4&gt;Who are you, and what do you do? (Try to keep this brief!)&lt;/h4&gt;
+
+&lt;p&gt;I am &lt;a href=&quot;http://harperreed.org&quot;&gt;Harper Reed&lt;/a&gt;. I make things happen on the internet. I am a connector and a technologist. I like to meld both of those things together to connect people to one another and enable them to build amazing technology. In the past I spent a bunch of time helping &lt;a href=&quot;http://threadless.com&quot;&gt;Threadless&lt;/a&gt; grow, then I helped &lt;a href=&quot;http://www.sandboxindustries.com/&quot;&gt;startups&lt;/a&gt; in Chicago &lt;a href=&quot;http://www.exceleratelabs.com/&quot;&gt;grow&lt;/a&gt;, and now I am helping &lt;a href=&quot;http://barackobama.com&quot;&gt;reelect the president&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4&gt;What hardware are you using?&lt;/h4&gt;
+
+&lt;p&gt;I typically have two workstations that I keep in sync via &lt;a href=&quot;http://dropbox.com&quot;&gt;Dropbox&lt;/a&gt; and &lt;a href=&quot;http://git-scm.com/&quot;&gt;Git&lt;/a&gt;. In the past, I have relied on a trusty &lt;a href=&quot;http://en.wikipedia.org/wiki/ThinkPad#X_series&quot;&gt;Lenovo X series&lt;/a&gt; laptop running &lt;a href=&quot;http://www.ubuntu.com/&quot;&gt;Ubuntu&lt;/a&gt; that I carry with me and then a workstation at home that is some form of macbook pro/mac mini. I used this setup for many years and loved it. Recently, because I fell in love with the &lt;a href=&quot;http://en.wikipedia.org/wiki/MacBook_Air#Design&quot;&gt;Macbook Air form factor&lt;/a&gt;, I migrated away from the lenovo and ubuntu in favor of a tiny happy &lt;a href=&quot;http://support.apple.com/kb/SP631&quot;&gt;11&quot; Macbook Air (i7)&lt;/a&gt;. It works well. For my desktop workstation I am using a late-model &lt;a href=&quot;http://support.apple.com/kb/SP632&quot;&gt;Mac Mini (i7)&lt;/a&gt; paired with a &lt;a href=&quot;http://www.samsung.com/ph/consumer/monitor-peripherals-printer/monitor/lcd-monitor/LS23MYZKFNA/XP/index.idx?pagetype=prd_detail&quot;&gt;Samsung SyncMaster 2343 monitor&lt;/a&gt;. It looks great and doesn't take up too much space on my desk.&lt;/p&gt;
+
+&lt;p&gt;I obsess about bags. My daily driver is an &lt;a href=&quot;https://www.chromebagsstore.com/bags/laptop-bags/buran.html&quot;&gt;black on black Chrome Buran bag&lt;/a&gt;. It is a very good bag. It isn't too fancy or clever. It just works. I sometimes travel using an &lt;a href=&quot;http://countycomm.com/minebag.html&quot;&gt;EOD mini utility bag&lt;/a&gt;. It fits my air, power cord and a change of clothes. Recently a friend picked up a &lt;a href=&quot;http://defybags.com/urban-cowboy.html&quot;&gt;Defy Urban Cowboy bag&lt;/a&gt;. It has an amazing buckle and fits the air perfectly.  Inside of these bags, my air lives in its own &lt;a href=&quot;http://www.etsy.com/shop/packandsmooch&quot;&gt;Pack and Smooch&lt;/a&gt; &lt;a href=&quot;http://www.etsy.com/listing/62891440/11-inch-macbook-air-sleeve-hampshire-lts&quot;&gt;Hampshire pouch&lt;/a&gt;. It is felt and leather and was designed to not scratch up your air. Looks great too.&lt;/p&gt;
+
+&lt;p&gt;In my bag, I have a few organizational aids. I wrap up my Air power cord using the &lt;a href=&quot;http://www.quirky.com/products/15-PowerCurl-Mac-Cord-Manager&quot;&gt;Quirky PowerCurl&lt;/a&gt; (I love it because it is handy and &lt;a href=&quot;http://en.wikipedia.org/wiki/Crowdsourcing&quot;&gt;crowdsourced&lt;/a&gt;). I keep a lot of miscellaneous cords, and whatnot in a &lt;a href=&quot;http://www.service.kleintools.com/Tools/PRD/Category/Zipper%20Bag%20-%20Canvas%20TOOLBAGS-CANVASTLBG-ZIPPERCNVS/Product/5139&quot;&gt;Klein Tools canvas utility bag&lt;/a&gt;. It is handy to have a bag in my main bag to stuff things that will normally get lost.&lt;/p&gt;
+
+&lt;p&gt;At work I listen to a pair of &lt;a href=&quot;http://www.aiaiai.dk/store/headphones/tma-1&quot;&gt;AiAiAi TMA-1&lt;/a&gt; powered by a &lt;a href=&quot;http://www.ebay.com/sch/juice2214/m.html?_nkw=&amp;amp;_armrs=1&amp;amp;_from=&amp;amp;_ipg=&amp;amp;_trksid=p3686#ptm250917156510&quot;&gt;candy tin headphone amp&lt;/a&gt;. At home I listen to a pair of &lt;a href=&quot;http://www.gradolabs.com/page_headphones.php?item=f4ba8830232696b5f580bd531134b668&quot;&gt;Grado sr60i&lt;/a&gt;. I find that the Grado  headphones are quite noisy for people around me compared to the TMA-1s. Both are fine. I carry in my bag a pair of &lt;a href=&quot;http://www.shure.com/americas/products/earphones-headphones/se-models/se115-sound-isolating-earphones&quot;&gt;Shure SE115 earphones&lt;/a&gt; for use when commuting or flying.&lt;/p&gt;
+
+&lt;p&gt;For a mobile comminucations, my primary device is a &lt;a href=&quot;http://en.wikipedia.org/wiki/Iphone_4s&quot;&gt;iPhone 4S&lt;/a&gt;. I use Sprint for the carrier so that I can take advantage of the &lt;a href=&quot;http://www.google.com/googlevoice/sprint/&quot;&gt;Sprint/Google Voice integration&lt;/a&gt;.  This enables me to switch between my android phone (a well used &lt;a href=&quot;http://en.wikipedia.org/wiki/Nexus_S&quot;&gt;Nexus S&lt;/a&gt; on T-mobile) and my iPhone whenever I feel like it.  The iPhone is an amazing device. The camera is outstanding, the app ecosystem is great, the OS is frustrating. ;)&lt;/p&gt;
+
+&lt;p&gt;I aggressively use my &lt;a href=&quot;http://en.wikipedia.org/wiki/Amazon_Kindle&quot;&gt;Kindle&lt;/a&gt;. I am a &lt;a href=&quot;http://harperreed.org/books&quot;&gt;voracious reader&lt;/a&gt; and the kindle is my constant companion on the quest to consume as many books as possible. The kindle has been a magical device for me. Besides being able to instantly start new books, I love how single purpose the kindle is. It makes it very easy to read books (as it should). I imagine that it will eventually become the &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Diamond_Age&quot;&gt;Young Lady's Illustrated Primer&lt;/a&gt; that I want so badly. Until then, it will be my book consuming machine.&lt;/p&gt;
+
+&lt;p&gt;A quick note on Kindles: I have owned the suite of Kindle devices. The best kindle they have made is the &lt;a href=&quot;http://en.wikipedia.org/wiki/Amazon_Kindle#Kindle&quot;&gt;Kindle 4&lt;/a&gt; (also known as the cheap kindle). After using the &lt;a href=&quot;https://twitter.com/#!/zachklein/status/1192280043&quot;&gt;Aztec Kindle&lt;/a&gt;, the various Kindles with keyboards and finally the Kindle touch - I find that I am able to be a happier and more efficient reader with the cheaper kindle.&lt;/p&gt;
+
+&lt;h4&gt;And what software?&lt;/h4&gt;
+
+&lt;p&gt;I try and keep a pretty simple software catalog. I don't want too many apps clogging my various tubes.&lt;/p&gt;
+
+&lt;p&gt;To browse the interwebs, I use &lt;a href=&quot;http://www.google.com/chrome&quot;&gt;Google Chrome&lt;/a&gt;. I edit all sorts of documents with &lt;a href=&quot;http://en.wikipedia.org/wiki/Vi&quot;&gt;Vi&lt;/a&gt; (I really like &lt;a href=&quot;https://code.google.com/p/macvim/&quot;&gt;MacVim&lt;/a&gt; + &lt;a href=&quot;https://github.com/carlhuda/janus&quot;&gt;Janus&lt;/a&gt; on OSX). I use iTunes to listen to locally stored music. I use &lt;a href=&quot;https://en.wikipedia.org/wiki/Ichat&quot;&gt;ichat&lt;/a&gt;/&lt;a href=&quot;https://en.wikipedia.org/wiki/Adium&quot;&gt;adium&lt;/a&gt; (on OSX) or &lt;a href=&quot;https://en.wikipedia.org/wiki/Gajim&quot;&gt;Gajim&lt;/a&gt; (ubuntu) for messaging; for IRC, I use  &lt;a href=&quot;http://www.scrollz.com/&quot;&gt;Scrollz&lt;/a&gt; (inside &lt;a href=&quot;http://en.wikipedia.org/wiki/GNU_Screen&quot;&gt;screen&lt;/a&gt; (thinking about migrating to &lt;a href=&quot;http://tmux.sourceforge.net/&quot;&gt;tmux&lt;/a&gt;) on a shell). I use whatever generic terminal is available for my shells. To make my shell experience on OSX bearable, I use &lt;a href=&quot;https://github.com/mxcl/homebrew&quot;&gt;homebrew&lt;/a&gt; (I shudder to think how things used to be on OSX). I use &lt;a href=&quot;http://dropbox.com/&quot;&gt;dropbox&lt;/a&gt; and &lt;a href=&quot;http://git-scm.com/&quot;&gt;git&lt;/a&gt; to keep things wrapped together. I have been experimenting with keeping my data in &lt;a href=&quot;http://en.wikipedia.org/wiki/Sparse_image#Sparse_bundle&quot;&gt;encrypted sparse bundles&lt;/a&gt; stored in git/dropbox.&lt;/p&gt;
+
+&lt;p&gt;Inside the browser I use a bunch of software to get things done. I rely on &lt;a href=&quot;http://google.com/a/&quot;&gt;Google Apps&lt;/a&gt; for a lot (mail, docs, collaboration, sms, voice, etc).  I use &lt;a href=&quot;http://simplenoteapp.com&quot;&gt;simple note&lt;/a&gt; to keep track of random thoughts on my phone.&lt;/p&gt;
+
+&lt;p&gt;I love and use &lt;a href=&quot;http://github.com&quot;&gt;github&lt;/a&gt;. I was not a git convert at first, but github made sharing code and working collaboratively better than ever. It is an amazing tool. I now use git everyday and it has made me a better developer and collaborator.&lt;/p&gt;
+
+&lt;p&gt;For some strange reason, I use both &lt;a href=&quot;https://en.wikipedia.org/wiki/Amazon_Cloud_Drive#Cloud_Player&quot;&gt;Amazon Cloudplayer&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/Music_Beta_by_Google&quot;&gt;Google Music&lt;/a&gt;. They are functionally almost exactly the same and I have similar music collections on both. I switch arbitrarily between them. I purchase most of my music from &lt;a href=&quot;https://en.wikipedia.org/wiki/Amazon_MP3&quot;&gt;Amazon MP3&lt;/a&gt;. I also listen to &lt;a href=&quot;https://en.wikipedia.org/wiki/Rdio&quot;&gt;RDIO&lt;/a&gt; when I am lazy. I listen to &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Hype_Machine&quot;&gt;hype machine&lt;/a&gt; more often than I should.&lt;/p&gt;
+
+&lt;p&gt;One of my favorite killer apps is &lt;a href=&quot;http://partycapp.appspot.com&quot;&gt;partychat&lt;/a&gt;. It is an &lt;a href=&quot;https://code.google.com/p/partychapp/&quot;&gt;open source&lt;/a&gt; jabber based persistent chat room. It works with google talk and is VERY simple. I use this to communicate with small groups of friends/collaborators. It has allowed &lt;a href=&quot;http://kntd.us&quot;&gt;us&lt;/a&gt; to collaborate on some amazing things.&lt;/p&gt;
+
+&lt;h4&gt;What would be your dream setup?&lt;/h4&gt;
+
+&lt;p&gt;I am lucky and am pretty happy with my current setup. I would easily add faster internet, more memory, smaller devices, better battery life and more general device convergence. also the &lt;a href=&quot;http://en.wikipedia.org/wiki/Technological_singularity&quot;&gt;singularity&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;My dream setup from when I was in high school is more interesting. I spent hours drooling over the advertisements in the back of &lt;a href=&quot;https://en.wikipedia.org/wiki/Computer_Shopper_(US_magazine&quot;&gt;Computer Shopper&lt;/a&gt; planning for this very question. For the processor, I wanted a &lt;a href=&quot;https://en.wikipedia.org/wiki/Intel_80486DX2&quot;&gt;486 DX2 66&lt;/a&gt;. I needed enough RAM to run &lt;a href=&quot;https://en.wikipedia.org/wiki/OS/2&quot;&gt;OS/2 2.0&lt;/a&gt; well (not warp!). To support the advanced graphics that OS/2 demanded, I wanted a &lt;a href=&quot;https://en.wikipedia.org/wiki/Number_Nine_Visual_Technology#Number_Nine_Video_Cards_using_S3_Graphics_Processors&quot;&gt;number nine GXE 64 graphics card&lt;/a&gt;. I desperately wanted a &lt;a href=&quot;https://en.wikipedia.org/wiki/Sound_Blaster_AWE64&quot;&gt;Sound Blaster AWE64 sound card&lt;/a&gt; to play &lt;a href=&quot;https://en.wikipedia.org/wiki/Module_file&quot;&gt;mods&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/Id_Software&quot;&gt;id games&lt;/a&gt;. I also needed a crazy &lt;a href=&quot;https://en.wikipedia.org/wiki/ZyXEL#Products&quot;&gt;ZyXEL 14.4 Modem&lt;/a&gt; to dial into my local telnet drops and BBSes. The eventual goal was to triple boot &lt;a href=&quot;https://en.wikipedia.org/wiki/Slackware&quot;&gt;Slackware Linux&lt;/a&gt; (sooo many disks), OS/2 and windows 95. At some point around '94 I achieved most of this, however OS/2 had faded away as a priority and I spent most of my time in Linux (thank goodness).&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h4&gt;What do you use? I would love to know. Feel free to comment and let me know.&lt;/h4&gt;
+</content>
+ </entry>
  
  <entry>
    <title>BUSY! busy busy.</title>
@@ -657,49 +720,6 @@ I am excited to be a part of Venture Hacks helping them find amazing startups fo
 &lt;p&gt;I have a couple of posts lined up for later this week.  One about my history at Threadless and another about the hijinks that have existed over the last few years.&lt;/p&gt;
 
 &lt;p&gt;Stay tuned.  It's only just beginning.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>My thoughts on the kindle: 1 vs 2 and the iphone app</title>
-   <link href="http://www.nata2.org/2009/03/08/my-thoughts-on-the-kindle/"/>
-   <updated>2009-03-08T15:54:09-05:00</updated>
-   <id>http://www.nata2.org/2009/03/08/my-thoughts-on-the-kindle</id>
-   <content type="html">&lt;p&gt;&lt;a title=&quot;Kindle2 vs Kindle1 front powered on by nata2, on Flickr&quot; href=&quot;http://www.flickr.com/photos/natatwo/3307240832/&quot;&gt;&lt;img align=&quot;right&quot; class=&quot;alignright&quot; src=&quot;http://farm4.static.flickr.com/3429/3307240832_8913af9d4f_m.jpg&quot; alt=&quot;Kindle2 vs Kindle1 front powered on&quot; width=&quot;240&quot; height=&quot;180&quot; /&gt;&lt;/a&gt;First things first&lt;strong&gt;: The &lt;a href=&quot;http://www.amazon.com/gp/product/B00154JDAI?ie=UTF8&amp;amp;tag=nata2productions&amp;amp;linkCode=as2&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B00154JDAI&quot;&gt;Kindle&lt;/a&gt; is awesome&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;I read a lot. I am not like those crazy people who read a book a day or anything, but i have been reading up to about 2 books a week for the past few years. They are not crazy books, mostly science fiction and fantasy, but they are not small books. I read to chill out. My day pattern is to go to work, work, get home, nap, hang out with hiromi, play computer and then read until i fall alseep. The reading part is VERY important to get my mind and body to a place where I can actually sleep. Needless to say, I take my reading seriously.&lt;/p&gt;
-
-&lt;p&gt;I ordered an original Kindle way back when they first came out. I was back-ordered for quite awhile. It was enough time for me to question whether or not I would like the device. Luckily, my friend &lt;a href=&quot;http://edithfrost.com/&quot;&gt;edith&lt;/a&gt; was also in the same place - she and i chatted incessantly about what the future would be like with the Kindle. It was a bright future.&lt;/p&gt;
-
-&lt;p&gt;I ended up getting it around mid january 08. The first book I read was &lt;a href=&quot;http://www.amazon.com/gp/product/B000PAAH3A?ie=UTF8&amp;amp;tag=nata2productions&amp;amp;linkCode=as2&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B000PAAH3A&quot;&gt;Terror by Dan Simmons&lt;/a&gt;. That is a serious business book. I had started the hardcover of the book earlier in the month and finished it on the kindle. That was my test. It was successful. Although i hated the fact that kindle pages and paper pages don't really line up - the experience was the same. I was able to read fast and was able to forget about the buttons and terrible design of the kindle (like &lt;a href=&quot;http://twitter.com/zachklein/status/1192280043&quot;&gt;Zach Klein said&lt;/a&gt; - it looked like the consumer electronics version of the Pontiac Aztec).&lt;/p&gt;
-
-&lt;p&gt;After Terror, I read the appropriate &lt;a href=&quot;http://www.amazon.com/gp/product/B000FBJCKI?ie=UTF8&amp;amp;tag=nata2productions&amp;amp;linkCode=as2&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B000FBJCKI&quot;&gt;Diamond Age by Neal Stephenon&lt;/a&gt;. I felt that I was closer to the &quot;Young Lady's Illustrated Primer&quot; than I had been before. I was reading books on an electronic device that was hardy, easy to use and quick. I was able to give it a seemingly unlimited amount of content and could use it for quite some time without a battery change. Like I said above - it is awesome.&lt;/p&gt;
-
-&lt;p&gt;Around this time I discovered the dark and scary underworld that is ebooks on the internet. There is an &lt;a href=&quot;http://wiki.mobileread.com/wiki/Main_Page&quot;&gt;awesome community of people surrounding ebooks&lt;/a&gt;. They are involved with liberating DRM'd ebooks, converting from one format to another, uploading mass libraries of free ebooks, cataloging ebooks, etc etc. It is awesome. If you are interested in free content - there is an almost unlimited amount of &lt;a href=&quot;http://feedbooks.com/&quot;&gt;free&lt;/a&gt; &lt;a href=&quot;http://www.gutenberg.org/wiki/Main_Page&quot;&gt;content&lt;/a&gt; that is compatible with the Kindle available online. There is also an unlimited amount of pirated books too. They are harder to find and I feel terrible when I find them (I apparently would rather pay authors than musicians. hah). One thing i noticed while I was experimenting with ebooks - technical manuals and what not don't render as well as non-technical books. I think it has to do with the number of diagrams and tables. They don't render terribly - but often are not nearly accurate to what i imagine the author intended.&lt;/p&gt;
-
-&lt;p&gt;How you get the ebooks to the kindle is part of the magic. The kindle has what Amazon like to call the whispernet. It is, as far as i can tell, a sprint EVDO modem built into the device. Amazon uses this to wirelessly deliver content to your kindle that you buy from amazon.com. Once again - it is awesome. You click on a book in amazon and BAM - its on your kindle. You are not limited to using this JUST for amazon's content. You can do it with your own ebooks as well. All you need to do is register your email address with amazon and then send books to the yourname@kindle.com email address. The books will appear on your kindle for a small cost ($0.10 i think). If you don't want ot pay for it, you can send the content to yourname@free.kindle.com and it will return the book in the kindle format. You can do this .txt, .pdf and .doc files easily.&lt;/p&gt;
-
-&lt;p&gt;The kindle file format is just the .&lt;a href=&quot;http://wiki.mobileread.com/wiki/MOBI&quot;&gt;MOBI ebook format&lt;/a&gt;. Which in turn similar to the .PRC ebook format. The Mobi file is a remnant from the Palm days. it is basically the &lt;a href=&quot;http://wiki.mobileread.com/wiki/PDB&quot;&gt;Palm Database format &lt;/a&gt;that was used for various applications on the original palm platform. What this means is that all the ebooks that end in .mobi and .prc are natively compatible with the kindle. If you had purchased books for use with the mobipocket reader (an awesome ebook reader for windows), there is a good chance that they were .mobi files. You can copy those to the documents folder of your kindle (when you plug it in to your computer via USB) and they will show up in the book list without any work. This really opens up your options for cheap or free ebooks.&lt;/p&gt;
-
-&lt;p&gt;The trick then is to figure out how to convert pdf files and what not to well formed, well meta data'd .mobi files. This makes your kindle happy and allows you to continue to sort by author without having your email address be listed as the author.&lt;/p&gt;
-
-&lt;p&gt;I went a year reading just the Kindle. I read two paper books that were not available in a digital format during this time. It was interesting. I felt as though I needed to work out to lift the heavy hardcover books. The kindle makes you forget how heavy books can be. My arms are now wusses.&lt;/p&gt;
-
-&lt;p&gt;When the Kindle 2 was announced, i ordered two of them. One for me and one for Hiromi.&lt;/p&gt;
-
-&lt;p&gt;The kindle 2 is a huge improvement on the Kindle 1. It is thinner, better performing and a bit easier to use. It is not as easy to turn a page - but it is also not as easy to accidentally turn a page either. I like the new design. The optional leather case is amazing. It works VERY well. i was having to remove the leather case from the original when I would read it - i don't have that problem with the new one.&lt;/p&gt;
-
-&lt;p&gt;There are a lot of small software tweaks that have trickled their way to the Kindle 1 as well. They are separating out your uploaded content from the content that came from directly Amazon. I am also having a hard time finding things that are lost on the kindle. I suppose i could search - but i never think of that when I am looking for content. The interface on the Kindle 2 is much faster. The pages turn faster and the books load faster. The screen is amazing. I really like it. I don't like the fact that I can't easily turn off the wireless with a hardware switch. I liked being able to not interrupt my reading to turn wireless on or off.&lt;/p&gt;
-
-&lt;p&gt;All in all - the Kindle 2 is a huge improvment over the Kindle 1. If you are able to upgrade, do it. And then give your original kindle to someone close to you who wants one. That is the best plan.&lt;/p&gt;
-
-&lt;p&gt;Hiromi loves hers. I was worried that she wouldn't like it - but it turns out that it works very well for her. She likes the size and the ease of use. She took to it very quickly.&lt;/p&gt;
-
-&lt;p&gt;When I got my kindle 2 I was showing a couple of my coworkers some of the data about it. Specifically the &lt;a href=&quot;http://www.macworld.com/article/138728/2009/02/whispersync.html&quot;&gt;whispersync&lt;/a&gt; stuff. I told them that I wouldn't be surprised if they released an iPhone app that allowed ebook reading on the Kindle. I based this on the success of the Stanza app. I stated to my buddies that I was only confused as to the strategy to release such an app, especially on how it could accidently stifle the Kindle 2 sales.&lt;/p&gt;
-
-&lt;p&gt;Then a couple days later the Kindle app was released. Like the Kindle - it is awesome. hah. With the Kindle app for the iphone and the Kindle, you are able to sync your placemarks on the books you are reading. You could read to a certain point in a novel while on your commute - then go to a meeting and pick up your iphone and continue reading from where you left off on your kindle. Then you coudl pick up the kindle and it would sync to where you left off on the iphone. That is cool. I tried it and it works. It is a bit wonky - but for the most part it works great. The only issue i have with the app is that it doesn't have ANY of the content that you upload via email. It is only amazon purchased content. Lame. I read a lot of &quot;found&quot; books and a lot of purchased books. An example is a series of books where 2-4 are in the amazon kindle store, but book 1 isn't. I find book 1 elsewhere and then buy 2-4. However, I can't read book 1 on my iphone. Only the kindle. WHAT IS THE WORLD COMING TO. ;) I understand amazon's reasoning for this - and I don't expect it to change. I do wish i could push my emailed books into their cloud and handle them a bit better (with metadata, etc). I doubt that will happen.&lt;/p&gt;
-
-&lt;p&gt;If you read a lot and want a great reading experience, you should &lt;a href=&quot;http://www.amazon.com/gp/product/B00154JDAI?ie=UTF8&amp;amp;tag=nata2productions&amp;amp;linkCode=as2&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B00154JDAI&quot;&gt;buy a kindle.&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
