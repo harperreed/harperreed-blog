@@ -41,7 +41,9 @@
       .postdate .month { display: block; font-size: 16px; line-height: 16px; color: #666; text-transform: uppercase;}
       .postdate .day { display: block; font-size: 30px; font-family: 'Arial'; font-weight: bold; line-height: 30px; color: #ccc; letter-spacing: -1px;}
 
-      .postcontent { padding-top: 15px; border-top: solid 1px #ccc; margin-top: 15px;}
+      .postcontent {padding-top: 15px; padding-bottom: 15px; border-top: solid 1px #ccc; margin-top: 15px;}
+
+      .postcontent h1,h2,h3,h4,h5 {margin-top: 10px; margin-bottom: 10px;}
       .postcontent img { padding: 1px; border: solid 1px #f0f0f0; margin: 0px 15px 15px 0px;}
       .postcontent blockquote {background: #FFFFee; color:#222;}
 
