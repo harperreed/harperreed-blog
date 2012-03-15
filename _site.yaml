@@ -2,46 +2,54 @@ handlers:
 - url: '/'
   static_files: '_site/index.html'
   upload: '_site/.*'
+  secure: always
 
 - url: '/404.html'
   static_files: '_site/404/index.html'
   upload: '_site/.*'
+  secure: always
 
 - url: '/.well-known/host-meta'
   static_files: '_site/webfinger.well-known.host-meta.xml'
   upload: '_site/.*'
-
+  secure: always
 
 - url: '/feed'
   static_files: '_site/atom.xml'
   upload: '_site/.*'
+  secure: always
 
 - url: '/feed/.*'
   static_files: '_site/atom.xml'
   upload: '_site/.*'
+  secure: always
 
 - url: '/([^/]+)'
   static_files: '_site/\1'
   upload: '_site/.*'
+  secure: always
 
 - url: '/(.*?)/(.*?)/(.*?)/(.*?)/?'
   static_files: '/_site/\1/\2/\3/\4/index.html'
   upload: '_site/.*'
+  secure: always
 
 - url: '/(.*?)/(.*?)/(.*?)/'
   static_files: '_site/\1/\2/\3/index.html'
   upload: '_site/.*'
-
+  secure: always
 
 - url: '/(.*?)/(.*?)/'
   static_files: '_site/\1/\2/index.html'
   upload: '_site/.*'
+  secure: always
 
 - url: '/([^/]+)/'
   static_files: '_site/\1/index.html'
   upload: '_site/.*'
-
+  secure: always
 
 - url: '/(.*)/(.*)'
   static_files: '_site/\1/\2'
   upload: '_site/.*'
+  secure: always
