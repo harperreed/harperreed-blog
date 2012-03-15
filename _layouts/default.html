@@ -11,26 +11,30 @@
     <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-    <link href="http://media.nata2.org/css/bootstrap.min.css?{{ site.media_version }}" rel="stylesheet">
-    <link href="/css/styles.css?{{ site.media_version }}" rel="stylesheet">
-    <link href="http://media.nata2.org/css/bootstrap-responsive.css?{{ site.media_version }}" rel="stylesheet">
+    <link href="{{ site.media_server }}/css/bootstrap.min.css?{{ site.media_version }}" rel="stylesheet">
+    <link href="{{ site.media_server }}/css/styles.css?{{ site.media_version }}" rel="stylesheet">
+    
+    <link href="{{ site.media_server }}/css/bootstrap-responsive.css?7" rel="stylesheet">
+    
     <META name="verify-v1" content="bxsrf6C7p0+qY6MxNCbSNSGdkeDA8dQSxjTsNJu4Sa0=" />
     <link rel="openid.server" href="http://www.myopenid.com/server" />
     <meta name="myid" content="0eda4814-55e0-4756-bf30-0f1bf5a4b469" />
     <link rel="openid.delegate" href="http://harper.myopenid.com/" />
     <link href="http://feeds.feedburner.com/HarperReed" rel="alternate" title="{{ site.title }}" type="application/atom+xml" />
-    <link rel="shortcut icon" href="http://media.nata2.org/favicon.ico">
+    <link rel="shortcut icon" href="{{ site.media_server }}/favicon.ico">
   </head>
   <body>
     <div class="container">
       <div class="row">
-        <div class="span10 offset1 header">{% include header.html %}</div>
+        <div class="span10 header">{% include header.html %}</div>
       </div>
-      <hr class="span10 offset1">
+      <hr class="span10 " /> 
       <div class="row">
-        <div class="span6 offset1 ">{{ content }}</div>
-        <div class="span4 well sidebar muted">{% include sidebar.html %}</div>
-        <div class="span10 offset1">{% include footer.html %}</div>
+        <div class="span7 ">{{ content }}</div>
+        <div class="span4 well well-large sidebar muted">{% include sidebar.html %}</div>
+      </div>
+      <div class="row">
+        <div class="span10 ">{% include footer.html %}</div>
       </div>
     </div> <!-- /container -->
   {% include javascript.html %}

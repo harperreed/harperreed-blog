@@ -3,27 +3,20 @@ layout: default
 ---
 
 
-<div class="entry" style="padding-bottom: 60px;">
-  <h2 class="title">This blog is relatively paused</h2>
-  <div class="content">
-    <p><img src="http://farm7.static.flickr.com/6014/5933954537_392b0caa83_m.jpg" width="180" height="240" alt="What @hiromiusagi has to deal with everyday" align="right"></p>
 
-    <p>It has been many months since I last posted on this blog. I promise I haven't completely forgotten about it. </p>
-
-    <p>I am busy because of the awesome work I am doing with all the amazing people at <a href="http://barackobama.com">Obama for America</a>. Although, I miss writing articles about my coding and traveling, I love (and more importantly believe in) the work we are doing.</p>
-
-    <p>I will attempt to write a meaningful post soon. In the meantime, please feel free to <a href="https://twitter.com/intent/tweet?text=@harper+yo">hit me up</a> on twitter (I am  <a href="https://twitter.com/intent/follow?screen_name=harper">@harper</a>), check out the <a href="https://harperreed.org/books">books I am reading</a> and give to my <a href="https://donate.barackobama.com/page/outreach/view/2012/harper">personal fundraising page</a>.</p>
-
-  </div>
-</div>
 
 
 
 <div class="entry" style="padding-bottom: 50px;">
-  <h2 class="title">Check out some of my most recent posts.</h2>
+  <h2 class="title">My most recent post</h2>
+
   <div class="content">
-   <ul>
-    {% for post in site.posts limit: 20%}
+   {% for post in site.posts  limit: 1%}
+        <h3><a href="{{ post.url }}">{{ post.title }}</a> <small>posted on {{ post.date | date: "%b %d, %Y"  }}</small></h3>
+    {% endfor %} 
+    <h2>Other recent posts.</h2>
+   <ul class="unstyled">
+    {% for post in site.posts offset: 1 limit: 20%}
       <li>
         {{ post.date | date: "%b %d, %Y"  }} &mdash; <a href="{{ post.url }}">{{ post.title }}</a>
       </li>
