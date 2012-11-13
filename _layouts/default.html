@@ -26,15 +26,17 @@
   <body>
     <div class="container">
       <div class="row">
-        <div class="span10 header">{% include header.html %}</div>
+        <div class="offset2 span8 header">{% include header.html %}</div>
       </div>
-      <hr class="span10 " /> 
+      <hr class="offset2 span8" /> 
       <div class="row">
-        <div class="span7 ">{{ content }}</div>
-        <div class="span4 well well-large sidebar muted">{% include sidebar.html %}</div>
+        <div class="offset2 span8 muted well-small well"> {% include bio.html %}</div>
       </div>
       <div class="row">
-        <div class="span10 ">{% include footer.html %}</div>
+        <div class="offset2 span8 ">{{ content }}</div>
+      </div>
+      <div class="row">
+        <div class="offset2 span8 ">{% include footer.html %}</div>
       </div>
     </div> <!-- /container -->
   {% include javascript.html %}

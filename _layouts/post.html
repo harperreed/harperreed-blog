@@ -2,36 +2,10 @@
 layout: default
 ---
 <div class="post" style="padding-bottom: 50px;">
-  <div class="posthead">
-    <h1 class="title"><a title="Permanent Link to {{ page.title }}." href="{{page.url}}" rel="bookmark">{{ page.title }}</a></h1>
-    <p class="postdate">
-    <strong class="day">{{page.date | date: "%d"}}</strong>
-    <strong class="month">{{page.date | date: "%b"}}</strong>
-    </p>
-    <p class="postinfo">Written by <a href="/about/">harper</a> on {{page.date | date: "%b %d %Y"}}</p>
+  <div >
+    <h1 ><a title="Permanent Link to {{ page.title }}." href="{{page.url}}" rel="bookmark">{{ page.title }}</a> <br /><small>Posted on {{page.date | date: "%b %d, %Y"}}</small></h1>
   </div>
   <div class="postcontent">
     {{ content }}
-    <div class=" well well-small muted"> 
-      <h3>Related posts</h3> 
-      <ul class="unstyled">
-      {% for post in site.related_posts limit:5 %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-      {% endfor %}
-      </ul>
-    </div> 
-    <!-- discuss -->
-    <div id="disqus_thread"></div>
-    <script type="text/javascript">
-    var disqus_identifier= '{{ post.id}}';
-    var disqus_developer = 1;
-    (function() {
-    var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-    dsq.src = 'http://nata2.disqus.com/embed.js';
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-    </script>
-    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript=nata2">comments powered by Disqus.</a></noscript>
-    <!-- end discuss -->
   </div>
 </div>

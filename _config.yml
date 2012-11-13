@@ -22,5 +22,5 @@ description:  Hacking, Baphomet and the real time internet
 author:       Harper Reed # atom.xml: Name of website's author
 email:        harper@nata2.org # atom.xml: Author email
 analytics_id: UA-70650-9 # Google Analytics ID: UA-xxx-xxx
-media_version: 8
+media_version: 9
 media_server: "" #http://media.nata2.org
