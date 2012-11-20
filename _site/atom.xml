@@ -4,7 +4,7 @@
  <title>Harper Reed: Technology and death metal</title>
  <link href="http://www.nata2.org/atom.xml" rel="self"/>
  <link href="http://www.nata2.org"/>
- <updated>2012-11-13T00:14:00-06:00</updated>
+ <updated>2012-11-19T20:00:21-07:00</updated>
  <id>http://www.nata2.org</id>
 
  
@@ -18,7 +18,7 @@
  <entry>
    <title>Thanks</title>
    <link href="http://www.nata2.org/2012/11/12/thanks/"/>
-   <updated>2012-11-12T00:00:00-06:00</updated>
+   <updated>2012-11-12T00:00:00-07:00</updated>
    <id>http://www.nata2.org/2012/11/12/thanks</id>
    <content type="html">&lt;p&gt;I have been waiting for this moment for 1 year and 8 months.&lt;/p&gt;
 
@@ -35,7 +35,7 @@
  <entry>
    <title>Me on The Setup: Harper Reed uses this.</title>
    <link href="http://www.nata2.org/2012/02/11/the-setup-harperreed-uses-this/"/>
-   <updated>2012-02-11T00:00:00-06:00</updated>
+   <updated>2012-02-11T00:00:00-07:00</updated>
    <id>http://www.nata2.org/2012/02/11/the-setup-harperreed-uses-this</id>
    <content type="html">&lt;h3&gt;Preface&lt;/h3&gt;
 
@@ -98,7 +98,7 @@
  <entry>
    <title>BUSY! busy busy.</title>
    <link href="http://www.nata2.org/2011/10/02/busy/"/>
-   <updated>2011-10-02T00:00:00-05:00</updated>
+   <updated>2011-10-02T00:00:00-06:00</updated>
    <id>http://www.nata2.org/2011/10/02/busy</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;http://farm7.static.flickr.com/6014/5933954537_392b0caa83_m.jpg&quot; width=&quot;180&quot; height=&quot;240&quot; alt=&quot;What @hiromiusagi has to deal with everyday&quot; align=&quot;right&quot;&gt;&lt;/p&gt;
 
@@ -113,7 +113,7 @@
  <entry>
    <title>OMG FREE HOSTING: How to use GAE to host static sites for free</title>
    <link href="http://www.nata2.org/2011/01/26/how-to-use-app-engine-to-host-static-sites-for-free/"/>
-   <updated>2011-01-26T00:00:00-06:00</updated>
+   <updated>2011-01-26T00:00:00-07:00</updated>
    <id>http://www.nata2.org/2011/01/26/how-to-use-app-engine-to-host-static-sites-for-free</id>
    <content type="html">&lt;p&gt;I am constantly telling my friends about the new technology tricks that I learn in my internet travels. I learn a lot, which has caused my friends to ignore around 90% of what I say about technology. I don't mind, because I know that I am a genius(heh) and they will come around some day.&lt;/p&gt;
 
@@ -246,7 +246,7 @@ The High Replication Datastore increases the number of data centers that maintai
  <entry>
    <title>2010 Retrospective</title>
    <link href="http://www.nata2.org/2011/01/01/2010-retrospective/"/>
-   <updated>2011-01-01T00:00:00-06:00</updated>
+   <updated>2011-01-01T00:00:00-07:00</updated>
    <id>http://www.nata2.org/2011/01/01/2010-retrospective</id>
    <content type="html">&lt;p&gt;2010 was a great year. I rarely write these retrospectives (only &lt;a href=&quot;http://www.nata2.org/2009/01/04/2008-retrospectiv/&quot;&gt;2008&lt;/a&gt; I think), but i think about writing them every year. It is so cheesey, but also a fun exercise in memory and retrospection.&lt;/p&gt;
 
@@ -395,7 +395,7 @@ The High Replication Datastore increases the number of data centers that maintai
  <entry>
    <title>Lincoln Square Retrospective</title>
    <link href="http://www.nata2.org/2010/12/07/lincoln-square-retrospective/"/>
-   <updated>2010-12-07T00:00:00-06:00</updated>
+   <updated>2010-12-07T00:00:00-07:00</updated>
    <id>http://www.nata2.org/2010/12/07/lincoln-square-retrospective</id>
    <content type="html">&lt;p&gt;I meant to post this months ago. hah. For some reason, it didn't quite make it live. Then a couple days ago, I was talking to a friend about his recent move to Lincoln Square. We spent some time talking about great places to go eat and hang out, and I remembered this post. I thought I would get it up and out there.&lt;/p&gt;
 
@@ -435,7 +435,7 @@ The High Replication Datastore increases the number of data centers that maintai
  <entry>
    <title>The Tech Cocktail Startup Mixology Conference</title>
    <link href="http://www.nata2.org/2010/11/01/techcocktail-mixology-conference/"/>
-   <updated>2010-11-01T00:00:00-05:00</updated>
+   <updated>2010-11-01T00:00:00-06:00</updated>
    <id>http://www.nata2.org/2010/11/01/techcocktail-mixology-conference</id>
    <content type="html">&lt;p&gt;On October 28th, I had the pleasure of speaking at the Tech Cocktail Startup Mixology Conference. It was a fun quick conference with a set of amazing speakers.&lt;/p&gt;
 
@@ -459,7 +459,7 @@ The High Replication Datastore increases the number of data centers that maintai
  <entry>
    <title>CTA Hacking, Unofficial APIs and Winning a Data Innovation Award</title>
    <link href="http://www.nata2.org/2010/09/25/cta-hacking-unofficial-apis-and-winning-a-data-innovation-award/"/>
-   <updated>2010-09-25T00:00:00-05:00</updated>
+   <updated>2010-09-25T00:00:00-06:00</updated>
    <id>http://www.nata2.org/2010/09/25/cta-hacking-unofficial-apis-and-winning-a-data-innovation-award</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.flickr.com/photos/juggernautco/2913444222/in/photostream/&quot;&gt;&lt;img align=&quot;right&quot; src=&quot;http://farm4.static.flickr.com/3250/2913444222_5f01a20397_m.jpg&quot;&gt;&lt;/a&gt;Back in 2008 I hacked an &lt;a href=&quot;http://www.nata2.org/2008/10/06/chicago-transit-api/&quot;&gt;unofficial api&lt;/a&gt; together from the exposed endpoints of the CTA’s bustracker application. This spawned a bunch of CTA applications in the &lt;a href=&quot;http://arstechnica.com/apple/reviews/2009/04/iphone-app-showdown-battle-of-the-cta-bus-trackers.ars&quot;&gt;iOS app store&lt;/a&gt;, the &lt;a href=&quot;http://www.google.com/search?q=chicago+transit+authority+android&quot;&gt;android app store&lt;/a&gt; and created a really neat &lt;a href=&quot;http://www.transitchicago.com/apps/&quot;&gt;ecosystem&lt;/a&gt; of &lt;a href=&quot;http://groups.google.com/group/transitapi&quot;&gt;CTA hackers&lt;/a&gt;.&lt;/p&gt;
 
@@ -483,7 +483,7 @@ The most recent chapter in this story is that the &lt;a href=&quot;http://blog.m
  <entry>
    <title>Yes! I am a venture hacks scout! Chicago RPZNT</title>
    <link href="http://www.nata2.org/2010/09/03/yes-i-am-a-venture-hacks-scout/"/>
-   <updated>2010-09-03T00:00:00-05:00</updated>
+   <updated>2010-09-03T00:00:00-06:00</updated>
    <id>http://www.nata2.org/2010/09/03/yes-i-am-a-venture-hacks-scout</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/images/Peace-Logo.jpg&quot; align=&quot;right&quot; width=&quot;200&quot;/&gt;
 I am excited to be a part of Venture Hacks helping them find amazing startups for the &lt;a href=&quot;http://angel.co&quot;&gt;Angels on the Angellist&lt;/a&gt;. The scout program is going to be a lot of fun and hopefully will allow some great startups to be funded by the amazing angels from the angel list. Check out this &lt;a href=&quot;http://gigaom.com/2010/08/31/angellist-designates-scouts-to-refer-new-startup-deals/&quot;&gt;great write up in GigaOm&lt;/a&gt;.&lt;/p&gt;
@@ -501,7 +501,7 @@ I am excited to be a part of Venture Hacks helping them find amazing startups fo
  <entry>
    <title>I migrated this blog to Jekyll on App Engine. So long Wordpress. </title>
    <link href="http://www.nata2.org/2010/08/17/jekyl-for-the-win/"/>
-   <updated>2010-08-17T00:00:00-05:00</updated>
+   <updated>2010-08-17T00:00:00-06:00</updated>
    <id>http://www.nata2.org/2010/08/17/jekyl-for-the-win</id>
    <content type="html">&lt;p&gt;I don't like to move my blog around. It is super annoying. The RSS feed gets all messed up, I spend months tweaking everything. I find silly bugs and then fascinate about fixing them. All in all it takes months to complete the process. I avoid it like the plague.&lt;/p&gt;
 
@@ -546,7 +546,7 @@ I am excited to be a part of Venture Hacks helping them find amazing startups fo
  <entry>
    <title>If you see this, this blog is hosted on app engine</title>
    <link href="http://www.nata2.org/2010/08/12/if-you-see-this/"/>
-   <updated>2010-08-12T00:00:00-05:00</updated>
+   <updated>2010-08-12T00:00:00-06:00</updated>
    <id>http://www.nata2.org/2010/08/12/if-you-see-this</id>
    <content type="html">&lt;p&gt;Decided to ditch wordpress for jekyl and drydrop. Let's see how it works.&lt;/p&gt;
 
@@ -557,7 +557,7 @@ I am excited to be a part of Venture Hacks helping them find amazing startups fo
  <entry>
    <title>Smitten by the iPad: thoughts and complaints. </title>
    <link href="http://www.nata2.org/2010/04/05/smitten-by-the-ipad-thoughts-and-complaints/"/>
-   <updated>2010-04-05T00:00:00-05:00</updated>
+   <updated>2010-04-05T00:00:00-06:00</updated>
    <id>http://www.nata2.org/2010/04/05/smitten-by-the-ipad-thoughts-and-complaints</id>
    <content type="html">&lt;p&gt;&lt;a title=&quot;The ipad is awesome by nata2, on Flickr&quot; href=&quot;http://www.flickr.com/photos/natatwo/4488064118/&quot;&gt;&lt;img src=&quot;http://farm5.static.flickr.com/4052/4488064118_ea9d770433_m.jpg&quot; alt=&quot;The ipad is awesome&quot; width=&quot;240&quot; height=&quot;180&quot; align=&quot;right&quot; /&gt;&lt;/a&gt;I was tricked by the gravitational forces that an apple product announcement causes into visiting the apple store. Five hundred bucks later I walked out of the apple store with a fancy new iPad. Excited and Doh!&lt;/p&gt;
 
@@ -589,7 +589,7 @@ I am excited to be a part of Venture Hacks helping them find amazing startups fo
  <entry>
    <title>Musings about femtocells: the futures!</title>
    <link href="http://www.nata2.org/2010/02/11/musings-about-femtocells-the-futures/"/>
-   <updated>2010-02-11T00:00:00-06:00</updated>
+   <updated>2010-02-11T00:00:00-07:00</updated>
    <id>http://www.nata2.org/2010/02/11/musings-about-femtocells-the-futures</id>
    <content type="html">&lt;blockquote&gt;I wrote most of this entry the day before the earthquake in Haiti. It was motivated by the magicJack announcement and my interest in mobile devices within developing nations.  However, the thoughts in this post suddenly seemed more real after I started hearing reports of communication breakdown after the earthquake.&lt;/blockquote&gt;
 
@@ -619,7 +619,7 @@ I am excited to be a part of Venture Hacks helping them find amazing startups fo
  <entry>
    <title>I love phones designed for developing countries. </title>
    <link href="http://www.nata2.org/2010/01/17/i-love-phones-designed-for-developing-countries/"/>
-   <updated>2010-01-17T00:00:00-06:00</updated>
+   <updated>2010-01-17T00:00:00-07:00</updated>
    <id>http://www.nata2.org/2010/01/17/i-love-phones-designed-for-developing-countries</id>
    <content type="html">&lt;p&gt;&lt;a title=&quot;Nokia 1100 and Motorola F3 by nata2, on Flickr&quot; href=&quot;http://www.flickr.com/photos/natatwo/4283555038/&quot;&gt;&lt;img src=&quot;http://farm5.static.flickr.com/4039/4283555038_a798542c5f_m.jpg&quot; alt=&quot;Nokia 1100 and Motorola F3&quot; width=&quot;240&quot; height=&quot;218&quot; align=&quot;right&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -648,7 +648,7 @@ I am excited to be a part of Venture Hacks helping them find amazing startups fo
  <entry>
    <title>2009 Hosting Summary (or where does Harper host in 2009/2010)</title>
    <link href="http://www.nata2.org/2009/12/09/2009-hosting-summary-or-where-does-harper-host-in-20092010/"/>
-   <updated>2009-12-09T19:29:06-06:00</updated>
+   <updated>2009-12-09T18:29:06-07:00</updated>
    <id>http://www.nata2.org/2009/12/09/2009-hosting-summary-or-where-does-harper-host-in-20092010</id>
    <content type="html">&lt;p&gt;&lt;a title=&quot;this is mount fuji by nata2, on Flickr&quot; href=&quot;http://www.flickr.com/photos/natatwo/2581673203/&quot;&gt;&lt;img src=&quot;http://farm4.static.flickr.com/3192/2581673203_d18270a494_m.jpg&quot; alt=&quot;this is mount fuji&quot; width=&quot;240&quot; height=&quot;180&quot; align=&quot;right&quot; /&gt;&lt;/a&gt;2009 was an awesome year. A lot of amazing things happened in the world of hosting (and &lt;a href=&quot;http://www.nata2.org/2009/10/07/leaving-threadless/&quot;&gt;a lot happened&lt;/a&gt; in the world of Harper too). Being a crazy hosting aficionado, I will summarize my thoughts on hosting in 2009 (I will leave the predictions for 2010).&lt;/p&gt;
 
