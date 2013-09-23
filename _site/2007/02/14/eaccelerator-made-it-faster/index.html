@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+    <meta charset="utf-8">
+    <title> eAccelerator made it faster! |  Harper Reed: Technology and death metal</title>
+    <meta name="description" content="Hacking, Baphomet and the real time internet" />
+    <meta name="keywords" content="" />
+    <meta name="author" content="Harper Reed: harper@nata2.org">
+    <meta name="robots" content="noodp,noydir" />
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <link href="/css/bootstrap.min.css?9" rel="stylesheet">
+    <link href="/css/styles.css?9" rel="stylesheet">
+    
+    <link href="/css/bootstrap-responsive.css?7" rel="stylesheet">
+    
+    <META name="verify-v1" content="bxsrf6C7p0+qY6MxNCbSNSGdkeDA8dQSxjTsNJu4Sa0=" />
+    <link rel="openid.server" href="http://www.myopenid.com/server" />
+    <meta name="myid" content="0eda4814-55e0-4756-bf30-0f1bf5a4b469" />
+    <link rel="openid.delegate" href="http://harper.myopenid.com/" />
+    <link href="http://feeds.feedburner.com/HarperReed" rel="alternate" title="Harper Reed: Technology and death metal" type="application/atom+xml" />
+    <link rel="shortcut icon" href="/favicon.ico">
+  </head>
+  <body>
+    <div class="container">
+      <div class="row">
+        <div class="offset2 span8 header"><h1><a href="http://www.nata2.org">Harper Reed: Technology and death metal</a></h1>
+<small>Hacking, Baphomet and the real time internet</small>
+</div>
+      </div>
+      <hr class="offset2 span8" /> 
+      <div class="row">
+        <div class="offset2 span8 muted well-small well"> <a href="http://en.wikipedia.org/wiki/Hacker_(programmer_subculture)" target="_blank"><img style="padding-right: 5px; margin: 0px" src="http://media.nata2.org/images/glider.png" align="left"></a>
+
+<strong>Hi.</strong> I am an engineer who builds paradigm-shifting tech and leads others to do the same. I love using the enormity of the Internet to bring people together, whether as CTO of Obama for America, CTO at Threadless.com, or on my own projects. You can often find me playing with new technology, looking for something to hack, or enjoying life in Chicago with my amazing wife, Hiromi. Check out my <a href="http://harperreed.org">homepage</a> and <a href="https://twitter.com/intent/follow?screen_name=harper" target="_blank">follow me on twitter</a>.
+</div>
+      </div>
+      <div class="row">
+        <div class="offset2 span8 "><div class="post" style="padding-bottom: 50px;">
+  <div >
+    <h1 ><a title="Permanent Link to eAccelerator made it faster!." href="/2007/02/14/eaccelerator-made-it-faster/" rel="bookmark">eAccelerator made it faster!</a> <br /><small>Posted on Feb 14, 2007</small></h1>
+  </div>
+  <div class="postcontent">
+    <p>So my blog has been slow for the past few months. It has been killing me. I run my own server - so I knew it was something that I did. However, I sadly thought that it was probably just the fact that I have a couple rather high bandwidth sites and only one server. I tried a lot of the "speed up wordpress" tricks and even installed and used wp-cache. but nothing worked.</p>
+
+<p>Today I was doing some research on how to speed up threadless and our scaling issues. I was reading articles about how to speed up large scale web applications and I decided to look other places for scaling issue help. I often think that the articles that are written are not written by people who actually have to deal with large scale web apps - so I usually don't really pay attention to what they say. So I started going to larger sites and seeing if I couldn't find any information on how they scale and maintain speed while growing. I found a nice description of how <a href="http://www.mininova.org/faq#tech">mininova speeds things up</a> and scales - its really nothing more than simple paragraph but it told me more than most whole articles. So <a href="http://www.mininova.org">mininova</a> uses <a href="http://www.lighttpd.net/">LightTPD</a> and <a href="http://eaccelerator.net/">eAccelerator</a> to keep things quick. Since I don't want to use LightTPD - I decided to check out eAccelerator.</p>
+
+<p>Since I really didn't want to test eAcellerator on threadless (yea know.. money, transactions and the like), I decided to give it a test run on my own server.  I went ahead and compiled it, installed it and restarted apache. BAM. immediately my load was down:</p>
+
+<blockquote>10:34:01 up 46 days, 16:05, 1 user, load average: 0.87, 3.82, 7.22</blockquote>
+
+
+<p>You can see that 15 min ago - the load was almost 7. This is what it has been for the past 2 months. Constantly pegged above 5. it was making me insane. So just seeing apache running and a load of 0.67 made me grin.  It has been 2 hours now and I am still seeing great performance from eAccelerator:</p>
+
+<blockquote>12:40:32 up 46 days, 18:12, 1 user, load average: 0.33, 0.40, 0.37</blockquote>
+
+
+<p>It is pretty amazing. I mean - opcode caching is really a no-brainer. It is easy and makes sense. And anytime you are running a language like PHP, you will need to think about caching the compiled code rather than recompile on every request.  I don't know why I didn't do this earlier.</p>
+
+<p>My only worry is that the opcode cache will not clear fast enough during edits.  I did some testing and it seemed to be pretty quick. I didn't notice any stale scripts or negative impact.  Apparently eAccelerator is <a href="http://www.ipersec.com/index.php?q=en/bench_ea_vs_apc&amp;page=0%2C3">pretty good at handling updates to its opcode cache</a>.</p>
+
+<p>So far - ALL of my sites are quicker. nice work.</p>
+
+  </div>
+</div>
+</div>
+      </div>
+      <div class="row">
+        <div class="offset2 span8 "><hr />
+
+<p><a href="/">nata2.org</a> is &copy; 1997-2012 <a href="https://www.harperreed.org/contact/">Harper Reed</a> (<a href="http://harperreed.org/contact">contact</a>). Powered by <a href="http://jekyllrb.com/">Jekyll</a>, <a href="http://www.vim.org/">vim</a>, <a href="https://en.wikipedia.org/wiki/Markdown">markdown</a> and magic</p>
+</div>
+      </div>
+    </div> <!-- /container -->
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.8/jquery-ui.min.js"></script>
+
+<script type="text/javascript" src="http://media.nata2.org/js/scripts.js?9"></script>
+
+ 
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-70650-9");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+ 
+
+<script type="text/javascript" src="http://twitter.com/statuses/user_timeline/harper.json?callback=twitterCallback2&amp;count=8"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+    var links = document.getElementsByTagName('a');
+    var query = '?';
+    for(var i = 0; i < links.length; i++) {
+    if(links[i].href.indexOf('#disqus_thread') >= 0) {
+        query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
+    }
+    }
+    document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/nata2/get_num_replies.js' + query + '"></' + 'script>');
+})();
+//]]>
+</script>
+
+<script type="text/javascript">
+var _sf_async_config={uid:5483,domain:"nata2.org"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+       "static.chartbeat.com/js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+</script>
+
+  </body>
+</html>
+
+</body>
+</html>

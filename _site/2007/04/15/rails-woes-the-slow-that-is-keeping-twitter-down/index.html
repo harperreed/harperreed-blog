@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+    <meta charset="utf-8">
+    <title> Rails woes. The slow that is keeping twitter down. |  Harper Reed: Technology and death metal</title>
+    <meta name="description" content="Hacking, Baphomet and the real time internet" />
+    <meta name="keywords" content="" />
+    <meta name="author" content="Harper Reed: harper@nata2.org">
+    <meta name="robots" content="noodp,noydir" />
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <link href="/css/bootstrap.min.css?9" rel="stylesheet">
+    <link href="/css/styles.css?9" rel="stylesheet">
+    
+    <link href="/css/bootstrap-responsive.css?7" rel="stylesheet">
+    
+    <META name="verify-v1" content="bxsrf6C7p0+qY6MxNCbSNSGdkeDA8dQSxjTsNJu4Sa0=" />
+    <link rel="openid.server" href="http://www.myopenid.com/server" />
+    <meta name="myid" content="0eda4814-55e0-4756-bf30-0f1bf5a4b469" />
+    <link rel="openid.delegate" href="http://harper.myopenid.com/" />
+    <link href="http://feeds.feedburner.com/HarperReed" rel="alternate" title="Harper Reed: Technology and death metal" type="application/atom+xml" />
+    <link rel="shortcut icon" href="/favicon.ico">
+  </head>
+  <body>
+    <div class="container">
+      <div class="row">
+        <div class="offset2 span8 header"><h1><a href="http://www.nata2.org">Harper Reed: Technology and death metal</a></h1>
+<small>Hacking, Baphomet and the real time internet</small>
+</div>
+      </div>
+      <hr class="offset2 span8" /> 
+      <div class="row">
+        <div class="offset2 span8 muted well-small well"> <a href="http://en.wikipedia.org/wiki/Hacker_(programmer_subculture)" target="_blank"><img style="padding-right: 5px; margin: 0px" src="http://media.nata2.org/images/glider.png" align="left"></a>
+
+<strong>Hi.</strong> I am an engineer who builds paradigm-shifting tech and leads others to do the same. I love using the enormity of the Internet to bring people together, whether as CTO of Obama for America, CTO at Threadless.com, or on my own projects. You can often find me playing with new technology, looking for something to hack, or enjoying life in Chicago with my amazing wife, Hiromi. Check out my <a href="http://harperreed.org">homepage</a> and <a href="https://twitter.com/intent/follow?screen_name=harper" target="_blank">follow me on twitter</a>.
+</div>
+      </div>
+      <div class="row">
+        <div class="offset2 span8 "><div class="post" style="padding-bottom: 50px;">
+  <div >
+    <h1 ><a title="Permanent Link to Rails woes. The slow that is keeping twitter down.." href="/2007/04/15/rails-woes-the-slow-that-is-keeping-twitter-down/" rel="bookmark">Rails woes. The slow that is keeping twitter down.</a> <br /><small>Posted on Apr 15, 2007</small></h1>
+  </div>
+  <div class="postcontent">
+    <p><img src="http://farm1.static.flickr.com/155/427451213_330f07f72e_m.jpg" align="right" />I have a love and hate relationship with <a href="http://www.rubyonrails.com">Ruby on Rails</a>. I love what it does. I love the activerecord, I love how it makes designers and other non-software engineers into raving MVC lunatics. I really like coding in ruby and seeing how much work can get done by so little code. All of that is really exciting. However, I hate a lot about rails as well. I do not like that it is so slow. I don't like that you use a reverse proxy and mongrel (I can't put a finger on why I don't like this - but for some reason I want to punch it). I really don't like the fan bois who won't listen to any reason when you criticize their first and probably only love. I don't like how hard it is to scale. I really don't like that the best known way to scale a rails app is by throwing more money at it. I am also still bitter about the not so smooth migration from <a href="http://manuals.rubyonrails.com/export/html/19">.95 to 1.0</a>.</p>
+
+<p>In my book, I am more annoyed than happy with rails. So I stopped using it.</p>
+
+<p>When I did stop using it, my servers were happier. After converting all my applications I converted to rails back to PHP - my server load dropped amazingly. I didn't even have big applications. Maybe one app that had a couple 1000 visits a day. nothing too fancy. but the little traffic it had really abused my server. annoying. One side effect of the PHP migration is that my applications responded a bit snappier - which in turn generated more pageviews. It was magical.</p>
+
+<p>I do have to say that I was sad to be back in the wild west of scripting that PHP is. I missed my MVC and my activerecord. However, I wasn't about to sacrifice what rails took from me.</p>
+
+<p><a href="http://www.statsaholic.com/twitter.com"><img src="http://traffic.alexa.com/graph?u=twitter.com&amp;r=2m&amp;y=r&amp;z=1&amp;h=90&amp;w=205&amp;f=555555&amp;o=l&amp;o=f&amp;p=-1" alt="Twitter growth" align="right" border="0" /></a>With all this said, It is kind of sad that twitter is getting owned so hard because they decided to use rails as their weapon of choice. It seems that they have assembled the biggest and most successful rails app on the Internet and are sustaining quite a number of pageviews. This is awesome. But ever since SXSW, where twitter seemed to pick up some seeming unstoppable steam, their  growth has been the bane of their existence.  I can't imagine that new users are as impressed and interested in twitter when their experience is tainted by slowness and missing features. I wonder how this is affecting their continued growth?</p>
+
+<p>So the other day, one of the <a href="http://al3x.net/">twitter engineers</a> had a <a href="http://www.radicalbehavior.com/5-question-interview-with-twitter-developer-alex-payne/">really great interview about twitter</a>, their growth and their future. It is very insightful and covers some interesting ground. It is always helpful to hear how other people are solving problems and it always helps the community to hear criticism and success. The interview had both of this. It explained how they had basically outgrown their ideas of growth and were dealing with scaling issues. He said that their issues were related to having too many mongrel connected to the database which was then killing things. This is not a new problem in the world of webapps. In fact, this very problem is where we at Threadless are having problems. And we are running PHP. OMG.</p>
+
+<p>So obviously there is a performance hit when using rails. But there is a performance hit when using any interpreted language. And even more a performance hit when using a framework. and then it doesn't help that ruby is slower. but these things don't really mean that a site can't scale. It just means that you have to solve the problems a bit more interesting (and being interesting might very well be moving to python).</p>
+
+<p>This is rails chance to show the world that they can scale a real world app. That they are not second place to some weird guitar named framework. But I don't think they will do that.</p>
+
+<p>Personally, I think that the rails community blows. I think that they are not helpful and I don't think they are willing to take criticism positively. I mean look at what erupted from this great developers smart interpretation of who his beloved application had scaling problems. The community rebelled and basically said that twitter needs to do the work themselves.</p>
+
+<p>This is type of reaction is exactly my experience when dealing with rails. The difference that I experienced when I dealt with rails versus when I dealt with PHP, is that PHP people are like</p>
+
+<blockquote>"Oh yea. this is why this happened. check out the solution."</blockquote>
+
+
+<p>or maybe they are like</p>
+
+<blockquote>"Oh shit. That is weird. Maybe try this. if you figure anything out let us know."</blockquote>
+
+
+<p>but regardless of what the response nobody says:</p>
+
+<blockquote>"Obviously you are doing it wrong. Its probably your database. fix it. "</blockquote>
+
+
+<p>However, this is exactly how the rails community has responded to twitter's issues. Nobody really constructively addressed the twitter issue. They all just waited until <a href="http://www.loudthinking.com/arc/000608.html">DHH said his word</a>. and then blindly followed. <a href="http://www.loudthinking.com/arc/000610.html#comments">They called the people who questioned trolls</a> and then jumped into line behind DHH. The twitter people even came to DHH's blog and apologized for possibly misconstruing that rails was slow. however, rails is slow.</p>
+
+<p>I think some of the best points on this whole thing is the following (paraphrased from somewhere <a href="http://laughingmeme.org/2007/04/12/twitter-ruby-and-scaling/">1</a>, <a href="http://rc3.org/2007/04/twitter_develop.php">2</a>, <a href="http://benbarren.blogspot.com/2007/04/all-of-us-working-on-twitter-are-big.html">3</a>):</p>
+
+<blockquote>Rails is great because it trades developer performance for framework performance. Rails is good enough for almost every application. However, if you get big enough - rails will suffer. If you are writing an app that may get big, you may want to choose a different framework.</blockquote>
+
+
+<p>With that said, I am going to go play with <a href="http://webpy.org/">web.py</a>.</p>
+
+  </div>
+</div>
+</div>
+      </div>
+      <div class="row">
+        <div class="offset2 span8 "><hr />
+
+<p><a href="/">nata2.org</a> is &copy; 1997-2012 <a href="https://www.harperreed.org/contact/">Harper Reed</a> (<a href="http://harperreed.org/contact">contact</a>). Powered by <a href="http://jekyllrb.com/">Jekyll</a>, <a href="http://www.vim.org/">vim</a>, <a href="https://en.wikipedia.org/wiki/Markdown">markdown</a> and magic</p>
+</div>
+      </div>
+    </div> <!-- /container -->
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.8/jquery-ui.min.js"></script>
+
+<script type="text/javascript" src="http://media.nata2.org/js/scripts.js?9"></script>
+
+ 
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-70650-9");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+ 
+
+<script type="text/javascript" src="http://twitter.com/statuses/user_timeline/harper.json?callback=twitterCallback2&amp;count=8"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+    var links = document.getElementsByTagName('a');
+    var query = '?';
+    for(var i = 0; i < links.length; i++) {
+    if(links[i].href.indexOf('#disqus_thread') >= 0) {
+        query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
+    }
+    }
+    document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/nata2/get_num_replies.js' + query + '"></' + 'script>');
+})();
+//]]>
+</script>
+
+<script type="text/javascript">
+var _sf_async_config={uid:5483,domain:"nata2.org"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+       "static.chartbeat.com/js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+</script>
+
+  </body>
+</html>
+
+</body>
+</html>

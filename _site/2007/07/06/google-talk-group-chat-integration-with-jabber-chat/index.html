@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+    <meta charset="utf-8">
+    <title> Google Talk group chat integration with Jabber Chat |  Harper Reed: Technology and death metal</title>
+    <meta name="description" content="Hacking, Baphomet and the real time internet" />
+    <meta name="keywords" content="" />
+    <meta name="author" content="Harper Reed: harper@nata2.org">
+    <meta name="robots" content="noodp,noydir" />
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <link href="/css/bootstrap.min.css?9" rel="stylesheet">
+    <link href="/css/styles.css?9" rel="stylesheet">
+    
+    <link href="/css/bootstrap-responsive.css?7" rel="stylesheet">
+    
+    <META name="verify-v1" content="bxsrf6C7p0+qY6MxNCbSNSGdkeDA8dQSxjTsNJu4Sa0=" />
+    <link rel="openid.server" href="http://www.myopenid.com/server" />
+    <meta name="myid" content="0eda4814-55e0-4756-bf30-0f1bf5a4b469" />
+    <link rel="openid.delegate" href="http://harper.myopenid.com/" />
+    <link href="http://feeds.feedburner.com/HarperReed" rel="alternate" title="Harper Reed: Technology and death metal" type="application/atom+xml" />
+    <link rel="shortcut icon" href="/favicon.ico">
+  </head>
+  <body>
+    <div class="container">
+      <div class="row">
+        <div class="offset2 span8 header"><h1><a href="http://www.nata2.org">Harper Reed: Technology and death metal</a></h1>
+<small>Hacking, Baphomet and the real time internet</small>
+</div>
+      </div>
+      <hr class="offset2 span8" /> 
+      <div class="row">
+        <div class="offset2 span8 muted well-small well"> <a href="http://en.wikipedia.org/wiki/Hacker_(programmer_subculture)" target="_blank"><img style="padding-right: 5px; margin: 0px" src="http://media.nata2.org/images/glider.png" align="left"></a>
+
+<strong>Hi.</strong> I am an engineer who builds paradigm-shifting tech and leads others to do the same. I love using the enormity of the Internet to bring people together, whether as CTO of Obama for America, CTO at Threadless.com, or on my own projects. You can often find me playing with new technology, looking for something to hack, or enjoying life in Chicago with my amazing wife, Hiromi. Check out my <a href="http://harperreed.org">homepage</a> and <a href="https://twitter.com/intent/follow?screen_name=harper" target="_blank">follow me on twitter</a>.
+</div>
+      </div>
+      <div class="row">
+        <div class="offset2 span8 "><div class="post" style="padding-bottom: 50px;">
+  <div >
+    <h1 ><a title="Permanent Link to Google Talk group chat integration with Jabber Chat." href="/2007/07/06/google-talk-group-chat-integration-with-jabber-chat/" rel="bookmark">Google Talk group chat integration with Jabber Chat</a> <br /><small>Posted on Jul 06, 2007</small></h1>
+  </div>
+  <div class="postcontent">
+    <p>I love jabber. I love <a href="http://www.google.com/talk/">Google talk</a> because it is jabber. I really like what jabber supports and how it works. And the Google talk desktop app is pretty smooth. </p>
+
+
+<p> <p>A couple weeks ago Google released <a href="http://mashable.com/2007/03/14/google-talk-gadget/">Google talk gadget</a> that allowed group chatting. This was super weird since the flash based gadget has totally blown the desktop app out of the water - in regards to features. What is annoying is that they are limiting the groups feature to Google talk accounts. </p> <p><img src="http://farm2.static.flickr.com/1268/734972888_403d1243e0.jpg?v=0" align="right"></p> <p>The screenshot on my left shows me attempting to invite a plain vanilla jabber account to my talk gadget group chat. As you can see it says "nata2@jabber.org is not using a Google account. Currently, the group chat feature is only operational for such accounts." Google&nbsp;is blocking inviting other providers. </p> <p>So i got to thinking about Google Talk and Jabber. I imagined that the group chat was nothing more than the mult-iuser chat supported by jabber (<a href="http://www.xmpp.org/extensions/xep-0045.html">XEP-0045: Multi-User Chat</a>). Just a more googlized version.&nbsp; So i did a little experiment. Simple and easily reproducible. Try it yourself. </p> <p>First, i took <strike><a href="http://pidgin.im/~elb/cgi-bin/pyblosxom.cgi/going_public.html">gaim</a></strike> <a href="http://pidgin.im/">pidgin</a> and I created a group chat with my jabber account hosted at conference.jabber.org. I named this room harper-test. Pidgin popped up a dialog about configuring the room. I left it as plain as i could. </p> <p>Second, I invited my Google talk name. It is a <a href="http://google.com/a/">Google apps</a> talk name, but it is using the same client. So i invited that into the group chat. </p> <p>I need to jump in here and clarify something. You have always been able to use pidgin or really any other jabber client and log in as your Google Talk account and use jabber multi user chat. So i knew that theoretically you could connect using a Google Talk account. but i wanted to try through their gadget client. </p> <p>So anyway. I in pidgin, i&nbsp;invited my self to my newly created chat room. And it popped up the chat room right away. I was able to see right in. However, it was really wonky. The names of each participant was "undefined" and it was a bit slow to react. It sometimes stalled for a couple secs then caught up. But it worked. I was able to invite a bundle of people. I tested it on 2 hosted Google Talk accounts and one gmail - all in the Google talk gadget. I invited 2 friends who both used pidgin. They both got in fine and were able to see the real names of everyone. </p> <p><a title="Photo Sharing" href="http://www.flickr.com/photos/natatwo/734892136/"><img height="347" alt="google-talk-group-chat" src="http://farm2.static.flickr.com/1008/734892136_e68d5ac074.jpg" width="500"></a></p> <p>So i guess it is using the multi-user chat functionality. Hilarious. And their blocking non Google talk accounts could be purely not wanting to interop or federate with other jabber services. Or it could be some bigger game plan that i don't know. regardless - Google is a bunch of punks. </p> <p>I hope they someday open up Google Talk like we all want them to. They have been sitting on this <a href="http://code.google.com/apis/talk/open_communications.html">Google Talk and Open Communications</a>&nbsp;page for far too long without doing much (and when i say "not doing much" - i really mean "doing a lot more than anyone else - but seriously - when can i hit up <a href="http://juberti.blogspot.com/2007/01/google-talk-aim-when.html">aim names on Google Talk</a>?!?").</p> <div class="wlWriterSmartContent" id="0767317B-992E-4b12-91E0-4F059A8CECA8:cd5ea250-c1f2-4283-9143-dd7f4d954e8c" contenteditable="false" style="padding-right: 0px; display: inline; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px">[tags]google, gtalk, talk, google talk, jabber, multi-user chat, awesome, tricks[/tags]</div></p>
+
+  </div>
+</div>
+</div>
+      </div>
+      <div class="row">
+        <div class="offset2 span8 "><hr />
+
+<p><a href="/">nata2.org</a> is &copy; 1997-2012 <a href="https://www.harperreed.org/contact/">Harper Reed</a> (<a href="http://harperreed.org/contact">contact</a>). Powered by <a href="http://jekyllrb.com/">Jekyll</a>, <a href="http://www.vim.org/">vim</a>, <a href="https://en.wikipedia.org/wiki/Markdown">markdown</a> and magic</p>
+</div>
+      </div>
+    </div> <!-- /container -->
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.8/jquery-ui.min.js"></script>
+
+<script type="text/javascript" src="http://media.nata2.org/js/scripts.js?9"></script>
+
+ 
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-70650-9");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+ 
+
+<script type="text/javascript" src="http://twitter.com/statuses/user_timeline/harper.json?callback=twitterCallback2&amp;count=8"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+    var links = document.getElementsByTagName('a');
+    var query = '?';
+    for(var i = 0; i < links.length; i++) {
+    if(links[i].href.indexOf('#disqus_thread') >= 0) {
+        query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
+    }
+    }
+    document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/nata2/get_num_replies.js' + query + '"></' + 'script>');
+})();
+//]]>
+</script>
+
+<script type="text/javascript">
+var _sf_async_config={uid:5483,domain:"nata2.org"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+       "static.chartbeat.com/js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+</script>
+
+  </body>
+</html>
+
+</body>
+</html>
