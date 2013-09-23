@@ -6,7 +6,7 @@ date: 2008-07-13 23:35:22 -05:00
 tags: general, travel, japan, tokyo, friends, aa-camp, barcamp
 wordpress_url: http://www.nata2.org/?p=1540
 ---
-A couple weeks ago, I was in japan for some family events. It was a great trip. Hanging out with Hiromi's family and friends was awesome. Since we were going to be spending some free time in Tokyo, i decided to reach out to the Tokyo tech community and meet some people.  I emailed my friend, Kristin, who had <a href="http://kristenicole2.wordpress.com/2008/05/28/day-2-in-tokyo-still-afraid-of-heights/">just been to Japan</a> and asked her to hook me up with some cool cats in the tech scene.
+A couple weeks ago, I was in japan for some family events. It was a great trip. Hanging out with Hiromi's family and friends was awesome. Since we were going to be spending some free time in Tokyo, i decided to reach out to the Tokyo tech community and meet some people.Â  I emailed my friend, Kristin, who had <a href="http://kristenicole2.wordpress.com/2008/05/28/day-2-in-tokyo-still-afraid-of-heights/">just been to Japan</a> and asked her to hook me up with some cool cats in the tech scene.
 
 She obliged and I was able to meet with an awesome group of people for a barcamp like event, and then hang out with another awesome guy who should be the tech tour guide of tokyo. I sadly missed some people from ibm, who were out of town on business - but there is always next time.
 

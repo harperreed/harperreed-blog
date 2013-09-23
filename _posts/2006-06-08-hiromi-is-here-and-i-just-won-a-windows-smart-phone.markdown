@@ -8,7 +8,7 @@ wordpress_url: http://www.nata2.org/2006/06/08/hiromi-is-here-and-i-just-won-a-w
 ---
 So hiromi got here monday. it has been really fun.
 
-On monday I picked her up and we hung out around my house. Went to our friend becca's house and hung out.  It was fun. After that we went home - picked up chris - went to irazu and then went to the empty bottle to see becca's husband's band "<a href="http://www.asianmanrecords.com/bands/jus.html">just a fire</a>." It was good - but hiromi about died from jet lag. So we hurried home and went to bed.
+On monday I picked her up and we hung out around my house. Went to our friend becca's house and hung out.Â  It was fun. After that we went home - picked up chris - went to irazu and then went to the empty bottle to see becca's husband's band "<a href="http://www.asianmanrecords.com/bands/jus.html">just a fire</a>." It was good - but hiromi about died from jet lag. So we hurried home and went to bed.
 
 Then on tuesday hiromi came and had lunch with me at the <a href="http://metromix.chicagotribune.com/search/43857,0,1932948.venue">Taste of Lebanon</a>. Then she made a really nice dinner. It was awesome. Then we went to see the movie "<a href="http://imdb.com/title/tt0452594/">the break-up.</a>" It was ok. Sad and weird. but fun that it was in chicago.
 

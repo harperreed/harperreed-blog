@@ -24,26 +24,26 @@ for 6600 users, to format the phone, theres an alternative way. Press and hold <
 <strong>Tip 3 - installing .sis files simply using the cable</strong>
 Just plug it in, place the .sis file anywhere on e: (the MMC), not in any folders, root of e:, disconnect, then look for it in manager.
 
-<strong>Tip 4 – Task Menu</strong>
+<strong>Tip 4 â€“ Task Menu</strong>
 Save on battery and system memory being used by regularly checking the task manager which can be accessed by holding down the menu button!!
 
 <strong>Tip 4a</strong> - Set the screen saver to a short time out period to prolong battery life.
 
 <strong>Tip 4b</strong> - Avoid restarting the phone, or repeatedly turning it on and off. This helps increase battery life.
 
-<strong>Tip 5 – IMEI Number</strong>
+<strong>Tip 5 â€“ IMEI Number</strong>
 Type *#06# to display your IMEI serial number, very valuable for the unlocking your phone to other sim cards
 
-<strong>Tip 6 – Firmware Version</strong>
+<strong>Tip 6 â€“ Firmware Version</strong>
 Type *#0000# to view which firmware version you are running
 
-<strong>Tip 7 – Avoid being bluejacked</strong>
+<strong>Tip 7 â€“ Avoid being bluejacked</strong>
 If you would like to avoid being "blue jacked", keep bluetooth turned off, or set your phone's visibility to hidden.
 
 <strong>Tip 8 -  Make your phone a watch</strong>
 Don't want to carry a watch and a phone? Set the screen saver to show date and time, then you can ditch the watch.
 
-<strong>Tip 9 – Save memory while installing apps</strong>
+<strong>Tip 9 â€“ Save memory while installing apps</strong>
 Save memory when installing apps, by installing over bluetooth. This can be done using the nokia phone suite and a bluetooth serial connection. Only works with .SIS files, so java still has to be sent to the phone, but will save space when using .SIS files.
 
 <strong>Tip 10 - Operator logos</strong>

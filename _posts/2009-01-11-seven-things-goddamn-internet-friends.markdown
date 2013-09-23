@@ -48,12 +48,12 @@ Ready? These Seven People please report to the meme office and make a Seven Thin
 	<li><a href="http://anders.conbere.org/journal/">Anders Conbere</a> - xmpp nerd - Anders is awesome. I hope he picks this meme up.</li>
 	<li><a href="http://www.joevw.com/blog/">Speedy Joe</a> - awesome designer - Speedy just set up his blog. I wanted to give him some blogosphere love. ;)</li>
 </ol>
-The rules of this ‘game’ for those that I have tagged:
+The rules of this â€˜gameâ€™ for those that I have tagged:
 
 <ul>
 	<li>Link your original tagger(s), and list these rules on your blog.</li>
 	<li>Share seven facts about yourself in the post - some random, some weird.</li>
 	<li>Tag seven people at the end of your post by leaving their names and the links to their blogs.</li>
-	<li>Let them know they’ve been tagged by leaving a comment on their blogs and/or Twitter</li>
+	<li>Let them know theyâ€™ve been tagged by leaving a comment on their blogs and/or Twitter</li>
 </ul>
 There yea have it. I continued the meme. I am not one to be a meme killer ;) This was fun. Thanks to Eli and Brian for making it happen!

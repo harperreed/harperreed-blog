@@ -47,4 +47,4 @@ We then took the bus back to tokyo and ate onigari. So good. I read my book. and
 
 The next day i left and flew to chicago. So long.
 
-All in all tokyo rules. it was awesome to see hiromi and to visit her country.  Quite different from mine ;). You can see the rest of my <a xhref="http://flickr.com/photos/natatwo/sets/72057594085151914/">pictures on flickr</a>. I took quite a bit and there are some fun ones.
+All in all tokyo rules. it was awesome to see hiromi and to visit her country.Â  Quite different from mine ;). You can see the rest of my <a xhref="http://flickr.com/photos/natatwo/sets/72057594085151914/">pictures on flickr</a>. I took quite a bit and there are some fun ones.

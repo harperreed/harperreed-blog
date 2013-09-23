@@ -11,7 +11,7 @@ So anyway. Jon's team won the <a href="http://es.epa.gov/ncer/p3/project_website
 
 Anyway. I am really proud of him and happy that he and his team were so successful.
 
-<strong>UPDATE </strong>
+<strong>UPDATEÂ </strong>
 
 Here are some more links about the contest and the grant
 

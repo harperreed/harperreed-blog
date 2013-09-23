@@ -8,7 +8,7 @@ wordpress_url: http://www.nata2.org/2006/02/24/i-redid-jokesareawesomecom/
 ---
 Check it out here: <a href="http://www.jokesareawesome.com">jokesareawesome.com</a>
 
-I made it a bit more user friendly, made it a bit more web 2.0 and really fixed up the backend. The biggest  change is that i added youtube content and added all my nata2.info pictures. I want to start doubling my nata2.info income. hah. maybe by replicating the site. haha. we shall see.
+I made it a bit more user friendly, made it a bit more web 2.0 and really fixed up the backend. The biggestÂ  change is that i added youtube content and added all my nata2.info pictures. I want to start doubling my nata2.info income. hah. maybe by replicating the site. haha. we shall see.
 
 The reason i did this - is i have been playing around with a php framework that i want to use for my future sites - and i needed a place to try it out. so yea. word.
 

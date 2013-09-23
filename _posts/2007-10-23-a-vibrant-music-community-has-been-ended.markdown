@@ -16,4 +16,4 @@ It is a bummer that it is gone. But I imagine something better will pop up short
 
 <a href="http://www.ifpi.org/content/section_news/20071023.html">Here is the press release from IFPI.</a>  <a href="http://digg.com/music/Oink_cd_Shut_Down">Here is the article comments at DIGG.</a>
 
-<strong>UPDATE: </strong><a href="http://rawkblog.blogspot.com/2007/10/critical-backlash-why-we-need-oink.html">This guy says everything i want to say and more. </a>
+<strong>UPDATE: </strong><a href="http://rawkblog.blogspot.com/2007/10/critical-backlash-why-we-need-oink.html">This guy says everything i want to say and more.Â </a>

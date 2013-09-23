@@ -8,21 +8,21 @@ wordpress_url: http://www.nata2.org/2004/09/15/playstation-2-hacking-2/
 ---
 This post is comprised of notes from my wiki. so it is pretty free form. Basically it is just me haxoring my PS2 to be more fancy.
 
-The following pictures and documents are from my attempt at ìhackingî the ps2. i am not really skilled nor am i very innovative.. i think i am just fearless.. especially in regards to breaking my roomates playstation ;)
+The following pictures and documents are from my attempt at ‚Äúhacking‚Äù the ps2. i am not really skilled nor am i very innovative.. i think i am just fearless.. especially in regards to breaking my roomates playstation ;)
 
 <!--more-->
 
-basically the goal was to add a hard drive and see what happens. adding a hard drive to the ps2 is really really easy. all you need to do is plug it into the ps2 network adaptor.. which happens to have an IDE plug on it already. NO MODIFICATIONS need to occur. there is even a sleev in the PS2 for the ide drive. i was amazed. i guess that is why the back of the network adaptor says ìHDDî.. hahahaha.
+basically the goal was to add a hard drive and see what happens. adding a hard drive to the ps2 is really really easy. all you need to do is plug it into the ps2 network adaptor.. which happens to have an IDE plug on it already. NO MODIFICATIONS need to occur. there is even a sleev in the PS2 for the ide drive. i was amazed. i guess that is why the back of the network adaptor says ‚ÄúHDD‚Äù.. hahahaha.
 
-originally i found a hard drive that worked perfectly. however. it was only like 6 gigs. that shit woudl work ever ;) so i found an extra 45g drive(hehe.. i really didnít check what was on it.. prolly ALL of my source code.. backed up :P) and proceded to install it into the bastard playstation.
+originally i found a hard drive that worked perfectly. however. it was only like 6 gigs. that shit woudl work ever ;) so i found an extra 45g drive(hehe.. i really didn‚Äôt check what was on it.. prolly ALL of my source code.. backed up :P) and proceded to install it into the bastard playstation.
 
-howeverÖ the harddrive i picked didnít fit on the network adaptors ide plug. so i got out my tool kit and ìfixedî it. luckily for me i didnít fuck it up too bad. basically i took all the pieces out.. one by one.. and unseated the power and ide plugs(this was a pain in the ass.. cuz they are riveted in). i ten cut the bottom off of the metal shield so the plugs could move around to accompany any size drive. this accomidated my ps2 and hdd well. it worked. i booted up tonyhawk 4 to check if i fried my network card.. and BAM.. it worked.. i rule/am lucky once again.
+however‚Ä¶ the harddrive i picked didn‚Äôt fit on the network adaptors ide plug. so i got out my tool kit and ‚Äúfixed‚Äù it. luckily for me i didn‚Äôt fuck it up too bad. basically i took all the pieces out.. one by one.. and unseated the power and ide plugs(this was a pain in the ass.. cuz they are riveted in). i ten cut the bottom off of the metal shield so the plugs could move around to accompany any size drive. this accomidated my ps2 and hdd well. it worked. i booted up tonyhawk 4 to check if i fried my network card.. and BAM.. it worked.. i rule/am lucky once again.
 
-Next.. i booted(using the GS2 disk) up the HDtool and schooled my hdd. however. it didnít work. tricky HDtool took a lot of work to get going.. but finally i did it.. and formated my drive. as you probably know the tutorial isnít very verbos. it totally ruled.. but there are a lot of options in hddtool that just arnít covered by any tutorials..
+Next.. i booted(using the GS2 disk) up the HDtool and schooled my hdd. however. it didn‚Äôt work. tricky HDtool took a lot of work to get going.. but finally i did it.. and formated my drive. as you probably know the tutorial isn‚Äôt very verbos. it totally ruled.. but there are a lot of options in hddtool that just arn‚Äôt covered by any tutorials..
 
-so after doing this.. i couldnít wait to boot the BB nav.. so i popped in the disk and wham.. booted right up.. and luckily.. my roommate got home and was willing to help me translate some of the japanese bbnav3.0 text. it is pretty straight forward.. so i followed te directions on the screen.. and the directions in Lazaroneís tutorial(nice work.. ). however.. it kept failing 3/4s of the way through the 2/2 install part. which obviously sucked. i think i have a fucked up burn of the bbnav 30. stupid .cue files. i attempted to boot anyway using the ps2 RTE bbnav boot (this is awesome btw) and i get a kernel panic. If i now loud the hddtool i do see a bunch more files.. and quite a bit of my drive taken up. so something is happening..
+so after doing this.. i couldn‚Äôt wait to boot the BB nav.. so i popped in the disk and wham.. booted right up.. and luckily.. my roommate got home and was willing to help me translate some of the japanese bbnav3.0 text. it is pretty straight forward.. so i followed te directions on the screen.. and the directions in Lazarone‚Äôs tutorial(nice work.. ). however.. it kept failing 3/4s of the way through the 2/2 install part. which obviously sucked. i think i have a fucked up burn of the bbnav 30. stupid .cue files. i attempted to boot anyway using the ps2 RTE bbnav boot (this is awesome btw) and i get a kernel panic. If i now loud the hddtool i do see a bunch more files.. and quite a bit of my drive taken up. so something is happening..
 
-so that is where i am with BBNav. it seems fancy. however.. it doesnít work for me. maybe i will have better luck with 31. ;);)
+so that is where i am with BBNav. it seems fancy. however.. it doesn‚Äôt work for me. maybe i will have better luck with 31. ;);)
 
 having failed at installing the full version of BBNav i moved on to some of the easier hacks. i have to say that the independence exploit.. which could have been the easiest install in the world.. is really handy. i like how you just install it however you can.. and then when you boot up the specific ps2 game you specified in your TITLES.DB - wham.. you boot the binary on the card. not that is haxoring for sure.
 
@@ -30,7 +30,7 @@ next i tried out the new send0r disc(fancy fancy). i really like the idea of the
 
 so i played with sendor and finally played the homebrew game. black adder rules..
 
-that is the basic story. it really wasnít too bad. you doínt need a modchip.. or break your warrenty.. i did.. but i didnít have too.. it was mainly that i didnít have patience to find an HD that actually fit.
+that is the basic story. it really wasn‚Äôt too bad. you do‚Äônt need a modchip.. or break your warrenty.. i did.. but i didn‚Äôt have too.. it was mainly that i didn‚Äôt have patience to find an HD that actually fit.
 
 love <a href="http://nata2.info/misc/misc_hacking/ps2/hacking_ps2%20026.avi">nata2 </a>
 if you have questions.. i am xygoat on efnet.

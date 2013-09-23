@@ -6,7 +6,7 @@ date: 2006-04-11 13:52:10 -05:00
 tags: general
 wordpress_url: http://www.nata2.org/stuff-i-do/
 ---
-<strong>Hacking Stuff </strong>
+<strong>Hacking StuffÂ </strong>
 
 I quite enjoy manipulating and hacking stuff. It could a web application, learning AJAX or XSLT or taking apart the latest awesome consumer appliance. Ever since before college I have been interested in writing software, taking stuff apart and making new things.
 <div style="text-align: center"><!--adsense--></div>
