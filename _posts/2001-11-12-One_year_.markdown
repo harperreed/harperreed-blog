@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 130
+layout: post
+title: One year.
+excerpt: I recently came back from a nice little vacation. My girlfriend and myself have dated a little over one year recetnly and we had a nice weekend together. It was quite something. To experience all the things we have experienced together. To have a best friend be the same person you love and adore. To have all of those feelings be reciprocated. Boy howdy I enjoy it. hehe. Well, I got her a nice sur...
+date: 2001-11-12 17:11:56 -06:00
+tags: girlfriend, vacation
+wordpress_url: http://new.nata2.org/?p=130
+---
+I recently came back from a nice little vacation. My girlfriend and myself have dated a little over one year recetnly and we had a nice weekend together. It was quite something. To experience all the things we have experienced together. To have a best friend be the same person you love and adore. To have all of those feelings be reciprocated. Boy howdy I enjoy it. hehe. Well, I got her a nice surprise and she liked it. I was very happy. 

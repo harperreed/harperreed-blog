@@ -1,0 +1,18 @@
+--- 
+wordpress_id: 459
+layout: post
+title: haxors
+excerpt: |
+  so I mad two quick html graphics hacks...
+  they are cool. 
+  here is the first one
+  and here is the secondOh yea... I am bored. maybe I should go home. stupid after work curiosity.
+
+date: 2003-03-07 00:22:50 -06:00
+tags: php
+wordpress_url: http://new.nata2.org/?p=459
+---
+so I mad two quick html graphics hacks...<br/>
+they are cool. <br/>
+<a href="http://penisfighter.com/png.php?">here</a> is the first one<br/>
+and <a href="http://penisfighter.com/X.php">here</a> is the second<br/><br/>Oh yea... I am bored. maybe I should go home. stupid after work curiosity.

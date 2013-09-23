@@ -1,0 +1,14 @@
+--- 
+wordpress_id: 519
+layout: post
+title: r0x0r
+excerpt: |
+  a good gamei got my picture phone.
+  w00t
+
+date: 2003-05-23 05:34:16 -05:00
+tags: phone
+wordpress_url: http://new.nata2.org/?p=519
+---
+<a href="http://bigideafun.com/penguins/arcade/doom_funnel/default.htm">a good game</a><br/><br/>i got my picture phone.<br/>
+w00t

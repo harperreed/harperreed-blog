@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 53
+layout: post
+title: Week.. Belt
+excerpt: |-
+  This week has been nuts. I had a very nice time in class. It has been fun. I love to program. My company is insane, i went in and will get paid soon. weeee. I got a cool new belt. 
+  I think the most consequential part of the last week has been my relationship with kinnera. It has been a very exciting time. I spend a lot of time with her, and we have had the oppurtunity to share some special t...
+date: 2000-12-07 19:36:51 -06:00
+tags: kinnera, insane
+wordpress_url: http://new.nata2.org/?p=53
+---
+This week has been nuts. I had a very nice time in class. It has been fun. I love to program. My company is insane, i went in and will get paid soon. weeee. I got a cool new belt. <br>
+I think the most consequential part of the last week has been my relationship with kinnera. It has been a very exciting time. I spend a lot of time with her, and we have had the oppurtunity to share some special things with one another. It is real nice. I hope things keep as they are. Eveyday seems to get better and better.. an apex hopefully isn't near. well word...

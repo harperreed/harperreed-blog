@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 1250
+layout: post
+title: neti pot.
+date: 2006-04-24 13:34:53 -05:00
+tags: general, sick, health, saline, neti
+wordpress_url: http://www.nata2.org/2006/04/24/neti-pot/
+---
+<p>Wow. now that was pretty weird. My nose is full of saline water residue.</p>
+<p>hopefully it will be nice.
+</p>

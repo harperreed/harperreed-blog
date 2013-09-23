@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 502
+layout: post
+title: Yo Yo YO
+excerpt: So hiromi is curating an art show that opens tonight. check it out:Plastic FantasticMay 2-18, 2003Opening Reception May 2, 7:00-10:00 p.m1926 Exhibition Studies Space1926 North Halsted, Chicago, il 60614Did you guys know that yesterday was Loyalty Day
+date: 2003-05-02 16:27:18 -05:00
+tags: php, chicago, college, music, hiromi
+wordpress_url: http://new.nata2.org/?p=502
+---
+So hiromi is curating an art show that opens tonight. check it out:<blockquote><small><b>Plastic Fantastic</b><br/>May 2-18, 2003<br/>Opening Reception May 2, 7:00-10:00 p.m<br/>1926 Exhibition Studies Space<br/>1926 North Halsted, Chicago, il 60614</small></blockquote><br/>Did you guys know that yesterday was <a href="http://www.whitehouse.gov/news/releases/2003/04/20030430-26.html">Loyalty Day</a>. I didn't. I did know, however, that our president rules. He is so so smart. <a href="http://www.11alive.com/news/news_article.asp?storyid=31252">here</a> is some exciting new if you are a racist. Remember in the gravediggaz album where RZA gnaws his own arm off? well, <a href="http://www.cnn.com/2003/US/Central/05/02/climber.amputation.ap/index.html">this</a> <a href="http://www.denverpost.com/Stories/0,1413,36~53~1364264,00.html">hiker</a> apparently did that when his arm got trapped under a boulder. wtf.  <br/>ahhh.. <a href="http://www.purdueexponent.org/interface/bebop/showstory.php?date=2003/04/28&amp;section=letters&amp;storyid=brown">college</a><br/>Who are <a href="http://www.bbc.co.uk/music/parents/teenagetribes/">you</a>?

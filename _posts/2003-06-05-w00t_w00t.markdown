@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 533
+layout: post
+title: w00t w00t
+excerpt: i am excited for the coming days. my mom and aunt are in chitown with my little cousin. so we are hanging out a bunch. I think today we will be going to the museum.. maybe the aquariumm.. I don't know.. but I am exited.. hmm.. I seem to have lost my digicam. suxor.. last night I went to watusi with my aunt.. and then left before it got good.. and went and hung out with marcia.. so nice.. but yea...
+date: 2003-06-05 15:09:32 -05:00
+tags: mom
+wordpress_url: http://new.nata2.org/?p=533
+---
+i am excited for the coming days. my mom and aunt are in chitown with my little cousin. so we are hanging out a bunch. I think today we will be going to the museum.. maybe the aquariumm.. I don't know.. but I am exited.. hmm.. I seem to have lost my digicam. suxor.. last night I went to watusi with my aunt.. and then left before it got good.. and went and hung out with marcia.. so nice.. but yea.. I am happy.. I am a dork.. uhh.. 

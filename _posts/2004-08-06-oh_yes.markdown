@@ -1,0 +1,15 @@
+--- 
+wordpress_id: 912
+layout: post
+title: oh yes
+excerpt: |-
+  pictures from crobar last night. it was fun.i am hungry and sleepy. I wonder what will happen for lunch. I am thinking that I want to chill out this weekend. 
+  fierce. 
+  movies.. sleep. hanging out.
+date: 2004-08-06 17:18:42 -05:00
+tags: crobar, movies
+wordpress_url: http://new.nata2.org/?p=912
+---
+<a href="http://nata2.info/?path=pictures%2Fevents%2F2004%3A08%3A05_random_crobar">pictures</a> from crobar last night. it was fun.<br/><br/>i am hungry and sleepy. I wonder what will happen for lunch. I am thinking that I want to chill out this weekend. <br/>
+fierce. <br/>
+movies.. sleep. hanging out.

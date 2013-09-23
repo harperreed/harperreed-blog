@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 242
+layout: post
+title: everyday.
+excerpt: Today I sit in my office surrounded by 4 computers. on eof them is a huge netfinity POS from ibms death shops. it ways like 120 pounds. which is honestly about my weight. It heats up my office.. which is annoying considering our new dress code.. so as I sit here and chroot my newest server installation.. I get this.. now what am I suppos...
+date: 2002-03-26 21:53:34 -06:00
+tags: server, computers, blood
+wordpress_url: http://new.nata2.org/?p=242
+---
+Today I sit in my office surrounded by 4 computers. on eof them is a huge netfinity POS from ibms death shops. it ways like 120 pounds. which is honestly about my weight. It heats up my office.. which is annoying considering our new dress code.. so as I sit here and chroot my newest server installation.. I get <a href="http://www.bloodymidgets.com/indexenter2.html">this</a>.. now what am I supposed to do with that.. hehe..
+
+http://www.bloodymidgets.com/indexenter2.html

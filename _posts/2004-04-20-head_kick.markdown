@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 826
+layout: post
+title: head kick
+excerpt: "i just made a 3ft x 4ft picture of my head. it is pretty funny. especially when it is printed out. \r\n\
+  so. umm. yea. here is a "
+date: 2004-04-20 20:35:40 -05:00
+tags: harper, phone, nokia
+wordpress_url: http://new.nata2.org/?p=826
+---
+i just <a href="http://homokaasu.org/rasterbator/">made</a> a 3ft x 4ft</a> picture of my <a href="http://nata2.info/misc/Incoming/Harpers-head-rasterbation.pdf">head</a>. it is pretty funny. especially when it is <a href="http://www.nata2.info/?path=pictures%2Fmisc%2Fphone_camera%2Fphotolog&img=1082502984-Nokia6600(424).jpg">printed out</a>. <br/>
+so. umm. yea. <br/><br/>here is a <a href="http://nata2.info/misc/Incoming/unicorn-huge-rasterbation.pdf">6ft x 8ft unicorn</a> and a <a href="http://nata2.info/misc/Incoming/valkyrie-rasterbation.pdf">10ft x 15ft valkyrie</a><br/><br/>my life suddenly got incredibly complicated. you have no idea. 

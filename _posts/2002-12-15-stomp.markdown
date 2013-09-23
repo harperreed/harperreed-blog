@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 416
+layout: post
+title: stomp
+excerpt: "last night I went to see stomp with kinnera. It was quite fun. I hadn't really had any notion as to what it would be about.. but I really enjoyed it. It was quite something..tonight I am going to see common with miriam - it should be  good time. I am excited. "
+date: 2002-12-15 00:21:43 -06:00
+tags: kinnera
+wordpress_url: http://new.nata2.org/?p=416
+---
+last night I went to see stomp with kinnera. It was quite fun. I hadn't really had any notion as to what it would be about.. but I really enjoyed it. It was quite something..<br/><br/>tonight I am going to see common with miriam - it should be  good time. I am excited. 

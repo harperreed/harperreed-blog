@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 18
+layout: post
+title: Mix tapes..
+excerpt: i decided to make a mix tape to night for kinnera. i looked all over, my cd collection, friends, internet and came across a few hundred "good" songs, and a couple of rather cool mix tape sites(here and here). So i finally(yea right) decided on a good selection. i hope to burn it soon. I love mix ta...
+date: 2001-07-24 03:05:19 -05:00
+tags: kinnera, internet, sites
+wordpress_url: http://new.nata2.org/?p=18
+---
+i decided to make a mix tape to night for kinnera. i looked all over, my cd collection, friends, internet and came across a few hundred "good" songs, and a couple of rather cool mix tape sites(<a href="http://www.artofthemix.org/">here</a> and <a href="http://crankeebee.net/freebies/mixlist.html">here</a>). So i finally(yea right) decided on a good selection. i hope to burn it soon. I love mix tapes. i thought about a <b><i>mix tape algorithm</i></b> but i decided against it :)

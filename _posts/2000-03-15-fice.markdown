@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 39
+layout: post
+title: fice
+excerpt: Today i wrote 5 pages of my paper.. hehe all on that bastard Giordano Bruno... Dumb ass.. anyway my parents are flying in and i hope to hang like a villian.. DOh i always fuck that up.. chill like a villian... maybe we will goto the museum of science and industry.. maybe we will goto the prada store.. never no....
+date: 2000-03-15 21:18:35 -06:00
+wordpress_url: http://new.nata2.org/?p=39
+---
+Today i wrote 5 pages of my paper.. hehe all on that bastard Giordano Bruno... Dumb ass.. anyway my parents are flying in and i hope to hang like a villian.. DOh i always fuck that up.. chill like a villian... maybe we will goto the museum of science and industry.. maybe we will goto the prada store.. never no....

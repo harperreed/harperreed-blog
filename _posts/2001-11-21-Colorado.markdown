@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 134
+layout: post
+title: Colorado
+excerpt: Well I am incolorado again. Thanksgiving and all. It is nice. I like seeing my family. Recently I thought up some ideas for movies. I will prbably post them sometime. hehe. maybe I will dream them. I am going to see britney soon. weee. meanwhile I will be programming like a monkey...
+date: 2001-11-21 21:45:19 -06:00
+tags: family, colorado, programming, movies
+wordpress_url: http://new.nata2.org/?p=134
+---
+Well I am incolorado again. Thanksgiving and all. It is nice. I like seeing my family. Recently I thought up some ideas for movies. I will prbably post them sometime. hehe. maybe I will dream them. I am going to see britney soon. weee. meanwhile I will be programming like a monkey...

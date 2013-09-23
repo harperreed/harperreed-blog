@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 1054
+layout: post
+title: tetrinet
+date: 2005-05-08 19:37:38 -05:00
+tags: general, tetris, tetrinet
+wordpress_url: http://www.nata2.org/2005/05/08/tetrinet/
+---
+i am currently trying to play <a href="http://tetrinet.org">tetrinet</a>. heh. hopefully it will KILL a good month of my life. haha. i love tetris. love it. in fact. i had a dream of playing it on the game boy. 
+
+LOVE

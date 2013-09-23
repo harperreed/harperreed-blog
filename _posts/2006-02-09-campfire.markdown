@@ -1,0 +1,21 @@
+--- 
+wordpress_id: 1205
+layout: post
+title: "Campfire perl bot hack "
+date: 2006-02-09 22:54:15 -06:00
+tags: general, harper, hacking, irc, awesome, web, 37signals, campfire, 20, bot, chat
+wordpress_url: http://www.nata2.org/2006/02/09/campfire/
+---
+So i was playing around with <a href="http://campfirenow.com">campfire </a>and i noticed that i could easy write a bot for it. so i did. it sucks. but it shows what you could do. how i love www mechanize. and perl. check it out:
+
+<a href="http://nata2.info/?path=code%2Fcampfire_bot_hack">http://nata2.info/?path=code%2Fcampfire_bot_hack</a>
+
+Oh yea. <a href="http://campfirenow.com">campfire </a>is sweet. the <a href="http://www.37signals.com">37signals </a>guys did a great job. although i am a bit worried about how you can spoof the message post url in a tinurl and make anyone who clicks on it say whatever you want them to say ;)  but that is naturally a weakness in a webchat.. especially with ajax.
+
+here is the speak url;
+
+/room/44/speak?message=message+here
+
+if someone goes to that while in room 44 they will say "message here"
+
+heh.

@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 880
+layout: post
+title: gmail
+excerpt: "so I got a gmail account. it is pretty dope. a completely different way to use email. it is kinda crazy. I don't like that you cannot import your old mail. and that you don't have folders. but the tagging and such really revolutionizes email. it is pretty nuts. I want to give invites to some friends though. so I guess I am gunna have to wait. stupid google and its fancy way of doing things. "
+date: 2004-06-09 15:15:13 -05:00
+tags: chris, google, holmes, gmail
+wordpress_url: http://new.nata2.org/?p=880
+---
+so I got a gmail account. it is pretty dope. a completely different way to use email. it is kinda crazy. I don't like that you cannot import your old mail. and that you don't have folders. but the tagging and such really revolutionizes email. it is pretty nuts. I want to give invites to some friends though. so I guess I am gunna have to wait. stupid google and its fancy way of doing things. <br/><br/>i wish it could act as a client/mta for nata2. that would rule. if yall want.  send me an email at natatwo at gmail dot com.<br/><br/> k word. <br/><br/>chris really liked <a href="http://helpchrisholmes.org">his site</a>. it is pretty funny. all he did is laugh. haha. it ruled. I will attempt to mp3 his message. it was basically just him laughing and calling me a madman. RULE.

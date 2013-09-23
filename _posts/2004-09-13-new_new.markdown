@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 933
+layout: post
+title: new new
+excerpt: the new isis is very very good. as is the new mastadon and this old man gloom album I am listening too. I like them a lot. forever
+date: 2004-09-13 18:13:26 -05:00
+wordpress_url: http://new.nata2.org/?p=933
+---
+the new isis is very very good. as is the new mastadon and this old man gloom album I am listening too. I like them a lot. forever

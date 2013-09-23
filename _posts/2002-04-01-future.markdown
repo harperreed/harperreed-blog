@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 247
+layout: post
+title: future
+excerpt: "even though I am employed, I still wonder what I want to be when I am grown up. I really don't know. but I do know one thing: when I grow up I really want to be a secret agent. I wonder if they would let me. I tend to lean a certain strange leftist direction. hmm. I also want to goto graduate school. it woudl rule. I also want t..."
+date: 2002-04-01 21:16:49 -06:00
+tags: school
+wordpress_url: http://new.nata2.org/?p=247
+---
+even though I am employed, I still wonder what I want to be when I am grown up. I really don't know. but I do know one thing: when I grow up I really want to be a <a href="http://www.ustreas.gov/usss/opportunities_agent.shtml">secret agent</a>. I wonder if they would let me. I tend to lean a certain strange leftist direction. hmm. I also want to goto graduate school. it woudl rule. I also want to get some certifications.

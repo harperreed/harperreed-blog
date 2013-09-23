@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 179
+layout: post
+title: arrgghhh
+excerpt: "I am frustrated... arggh.. "
+date: 2002-01-14 18:40:24 -06:00
+wordpress_url: http://new.nata2.org/?p=179
+---
+I am frustrated... arggh.. 

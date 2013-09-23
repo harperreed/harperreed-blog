@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 42
+layout: post
+title: dive
+excerpt: Today i went to this great dive of a bar for lunch. It reminded me of all the great bar food i have had throughout my life... I ran into a great problem today at the library... a hundred year old little man has stolen the book i need to start my research, it is funny... he is at the library from 8-3 and i need it from 10-3 hehe so that fucker will soon be tricked.... i will have the book... oh ye...
+date: 2000-03-02 22:52:43 -06:00
+tags: friends, search, food
+wordpress_url: http://new.nata2.org/?p=42
+---
+Today i went to this great dive of a bar for lunch. It reminded me of all the great bar food i have had throughout my life... I ran into a great problem today at the library... a hundred year old little man has stolen the book i need to start my research, it is funny... he is at the library from 8-3 and i need it from 10-3 hehe so that fucker will soon be tricked.... i will have the book... oh yes i will..... hehe

@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 817
+layout: post
+title: oh yea
+excerpt: |-
+  casshern will be an awesome movie. check out the trailer. >my work may send me to india. that would be pretty cool. ahh. I pull so much bandwidth and have such a fast connection. rule.  
+  rsync: wrote 5848268254 bytes  read 2629260 bytes  1479554.31...
+date: 2004-04-12 23:31:49 -05:00
+tags: nerd, php, server, war, fear, mom, india
+wordpress_url: http://new.nata2.org/?p=817
+---
+<a href="http://www.casshern.com/">casshern</a> will be an awesome movie. check out the <a href="http://www.universe.tv/projects/project.c/home.qualify/qualify.trailer.php">trailer</a>. >my work may send me to india. that would be pretty cool. ahh. I pull so much bandwidth and have such a fast connection. rule.  <blockquote><small>
+rsync: wrote 5848268254 bytes  read 2629260 bytes  <b>1479554.31 bytes/sec</b> total size is 7144442879  speedup is 1.22<br/><br/>
+ifconfig: RX bytes:4237122737 (<b>3.9 GiB</b>)  TX bytes:4193643831 (<b>3.9 GiB</b>)</small></blockquote>those stats are from my firewalls external interface (for the last 1.5 days), and from an rsync from one webserver to another. I am happy with the results. hehe. ultra nerd. relaxing the reality. <br/><br/>time for the nap of the night. which is how I maintain no sleep. and how I maintain sanity. <br/><br/>i am really digging the <i>tv on the radio</i> discs I picked up today. I like the vocals a lot. particularly on "poppy" and "staring at the sun." <br/><br/>my fears are not ones that should be worried about. I haven't lost anything. I mean. nothing was taken away from me. I need to remember that. a redefinition is in order. that is very hard. but it isn't impossible. and it isn't impossible to do it in such a way were what was built is destroyed. <br/>my single biggest fear is the awkward moments. the points in time where we are only aware of what once was. not what will be. as funny as awkwardness is. it is this situation that strikes fear in my cold cold heart. I get scared of it so much. I guess I don't want to be reminded of how awesome it was. I want to be reminded of how awesome it is. but I don't want to forget how it was either. that isn't what I mean. I don't want to lead a revisionist past that I see so many people attempting when situations such as these go down. I want to not forget and not remember at the same time. it tears me apart. it makes me leary of communication. leary of contact. but. it makes me crave both just the same. eep. in the long run. I know these feelings will pass. but in regards to now. it is hard to imagine that a time exists without this heavy heart. <br/>
+
+the part of me that wants things now and fast really would like to bypass these hard portions and go straight to the fun parts. <br/>this summer will be the fun parts. <br/>i promise. 

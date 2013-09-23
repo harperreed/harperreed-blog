@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 659
+layout: post
+title: wow
+excerpt: The california fires look really cool from space. This commercial is funny.
+date: 2003-10-27 21:42:25 -06:00
+wordpress_url: http://new.nata2.org/?p=659
+---
+The california fires look really <A href="http://www.osei.noaa.gov/OSEIiod.html">cool</a> from space. <a href="http://www.boardsmag.com/screeningroom/commercials/812/">This</a> commercial is funny.

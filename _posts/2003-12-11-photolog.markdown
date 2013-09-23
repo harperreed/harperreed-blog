@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 695
+layout: post
+title: photolog
+excerpt: So today I went to the dentist. it ruled. I only had one cavity. 3 years of eating candy all day long and I only get one cavity. w00t.my father is doing rather good. he is attempting to get better. slowly but surely. I imagine it is rough. for he has had open heart surgery ;)the photolog is fixed.
+date: 2003-12-11 06:23:56 -06:00
+tags: php
+wordpress_url: http://new.nata2.org/?p=695
+---
+So today I went to the dentist. it ruled. I only had one cavity. 3 years of eating candy all day long and I only get one cavity. w00t.<br/><br/>my father is doing rather good. he is attempting to get better. slowly but surely. I imagine it is rough. for he has had open heart surgery ;)<br/><br/>the <a href="photolog.php">photolog</a> is fixed.

@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 233
+layout: post
+title: hehe.
+excerpt: "evil706 (12:11:28 AM): don't worry harper \"Every thang's going to be all white\" heh"
+date: 2002-03-19 06:08:36 -06:00
+tags: harper
+wordpress_url: http://new.nata2.org/?p=233
+---
+<b>evil706</b> (12:11:28 AM): don't worry harper "Every thang's going to be all white" heh

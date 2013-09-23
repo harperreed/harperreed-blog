@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 980
+layout: post
+title: sleepy
+excerpt: "worked all day ~ 9:30 - 12. and then went clubbing at green dolphin. sometimes life rules. "
+date: 2005-01-18 04:05:06 -06:00
+tags: clubbing
+wordpress_url: http://new.nata2.org/?p=980
+---
+worked all day ~ 9:30 - 12. and then went clubbing at green dolphin. sometimes life rules. 

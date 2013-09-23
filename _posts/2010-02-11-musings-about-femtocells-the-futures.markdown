@@ -2,7 +2,7 @@
 wordpress_id: 1669
 layout: post
 title: "Musings about femtocells: the futures!"
-date: 2010-02-11
+date: 2010-02-11 01:44:15 -06:00
 tags: general, phones, mobile, femtocell, developing-nations
 wordpress_url: http://www.nata2.org/?p=1669
 ---

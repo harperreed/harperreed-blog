@@ -1,0 +1,11 @@
+--- 
+wordpress_id: 628
+layout: post
+title: Privacy.
+excerpt: "This is absolutely insane. especially since I am in there for traffic violations. crazy. Awesome.i am so hot. and I feel weird. but tomorrow I am going to the doctor. excited. well sorta. sorta scared. I am scared of doctors. and my doctor is really far away. \r\n "
+date: 2003-09-24 21:39:15 -05:00
+tags: insane
+wordpress_url: http://new.nata2.org/?p=628
+---
+<a href="http://www.iowacourts.state.ia.us/ESAWebApp/SelectFrame">This</a> is absolutely insane. especially since I am in there for traffic violations. crazy. Awesome.<br/><br/>i am so hot. and I feel weird. but tomorrow I am going to the doctor. excited. well sorta. sorta scared. I am scared of doctors. and my doctor is really far away. 
+ 

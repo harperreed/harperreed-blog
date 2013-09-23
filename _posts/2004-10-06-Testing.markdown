@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 946
+layout: post
+title: Testing
+excerpt: i have no idea whats going on. none I apparently broke my blog software and it isn't allowing me to post. of this makes any sense. maybe its time.ok I figured it out. basically the new php.ini was all "secure" and such and removed the magic quotes. so my app - which submitted my entries to a db needed to cleansed with the addslashes() function. w00t. my applications from 2001 are faili...
+date: 2004-10-06 12:34:32 -05:00
+tags: php, war, applications
+wordpress_url: http://new.nata2.org/?p=946
+---
+i have no idea whats going on. none I apparently broke my blog software and it isn't allowing me to post. of this makes any sense. maybe its time.<br/><br/>ok I figured it out. basically the new php.ini was all "secure" and such and removed the magic quotes. so my app - which submitted my entries to a db needed to cleansed with the addslashes() function. w00t. my applications from 2001 are failing. doh. 

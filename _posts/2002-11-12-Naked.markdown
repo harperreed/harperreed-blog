@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 398
+layout: post
+title: Naked
+excerpt: "this is a great web site talking about nudity - made by these people. Oh, btw - Jello Biafra rules. "
+date: 2002-11-12 21:24:08 -06:00
+wordpress_url: http://new.nata2.org/?p=398
+---
+<a href="http://120seconds.com/features/011207_naked/011207_naked.html">this is a</a> great web site talking about nudity - made by <a href="http://120seconds.com/index.cfm">these people</a>. Oh, btw - <a href="http://120seconds.com/features/020419_biafra/feature/index.html">Jello Biafra</a> rules. 

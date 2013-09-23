@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 569
+layout: post
+title: ahh..
+excerpt: now that matiss is on friendster.. it is insane. hehe. fun fun.marcia's bday was yesterday. it was fun. we went and got a LOT of sushi. nice nice. I like her a lot. good friends RULE. hehe. stupid friends.check this out.. tommie is in the village voice.. heh. nice. work
+date: 2003-07-17 06:29:29 -05:00
+tags: php, insane, matiss, friendster, sushi
+wordpress_url: http://new.nata2.org/?p=569
+---
+now that matiss is on friendster.. it is insane. hehe. fun fun.<br/><br/>marcia's bday was yesterday. it was fun. we went and got a LOT of sushi. nice nice. I like her a lot. good friends RULE. hehe. stupid friends.<br/><br/>check this out.. tommie is in the <a href="http://www.villagevoice.com/issues/0329/flylife.php">village voice</a>.. heh. nice. work

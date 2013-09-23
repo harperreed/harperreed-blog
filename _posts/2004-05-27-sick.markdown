@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 871
+layout: post
+title: sick
+excerpt: i am sick. I stayed home today. the first time in quite awhile. I just was tired of waking up and feeling like hell. so I decided that rather than prolong the my cold I woudl just stay home. and sleep. I didn't mean to sleep. but I slept. until 2. haha. rule. i just ate lunch. food rules.
+date: 2004-05-27 09:11:56 -05:00
+tags: sick, food
+wordpress_url: http://new.nata2.org/?p=871
+---
+i am sick. I stayed home today. the first time in quite awhile. I just was tired of waking up and feeling like hell. so I decided that rather than prolong the my cold I woudl just stay home. and sleep. I didn't mean to sleep. but I slept. until 2. haha. rule. <br/><br/>i just ate lunch. food rules.

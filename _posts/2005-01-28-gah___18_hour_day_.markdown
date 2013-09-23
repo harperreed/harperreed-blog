@@ -1,0 +1,16 @@
+--- 
+wordpress_id: 985
+layout: post
+title: gah.. 18 hour day.
+excerpt: "man. I am sooo sleepy. so so so tired. I just worked from 9:45am until around 3:30am. none stop. that is closer to 24hrs than I am happy about. in other news. the site is almost done. w00t. \r\n\
+  my new design is gunna be cool. I think I amgoing to use a bunch of javascript ot make it super fancy. like xmlhttp and such. wheeee ;)\r\n\
+  \r\n\
+  *sleep* "
+date: 2005-01-28 05:41:37 -06:00
+tags: design
+wordpress_url: http://new.nata2.org/?p=985
+---
+man. I am sooo sleepy. so so so tired. I just worked from 9:45am until around 3:30am. none stop. that is closer to 24hrs than I am happy about. in other news. the site is almost done. w00t. 
+<br/><br/>my new design is gunna be cool. I think I amgoing to use a bunch of javascript ot make it super fancy. like xmlhttp and such. wheeee ;)
+
+<br/><br/>*sleep* 

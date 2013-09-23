@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 234
+layout: post
+title: Mr. roboto
+excerpt: "I really want a robot. I always have. I would love to have one of the AIBOs, or any number of iterations. I think, however I really want one of the new sony 'bots. they seem to be real cool and "
+date: 2002-03-19 16:59:14 -06:00
+tags: video
+wordpress_url: http://new.nata2.org/?p=234
+---
+I really want a robot. I always have. I would love to have one of the AIBOs, or any number of iterations. I think, however I really want one of the new sony 'bots. <a href="http://www.tagesschau.de/styles/container/video/style_video_real_smil_cover/0,2162,646512,00.ram">they</a> seem to be <a href="http://www.smartmoney.com/bn/ON/index.cfm?story=ON-20020319-000215-0506">real cool</a> and <a href="http://foxnews.com/story/0,2933,48225,00.html">very expensive</a>. but I plan to be wealthy someday... someday.. 

@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 151
+layout: post
+title: home
+excerpt: I am going home from work on my christmas break. Boy, if I only knew what christmas break was like when I "grew up", I wouldn't have petereed away all my breaks when I was in school. I have a whole big 4 days. It is barely enough time to do anything. and to top it all off.. all my friends are disposed of, or away. alas.. I guess I will goto lord of the rings by myself. how sad..
+date: 2001-12-21 22:26:50 -06:00
+tags: reed, school, chris, christmas
+wordpress_url: http://new.nata2.org/?p=151
+---
+I am going home from work on my christmas break. Boy, if I only knew what christmas break was like when I "grew up", I wouldn't have petereed away all my breaks when I was in school. I have a whole big 4 days. It is barely enough time to do anything. and to top it all off.. all my friends are disposed of, or away. alas.. I guess I will goto lord of the rings by myself. how sad..

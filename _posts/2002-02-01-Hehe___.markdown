@@ -1,0 +1,13 @@
+--- 
+wordpress_id: 198
+layout: post
+title: Hehe...
+excerpt: |-
+  So SmartFilter is apparently blocking my site nata2.org. My friend sent me this message:
+  This site (http://www.nata2.org/) is categorized as: 'Crim. Skills' and has been blocked by SmartFilter. Please contact Data Security at xxx-xxx-xxxx if you have a business need to access this site....
+date: 2002-02-01 11:29:16 -06:00
+tags: security, business, terrorism
+wordpress_url: http://new.nata2.org/?p=198
+---
+So <a href="http://www.securecomputing.com/index.cfm?sKey=86#cs">SmartFilter</a> is apparently blocking my site <a href="http://www.nata2.org">nata2.org</a>. My friend sent me this message:<br/>
+<i>This site (http://www.nata2.org/) is categorized as: 'Crim. Skills' and has been blocked by SmartFilter. Please contact Data Security at xxx-xxx-xxxx if you have a business need to access this site.</i><br/><br/>I am such a criminal. If you want to know how to <a href="http://nata2.info/?path=geek/textfiles&text=bong.txt">make a bong</a>, or <a href="http://nata2.info/?path=geek/textfiles&text=homemade_pepper_spray.txt">how to make pepper spray</a>, or <a href="http://nata2.info/?path=geek/textfiles&text=kill_parents.txt">kill your parents</a>, or <a href="http://nata2.info/?path=geek/textfiles&text=mhbomb.txt">how to make a bomb</a>. Obviously if I have all of the information availble on a related web site - I must be a criminal skills site.  I should be scared I suppose. Especially in <a href="http://slashdot.org/article.pl?sid=02/01/31/1820238">this</a> climate. I imagine soon I will be questioned about "terrorism" and how I am involved. Too bad I am not a terrorist. well not really too bad. but I think you understand what I am trying to say.. eeep

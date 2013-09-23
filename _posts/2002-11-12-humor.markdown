@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 397
+layout: post
+title: humor
+excerpt: apparently this is funny. I don't have quicktime so I am unable to check :(. But I am able to check this and it is funny.
+date: 2002-11-12 16:07:34 -06:00
+wordpress_url: http://new.nata2.org/?p=397
+---
+apparently <a href="http://heracles.cuties.org/~phunk/john-switch.mov">this</a> is funny. I don't have quicktime so I am unable to check :(. But I am able to check <a href="http://wecomeinpeace.free.fr/">this</a> and it is funny.

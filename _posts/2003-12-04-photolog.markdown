@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 687
+layout: post
+title: photolog
+excerpt: So my photolog is done for now. basically I can take a picture with my phone and email it to a certain address - which then authenticates the email and posts the picture to my websites photolog. This rules.. ;) check it out here.
+date: 2003-12-04 04:48:44 -06:00
+tags: php, phone, sites, websites
+wordpress_url: http://new.nata2.org/?p=687
+---
+So my photolog is done for now. basically I can take a picture with my phone and email it to a certain address - which then authenticates the email and posts the picture to my websites photolog. This rules.. ;) check it out <a href="photolog.php">here</a>.

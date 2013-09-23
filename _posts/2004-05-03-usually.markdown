@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 839
+layout: post
+title: usually
+excerpt: "i have nothing good to say. but I just type away. "
+date: 2004-05-03 15:21:49 -05:00
+wordpress_url: http://new.nata2.org/?p=839
+---
+i have nothing good to say. but I just type away. 

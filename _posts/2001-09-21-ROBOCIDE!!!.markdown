@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 108
+layout: post
+title: ROBOCIDE!!!
+excerpt: Hey yall . I want everyone i know to go and download robo code and build a java robot and we shall figth. It rules, you use real java to write a simple robot)much like NQC mindstorms programming), and you then put the robot in an arena with other robots and you fight each other It rules. It is real real cool. You gotta check it out. It is called RoboCode and ...
+date: 2001-09-21 01:24:57 -05:00
+tags: programming, robots
+wordpress_url: http://new.nata2.org/?p=108
+---
+Hey yall . I want everyone i know to go and download robo code and build a java robot and we shall figth. It rules, you use real java to write a simple robot)much like NQC mindstorms programming), and you then put the robot in an arena with other robots and you fight each other It rules. It is real real cool. You gotta check it out. It is called <a href="http://www.robocode.net">RoboCode</a> and it is built by IBM. CHeck it out. Learn Java. Fight with your friends.

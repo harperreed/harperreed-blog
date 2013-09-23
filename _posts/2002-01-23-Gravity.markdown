@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 187
+layout: post
+title: Gravity
+excerpt: Once again, gravity is really having its way with me. It has tripped me and flung me about for the last time. I vow to stand up to gravity and not let it boss me around. I don't care if it is bigger than me. It is not fair that it has to oppress me so. I mean.. wtf.. So about 8 months ago I embedded "For Great Justice" into my IE titlebar via a quick registry hack.  This wouldn't be s...
+date: 2002-01-23 14:52:29 -06:00
+tags: nerd
+wordpress_url: http://new.nata2.org/?p=187
+---
+Once again, gravity is really having its way with me. It has tripped me and flung me about for the last time. I vow to stand up to gravity and not let it boss me around. I don't care if it is bigger than me. It is not fair that it has to oppress me so. I mean.. wtf.. <br/><br/>So about 8 months ago I embedded "For Great Justice" into my IE titlebar via a quick registry hack.  This wouldn't be so bad, but it leads me to believe that everyone is really cool. I will browse to some lame site and be like "Whoa.. they are nerds as well - sweet." Only to realize that I dupped myself again. damn.. always being duped.. heh.

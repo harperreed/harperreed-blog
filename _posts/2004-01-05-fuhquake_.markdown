@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 715
+layout: post
+title: fuhquake.
+excerpt: i will have to check this fancy quake port out later.
+date: 2004-01-05 18:49:29 -06:00
+wordpress_url: http://new.nata2.org/?p=715
+---
+i will have to check <a href="http://www.fuhquake.net/">this fancy quake port</a> out later.

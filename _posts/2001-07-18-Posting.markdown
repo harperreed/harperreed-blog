@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 90
+layout: post
+title: Posting
+excerpt: As you can probably notice from the dates, i haven't posted here much. I mostly post on nata2.org. Today i made a movie section, and a book section. Check them out. Also, buy shit from me.
+date: 2001-07-18 18:24:34 -05:00
+tags: sites, books, harper, reed, movies
+wordpress_url: http://new.nata2.org/?p=90
+---
+As you can probably notice from the dates, i haven't posted here much. I mostly post on <a href="http://www.nata2.org">nata2.org</a>. Today i made a <a href="http://www.harperreed.org/movies/">movie</a> section, and a <a href="http://www.harperreed.org/books/">book</a> section. Check them out. Also, buy shit from me.

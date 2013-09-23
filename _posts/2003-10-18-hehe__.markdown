@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 650
+layout: post
+title: hehe..
+excerpt: i accidently deleted a domain. it sucks. whoops. last night was dope. here are pictures. ;)
+date: 2003-10-18 21:15:50 -05:00
+wordpress_url: http://new.nata2.org/?p=650
+---
+i accidently deleted a domain. it sucks. whoops. last night was dope. <a href="http://nata2.info/?path=pictures%2Fevents%2Fpeaches_03">here</a> are pictures. ;)

@@ -1,0 +1,10 @@
+--- 
+wordpress_id: 204
+layout: post
+title: wierd
+excerpt: Hey check this out. I am so mad. I worked for hours to make my web site XHTML compliant and then goddamn links break it always... If anyone knows how to make links like that XHTML compliant.. please let me kno...
+date: 2002-02-06 16:13:37 -06:00
+tags: xhtml
+wordpress_url: http://new.nata2.org/?p=204
+---
+Hey check <a href="http://www.colorgenics.com/intro.html">this</a> out. I am so mad. I worked for hours to make my web site <a href="http://www.w3.org/TR/xhtml1/">XHTML</a> compliant and then goddamn <a href="http://validator.w3.org/check/referer">links</a> break it always... If anyone knows how to make links like that <a href="http://www.w3.org/TR/xhtml1/">XHTML</a> compliant.. please let me know. K

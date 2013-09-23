@@ -1,0 +1,9 @@
+--- 
+wordpress_id: 995
+layout: post
+title: O M G
+excerpt: this is absolutely incredible
+date: 2005-02-16 20:12:12 -06:00
+wordpress_url: http://new.nata2.org/?p=995
+---
+<a href="http://www.ip-relay.com/myiprelay.htm">this</a> is absolutely incredible

@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 570
+layout: post
+title: bloggers
+excerpt: "heh. \r\n\
+  linking to this via a blog is killing its author.. while making the authors point valid.. it also invalidates it a tiny bit as well. "
+date: 2003-07-21 03:06:07 -05:00
+tags: internet, author
+wordpress_url: http://new.nata2.org/?p=570
+---
+heh. <br/>
+linking to <a href="http://www.internetisshit.org/">this</a> via a blog is killing its author.. while making the authors point valid.. it also invalidates it a tiny bit as well. 
