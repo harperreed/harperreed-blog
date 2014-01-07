@@ -2,10 +2,17 @@
 layout: default
 ---
 <div class="entry" style="padding-bottom: 50px;">
-  <h2 class="title">Recent post</h2>
+  <h2 class="title">My most recent post</h2>
+  <div class="content">
+  {% for post in site.posts  limit: 1%}
+         <h3><a href="{{ post.url }}">{{ post.title }}</a> <small>posted on {{ post.date | date: "%b %d, %Y"  }}</small></h3>
+     {% endfor %} 
+  </div>
+
+  <h2 class="title">Recent posts</h2>
   <div class="content">
     <dl class="dl-horizontal">
-    {% for post in site.posts%}
+    {% for post in site.posts offset: 1%}
         <dt>{{ post.date | date: "%b %d, %Y"  }}</dt> 
         <dd>&mdash; <a href="{{ post.url }}">{{ post.title }}</a></dd>
     {% endfor %}
