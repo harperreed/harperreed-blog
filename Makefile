@@ -1,4 +1,4 @@
 build: 
 	jekyll build
 deploy : 
-	./deploy.sh
+	./_deploy.sh
