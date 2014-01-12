@@ -11,11 +11,9 @@
     <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-    <link href="{{ site.media_server }}/css/bootstrap.min.css?{{ site.media_version }}" rel="stylesheet">
-    <link href="{{ site.media_server }}/css/styles.css?{{ site.media_version }}" rel="stylesheet">
-    
-    <link href="{{ site.media_server }}/css/bootstrap-responsive.css?7" rel="stylesheet">
-    
+    <slink href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="//netdna.bootstrapcdn.com/bootswatch/3.0.3/journal/bootstrap.min.css" rel="stylesheet" />
+    <link href="/css/styles.css" rel="stylesheet" />
     <META name="verify-v1" content="bxsrf6C7p0+qY6MxNCbSNSGdkeDA8dQSxjTsNJu4Sa0=" />
     <link rel="openid.server" href="http://www.myopenid.com/server" />
     <meta name="myid" content="0eda4814-55e0-4756-bf30-0f1bf5a4b469" />
@@ -26,17 +24,17 @@
   <body>
     <div class="container">
       <div class="row">
-        <div class="offset2 span8 header">{% include header.html %}</div>
+        <div class="col-md-offset-2 col-md-8 header">{% include header.html %}</div>
       </div>
-      <hr class="offset2 span8" /> 
-      <div class="row">
-        <div class="offset2 span8 muted well-small well"> {% include bio.html %}</div>
-      </div>
-      <div class="row">
-        <div class="offset2 span8 ">{{ content }}</div>
+      <hr class="col-md-offset-2 col-md-8" />
+      <div class="row hidden-sm hidden-xs">
+        <div class="col-md-offset-2 col-md-8 muted well-small well"> {% include bio.html %}</div>
       </div>
       <div class="row">
-        <div class="offset2 span8 ">{% include footer.html %}</div>
+        <div class="col-md-offset-2 col-md-8 ">{{ content }}</div>
+      </div>
+      <div class="row">
+        <div class="col-md-offset-2 col-md-8 ">{% include footer.html %}</div>
       </div>
     </div> <!-- /container -->
   {% include javascript.html %}
