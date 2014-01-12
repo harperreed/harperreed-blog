@@ -18,7 +18,8 @@ relative_permalinks: true
 # Site configuration
 #
 url:          http://www.nata2.org
-title:        "Harper Reed: Technology and death metal"
+title:        "Harper Reed"
+subtitle:        "Technology and death metal"
 description:  "Hacking, Baphomet and the real time internet"
 author:       Harper Reed # atom.xml: Name of website's author
 email:        harper@nata2.org # atom.xml: Author email
