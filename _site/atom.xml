@@ -4,7 +4,7 @@
  <title>Harper Reed: Technology and death metal</title>
  <link href="http://www.nata2.org/atom.xml" rel="self"/>
  <link href="http://www.nata2.org"/>
- <updated>2014-01-07T15:20:13-06:00</updated>
+ <updated>2014-01-11T23:58:55-06:00</updated>
  <id>http://www.nata2.org</id>
 
  
@@ -14,6 +14,46 @@
  </author>
  
  
+ 
+ <entry>
+   <title>Authors I recommend</title>
+   <link href="http://www.nata2.org/2014/01/11/authors/"/>
+   <updated>2014-01-11T00:00:00-06:00</updated>
+   <id>http://www.nata2.org/2014/01/11/authors</id>
+   <content type="html">&lt;p&gt;I read a lot. I am also vocal about what I am reading. This morning I was asked to recommend a few authors/books. I decided to write down the authors I recommend the most.&lt;/p&gt;
+
+&lt;p&gt;In no order (other than alphabetical by first name. lol):&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Alastair_Reynolds&quot;&gt;Alastair Reynolds&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Charles_Stross&quot;&gt;Charles Stross&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/China_meiville&quot;&gt;China meiville&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Dan_Simmons&quot;&gt;Dan Simmons&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Daniel_Suarez&quot;&gt;Daniel Suarez&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Elizabeth_Moon&quot;&gt;Elizabeth Moon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Haruki_Murakami&quot;&gt;Haruki Murakami&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/John_Scalzi&quot;&gt;John Scalzi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Iain_M_Banks&quot;&gt;Iain Banks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Lauren_Beukes&quot;&gt;Lauren Beukes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Paolo_Bacigalupi&quot;&gt;Paolo Bacigalupi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Philip_K._Dick&quot;&gt;Philip K. Dick&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Ramez_Naam&quot;&gt;Ramez Naam&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Robin_Hobb&quot;&gt;Robin Hobb&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Steven_Brust&quot;&gt;Steven Brust&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Vernor_Vinge&quot;&gt;Vernor Vinge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/w/index.php?search=William+Hertling&quot;&gt;William Hertling&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Read these authors. Enjoy them. Have fun.&lt;/p&gt;
+
+&lt;p&gt;I also have a &lt;a href=&quot;https://harperreed.com/books/authors/&quot;&gt;constantly updated list&lt;/a&gt; of all of the authors I have read.&lt;/p&gt;
+
+&lt;p&gt;If you are looking for something else, I would suggest this &lt;a href=&quot;https://docs.google.com/a/nata2.org/spreadsheet/ccc?key=0AjuRpKKTHJltdEp2WDJSN0hmYWlaeXRSOFRzbWk1T1E&amp;amp;usp=sharing#gid=0&quot;&gt;list of books&lt;/a&gt; that &lt;a href=&quot;http://www.dylanreed.com/2013/12/30/book-em-dylo/&quot;&gt;my brother crowdsourced on twitter&lt;/a&gt;. It is quite good.&lt;/p&gt;
+
+&lt;p&gt;Read more books.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>2013 was awesome</title>
@@ -763,35 +803,6 @@ I am excited to be a part of Venture Hacks helping them find amazing startups fo
 &lt;p&gt;My mind started to work into overtime.  I began thinking about the ramifications of hacking the magicJack. Wouldn&#39;t it be neat to use femtocell technology to distribute ad hoc mobile carriers around a neighborhood/disaster area/rural/developing country?  You could hook the magicJack femtocell up to a &lt;a href=&quot;http://en.wikipedia.org/wiki/FON#Fonera_2.0n&quot;&gt;Fon2 device (usb/linux/broadband)&lt;/a&gt; and distribute them around in places with connectivity. All you would need is a better antenna and some software to manage the provisioning and device identification. BAM! Instant pirate P2P GSM carrier.&lt;/p&gt;
 
 &lt;p&gt;I am hoping that this type of convergence will lead us &lt;a href=&quot;http://www.imdb.com/title/tt0088763/&quot;&gt;to the future&lt;/a&gt;.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>I love phones designed for developing countries. </title>
-   <link href="http://www.nata2.org/2010/01/18/i-love-phones-designed-for-developing-countries/"/>
-   <updated>2010-01-18T01:49:55Z</updated>
-   <id>http://www.nata2.org/2010/01/18/i-love-phones-designed-for-developing-countries</id>
-   <content type="html">&lt;p&gt;&lt;a title=&quot;Nokia 1100 and Motorola F3 by nata2, on Flickr&quot; href=&quot;http://www.flickr.com/photos/natatwo/4283555038/&quot;&gt;&lt;img src=&quot;http://farm5.static.flickr.com/4039/4283555038_a798542c5f_m.jpg&quot; alt=&quot;Nokia 1100 and Motorola F3&quot; width=&quot;240&quot; height=&quot;218&quot; align=&quot;right&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;I love mobile phones. I don&#39;t know why - but mobile devices represent so much of what I love about technology. The ubiquity, the fascination, all the new technology that pops up and all the different way people use their devices. I also feel like mobile devices will be the future of whatever the internet turns out to be. They will power the internet. With all this in mind - I have started to become interested in the devices that fill the opposite niche. The devices that are SO simple that their are almost NO features.&lt;/p&gt;
-
-&lt;p&gt;These are not Razrs, or other shitty mobile devices which act like they have all sorts of amazing features.  These specific phones are single feature, cheap devices and are often deployed in developing countries.&lt;/p&gt;
-
-&lt;p&gt;There are two that I really enjoy and I suggest checking out.&lt;/p&gt;
-
-&lt;p&gt;The first is the &lt;a href=&quot;http://en.wikipedia.org/wiki/Nokia_1100&quot;&gt;Nokia 1100&lt;/a&gt;. Also known as my favorite phone in the world. I first saw this phone while working for &lt;a href=&quot;http://www.flickr.com/photos/natatwo/sets/72057594078282161/&quot;&gt;a minute in Bangalore&lt;/a&gt;. It was advertised as a phone &quot;&lt;a href=&quot;http://knowledge.wharton.upenn.edu/india/article.cfm?articleid=4358&quot;&gt;made for india&lt;/a&gt;&quot; and apparently was hardy enough to be used by the working class there. I was drawn to the device. I neeeeeded it. It&#39;s weird, because at the time I was running a symbian device that supported about every possible feature available in mobile - so thinking about jumping to a mobile device that was pretty much featureless was crazy. But - I was compelled.&lt;/p&gt;
-
-&lt;p&gt;The phone isn&#39;t that fancy. It has very few features. It is super tiny and is super cheap. It is just a basic, simple phone that does nothing more than look &quot;Nokia&quot; and probably makes calls. The features it has are incredibly handy: flashlight, alarm clock and sms messaging.&lt;/p&gt;
-
-&lt;p&gt;I didn&#39;t realize it then, but the Nokia 1100 is possibly the most popular electronic device in the world. According to the infallible wikipedia: Nokia has sold ~200 million of the Nokia 1100s since it&#39;s launch in 2003. To put it in perspective - there have been ~30MM iPhones sold and ~50MM Razrs sold.&lt;/p&gt;
-
-&lt;p&gt;I eventually got a couple of these and used them as lenders, experiments and generaly fucking around phones. I even sent one to my brother for him to use - which he eventually washed in a washing machine - it still boots. They are HARDY. and 20 bucks.&lt;/p&gt;
-
-&lt;p&gt;The second phone that I am interested in is a bit newer and is  a bit more tech. The &lt;a href=&quot;http://en.wikipedia.org/wiki/Motorola_FONE_F3&quot;&gt;Motorola F3&lt;/a&gt;. My buddy &lt;a href=&quot;http://thinkmoreinc.wordpress.com/2009/03/19/50-2/&quot;&gt;Hemmant showed it to me&lt;/a&gt;, told me a bit about the history and I couldn&#39;t stop thinking about it. Anecdotally, this phone was made by a Motorola team in india - again for use in the developing countries market. It is simple, has no features (even less than the 1100) and is JUST a phone. There is one major differentiator. The Motorola f3 is one of the only phones to have an e-ink display. This means that it uses very little power in standby (standby time of ~17 days), can be used in low light/no light situations and is rather resilient. The phone didn&#39;t sell as many as the Nokia 1100 - in fact it was a veritable failure.&lt;/p&gt;
-
-&lt;p&gt;The F3 has no features. It barely send txt messages. It has voice prompts for all menus. It is just a phone. A user serviceable, easy to charge, thin, e-ink phone. It works well making calls and receiving txt messages. The F3 would be an amazing phone for a child, elderly person or someone who doesn&#39;t want to deal with learning pesky features. I got one for my &quot;go bag&quot; as an emergency phone (I am not a survivalist, I just crush a lot).&lt;/p&gt;
-
-&lt;p&gt;You can find an unlocked &lt;a href=&quot;http://www.amazon.com/gp/product/B0013A7KMW?ie=UTF8&amp;amp;tag=nata2productions&amp;amp;linkCode=as2&amp;amp;camp=1789&amp;amp;creative=390957&amp;amp;creativeASIN=B0013A7KMW&quot;&gt;Motorola f3 for about 30 bucks on amazon&lt;/a&gt;. I suggest you get one.&lt;/p&gt;
 </content>
  </entry>
  
