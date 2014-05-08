@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/harper
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://nata2.org
+  * I am harper (https://keybase.io/harper) on keybase.
+  * I have a public key with fingerprint 2C65 36AA AD81 F4A1 7FDE  C73C 3F9E BC67 5788 BEE6
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "2c6536aaad81f4a17fdec73c3f9ebc675788bee6",
+            "host": "keybase.io",
+            "key_id": "3F9EBC675788BEE6",
+            "uid": "e949ea112d1cb18ce1bed1d89ab68700",
+            "username": "harper"
+        },
+        "service": {
+            "hostname": "nata2.org",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1396115941,
+    "expire_in": 157680000,
+    "prev": "a7e54021cb89fcb911a618e20bf5d25dc5cbb31cafa14ed6678a75ca1617ddfd",
+    "seqno": 23,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0.18 (Darwin)
+Comment: GPGTools - http://gpgtools.org
+
+owE1kVtIFFEYx3e9bFmJZmBr6YNj0EOL7pnduW3iktv6kCGhRhbVdmbmzDpedrbZ
+cfMaiKQVhpskpg9llEh5KXzR3IwikEgtQrKHXbugudDFKB8yus6YnZfD+b7f//99
+f04gPloXpbdfuec+dPb+on7ywRKrK6Li3tVhrMTXYLY6rBytXoLocSPZK4seBbNh
+OEcSFhJCyNNAsEJACTziKAtnERjEciRFUDTNIkRiJqxU8mkK1YaFPpQpSmpNfbhE
+Xq1a8hhnruMfn+t0anzVagMxVgZBAHAecCygOQRYxAOeZiBL0pTZrIE+JHtgJVLp
+Uih7kYw1mDC15hc5pG2sDV7re6AC8UxJdqsyrywpEidVaDJF8fpsmkyp8WrcKcS6
+1hxcrOjh1cyqwo9knyh5MBtQSU4RNUtgYUgACMYKTBiq9ooycokaQVAkbVaPNgf5
+VUtIIcJqxtUUNCNwLAMAJAGNcDMrEDxO8BzBsawFcFCAwIp4kqRoSBEcBCSgeF7g
+MS3TSY+E2XCLuid0q54+0a0mqpIR1nBOnxqj00fpDLFR2rfpNsQl/v/M9tl1f5wj
+j7Hh/LI4pagkXHx0ItVIPEt7GMhK6Xu/iH/7/iZp0jDbGJyfbTuYHTzMFz/dtrCc
+ntzy6lrKNJ4RndFcax/s2qWQ4bT9N7xjnf0dPReHXra2PJraszI02hsJ3Kyv9Jew
+G0G2EszbXdF4efn2XN9wb33Tk1A4/ed0Z3G1sSwQMg4+d9zZnP2pq99u2JKyryln
+/Y6pvYuxd5N/R76a9cyX8u7CyJkD54m5jvFL5WlTV0NLtwZOhDZd932Mn9k6n9+e
+kFA4d3zkbfpA8wtTov30RNuvpIWenCNjwe2OD0bL8NBn4XVBX+GPLNBa1ErvPBZe
+qZ2xjUdGHRcMBfXdMX8B
+=HQ3b
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/harper
+
+==================================================================
