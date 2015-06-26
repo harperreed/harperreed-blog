@@ -1,0 +1,7 @@
+---
+layout: nil
+---
+
+
+{% for post in site.posts limit%}
+   {{post.url}}index.html: https://harperreed.com/writing{{post.url}}{% endfor %}
